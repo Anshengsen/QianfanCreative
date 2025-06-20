@@ -1,0 +1,3 @@
+CN：中国山东泰安泰山，泰山，泰山山顶，五岳独尊，日照金山，金色光芒，壮丽，自然风光，远景，广角镜头，高对比度，HDR，对称构图，电影级光照，8K，超高清细节。
+EN：Mount Tai, Tai'an, Shandong, China, Mount Tai, the top of Mount Tai, the most majestic of the Five Mountains, the sun shining on the golden mountain, golden light, magnificent, natural scenery, vista, wide-angle lens, high contrast, HDR, symmetrical composition, cinematic lighting, 8K, ultra-high-definition details. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

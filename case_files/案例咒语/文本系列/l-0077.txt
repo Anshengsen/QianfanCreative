@@ -1,0 +1,3 @@
+CN：蒸汽朋克风格，字母“A”，3D渲染，金属材质，铜和铁锈质感，细节丰富，装饰有螺丝、齿轮等机械部件元素，暗色调，写实风格，高品质，8K分辨率，白色背景，全局光。
+EN：Steampunk style, letter "A", 3D rendering, metal material, copper and rust texture, rich details, decorated with screws, gears and other mechanical parts elements, dark tones, realistic style, high quality, 8K resolution, white background, global light. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

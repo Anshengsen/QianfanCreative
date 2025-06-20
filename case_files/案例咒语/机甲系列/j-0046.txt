@@ -1,0 +1,3 @@
+CN：科幻风格机甲，太空飞船，星球、宇宙背景，星光，冷色调，超写实渲染，高光泽度，8K，光线追踪，体积雾，
+EN：Sci-fi style mecha, spaceship, planet, universe background, starlight, cold colors, hyper-realistic rendering, high gloss, 8K, ray tracing, volumetric fog, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

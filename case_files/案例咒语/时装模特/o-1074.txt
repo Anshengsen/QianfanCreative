@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。一个男性，站立姿势，黑色连帽夹克，拉链闭合，胸前单侧拉链口袋，两侧对称方形贴袋，长袖，袖口收紧，整体风格简约，深灰色背景，柔和光线，细节丰富，质感真实。特写。
+EN：Professional photography, 8K, clothing advertising shoot, no face. A male, standing pose, black hooded jacket, zipper closed, single zipper pocket on chest, symmetrical square patch pockets on both sides, long sleeves, cuffs tightened, overall simple style, dark gray background, soft light, rich details, real texture. Close-up. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

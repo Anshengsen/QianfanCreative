@@ -1,0 +1,3 @@
+CN：中国动画片风格，一对不开心的情侣，在房间内，肖像特写，郁闷的表情，明亮的自然光照明，极简主义，简约，
+EN：Chinese cartoon style, unhappy couple in the room, portrait close up, depressed expression, bright natural light lighting, minimalism, simplicity, --q 1 --s 100 --ar 9:16 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

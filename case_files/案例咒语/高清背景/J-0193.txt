@@ -1,0 +1,3 @@
+CN：星空平面背景，深蓝色背景上的繁星和星系星团星云，发光，最佳品质，超级降噪，丰富的细节，
+EN：Starry sky flat background, stars and galaxy clusters nebulae on dark blue background, luminous, best quality, super noise reduction, rich details, --q 5 --s 250 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

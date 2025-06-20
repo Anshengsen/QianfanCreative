@@ -1,0 +1,3 @@
+CN：空白效果图，一个打开的纸板箱，内部为浅蓝色，外部为棕色，带有一些白色细节，箱内有一张白色卡片，，产品展示，极简主义风格，柔和的灯光，浅灰色背景，干净，整洁，高质量，8K。
+EN：Blank rendering of an open cardboard box with light blue interior and brown exterior with some white details, a white card inside the box, , product display, minimalist style, soft lighting, light grey background, clean, neat, high quality, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

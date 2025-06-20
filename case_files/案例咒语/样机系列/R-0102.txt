@@ -1,0 +1,3 @@
+CN：一个折叠整齐的白色T恤，放在原木色的衣柜抽屉里，旁边是其他衣物，空白效果图，3D渲染，Blender，生活场景，
+EN：A neatly folded white T-shirt is placed in a wooden wardrobe drawer, next to other clothes, blank rendering, 3D rendering, Blender, life scene, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

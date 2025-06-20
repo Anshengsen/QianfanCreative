@@ -1,0 +1,4 @@
+﻿CN：来自现代酒店的大厅，自然主义渲染风格，浅金色和黑色，详细的建筑元素，玛雅渲染，详细，正面透视，
+EN：From the lobby of a modern hotel, naturalistic rendering style, light gold and black, detailed architectural elements, Mayan rendering, detailed, facade perspective, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：树屋，木质结构，悬索桥，森林环绕，黄昏光线，暖色调，室内灯光，高角度，广角镜头，自然景观，童话氛围，细节丰富，高品质，8K，真实感渲染
+EN：Tree house, wooden structure, suspension bridge, forest surround, dusk light, warm colors, interior lighting, high angle, wide angle lens, natural landscape, fairytale atmosphere, rich details, high quality, 8K, photorealistic rendering --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

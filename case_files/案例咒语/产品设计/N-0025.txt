@@ -1,0 +1,5 @@
+
+CN：精华液产品效果图，在清晨的森林里的土壤上拍摄，产品特写镜头，3D渲染，工作室质量，充满生机，露水，最高质量，极致降噪，
+
+EN：Serum product renderings, shot on soil in the forest in the early morning, product close-ups, 3D rendering, studio quality, full of life, dew, highest quality, extreme noise reduction, --q 2 --s 180 --ar 3:4 --v 5.2 --style raw --fast 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：卡通插画风格，一个卡通男人坐在马桶上玩手机，粉色和蓝色色调，极简主义，矢量，最佳品质，白色背景
+EN：Cartoon illustration style, a cartoon man sitting on the toilet and playing with his phone, pink and blue tones, minimalism, vector, best quality, white background --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

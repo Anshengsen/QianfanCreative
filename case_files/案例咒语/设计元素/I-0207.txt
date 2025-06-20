@@ -1,0 +1,3 @@
+CN：一根卡通风格的矢量吸管，垂直，正面，纯黑色背景，居中，独奏，最佳品质，矢量，卡通配色，
+EN：A cartoon style vector straw, vertical, front view, solid black background, centered, solo, best quality, vector, cartoon colors, --q 1 --s 100 --ar 1:1 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

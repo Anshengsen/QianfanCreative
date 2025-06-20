@@ -1,0 +1,3 @@
+CN：吴冠中画的中国龙，可爱，特写，水墨意境，水墨画，抽象的简约线条，插画，绿色和黑色，白色背景，极高品质，大师杰作，
+EN：Wu Guanzhong's Chinese dragon painting, cute, close-up, ink painting, ink painting, abstract simple lines, illustration, green and black, white background, very high quality, master masterpiece, --q 1 --s 100 --ar 3:4 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

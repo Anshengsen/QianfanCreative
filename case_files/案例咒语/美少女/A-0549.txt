@@ -1,0 +1,3 @@
+CN：比阿特丽克斯·波特风格的人物角色插画，长发女孩，大眼睛，唐朝时期头饰，极简风格，白色背景，干净流畅的线条，高光，
+EN：Beatrix Potter style character illustration, long-haired girl, big eyes, Tang Dynasty headdress, minimalist style, white background, clean and smooth lines, highlights, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

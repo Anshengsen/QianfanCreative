@@ -1,0 +1,4 @@
+CN：巨大的数字“6”孤立在黑色背景上，采用Cinema 4d、OC、3D进行渲染，霓虹光，水冷玻璃管道在数字“6”中交错，材质为光滑磨砂金属::2和半透明玻璃::1，等距，详细，最佳品质，迭代x50，
+EN：Huge number "6" isolated on black background, rendered in Cinema 4d, OC, 3D, neon light, water-cooled glass pipes interlaced in the number "6", made of smooth frosted metal ::2 and translucent glass ::1, isometric, detailed, best quality, iteration x50, --q 2 --s 180 --ar 3:4 --v 6.1
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

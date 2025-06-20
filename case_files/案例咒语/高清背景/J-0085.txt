@@ -1,0 +1,4 @@
+﻿CN：用迷人的旋转霓虹灯制作抽象的背景图像，形成复杂而充满活力的图案，
+EN：Create abstract background images with captivating rotating neon signs to create complex and vibrant patterns. --q 1 --s 100 --v 5.2 --ar 16:9
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：矢量风格，宠物医院LOGO，卡通动物元素，爱心和十字架组合，温暖色彩，可爱治愈，高分辨率，白色背景，
+EN：Vector style, pet hospital LOGO, cartoon animal elements, love and cross combination, warm colors, cute healing, high resolution, white background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

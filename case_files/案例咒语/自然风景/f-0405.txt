@@ -1,0 +1,3 @@
+CN：宁静的湖面，倒影清晰，喀斯特山脉，群山环绕，日出或日落，金色光芒，粉色和蓝色天空，云彩，薄雾，树木，森林，岩石，广角镜头，对称构图，自然风光，风景摄影，超高清，8K，细节丰富，色彩鲜艳，光线柔和，虚幻引擎，电影级光照
+EN：Tranquil lake with clear reflections, karst mountains, mountains around, sunrise or sunset, golden light, pink and blue sky, clouds, mist, trees, forest, rocks, wide angle lens, symmetrical composition, nature, landscape photography, UHD, 8K, rich details, vivid colors, soft light, Unreal Engine, cinematic lighting --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

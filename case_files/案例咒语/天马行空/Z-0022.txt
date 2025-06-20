@@ -1,0 +1,4 @@
+﻿CN：粘稠的糖浆状生物发光文字，上面写着“你好，世界，”，3D，赛博朋克光照明，超清，UHD，
+EN：Sticky syrupy bioluminescent text that says "Hello World," in 3D, cyberpunk lighting, ultra-clear, UHD, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

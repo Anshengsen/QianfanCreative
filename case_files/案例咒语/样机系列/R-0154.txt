@@ -1,0 +1,3 @@
+CN：空白效果图，MacBook Air 笔记本电脑，深空灰色，木质桌面，打开状态，屏幕空白，键盘特写，触控板，左上角透视，自然光，产品摄影，高清，8K
+EN：Blank rendering, MacBook Air laptop, space gray, wooden desk, open, blank screen, keyboard close-up, trackpad, top left perspective, natural light, product photography, HD, 8K --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

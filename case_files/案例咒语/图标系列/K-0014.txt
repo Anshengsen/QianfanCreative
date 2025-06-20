@@ -1,0 +1,4 @@
+
+CN：一个卧室3D图标，可爱，卡通，黏土风格，蓝色，漫射材质，极简主义，超现实主义，高质量，高细节，黏土，
+EN：One bedroom 3D icon, cute, cartoon, clay style, blue, diffuse material, minimalism, surrealism, high quality, high detail, clay, --q 5 --s 150 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

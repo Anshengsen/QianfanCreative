@@ -1,0 +1,3 @@
+CN：专业摄影，8K，下半身像特写，站立姿势，女性，黑色长袖上衣，黑色修身长裤，黑色尖头高跟鞋，简约风格，全身，浅色背景，自然光，时尚摄影，中等景别，无配饰，修长身材，裤子略微收脚，鞋子有光泽，整体简洁干练。
+EN：Professional photography, 8K, close-up of lower body, standing pose, female, black long-sleeved top, black slim-fit trousers, black pointed high heels, simple style, full body, light background, natural light, fashion photography, medium shot, no accessories, slender figure, trousers slightly tapered, shoes shiny, overall simple and capable. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：东方美学，古风，美女，武侠，紫丁香与灰白色，女侠，小巧的鼻梁，红润的粉唇，腮红，长发，紫色汉服，超清画质，光影细节丰富，光线追踪，高品质，高清，
+EN：Oriental aesthetics, ancient style, beautiful woman, martial arts, lilac and off-white, heroine, small nose bridge, rosy pink lips, blush, long hair, purple Hanfu, ultra-clear image quality, rich light and shadow details, ray tracing, high quality, high definition, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个女性，服装特写，V，白色短袖衬衫，宽松版型，轻薄材质，有褶皱细节，浅色牛仔裤，站立姿势，身体略微侧向镜头，面部表情自然放松，背景模糊，室内环境，柔和光线。
+EN：Professional photography, 8K, one woman, clothing close-up, V, white short-sleeved shirt, loose fit, thin material, with pleated details, light-colored jeans, standing pose, body slightly sideways to the camera, natural and relaxed facial expression, blurred background, indoor environment, soft light. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

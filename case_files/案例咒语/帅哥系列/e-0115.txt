@@ -1,0 +1,3 @@
+CN：一个穿着汉服的动漫帅哥，发髻和长发，手持长剑劈向镜头，双性，虚幻引擎5风格，中国传统主义，广角，动漫风格，明暗对比，暗角，
+EN：A handsome anime guy in Hanfu, with a bun and long hair, holding a long sword and slashing towards the camera, androgyny, Unreal Engine 5 style, Chinese traditionalism, wide angle, anime style, chiaroscuro, dark corners, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

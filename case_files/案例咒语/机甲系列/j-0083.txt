@@ -1,0 +1,3 @@
+CN：写实，逼真且详细，在战场上，一个满身伤痕的机甲，正在与敌人激烈战斗，爆炸的火光，动态模糊，CG渲染，紧张刺激，8K画质，
+EN：Realistic, lifelike and detailed, on the battlefield, a scarred mecha is fighting fiercely with the enemy, the explosion of fire, motion blur, CG rendering, exciting, 8K quality, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

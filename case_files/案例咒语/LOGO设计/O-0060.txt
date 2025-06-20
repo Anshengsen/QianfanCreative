@@ -1,0 +1,3 @@
+CN：一个有趣且流行的APP标志，这个APP是做短视频的，需要有趣，加入流行的现代元素，干净且流畅的线条，大胆的色彩，白色背景，锐利清晰，超细节，
+EN：An interesting and popular APP logo. This APP is for short videos, so it needs to be interesting, add popular modern elements, clean and smooth lines, bold colors, white background, sharp and clear, super details, --q 5 --s 150 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

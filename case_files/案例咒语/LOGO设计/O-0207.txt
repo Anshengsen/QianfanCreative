@@ -1,0 +1,3 @@
+CN：矢量风格的标志设计，极简线条，扁平化，一只抽象风格的鹰，鹰头朝向左侧，翅膀展开，左侧翅膀为黑色，右侧翅膀为红色，鹰身由黑色线条勾勒，线条流畅，白色背景，居中构图，简洁大气，最佳品质，高分辨率
+EN：Vector style logo design, minimalist lines, flat, an abstract eagle, the eagle's head is facing left, the wings are spread, the left wing is black, the right wing is red, the eagle's body is outlined by black lines, the lines are smooth, the white background, the center composition, simple and atmospheric, the best quality, high resolution --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

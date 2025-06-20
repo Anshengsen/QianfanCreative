@@ -1,0 +1,3 @@
+CN：正在接受培训的团队，矢量风格，UI插图，UX设计，UI设计，白色紫色和黄色，矢量插图风格，平面风格，16K，高清，高质量，高细节，白色背景，
+EN：Team being trained, vector style, UI illustration, UX design, UI design, white purple and yellow, vector illustration style, flat style, 16K, high definition, high quality, high detail, white background, --q 5 --s 150 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

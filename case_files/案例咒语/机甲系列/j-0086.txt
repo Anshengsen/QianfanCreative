@@ -1,0 +1,3 @@
+CN：恐怖的风格，背景是黑暗的森林，深夜，满月，月光，一个破损的机甲，散发着诡异的光芒，金属腐蚀，恐怖氛围，CG渲染，惊悚感，4K，暗角，
+EN：Horror style, with a dark forest in the background, late night, full moon, moonlight, a damaged mecha emitting a strange light, metal corrosion, horror atmosphere, CG rendering, thriller, 4K, dark corners, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

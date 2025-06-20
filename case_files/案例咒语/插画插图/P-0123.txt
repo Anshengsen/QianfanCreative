@@ -1,0 +1,3 @@
+CN：用于网页设计的插图，电脑、键盘、鼠标、图标，2.5D，等距视图，靛蓝色，明暗对比，矢量插图风格，白色背景，
+EN：Illustration for web design, computer, keyboard, mouse, icons, 2.5D, isometric view, indigo, chiaroscuro, vector illustration style, white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：手绘插画，手绘风格，夏至节气主题，在一个巨大的中国翡翠卷轴上方上有一个扇子、山水、瀑布、祥云、白鹭，背景是淡绿色的国风背景，柔和的阴影，超品质，淡绿色的风格，超细节，8K，
+EN：Hand-painted illustration, hand-painted style, summer solstice theme, above a huge Chinese jade scroll with a fan, mountains and rivers, waterfalls, auspicious clouds, egrets, the background is a light green national style background, soft shadows, super quality, light green style, super details, 8K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

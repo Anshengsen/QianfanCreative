@@ -1,0 +1,3 @@
+CN：明亮，简约风格，白色，极简主义，白色墙壁与木地板，木地板上有个薄薄的圆形的商品展台，豪华的窗帘，自然主义渲染，阳光透过窗户照射产生的丁达尔效应，非常温馨，UHD，超清，
+EN：Bright, simple style, white, minimalism, white walls and wooden floor, a thin round product booth on the wooden floor, luxurious curtains, naturalistic rendering, the sun shining through the window creates the Tyndall effect, very warm, UHD, ultra-clear, --q 1 --s 100 --ar 3:4 --v 5.2  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

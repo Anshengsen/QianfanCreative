@@ -1,0 +1,4 @@
+CN：日出，山脉，山谷，蜿蜒公路，秋叶，金色阳光，雾气，远景，广角，自然风光，电影级光照，暖色调，高饱和度，超广角，8K，超高清，最佳质量。
+EN：Sunrise, mountains, valleys, winding roads, autumn leaves, golden sunlight, fog, vistas, wide angle, nature scenery, cinematic lighting, warm tones, high saturation, ultra wide angle, 8K, ultra high definition, best quality. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

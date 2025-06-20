@@ -1,0 +1,13 @@
+
+CN：一只肥嘟嘟的兔子开心的抱着蛋糕，线稿图::2，粗线条，矢量，白色背景，
+
+EN：A chubby rabbit happily hugging the cake, line drawing::2, thick lines, vector, white background, --q 2 --s 180 --ar 3:4 --v 5.2 --style raw --c 0
+
+或者：
+
+CN：儿童插画书设计线稿图，一只肥嘟嘟的兔子抱着蛋糕，线稿图，粗线条，矢量，可爱的，卡通的，白色背景，
+
+EN：Children's illustration book design line drawing, a chubby rabbit holding a cake, line drawing, thick lines, vector, cute, cartoon, white background, --s 180 --ar 3:4 --v 5.2 --style raw --c 0
+
+PS：可能是因为官方训练底层模型的原因，该提示词无法精准控制其为线稿图，但是每次生图会包含线稿图。 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

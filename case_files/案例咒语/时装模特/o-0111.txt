@@ -1,0 +1,3 @@
+CN：一件女士连衣裙，酒红色，印花图案为抽象的几何形状，复古波西米亚风格，轻盈飘逸的面料质感，正视图，平铺于白色背景，高清细节，褶皱自然，光线均匀，8K分辨率，纯白色背景，居中构图。 
+EN：A women's dress, burgundy color, with a print of abstract geometric shapes, retro bohemian style, light and flowing fabric texture, front view, flat on white background, high-definition details, natural folds, even lighting, 8K resolution, pure white background, centered composition. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

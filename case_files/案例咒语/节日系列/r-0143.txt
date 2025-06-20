@@ -1,0 +1,3 @@
+CN：万圣节主体，微缩场景，简约设计，粘土材料，3D粘土世界，卡通风格，色彩鲜艳，夜晚，满月，幽灵，蝙蝠，南瓜灯，农家瓦房小院，
+EN：Halloween theme, miniature scene, simple design, clay material, 3D clay world, cartoon style, bright colors, night, full moon, ghosts, bats, pumpkin lanterns, farmhouse tile house courtyard, --q 2 --s 750 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

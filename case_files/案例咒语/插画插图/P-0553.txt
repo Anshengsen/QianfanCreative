@@ -1,0 +1,3 @@
+CN：动漫插画风格，一个卡通少女在洗衣房，穿着清凉，猫，洗衣机，浴室，粉色和绿色色调，细节丰富，最佳品质，8k，超细腻，透视
+EN：Anime illustration style, a cartoon girl in a laundry room, cool clothes, cat, washing machine, bathroom, pink and green tones, rich details, best quality, 8k, ultra-detailed, perspective --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：航拍视角，德国葡萄酒产区风光，摩泽尔河谷，秋季景色，金黄色葡萄园，梯田式种植，河道蜿蜒，山坡上的城堡，欧式建筑，白色墙体，灰色屋顶，周围环绕着树林，色彩丰富，自然光，高饱和度，广角镜头，鸟瞰图，细节丰富，8K，超高清，真实感。
+EN：Aerial perspective, German wine region scenery, Moselle Valley, autumn scenery, golden vineyards, terraced planting, winding river, castle on the hillside, European-style architecture, white walls, gray roofs, surrounded by woods, rich colors, natural light, high saturation, wide-angle lens, bird's-eye view, rich details, 8K, ultra-high definition, realism --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

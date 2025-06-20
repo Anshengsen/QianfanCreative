@@ -1,0 +1,2 @@
+CN：中国风机车，龙纹装饰，红色和金色为主色调，红色灯光，边缘光，C4D渲染，华丽的风格，4K分辨率，展现中国传统文化元素，车头有龙形雕塑，粘土材料，
+EN：Chinese style motorcycle, dragon decoration, red and gold as main colors, red lighting, edge light, C4D rendering, gorgeous style, 4K resolution, showing traditional Chinese cultural elements, dragon sculpture on the front of the car, clay material, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

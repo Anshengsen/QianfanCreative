@@ -1,0 +1,3 @@
+CN：空白效果图，绿色T恤，平铺展示，简约风格，正面视角，纯色背景，柔和光照，高分辨率，服装摄影，产品展示，细节清晰，无褶皱，色彩鲜艳，时尚感
+EN：Blank rendering of green t-shirt, flat lay, simple style, front view, solid background, soft lighting, high resolution, clothing photography, product display, clear details, no wrinkles, bright colors, fashion sense --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

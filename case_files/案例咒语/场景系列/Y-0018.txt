@@ -1,0 +1,3 @@
+CN：动画风格3d小场景，用于金融财富网站，3D图标，阶梯、金钱树、金币、金叶子，金色和紫色和奶油色，白色背景，干净，现代，等距视图，oc渲染，明亮，柔光，光线追踪，
+EN：Animated style 3d small scene for financial wealth website, 3D icons, stairs, money tree, gold coins, gold leaves, gold and purple and cream, white background, clean, modern, isometric view, oc rendering, bright, soft light, ray tracing, --q 1 --s 150 --ar 1:1 --v 6.0  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

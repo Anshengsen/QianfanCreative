@@ -1,0 +1,3 @@
+CN：远山湖泊风景图，雪山，湖泊，倒影，晴朗，湛蓝的天空，清澈的湖水，对称构图，广角镜头，自然光，明亮，高饱和度色彩，风景摄影，超高清，8K
+EN：Distant mountain lake scenery, snow-capped mountains, lake, reflection, clear, blue sky, clear lake water, symmetrical composition, wide-angle lens, natural light, bright, highly saturated colors, landscape photography, ultra high definition, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

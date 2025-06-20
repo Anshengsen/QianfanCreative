@@ -1,0 +1,3 @@
+CN：机甲角色设定，动漫风格，背景是日式风格的房间，柔和的灯光，突出角色的细节和表情，厚涂渲染，高清，类似武士盔甲，带有装饰性元素，红色和黑色为主色调，充满动感。
+EN：Mecha character setting, anime style, the background is a Japanese-style room, soft lighting, highlighting the details and expressions of the character, thick rendering, high definition, similar to samurai armor, with decorative elements, red and black as the main colors, full of dynamism. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

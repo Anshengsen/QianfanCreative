@@ -1,0 +1,3 @@
+CN：葡萄状建筑，有机建筑风格，未来主义，22世纪，外观由相互连接的球形玻璃单元组成，每个单元发出柔和的紫色光芒，体积渲染，广角镜头，展现建筑与周围环境的融合，8K，超高清。
+EN：Grape-shaped building, organic architectural style, futuristic, 22nd century, the exterior is composed of interconnected spherical glass units, each unit emits a soft purple glow, volume rendering, wide-angle lens, showing the integration of the building with the surrounding environment, 8K, ultra-high definition. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

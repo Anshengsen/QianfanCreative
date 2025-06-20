@@ -1,0 +1,4 @@
+﻿CN：现代风格，都市主题，超高分辨率，少女，黑色的秀发，黑色的眼睛，白皙的皮肤，白色短袖，牛仔裤，宽大的卧室，蓝色的床，几只猫，写实，全景，时尚肖像，时尚插画，
+EN：Modern style, urban theme, super high resolution, girl, black hair, black eyes, fair skin, white short sleeves, jeans, large bedroom, blue bed, several cats, realistic, panoramic, fashion portrait, fashion illustration, --q 1 --s 100 --ar 3:4 --niji 5
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

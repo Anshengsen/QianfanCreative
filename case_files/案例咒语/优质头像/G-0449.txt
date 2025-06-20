@@ -1,0 +1,3 @@
+CN： 洛可可风格，一位美少女，身着华丽的洛可可时期服饰，蕾丝、缎带、蝴蝶结等装饰物繁复精致，妆容优雅，姿态轻盈，背景是洛可可风格的室内场景或花园，整体画面呈现出奢华、浪漫、柔美的气息。
+EN：Rococo style, a beautiful girl, wearing gorgeous Rococo period clothing, with intricate and exquisite decorations such as lace, ribbons, bows, elegant makeup, light posture, and the background is a Rococo style interior scene or garden. The overall picture presents a luxurious, romantic and soft atmosphere. --q 5 --s 100 --ar 1:1 --niji 6--personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：淡彩动漫风格头像，一个女孩，粉色短发，紫色眼睛，表情温柔，脸颊泛红，背景是粉色，整体风格可爱，色彩柔和，线条简洁，具有梦幻感，最佳品质，8K，适合作为社交媒体头像
+EN：Pastel anime style avatar, a girl, short pink hair, purple eyes, gentle expression, blushing cheeks, pink background, overall cute style, soft colors, simple lines, dreamy feeling, best quality, 8K, suitable as a social media avatar --q 1 --s 30 --ar 1:1 --niji 6 --profile hrqrh1e --raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

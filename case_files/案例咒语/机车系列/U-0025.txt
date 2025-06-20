@@ -1,0 +1,2 @@
+CN：摩托车动态效果图，高速行驶，运动模糊效果，光源为车灯和环境光，环境为赛道，写实渲染，车身线条流畅，速度感强烈，4K分辨率，高帧率。
+EN：Motorcycle dynamic rendering, high-speed driving, motion blur effect, light source is headlights and ambient light, the environment is a racetrack, realistic rendering, smooth body lines, strong sense of speed, 4K resolution, high frame rate. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

@@ -1,0 +1,3 @@
+CN：卡通风格，两个女孩，正在玩棋盘游戏，一个女孩棕色头发扎起、戴眼镜、穿白色短袖，另一个女孩黑发、穿白色T恤，两人面对面坐着，桌上放着棋盘、饮料杯和书本，房间内有书架和盆栽，整体色调温馨，粉色、红色和蓝色为主，扁平化插画风格，极简主义，柔和光照，高角度俯视。
+EN：Cartoon style, two girls are playing a board game, one girl has brown hair tied up, wears glasses, and wears a white short-sleeved shirt, the other girl has black hair and wears a white T-shirt, they are sitting face to face, there are a chessboard, drink cups and books on the table, there are bookshelves and potted plants in the room, the overall color tone is warm, mainly pink, red and blue, flat illustration style, minimalism, soft lighting, high angle view. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

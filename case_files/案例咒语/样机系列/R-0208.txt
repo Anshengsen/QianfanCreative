@@ -1,0 +1,3 @@
+CN：空白效果图，八边形纸盒，翻盖设计，锁底结构，棕色卡纸材质，3D模型展示，，简约背景，产品设计，包装设计，细节丰富，高精度渲染。
+EN：Blank rendering, octagonal paper box, flip cover design, lock bottom structure, brown cardboard material, 3D model display, simple background, product design, packaging design, rich details, high-precision rendering. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

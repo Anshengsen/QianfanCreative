@@ -1,0 +1,3 @@
+CN：产品摄影，香水广告，黑色香水瓶，瓶身印有金色文字，金色喷头，背景是沙滩、石头和植物，光线明亮，突出产品的颜色和质感，细节丰富，焦点清晰，电影级质感，8K，超高分辨率，阳光感，
+EN：Product photography, perfume advertising, black perfume bottle with gold text on the bottle, gold spray nozzle, beach, stones and plants in the background, bright light, highlighting the color and texture of the product, rich details, sharp focus, cinematic quality, 8K, ultra-high resolution, sunlight, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

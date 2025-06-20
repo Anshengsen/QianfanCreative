@@ -1,0 +1,3 @@
+CN：赛博朋克风格，未来，金属质感家具，霓虹灯招牌，虚拟现实设备，蓝色，紫色，粉色，科技感构图，CG风格，8K，超高清，未来科技感，第三人称视角，POV，
+EN：Cyberpunk style, future, metal furniture, neon signs, virtual reality equipment, blue, purple, pink, technological composition, CG style, 8K, ultra high definition, future technology, third person perspective, POV, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

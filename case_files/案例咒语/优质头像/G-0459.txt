@@ -1,0 +1,3 @@
+N：东方主义风格水彩画，古老的丝绸之路驿站，夕阳西下，一位穿着异域风格服装的美少女，眼神深邃，望着远方落日的余晖，细致的水彩笔触，色彩柔和，充满异域风情的背景元素，细致的服装纹理和装饰，东方神秘的氛围，
+EN：Orientalist style watercolor painting, an ancient Silk Road post, the setting sun, a beautiful girl in exotic clothes, deep eyes, looking at the afterglow of the setting sun in the distance, delicate watercolor brushstrokes, soft colors, exotic background elements, delicate clothing textures and decorations, and a mysterious oriental atmosphere. --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

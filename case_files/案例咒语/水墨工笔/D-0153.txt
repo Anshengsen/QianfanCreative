@@ -1,0 +1,3 @@
+CN：中国传统山水画风格，青绿山水，工笔画，群山，云雾缭绕，瀑布，飞流直下，古建筑，亭台楼阁，红色围栏，石桥，古树，对称构图，米白色背景，水墨渲染，细节丰富，最佳品质，8K，超高清。
+EN：Traditional Chinese landscape painting style, green mountains and waters, meticulous painting, mountains, mist, waterfalls, ancient buildings, pavilions, red fences, stone bridges, old trees, symmetrical composition, off-white background, ink rendering, rich details, best quality, 8K, ultra high definition. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

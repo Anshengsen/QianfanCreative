@@ -1,0 +1,3 @@
+CN：水彩风格，一个咖啡馆的LOGO，手绘，咖啡豆和咖啡杯元素，采用温暖的棕色和米色色调，粗糙的笔触，复古怀旧风格，高分辨率，白色背景，居中，
+EN：Watercolor style, a coffee shop logo, hand-painted, coffee beans and coffee cup elements, in warm brown and beige tones, rough brushstrokes, retro nostalgic style, high resolution, white background, centered, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：人像写真，穿着红色唐装的美少女，五官精致，站在草地上，柔和的阳光，淡淡的烟雾，超高清，专业摄影，古风，打伞，金光，日光照明，明亮，
+EN：Portrait photo, a beautiful girl in a red Tang suit, with delicate features, standing on the grass, soft sunlight, light smoke, ultra-high definition, professional photography, ancient style, holding an umbrella, golden light, daylight lighting, bright, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

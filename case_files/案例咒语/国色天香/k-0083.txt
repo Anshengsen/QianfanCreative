@@ -1,0 +1,3 @@
+CN：2.5D角色设计，一个优雅且美丽的中国古代美女，穿着橙色旗袍，戴着华丽的翡翠耳坠，微笑，温文尔雅，正面，服装的图案受敦煌壁画启发，光滑细腻的面部，清晰的发丝，瓷娃娃一样的皮肤质感，光滑透亮逼真的肌肤，
+EN：2.5D character design, an elegant and beautiful ancient Chinese beauty, wearing an orange cheongsam, wearing gorgeous jade earrings, smiling, gentle, front view, the pattern of the clothing is inspired by the Dunhuang murals, smooth and delicate face, clear hair, porcelain doll-like skin texture, smooth, translucent and realistic skin, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：躺着的黑猫，做出匍匐的动作，摇尾巴，卡通风格，白色背景，简单，最佳品质，
+EN：Lying black cat, making crawling movements, wagging tail, cartoon style, white background, simple, best quality, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

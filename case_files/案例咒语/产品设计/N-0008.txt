@@ -1,0 +1,6 @@
+CN：赛博朋克，玻璃瓶，鸡尾酒，彩色，焦散，水珠，简单背景，黑色高反射背景布，发光，最佳质量，最佳画质，电影级照明效果，
+EN：Cyberpunk, glass bottle, cocktail, color, causticity, water droplets, simple background, black highly reflective background cloth, luminescence, best quality, best picture quality, movie-level lighting effect, --q 5 --ar 3:4 --s 450 --v 5.2 --style raw
+
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

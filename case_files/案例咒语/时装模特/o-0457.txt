@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一位中老年女性，正面，站立姿势，自然放松，亚洲人，短发，棕色，蓬松，略微内扣，面带微笑，眼神柔和，略微抬头，穿着深酒红色羽绒服，带有连帽设计，衣身有浅色刺绣图案，袖口有灰色拼接，背景模糊，室内环境，自然光。
+EN：Professional photography, 8K, a middle-aged or elderly woman, front view, standing pose, naturally relaxed, Asian, short hair, brown, fluffy, slightly inward-turned, smiling, soft eyes, slightly looking up, wearing a dark burgundy down jacket with a hooded design, light-colored embroidery on the body, gray stitching on the cuffs, blurred background, indoor environment, natural light. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

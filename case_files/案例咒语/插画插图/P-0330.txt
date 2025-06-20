@@ -1,0 +1,3 @@
+CN：中国现代插画师风格，红色两层阁楼建筑的插图，纯白背景，朱砂红色和橙色，居中构图，最佳品质，
+EN：Illustration of a red two-story loft building in the style of a modern Chinese illustrator, pure white background with vermilion red and orange colors, centered composition, best quality, --q 1 --s 250 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

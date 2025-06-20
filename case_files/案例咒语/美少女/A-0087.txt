@@ -1,0 +1,3 @@
+CN：一个中国美少女，穿着白色汉服，黑发，盘发，肖像特写，面对镜头，正面视图，2.5D，动感模糊，景深，在充满科技感的实验室里拍摄，赛博朋克，发光，超未来主义，超现实主义，最高质量，虚幻引擎，油画质感，平滑，
+EN：A beautiful Chinese girl, wearing white Hanfu, black hair, disc hair, portrait close-up, facing the camera, front view, 2.5D, dynamic blur, depth of field, shot in a laboratory full of technology, cyberpunk, luminous, ultra-futurism, surrealism, highest quality, unreal engine, oil painting texture, smooth, --q 5 --s 180 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

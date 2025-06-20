@@ -1,0 +1,3 @@
+CN：扁平化设计，两个开关按钮，上面一个代表白天，里面有太阳和云朵的图案，下面一个代表夜晚，里面有月亮和星星的图案，浅蓝色背景，简约风格，干净的线条，柔和的色彩，矢量图形，最佳品质，8K，
+EN：Flat design, two switch buttons, the upper one for daytime with sun and clouds, the lower one for nighttime with moon and stars, light blue background, minimalist style, clean lines, soft colors, vector graphics, best quality, 8K, --s 50 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,7 @@
+
+CN：一个非常漂亮的亚洲美少女，20岁，精致的五官，精致的妆容，穿着淡绿色汉服，全身，专业摄影师拍摄，最高质量，
+
+EN：A very beautiful Asian girl, 20 years old, exquisite facial features, exquisite makeup, wearing light green Hanfu, full body, shot by professional photographers, the highest quality, --q 2 --s 180 --ar 3:4 --v 5.2 --style raw --c 0
+
+PS：该提示我没有刻意的去再次控制全身，因为我觉得上身特写更好看，这个提示词比较稳定，可以直接使用 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

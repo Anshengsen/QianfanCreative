@@ -1,0 +1,7 @@
+
+CN：一辆小客车行驶在公路上，小客车、枫树，秋天，以大自然为灵感的主题风格，极简主义，自然主义，3D渲染，C4D，OC渲染，远景，侧面视角，
+ EN：A minibus driving on the road, minibus, maple, autumn, nature-inspired theme style, minimalism, naturalism, 3D rendering, C4D, OC rendering, vista, side view, --q 5 --s 250 --ar 3:4 --v 5.2 --style raw
+
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

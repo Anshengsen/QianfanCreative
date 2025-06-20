@@ -1,0 +1,3 @@
+CN：动漫风格，女孩，灰蓝色长发，蓝色眼睛，微红的脸颊，略带忧郁的表情，红色外套，白色内搭，抱枕，坐在沙发上，室内场景，温馨的灯光，木质墙壁，盆栽花卉，侧面视角，柔和的光线，高品质，细节丰富
+EN：Anime style, girl, long gray-blue hair, blue eyes, slightly red cheeks, slightly melancholy expression, red coat, white inner wear, pillow, sitting on the sofa, indoor scene, warm lighting, wooden walls, potted flowers, side view, soft light, high quality, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

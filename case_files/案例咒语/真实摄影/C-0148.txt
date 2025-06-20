@@ -1,0 +1,4 @@
+﻿CN：一个超级可爱的雪人，在冰天雪地中，它人性化的戴上了红色的围巾，可爱，真实摄影，UHD，
+EN：A super cute snowman, in the ice and snow, it humanized wearing a red scarf, cute, real photography, UHD, --q 1 --s 100 --ar 16:9 --v 6.0 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

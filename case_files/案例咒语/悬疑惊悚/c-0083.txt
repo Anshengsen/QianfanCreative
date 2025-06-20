@@ -1,0 +1,3 @@
+CN：动漫风格，暗黑风格，厚涂风格，一个邪恶仰头大笑的女孩，棱角分明的瓜子脸，双马尾辫子，吸血鬼主题，暗黑色的血从眼睛中顺着苍白的脸流下来，锋利的牙齿，高品质，32kuhd，头发有光泽，黑色风格，
+EN：Anime style, dark style, thick coating style, an evil girl who looks up and laughs, angular melon seed face, double ponytail braids, vampire theme, dark blood flowing down the pale face from the eyes, sharp teeth, high quality, 32kuhd, shiny hair, black style, --q 1 --s 100 --ar 3:4 --v 6.0 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

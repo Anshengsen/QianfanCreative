@@ -1,0 +1,4 @@
+﻿CN：在一个黑色的实验舱内，赛博朋克，未来感，3D，最小的舞台设计，超高品质，正面，
+EN：In a black experimental cabin, cyberpunk, futuristic, 3D, minimal stage design, super high quality, front, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

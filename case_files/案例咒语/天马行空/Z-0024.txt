@@ -1,0 +1,4 @@
+﻿CN：一个小人在海浪上乘船，3d，雕塑风格，天蓝色深蓝色，多个圆圈反复叠加，沉重的3D油画笔触摆出波涛汹涌的海面，多层，杰作，彩绘插图，超现实主义，幻想，艺术，最佳品质，32kuhd，油漆材质，
+EN：A small person takes a boat on the waves, 3d, sculptural style, sky blue dark blue, multiple circles are repeatedly stacked, heavy 3D oil painting strokes pose on the rough sea, multiple layers, masterpieces, painted illustrations, surrealism, fantasy, art, best quality, 32kuhd, paint material, --q 1 --s 200 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

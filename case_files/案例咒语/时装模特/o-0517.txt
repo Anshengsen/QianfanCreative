@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个女性，服装特写，无面部。穿着米白色短款外套，翻领，棕色纽扣，插肩袖，下摆有口袋，内搭灰色圆领上衣，下身搭配棕色裤子，整体风格简约，休闲，背景为模糊的灰色墙面，光线柔和，自然，服装材质柔软，有肌理感。
+EN：Professional photography, 8K, a woman, clothing close-up, no face. Wearing an off-white short coat with a lapel, brown buttons, raglan sleeves, pockets at the hem, a gray round-neck top, and brown pants. The overall style is simple and casual, with a blurred gray wall in the background, soft and natural light, and the clothing material is soft and textured. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

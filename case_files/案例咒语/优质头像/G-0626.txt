@@ -1,0 +1,3 @@
+CN：淡粉色调动漫头像，一个女孩，粉色长发，红色眼睛，表情呆萌，脸颊泛红，嘴角沾着食物，穿着校服，背景是模糊的室内，整体风格可爱，色彩柔和，线条简洁，具有少女感，最佳品质，8K，适合作为社交媒体头
+EN：A light pink anime avatar of a girl with long pink hair, red eyes, a silly expression, red cheeks, food on the corners of her mouth, wearing a school uniform, with a blurred interior in the background. The overall style is cute, with soft colors, simple lines, and a girlish feel. Best quality, 8K, suitable as a social media avatar --q 1 --s 30 --ar 1:1 --niji 6 --profile hrqrh1e --raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：产品摄影，口红广告，粉色口红，口红放置在粉色背景上，背景是一个粉色圆环，光线柔和，突出产品的颜色和质感，细节丰富，焦点清晰，电影级质感，8K，超高分辨率，简约感，
+EN：Product photography, lipstick advertising, pink lipstick, lipstick placed on a pink background, the background is a pink ring, soft light, highlighting the color and texture of the product, rich details, clear focus, movie-level texture, 8K, ultra-high resolution, minimalist feeling, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

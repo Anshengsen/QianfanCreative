@@ -1,0 +1,3 @@
+CN：日式禅意风格的茶室，木质地板，榻榻米，竹帘，石灯笼，自然光，简洁线条，禅意，宁静，8K，超高质量，3D渲染图，
+EN：Japanese Zen style tea room, wooden floor, tatami, bamboo curtains, stone lanterns, natural light, simple lines, Zen, tranquility, 8K, ultra high quality, 3D rendering, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

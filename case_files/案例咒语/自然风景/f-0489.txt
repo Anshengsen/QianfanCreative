@@ -1,0 +1,3 @@
+CN：特写，一片鲜绿色的枫叶，叶脉清晰可见，阳光穿透，边缘光，绿色背景，自然光，高饱和度，高对比度，景深，虚化背景，8K，超高清细节，逼真，植物摄影，生态摄影
+EN：Close-up of a bright green maple leaf with veins clearly visible, sunlight shining through, edge light, green background, natural light, high saturation, high contrast, depth of field, blurred background, 8K, ultra high definition detail, realistic, botanical photography, ecological photography --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

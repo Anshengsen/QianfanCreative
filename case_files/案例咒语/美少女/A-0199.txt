@@ -1,0 +1,4 @@
+﻿CN：一个站在水边的动漫女孩，浅银色和深蓝色的风格，中国传统主义，32kuhd，动漫美学，波光粼粼，梦幻，
+EN：An anime girl standing by the water, light silver and dark blue style, Chinese traditionalism, 32kuhd, anime aesthetics, sparkling, dreamy, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

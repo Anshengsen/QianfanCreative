@@ -1,0 +1,4 @@
+﻿CN：一组手机游戏的简单2D商店图标，3x3排列布局，UI图标设计风格，最佳品质，白色背景，
+EN：A set of simple 2D store icons for mobile games, 3x3 arrangement layout, UI icon design style, best quality, white background, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

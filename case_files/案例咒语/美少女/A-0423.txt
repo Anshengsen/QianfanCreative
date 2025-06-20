@@ -1,0 +1,3 @@
+CN：女性动漫人物，黑色一字肩连衣裙，清晰可见的锁骨，甜美少女，黑发，酷，精致的妆容，瓜子脸，深邃的眼睛，2D，精致的细节，光滑的皮肤，超品质，超细节，超光滑，纯白背景，
+EN：Female anime characters, black one-word shoulder dress, clearly visible collarbone, sweet girl, black hair, cool, exquisite makeup, melon seed face, deep eyes, 2D, exquisite details, smooth skin, super quality, super detail, super smooth, pure white background, --q 1 --s 100 --ar 3:4 --v 6.0 --no scantily clad 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

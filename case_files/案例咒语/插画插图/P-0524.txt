@@ -1,0 +1,3 @@
+CN：黑白漫画风格插画，人物，绷带，锤子，钉子，简约线条，手绘感，最佳品质，插画设计，漫画插画，人物肖像，细节丰富，视觉冲击力，创意插画，黑白配色，简约风格，受伤，工作，压力，疲惫，简约风格，创意，灵感，情感，
+EN：Black and white comic style illustration, character, bandage, hammer, nail, simple lines, hand-drawn feel, best quality, illustration design, comic illustration, character portrait, rich details, visual impact, creative illustration, black and white color matching, simple style, injury, work, stress, fatigue, simple style, creativity, inspiration, emotion, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

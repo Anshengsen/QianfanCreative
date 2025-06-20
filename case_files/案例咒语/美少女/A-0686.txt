@@ -1,0 +1,3 @@
+CN：动漫风格，一个极其美丽的亚洲女性角色半张脸特写，特写，绿色的眼睛，橙色眼影，黑色长发，凌乱的刘海，部分面部被黑色面纱遮挡，水墨画风格，黑白灰为主色调，局部点缀橙色，光影对比强烈，营造出神秘感和氛围感，
+EN：Anime style, a very beautiful Asian female character half face close-up, close-up, green eyes, orange eye shadow, long black hair, messy bangs, part of the face is covered by a black veil, ink painting style, black and white gray as the main colors, with orange embellishment in some parts, strong contrast between light and shadow, creating a sense of mystery and atmosphere, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize e1tb3jm 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

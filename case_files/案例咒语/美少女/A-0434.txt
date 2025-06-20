@@ -1,0 +1,3 @@
+CN：手绘卡通美少女，中国手绘风格，角色插图，中国美少女，可爱，卡通，手绘，高马尾，淡淡的眉毛，脸红，丹凤眼，白皙的脖颈，穿着红色的连帽衫，niji素描写实风格，GC，灰色背景，正面，上半身，
+EN：Hand-painted cartoon beautiful girl, Chinese hand-painted style, character illustration, Chinese beautiful girl, cute, cartoon, hand-painted, high ponytail, light eyebrows, blush, red phoenix eyes, fair neck, wearing a red hoodie, niji sketch realistic style, GC, gray background, front, upper body, --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

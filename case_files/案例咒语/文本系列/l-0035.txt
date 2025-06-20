@@ -1,0 +1,4 @@
+CN：白色背景上写着“AIGC”，采用米黄色的16位像素艺术风格，柔和的阴影，
+EN：The words "AIGC" are written on a white background in a beige 16-bit pixel art style with soft shadows. --q 1 --s 100 --ar 3:2 --v 6.0 --chaos 0 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

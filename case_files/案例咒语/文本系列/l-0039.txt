@@ -1,0 +1,3 @@
+CN：使用光滑的3D黄铜合金材质写成的单词“Midjourney”，在白色背景上孤立，
+EN：The word "Midjourney" written in glossy 3D brass alloy texture, isolated on white background, --q 1 --s 100 --ar 3:2 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

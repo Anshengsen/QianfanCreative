@@ -1,0 +1,4 @@
+﻿CN：怪兽作恶于海上，张牙舞爪，广角，长镜头，赛博朋克，虚幻引擎渲染，傍晚，幽暗，末日，电影剧照，最佳品质，最高质量，
+EN：Monsters Do Evil at Sea, Wide Angle, Long Shot, Cyberpunk, Unreal Engine Rendering, Evening, Gloom, Doomsday, Movie Stills, Best Quality, Highest Quality, --q 1 --s 100 --ar 3:2 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

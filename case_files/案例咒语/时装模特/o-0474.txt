@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个年轻的亚洲女性，坐姿，微笑，黑色贝雷帽，黑色长发，自然垂落，黑色衬衫，绿色宽松棉服外套，米色内衬外翻，袖口外翻，休闲风格，自然光，室内场景，背景模糊，面部表情自然，眼神柔和，皮肤白皙，略施淡妆，整体氛围温馨，舒适。
+EN：Professional photography, 8K, a young Asian woman, sitting, smiling, black beret, long black hair, naturally hanging, black shirt, green loose cotton jacket, beige lining turned inside out, cuffs turned inside out, casual style, natural light, indoor scene, blurred background, natural facial expression, soft eyes, fair skin, light makeup, the overall atmosphere is warm and comfortable. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

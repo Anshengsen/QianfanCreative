@@ -1,0 +1,3 @@
+CN：远山，层叠，剪影，蓝色调，雾气，渐变，从深蓝到浅蓝，自然风光，摄影，广角，低饱和度，宁静，大气。
+EN：Distant mountains, layers, silhouettes, blue tones, mist, gradient, from dark blue to light blue, natural scenery, photography, wide angle, low saturation, tranquility, atmosphere. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

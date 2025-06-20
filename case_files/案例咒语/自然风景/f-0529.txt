@@ -1,0 +1,3 @@
+CN：白色芙蓉花，特写，浅青色背景，自然光照，柔和色调，对称构图，花瓣纹理清晰，花蕊细节突出，清新风格，高品质
+EN：White hibiscus flower, close-up, light cyan background, natural light, soft tones, symmetrical composition, clear petal texture, prominent stamen details, fresh style, high quality --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

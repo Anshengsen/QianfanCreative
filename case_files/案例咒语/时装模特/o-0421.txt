@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个年轻女性，穿着黑色细带背心，双肩带设计，无袖，材质柔软，有轻微的褶皱感，搭配浅棕色宽松长裤，腰部有抽绳细节，姿势自然，双手略微抬起，身体微微侧向镜头，背景为室内场景，有木质桌面和白色柜子，光线柔和，整体画面简洁，干净，突出人物和服装特点。
+EN：Professional photography, 8K, a young woman, wearing a black spaghetti-strap vest with double shoulder straps, sleeveless, soft material and slight wrinkles, paired with light brown loose trousers with drawstring details at the waist, natural posture, hands slightly raised, body slightly turned to the camera, background is an indoor scene with a wooden table and white cabinets, soft light, the overall picture is simple and clean, highlighting the characteristics of the person and clothing. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

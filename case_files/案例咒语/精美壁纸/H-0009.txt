@@ -1,0 +1,4 @@
+﻿CN：动漫风格，发光的光环看起来像一个反派，特写镜头，抗混淆现象，8K，超高清，2D，赛博朋克，
+EN：Anime style, glowing halo looks like a villain, close-ups, anti-confusion, 8K, super high definition, 2D, cyberpunk, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

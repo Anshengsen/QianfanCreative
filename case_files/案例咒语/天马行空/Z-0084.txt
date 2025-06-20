@@ -1,0 +1,3 @@
+CN：油画风格，白色雏菊，厚涂，浅蓝色背景，强烈的笔触感，花瓣层次丰富，明亮光线，细节丰富，艺术感强，最佳品质，8K。
+EN：Oil painting style, white daisies, thick paint, light blue background, strong brushstrokes, rich layers of petals, bright light, rich details, strong artistic sense, best quality, 8K. --s 100 --ar 1:1 --v 7 --profile l64u7lh 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

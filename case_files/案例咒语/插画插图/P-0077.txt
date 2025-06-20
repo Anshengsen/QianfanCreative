@@ -1,0 +1,4 @@
+
+CN：可爱的卡通中国龙，在云上，彩绘风格，浅蓝色和深米色，中国传统文化元素，独特的怪物插画风格，充满活力，金色艺术，
+EN：Cute cartoon Chinese dragon, on the clouds, painted style, light blue and dark beige, traditional Chinese cultural elements, unique monster illustration style, vibrant, golden art, --q 1 --s 100 --ar 3:4 --niji 5 --style expressive  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：黎明时分的海面，宁静，倒影，渐变天空，深蓝色，橙红色，地平线，小船，剪影，木桩，广角，自然光，柔和，对称构图，超现实主义，电影感，高细节，8K，超高分辨率，最佳品质
+EN：sea ​​at dawn, tranquility, reflections, gradient sky, dark blue, orange-red, horizon, boats, silhouettes, wooden piles, wide angle, natural light, soft, symmetrical composition, surrealism, cinematic, high detail, 8K, ultra high resolution, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：油画风格，欧洲小镇夜景，石板路，雨后反光，暖色灯光，路边咖啡馆，遮阳伞，桌椅，远处尖顶教堂，昏暗天空，树木，细节丰富，光影对比，温馨氛围，艺术绘画，高质量。
+EN：Oil painting style, European town night scene, cobblestone road, reflection after rain, warm lights, roadside cafes, parasols, tables and chairs, steeple church in the distance, dim sky, trees, rich details, light and shadow contrast, warm atmosphere, artistic painting, high quality. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

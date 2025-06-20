@@ -1,0 +1,3 @@
+CN：中国现代山水画，青绿色调为主，点缀金色线条描边，山峦叠嶂，云雾缭绕，古塔隐现，垂柳依依，祥和宁静，传统中国画法，工笔细致，构图饱满，留白恰当，光线柔和，整体氛围清新淡雅，具有浓厚的东方韵味，细节丰富，层次分明，适合作为装饰画或壁纸，
+EN：Modern Chinese landscape painting, mainly in green tones, dotted with golden lines, with overlapping mountains, shrouded in clouds and mist, looming ancient towers, weeping willows, peaceful and tranquil, traditional Chinese painting method, meticulous brushwork, full composition, appropriate white space, soft light, the overall atmosphere is fresh and elegant, with a strong oriental charm, rich details, clear layers, suitable as a decorative painting or wallpaper, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

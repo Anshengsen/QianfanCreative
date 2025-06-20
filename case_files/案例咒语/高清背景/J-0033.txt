@@ -1,0 +1,5 @@
+
+CN：镭射风格背景图，软渐变，镭射，塑料织物的3D渲染，高反射，渐变，彩色，特写，高质量，高细节，梦幻现实主义，柔光，虚幻引擎，OC渲染，3D渲染，
+
+EN：Laser style background cover, soft gradual change, laser, 3D rendering of plastic fabric, high reflection, gradual change, color, close-up, high quality, high detail, dreamy realism, soft light, Unreal Engine, OC rendering, 3D rendering, --q 5 --s 180 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

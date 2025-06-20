@@ -1,0 +1,3 @@
+CN：专业摄影，8K，下半身像特写，女性，站立姿势，双手轻搭腰间，黑色长袖紧身衣，灰色宽松阔腿裤，裤腿有白色竖线装饰，黑色平底穆勒鞋，背景为白色半透明窗帘，室内环境，自然光线，简约风格，柔和色调。
+EN：Professional photography, 8K, close-up of lower body, woman, standing pose, hands lightly on waist, black long-sleeved tights, gray loose wide-leg pants with white vertical lines on the legs, black flat mules, background of white translucent curtains, indoor environment, natural light, simple style, soft tones. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

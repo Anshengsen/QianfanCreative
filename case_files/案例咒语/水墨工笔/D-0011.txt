@@ -1,0 +1,4 @@
+
+CN：齐白石先生画的竹子，水墨画，水墨风，墨水喷溅，优雅，谦逊，高质量，中国画，
+EN：Mr. Qi Baishi's bamboo, ink painting, ink wind, ink splash, elegance, humility, high quality, Chinese painting, --q 1 --s 100 --ar 3:4 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

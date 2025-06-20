@@ -1,0 +1,3 @@
+CN：动漫女孩，动漫女孩，长发，蓝绿色双马尾，发饰，蓝色眼睛，微笑，耳机，白色衬衫，蓝色领带，黑色袖套，涂鸦墙背景，街头艺术风格，鲜艳的色彩，动态姿势，全身镜头，高分辨率，细节丰富，光影效果强烈，动漫风格，最佳画质，8K，超精细
+EN：Anime girl, anime girl, long hair, turquoise twintails, hair accessories, blue eyes, smile, headphones, white shirt, blue tie, black sleeves, graffiti wall background, street art style, bright colors, dynamic pose, full body shot, high resolution, rich details, strong light and shadow effects, anime style, best quality, 8K, ultra fine --q 5 --s 100 --ar 16:9 --niji 6 --profile v21i75s --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

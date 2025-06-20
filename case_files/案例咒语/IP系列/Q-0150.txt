@@ -1,0 +1,4 @@
+CN：3D卡通角色设计，chibi，金庸武侠小说中的杨过，独臂，站在一只巨大的雕的背上，丸子头，卡通风格，盲盒风格，纯白背景，3D渲染，OC渲染，在cinema 4d中呈现，
+EN：3D cartoon character design, chibi, Yang Guo in Jin Yong's martial arts novel, one-armed, standing on the back of a huge sculpture, ball head, cartoon style, blind box style, pure white background, 3D rendering, OC rendering, presented in cinema 4d, --q 1 --s 100 --ar 3:4 --v 6.0
+（雕的翻译出错，翻译成雕塑了，莫慌问题不大） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

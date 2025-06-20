@@ -1,0 +1,3 @@
+CN：韩漫风格，黄色背景，黑色轮廓，大胆的填充色，大学生，情侣，可爱的女孩，帅气的男孩，特写，肩并肩，甜蜜，微笑，
+EN：Korean comic style, yellow background, black outline, bold fill color, college students, couple, cute girl, handsome boy, close-up, shoulder to shoulder, sweet, smile, --q 1 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

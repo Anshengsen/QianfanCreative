@@ -1,0 +1,4 @@
+﻿CN：黑色的可爱的机器人，3d，超未来主义，在Cinema 4D中呈现，正视图，居中，电影照明效果，高质量，简单的背景，
+EN：Cute robot in black, 3d, ultra-futuristic, presented in Cinema 4D, front view, centered, cinematic lighting effects, high quality, simple background, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

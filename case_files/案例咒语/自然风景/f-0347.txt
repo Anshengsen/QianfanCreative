@@ -1,0 +1,3 @@
+CN：雪山，冬季，日出，金色阳光，积雪覆盖的松树，雾气，冷色调，暖色调对比，自然风光，摄影，广角镜头，高动态范围(HDR)，细节丰富，8K
+EN：Snowy mountains, winter, sunrise, golden sunlight, snow-covered pine trees, mist, cold tones, warm tones contrast, nature, photography, wide angle lens, high dynamic range (HDR), rich details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

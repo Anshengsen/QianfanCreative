@@ -1,0 +1,3 @@
+CN：几何风格动物插画，一只狗，由各种几何形状组成，色彩鲜艳，线条简洁，整体风格现代简约，具有设计感和趣味性，细节包括狗的形态，以及各种几何形状的组合，最佳品质，8K，矢量图形，干净利落，适合用于logo设计或宠物用品宣传，橙色背景，
+EN：Geometric animal illustration, a dog, composed of various geometric shapes, bright colors, simple lines, the overall style is modern and simple, with a sense of design and fun, details include the dog's form, and a combination of various geometric shapes, best quality, 8K, vector graphics, clean and neat, suitable for logo design or pet products promotion, orange background, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

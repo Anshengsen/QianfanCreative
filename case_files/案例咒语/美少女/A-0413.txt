@@ -1,0 +1,3 @@
+CN：现代漫画风格，日本漫画::3，哥特风，亚洲，特写，20岁，皮肤苍白，黑色短发， 穿着一件超大的黑色连帽衫，高筒袜，可爱又俏皮，灰黑色风格，
+EN：Modern manga style, Japanese manga:: 3, gothic, Asian, close-up, 20 years old, pale skin, short black hair, wearing an oversized black hoodie, high socks, cute and playful, gray-black style, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

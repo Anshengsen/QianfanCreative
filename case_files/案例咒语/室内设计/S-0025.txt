@@ -1,0 +1,3 @@
+CN：3d，精致，奢华，简约现代，客厅，白地板，家具的颜色有奶油色，黑色，棕色，现代，3D渲染图，室内，
+EN：3d, exquisite, luxury, simple modern, living room, white floor, furniture colors are cream, black, brown, modern, 3D rendering, interior, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

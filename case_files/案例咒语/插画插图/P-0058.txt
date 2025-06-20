@@ -1,0 +1,5 @@
+
+CN：卧室线稿图，线稿图，粗线条，矢量，白色背景，极致降噪，最高质量，
+
+EN：Bedroom line drawing, line drawing, thick lines, vector, white background, extreme noise reduction, highest quality, --q 5 --s 180 --ar 3:4 --v 5.2 --style raw --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

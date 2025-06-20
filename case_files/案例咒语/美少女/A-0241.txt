@@ -1,0 +1,4 @@
+
+CN：漫画风格，20岁左右的美少女，黑发，齐刘海，微卷发，中长发，樱桃唇，柳叶眉，微醺，可爱，微笑，身穿海军蓝和琥珀色的工厂制服， 现代风格，黄色背景，肖像，
+EN：Manga style, beautiful girl around 20 years old, dark hair, Qi bangs, slightly curly hair, medium long hair, cherry lips, willow eyebrows, slightly tipsy, cute, smiling, wearing navy blue and amber factory uniforms, modern style, yellow background, portrait, --q 1 --s 100 --ar 3:4 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

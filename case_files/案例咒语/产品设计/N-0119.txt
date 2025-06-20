@@ -1,0 +1,3 @@
+CN：产品摄影，紫色波浪纹理台灯，三脚支架，暖黄色灯光，浅色背景，粉色桌面，极简风格，柔和光线，细节丰富，高分辨率，工作室拍摄，电线细节
+EN：Product photography, magenta wavy texture table lamp, tripod, warm yellow light, light background, pink tabletop, minimalist style, soft light, rich details, high resolution, studio shot, wire details --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

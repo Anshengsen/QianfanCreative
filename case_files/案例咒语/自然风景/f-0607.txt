@@ -1,0 +1,3 @@
+CN：海滩风景摄影，垂直构图，海浪轻拍沙滩，背景是高耸的悬崖，日出或日落时分，天空有淡淡的粉色云彩，海水清澈碧绿，沙滩细腻，暖色调，电影级光照，超高分辨率，8k，超细节，真实感，电影质感，色彩鲜艳，动态范围，光线追踪，全局照明，大气透视
+EN：Beach landscape photography, vertical composition, waves lapping at the beach, high cliffs in the background, sunrise or sunset, light pink clouds in the sky, clear turquoise water, fine sand, warm tones, cinematic lighting, ultra high resolution, 8k, ultra detail, photorealism, film texture, vivid colors, dynamic range, ray tracing, global illumination, atmospheric perspective --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

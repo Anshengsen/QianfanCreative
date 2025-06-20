@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲女性，瓜子脸，长直发，深棕色，自然散落，略带微笑，眼神柔和，黑色长裙，V，坐在白色桌面上，身体略微前倾，一只手撑在桌面上，另一只手拿着黑色手包，背景为浅色墙面，简约风格，柔和光线，整体氛围优雅，
+EN：Professional photography, 8K, an Asian woman, oval face, long straight hair, dark brown, naturally scattered, slightly smiling, soft eyes, black long skirt, V, sitting on a white desktop, leaning forward slightly, one hand on the desktop, the other hand holding a black handbag, the background is a light-colored wall, simple style, soft light, the overall atmosphere is elegant, --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

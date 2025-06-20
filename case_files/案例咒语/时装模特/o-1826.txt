@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，深灰色，V，长袖，宽松版型，单排木质纽扣，粗针织纹理，落肩设计，袖口收紧，柔软蓬松质感，羊毛或羊绒混纺材质，整体风格休闲简约，环境光照明，焦点集中于服装，中长焦镜头。
+EN：Professional fashion photography, 8K, front view, white background, dark grey, V, long sleeves, loose fit, single row of wooden buttons, chunky knit texture, dropped shoulders, gathered cuffs, soft and fluffy feel, wool or cashmere blend, overall casual and minimalist style, ambient lighting, focus on the garment, medium to long focal length. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

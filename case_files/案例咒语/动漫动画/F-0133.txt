@@ -1,0 +1,3 @@
+CN：手绘漫画，动画剧照，静止画面，特写，医生角色设计，背景是在船上的帆布下，穿着精美的服装，带着好奇的表情，龙与地下城风格，流畅锐利的线条，丰富的细节，
+EN：Hand-drawn comics, animated stills, still pictures, close-ups, doctor character design, the background is under the canvas of the ship, dressed in exquisite costumes, with a curious expression, Dungeons and Dragons style, smooth and sharp lines, rich details, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

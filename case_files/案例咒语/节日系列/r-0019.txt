@@ -1,0 +1,3 @@
+CN：3D，中秋节主题的3D海报，皮克斯，3D风格，在夜晚，2只小兔子坐在小木船上快乐的吃月饼，快乐的氛围，充满活力，暖色调，小船两侧有莲花灯漂浮在水面上，空中飘着几盏孔明灯，满月，远处是发着金色光芒的宝塔，河面上、远处若隐若现的山脉，杰作，32k，uhd，
+EN：3D, Mid-Autumn Festival themed 3D poster, Pixar, 3D style, at night, 2 little rabbits sitting on a small wooden boat happily eating moon cakes, happy atmosphere, full of energy, warm colors, lotus lanterns floating on the water on both sides of the boat, a few Kongming lanterns floating in the air, a full moon, a golden pagoda in the distance, mountains looming on the river and in the distance, masterpiece, 32k, uhd, --q 1 --s 100 --ar 3:4 --niji 6  --no text 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

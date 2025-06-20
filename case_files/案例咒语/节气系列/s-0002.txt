@@ -1,0 +1,3 @@
+CN：端午节海报设计，戴着龙头帽的可爱小男孩，在河里快乐的划船，船尾是一个巨大的中国龙雕塑，明亮的自然光，欢快，俏皮，开心，动画风格，3D风格，最佳品质，丰富的细节，8K，
+EN：Dragon Boat Festival poster design, cute little boy wearing a dragon head hat, rowing happily in the river, with a huge Chinese dragon sculpture at the stern, bright natural light, cheerful, playful, happy, animation style, 3D style, best quality, rich details, 8K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

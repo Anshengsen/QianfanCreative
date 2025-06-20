@@ -1,0 +1,3 @@
+CN：2D风格的女孩肖像，特写，暖色调，橙色背景，黑色齐耳短发，浓重的眼线，金色的圆圈耳环，黑色高领衫。类似插画或漫画的艺术风格，平滑的渲染，韩国艺术家数字绘画风格，光线柔和，戏剧性的氛围，
+EN：2D style portrait of a girl, close up, warm tones, orange background, short black hair, heavy eyeliner, gold hoop earrings, black turtleneck. Art style similar to illustration or comics, smooth rendering, Korean artist digital painting style, soft light, dramatic atmosphere, --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

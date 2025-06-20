@@ -1,0 +1,3 @@
+CN：水墨画，山水画，腊梅花，国风，冬天，雪景，大雪，亭子，山脉，毕加索，水墨工笔画，毕加索，高品质，高清，4K，
+EN：Ink painting, landscape painting, wintersweet, Chinese style, winter, snow scene, heavy snow, pavilion, mountains, Picasso, ink painting, Picasso, high quality, HD, 4K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

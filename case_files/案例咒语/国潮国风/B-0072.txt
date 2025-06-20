@@ -1,0 +1,3 @@
+CN：一个弹奏古筝的中国古代中年男子，黑色头发和胡子，穿着华丽的藏青色镶边华服，戴着金色发冠，全身，高分辨率，高质量，皮克斯动画风格，2D，漫画，色彩鲜艳的人物角色，白色背景，
+EN：An ancient Chinese middle-aged man playing the guzheng, with black hair and beard, wearing a gorgeous navy blue embroidered Chinese dress and a golden hair crown, full body, high resolution, high quality, Pixar animation style, 2D, cartoon, colorful character, white background, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vmo29u1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

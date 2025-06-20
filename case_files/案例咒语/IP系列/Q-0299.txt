@@ -1,0 +1,3 @@
+CN：一个可爱的女孩，IP，3D，白色双马尾辫，俏皮的表情，穿着蓝色的破洞工装裤搭配米黄色内衬和印花休闲布鞋，戴着太阳镜，双手插兜，3D风格，盲盒玩具，全身，光线追踪，白色背景，
+EN：A cute girl, IP, 3D, white double ponytails, playful expression, wearing blue ripped overalls with beige lining and printed casual cloth shoes, wearing sunglasses, hands in pockets, 3D style, blind box toy, full body, ray tracing, white background, --q 5 --s 250 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

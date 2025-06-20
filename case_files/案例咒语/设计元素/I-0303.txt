@@ -1,0 +1,3 @@
+CN：3D渲染图，特写，卡通风格，粘土材料，一辆双轮平衡车，橙色和蓝色车身，黑色轮胎，银色车把，光滑的表面，柔和的灯光，白色背景。
+EN：3D rendering, close-up, cartoon style, clay material, a two-wheeled balancing car, orange and blue body, black tires, silver handlebars, smooth surface, soft lighting, white background. --q 5 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

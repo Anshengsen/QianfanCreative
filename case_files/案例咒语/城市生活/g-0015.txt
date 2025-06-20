@@ -1,0 +1,3 @@
+CN：高角度俯瞰纽约城市夜景，帝国大厦，城市建筑群，夜晚灯光，天际线，橙色渐变天空，深蓝色调，广角镜头，电影级光照，高对比度，细节丰富，8K，超高画质。
+EN：High-angle view of New York city night scene, Empire State Building, city buildings, night lights, skyline, orange gradient sky, dark blue tones, wide-angle lens, cinematic lighting, high contrast, rich details, 8K, ultra-high image quality. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

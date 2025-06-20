@@ -1,0 +1,3 @@
+CN：朱砂红，抽象纹理，特写，天然石材，粉色调，细腻纹路，光影变化，柔和质感，自然艺术，极简主义，高分辨率
+EN：Vermillion red, abstract texture, close-up, natural stone, pink tones, delicate lines, light and shadow variations, soft texture, natural art, minimalism, high resolution --q 1 --s 50 --ar 16:9 --v 6.1 --personalize srak4m6 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

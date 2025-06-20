@@ -1,0 +1,4 @@
+CN：冬季主题，雪景，蓝色背景，金色散景光斑，雪花，前景是覆盖着冰雪的灌木，梦幻，唯美，超细节，8K，电影质感。
+EN：Winter theme, snow scene, blue background, golden bokeh spots, snowflakes, bushes covered with ice and snow in the foreground, dreamy, beautiful, ultra-detailed, 8K, film texture. --q 1 --s 180 --ar 16:9 --v 6.0 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

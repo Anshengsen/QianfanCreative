@@ -1,0 +1,3 @@
+CN：产品摄影，轩尼诗酒瓶，白色立方体，雏菊花，米色背景，圆形拱门，阴影，自然光，8K，超高质量，细节丰富，玻璃质感，液体折射，
+EN：Product photography, Hennessy bottle, white cube, daisy flowers, beige background, round arch, shadow, natural light, 8K, ultra high quality, rich details, glass texture, liquid refraction, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

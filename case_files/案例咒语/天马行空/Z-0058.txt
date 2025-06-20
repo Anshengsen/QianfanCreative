@@ -1,0 +1,3 @@
+CN：3D风格，粘土材料，皮克斯，巨大的黑白毛发的狗俯视着站在地面上的一个小女孩，低角度，白色背景，最佳品质，左右构图，全景，广角，
+EN：3D style, clay material, Pixar, huge black and white fur dog looking down at a little girl standing on the ground, low angle, white background, best quality, left and right composition, panorama, wide angle, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

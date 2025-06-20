@@ -1,0 +1,3 @@
+CN：一只可爱的小犀牛，站立姿态，3D，卡通风格，皮克斯风格，白色背景，最佳品质，4K，
+EN：A cute little rhino, standing pose, 3D, cartoon style, Pixar style, white background, best quality, 4K, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

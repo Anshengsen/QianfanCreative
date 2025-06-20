@@ -1,0 +1,3 @@
+CN：一件印花衬衫，宝蓝色，印有白色几何图案，宽松版型，现代简约风，白色背景，平铺，正视图，图案清晰，布料质感真实，高分辨率。
+EN：A printed shirt, royal blue with white geometric pattern, loose fit, modern and simple style, white background, flat lay, front view, clear pattern, real fabric texture, high resolution. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

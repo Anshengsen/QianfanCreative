@@ -1,0 +1,5 @@
+CN：披萨，白芝麻，黑芝麻，牛扒，番茄片，热狗片，照片，真实，产品镜头，黑色高反射背景，热气，超高质量，超高画质，产品镜头，电影级照明，
+EN：Pizza, white sesame, black sesame, steak, tomato slices, hot dog slices, photo, real, product shots, black high reflection background, heat, super high quality, super high image quality, product shots, movie-grade lighting, --q 5 --s 250 --ar 3:4 --v 5.2 --style raw
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

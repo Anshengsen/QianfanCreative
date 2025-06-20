@@ -1,0 +1,3 @@
+CN：一组矩形撕纸贴纸元素，矩形，长条形，平面，撕纸元素，纯黑背景，1x3排列，高品质，
+EN：A set of rectangular torn paper sticker elements, rectangular, long strip, flat, torn paper elements, pure black background, 1x3 arrangement, high quality, --q 1 --s 100 --ar 3:4 --niji 6 --profile v21i75s 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

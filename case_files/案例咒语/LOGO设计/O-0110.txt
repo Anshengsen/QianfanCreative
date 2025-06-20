@@ -1,0 +1,3 @@
+CN：矢量，LOGO，霓虹灯效果，粉色和蓝色，适用于夜店或娱乐场所，几何图形组合成一个音乐符号，发光效果，黑色背景，动感，时尚，炫酷，
+EN：Vector, LOGO, neon effect, pink and blue, suitable for nightclubs or entertainment venues, geometric shapes combined into a music symbol, luminous effect, black background, dynamic, fashionable, cool, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

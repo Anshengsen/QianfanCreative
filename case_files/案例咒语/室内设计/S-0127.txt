@@ -1,0 +1,3 @@
+CN：室内设计，现代简约风格，木质墙面和天花板，棕色皮质沙发，圆形黑色茶几，米色地毯，白色储物柜，木质书架，落地窗，自然光，简洁线条，温暖色调，高品质，8K。
+EN：Interior design, modern minimalist style, wooden walls and ceiling, brown leather sofa, round black coffee table, beige carpet, white storage cabinets, wooden bookshelves, floor-to-ceiling windows, natural light, clean lines, warm tones, high quality, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

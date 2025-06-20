@@ -1,0 +1,4 @@
+CN：动画，定格动画风格，黏土材质，一碗腊八粥的制作过程，从食材准备到熬制完成，每个步骤都用黏土动画呈现，色彩丰富，细节精致，背景是简单的木质桌面，温馨，有趣，创意，最佳质量。
+EN：Animation, stop-motion animation style, clay material, the production process of a bowl of Laba porridge, from ingredient preparation to cooking, each step is presented with clay animation, rich colors, exquisite details, the background is a simple wooden desktop, warm, interesting, creative, best quality. --q 1 --s 100 --ar 3:4 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN： 3D渲染,  废弃游乐园万圣节场景，生锈的旋转木马,  破损的鬼屋,  四处飘荡的幽灵,  阴暗的光线,  浓雾弥漫,  高精度建模,  4K分辨率,  超写实渲染,  最佳质量,  恐怖氛围,  神秘感,  细节丰富的纹理,  逼真的材质，
+EN：3D rendering, abandoned amusement park Halloween scene, rusty carousel, damaged haunted house, wandering ghosts, dim light, thick fog, high-precision modeling, 4K resolution, hyper-realistic rendering, best quality, horror atmosphere, mystery, detailed textures, realistic materials, --q 5 --s 100 --ar 3:2 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

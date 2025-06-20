@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，深灰色，棒球夹克，宽松版型，落肩袖，袖口及下摆为深灰色罗纹针织，衣领为黑白条纹罗纹针织，银色金属拉链，两侧斜插口袋，光面材质，极简风格，柔和光线，焦点清晰，服装质感细腻。
+EN：Professional clothing photography, 8K, front view, white background, dark grey, baseball jacket, loose fit, dropped shoulder sleeves, dark grey ribbed knit cuffs and hem, black and white striped ribbed knit collar, silver metal zipper, slanted pockets on both sides, glossy material, minimalist style, soft light, sharp focus, delicate texture of clothing. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

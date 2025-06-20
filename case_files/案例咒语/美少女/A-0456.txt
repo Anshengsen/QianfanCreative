@@ -1,0 +1,3 @@
+CN：油画质感，美女，照片，写实，身穿碎花裙，回头看，20岁，淡妆，大眼睛，短辫，丁达尔，腮红，口红，逼真，细腻，
+EN：Oil painting texture, beauty, photo, realistic, wearing floral dress, looking back, 20 years old, light makeup, big eyes, short braids, tindal, blush, lipstick, realistic, delicate, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

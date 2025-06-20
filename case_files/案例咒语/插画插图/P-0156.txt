@@ -1,0 +1,8 @@
+CN：动漫风格，嘻哈风格，粗线条和纯色，一个穿着运动鞋和短裤的亚洲动漫美少女做出飞踢的武术动作，迷人的面部，高马尾，极其美丽，精致的眼妆，鲜艳的口红色号，黄色和黑色，细腻光滑的腿部肌肤，光滑白皙的皮肤，黄色背景，最佳品质，丰富的细节，正确的身体构造，
+
+负面词：错误的身体构造，多余的腿，多余的手，
+
+EN：Anime style, hip-hop style, thick lines and solid colors, an Asian anime girl wearing sneakers and shorts makes flying kicking martial arts moves, charming face, high ponytail, extremely beautiful, exquisite eye makeup, bright lipstick color, yellow and black, delicate and smooth leg skin, smooth and fair skin, yellow background, best quality, rich details, correct body structure, --q 1 --s 100 --ar 3:4 --v 6.0 --no Wrong body structure, extra legs, extra hands, 
+
+（PS：生成同品类图片时尽量加上负面词的排除，不然很可能会出现乱七八糟的身体构造） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

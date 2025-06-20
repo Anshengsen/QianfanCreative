@@ -1,0 +1,3 @@
+CN：空白效果图，Google Pixel 3 XL 模型，智能手机，正面，白色屏幕，黑色边框，顶部有较宽的凹口，底部有较窄的边框，纯白色背景，极简主义，产品展示，高分辨率。
+EN：Blank rendering, Google Pixel 3 XL mockup, smartphone, front, white screen, black bezels, wider notch on top, narrower bezels on bottom, plain white background, minimalism, product presentation, high resolution. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

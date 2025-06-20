@@ -1,0 +1,3 @@
+CN：公路，延伸至远方，沙漠公路，笔直，透视，夜晚，星空，银河，拱形银河，繁星点点，深蓝色调，冷色调，广角，对称构图，低饱和度，高对比度，长曝光，光轨，微弱路灯，地平线，远山轮廓，自然风光，摄影，超高清，8K，细节丰富
+EN：highway, stretching into the distance, desert highway, straight, perspective, night, starry sky, Milky Way, arched Milky Way, starry, dark blue tones, cold tones, wide angle, symmetrical composition, low saturation, high contrast, long exposure, light trails, faint street lights, horizon, distant mountain outlines, natural scenery, photography, ultra high definition, 8K, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

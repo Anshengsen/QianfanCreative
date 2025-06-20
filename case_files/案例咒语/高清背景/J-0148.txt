@@ -1,0 +1,4 @@
+﻿CN：丰富多彩的壁纸，宝石风格、夜光3d物体、彩色玻璃，深红色和蓝色，3D，全息，高反色，彩色，
+EN：Colorful wallpapers, jewel style, luminous 3d objects, stained glass, deep red and blue, 3D, holographic, highly reflective, colorful, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

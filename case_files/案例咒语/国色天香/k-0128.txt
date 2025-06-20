@@ -1,0 +1,3 @@
+CN：一位身着汉服的美女，手捧古灯笼，站在夜空的月光下，中国风，动漫美学，梦幻氛围，肖像特写，高分辨率，电影版的质感，逼真，详细，光滑的面部，蓝色瞳孔，花前月下，蓝色风格，虚幻引擎5，
+EN：A beautiful woman in Hanfu, holding an ancient lantern, standing in the moonlight of the night sky, Chinese style, anime aesthetics, dreamy atmosphere, portrait close-up, high resolution, film version texture, realistic, detailed, smooth face, blue pupils, flowers and moon, blue style, Unreal Engine 5, --q 1 --s 100 --ar 3:4 --niji 6 --personalize x9me84t 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

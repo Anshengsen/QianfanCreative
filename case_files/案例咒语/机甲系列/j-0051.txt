@@ -1,0 +1,3 @@
+CN：复古风格的机甲，使用老式机械制作的机甲，锈迹斑斑，背景是废弃工厂，昏暗灯光，低饱和度，写实渲染，磨损质感，4K，局部光源，颗粒感，
+EN：Retro style mecha, mecha made of old machinery, rusty, abandoned factory background, dim lighting, low saturation, realistic rendering, worn texture, 4K, local light source, grainy, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

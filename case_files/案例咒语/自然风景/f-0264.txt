@@ -1,0 +1,3 @@
+CN：冰岛风光，雪山，极光，洞穴视角，水面反射，冷色调，广角镜头，自然光，高对比度，电影级质感，超高清，8K，细节丰富
+EN：Iceland scenery, snow-capped mountains, aurora, cave perspective, water reflection, cold tones, wide-angle lens, natural light, high contrast, movie-level texture, ultra-high definition, 8K, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

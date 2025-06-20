@@ -1,0 +1,3 @@
+CN：3D渲染，一个身穿朋克风格服装的僵尸（丧尸）新娘，她戴着铆钉头饰，脸上涂着暗黑系妆容，手里拿着电吉他，背景是废弃的游乐场，霓虹灯闪烁，营造赛博朋克的恐怖氛围，高精度建模，4K分辨率，超写实渲染，最佳质量，赛博朋克，恐怖，细节丰富的服装纹理，苍白且逼真的皮肤质感，
+EN：3D rendering, a zombie bride in punk-style clothing, with a studded headdress, dark makeup on her face, and an electric guitar in her hand, against the backdrop of an abandoned amusement park with flashing neon lights, creating a cyberpunk horror atmosphere, high-precision modeling, 4K resolution, hyper-realistic rendering, best quality, cyberpunk, horror, detailed clothing textures, pale and realistic skin texture, --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

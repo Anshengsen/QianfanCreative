@@ -1,0 +1,4 @@
+CN：3D渲染，一个黑色的轮胎，银色金属中心，光滑的表面，柔和的光线，居中构图，独奏，白色背景，高质量，逼真，3D，8K，
+EN：3D rendering, one black tire, silver metal center, smooth surface, soft light, centered composition, solo, white background, high quality, realistic, 3D, 8K, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

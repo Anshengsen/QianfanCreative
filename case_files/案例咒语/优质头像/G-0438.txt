@@ -1,0 +1,3 @@
+CN：线稿风格的头像，美少女，黑色长发，穿着简单的连衣裙，低头沉思，纯白背景，精细的线条勾勒，线条流畅，富有表现力，黑白风格，简洁而富有艺术感，展现出内敛的性格。
+EN：A line-drawing style avatar of a beautiful girl with long black hair, wearing a simple dress, looking down in thought, with a pure white background, fine lines outlining, smooth and expressive lines, black and white style, simple and artistic, showing an introverted personality. --q 1 --s 100 --ar 1:1 --niji 6--personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

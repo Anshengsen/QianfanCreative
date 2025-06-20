@@ -1,0 +1,4 @@
+
+CN：徐悲鸿先生画的马，水墨风，豪放，大气，令人惊叹的，原始风格，高质量，水墨画，奔马图，
+EN：Mr. Xu Beihong's paintings of horses, ink painting style, bold, atmospheric, amazing, original style, high quality, ink painting, galloping horse picture, --q 1 --s 100 --ar 3:4 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：中式风格室内设计渲染图，室内的一角，圆形窗户，窗外是盛开的红梅，室内摆放着中式风格的茶具和花瓶，整体色调为深红色和金色，营造出一种宁静祥和的氛围。灯光柔和，光影层次分明，细节刻画精细，以圆形窗户为中心，视觉冲击力非常强，中国传统主义，逼真，详细，
+EN：Chinese style interior design rendering, a corner of the room, a round window, outside the window is a blooming red plum, the room is placed with Chinese style tea sets and vases, the overall color tone is dark red and gold, creating a peaceful and harmonious atmosphere. The lighting is soft, the light and shadow are clearly layered, the details are finely portrayed, with the round window as the center, the visual impact is very strong, Chinese traditionalism, realistic, detailed, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

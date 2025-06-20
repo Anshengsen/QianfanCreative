@@ -1,0 +1,3 @@
+CN：手绘卡通卷轴，铺开，正面，中间是米白色，两端的卷杆是红色的，简约，极简主义，白色背景，独奏，
+EN：Hand drawn cartoon scroll, spread out, front view, off-white in the middle, red scroll bars at both ends, simple, minimalism, white background, solo, --q 1 --s 100 --ar 1:1 --niji 6 --profile v21i75s 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

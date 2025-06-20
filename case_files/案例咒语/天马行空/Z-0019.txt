@@ -1,0 +1,4 @@
+﻿CN：一个鬼灵坐在烟雾弥漫的房间里，高度详细的人物风格，万圣节，雾蒙蒙，
+EN：A ghost sits in a smoke-filled room, with highly detailed characters styled, Halloween, misty, --q 1 --s 100 --v 5.2 --ar 3:4
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

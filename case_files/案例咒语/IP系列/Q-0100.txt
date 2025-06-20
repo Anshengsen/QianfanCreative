@@ -1,0 +1,4 @@
+﻿CN：可爱的小中国龙，3D，旁边有祥云和小珊瑚和灯笼作为装饰，独特的龙角，鳞片，淡黄色和淡绿色的风格，穿着亮黄色的时尚服装，黄色背景，粘土材料，卡通，任天堂，可爱，光滑，光泽，渐变，独特的角色设计，可爱，全身，正视图，3D渲染，最佳品质，32kuhd，
+EN：Cute little Chinese dragon, 3D, next to auspicious clouds and small coral and lanterns as decoration, unique dragon horns, scales, light yellow and light green style, wearing bright yellow fashion clothing, yellow background, clay material, cartoon, Nintendo, cute, smooth, gloss, gradual change, unique character design, cute, full body, front view, 3D rendering, best quality, 32kuhd, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

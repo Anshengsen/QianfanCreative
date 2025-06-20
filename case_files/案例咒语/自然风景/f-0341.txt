@@ -1,0 +1,3 @@
+CN：雪景，公园，长椅，被雪覆盖的树枝，宁静，寒冷，冬季，广角，自然光，柔和的阴影，高对比度，白色主导，少量棕色点缀，逼真摄影，高清晰度，8K
+EN：Snow scene, park, bench, snow-covered branches, tranquility, cold, winter, wide angle, natural light, soft shadows, high contrast, white dominant, few brown accents, realistic photography, high definition, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：产品摄影，香水广告，蓝色香水瓶，瓶身印有白色文字，黑色瓶盖，香水瓶放置在沙滩和石头上，背景是金色光芒，光线明亮，突出产品的颜色和质感，细节丰富，焦点清晰，电影级质感，8K，超高分辨率，阳光感，
+EN：Product photography, perfume advertising, blue perfume bottle with white text on the bottle, black bottle cap, perfume bottle placed on the beach and stones, with golden light in the background, bright light, highlighting the color and texture of the product, rich details, sharp focus, film-level texture, 8K, ultra-high resolution, sunlight feeling, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

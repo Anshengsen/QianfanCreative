@@ -1,0 +1,3 @@
+CN：机甲鱼，水下场景，生物机械风格，金属质感，蓝色和绿色，水下光线，珊瑚礁背景，高清，细节丰富，逼真，
+EN：Mecha fish, underwater scene, biomechanical style, metal texture, blue and green, underwater light, coral reef background, HD, rich details, realistic, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

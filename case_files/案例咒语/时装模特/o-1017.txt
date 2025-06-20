@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲女性，坐姿，双腿交叠，棕色短发，偏分，耳环，精致妆容，平静表情，穿着一件棕色羊毛大衣，翻领设计，长袖，宽松版型，内搭米色高领针织衫，搭配浅色短裤，米色短靴，室内，浅色沙发，柔和光线，简洁风格。
+EN：Professional photography, 8K, an Asian woman, sitting, legs crossed, short brown hair, side parting, earrings, delicate makeup, calm expression, wearing a brown wool coat with lapel design, long sleeves, loose fit, a beige turtleneck sweater, light-colored shorts, beige boots, indoors, light-colored sofa, soft light, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

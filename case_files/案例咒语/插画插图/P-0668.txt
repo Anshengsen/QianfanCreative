@@ -1,0 +1,3 @@
+CN：3D卡通人物，一个光头男人，戴着眼镜，穿着条纹毛衣和黄色裤子，表情愤怒，耳朵冒着烟，整体风格夸张，色彩鲜艳，具有幽默感和情绪表达，细节包括人物的表情，服装的细节，以及烟雾的细节，最佳品质，8K，3D渲染，适合用于品牌宣传或动画角色，粉色背景
+EN：3D cartoon character, a bald man, wearing glasses, a striped sweater and yellow pants, with an angry expression, smoke coming out of his ears, the overall style is exaggerated, the colors are bright, with a sense of humor and emotional expression, details include the character's expression, the details of the clothing, and the details of the smoke, the best quality, 8K, 3D rendering, suitable for branding or animation characters, pink background --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

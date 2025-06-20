@@ -1,0 +1,3 @@
+CN：产品摄影，蓝色无线耳机，充电盒，水面，树枝，植物，蓝色调，8K，超高质量，细节丰富，水波纹，科技感，时尚，潮流，
+EN：Product photography, blue wireless headphones, charging box, water surface, branches, plants, blue tones, 8K, ultra-high quality, rich details, water ripples, sense of technology, fashion, trend, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

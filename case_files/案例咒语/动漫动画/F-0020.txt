@@ -1,0 +1,5 @@
+
+CN：在咖啡馆里有几个人在聊天，夏天，下午，日光，温馨，高质量，动画风格，
+
+EN：In the cafe there are several people chatting, summer, afternoon, daylight, warm, high quality, animation style, --q 5 --s 150 --ar 3:4 --niji 5  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

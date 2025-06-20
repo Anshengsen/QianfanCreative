@@ -1,0 +1,3 @@
+CN：矢量，LOGO，像素风格，复古游戏风格，红白黑，适用于游戏或科技公司，像素方块组成一个机器人形象，8位像素风格，黑色背景，复古，怀旧，科技感，
+EN：Vector, LOGO, pixel style, retro game style, red, white and black, suitable for games or technology companies, pixel blocks form a robot image, 8-bit pixel style, black background, retro, nostalgic, technological sense, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

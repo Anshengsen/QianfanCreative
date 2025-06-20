@@ -1,0 +1,3 @@
+CN：恐怖电影风格的万圣节海报插画，暗黑系风格，鬼魂飘荡，骷髅散落，背景是阴森的墓地，月光惨白，营造恐怖氛围，手绘风格，细节丰富，笔触有力，高清分辨率，最佳画质，恐怖，惊悚，强烈的对比度，冷色调为主。
+EN：A Halloween poster illustration in the style of a horror movie, dark style, with ghosts floating around and skulls scattered around, the background is a gloomy cemetery, the moonlight is pale, creating a horror atmosphere, hand-painted style, rich details, powerful brushstrokes, HD resolution, best picture quality, horror, thriller, strong contrast, and mainly cold colors. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

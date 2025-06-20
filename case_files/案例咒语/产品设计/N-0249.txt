@@ -1,0 +1,3 @@
+CN：护肤品产品摄影，一支浅绿色的护肤品，管状包装，放置在石头上，周围环绕着椰子、香蕉和绿叶，背景是浅绿色，光线明亮，营造出一种天然和健康的氛围，产品摄影，电影级光照，超高分辨率，8K，超细节，工作室质量,
+EN：Skin care product photography, a light green skin care product in a tube packaging, placed on a stone, surrounded by coconuts, bananas and green leaves, with a light green background and bright light, creating a natural and healthy atmosphere, product photography, cinematic lighting, ultra high resolution, 8K, ultra details, studio quality, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

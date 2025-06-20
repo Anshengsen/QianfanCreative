@@ -1,0 +1,3 @@
+CN：居中构图，全身，第三人称视角，远景，chibi，3D，皮克斯动画风格，高清辛烷值渲染，一对中国古代的年轻夫妇在一座拱形桥上互相拥抱，站立，拱形桥上，男人穿着古代书生服装，发冠，头发上插着一根筷子。女人穿着粉色和淡绿色的汉服，华丽的头饰，淡妆。周围飞着一些可爱的小喜鹊，最佳品质，超细节，逼真，详细，光滑白皙的皮肤，
+EN：Centered, full body, third person perspective, long shot, chibi, 3D, Pixar animation style, high definition octane rendering, a young couple from ancient China hugging each other, standing, on an arched bridge, the man is wearing an ancient scholar costume, a hair crown, with a chopstick in his hair. The woman is wearing a pink and light green Hanfu, a gorgeous headdress, and light makeup. There are some cute little magpies flying around, best quality, ultra-detailed, realistic, detailed, smooth white skin, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

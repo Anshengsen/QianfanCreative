@@ -1,0 +1,3 @@
+CN：一个穿着蓝色连帽衫的动漫女孩，动漫风格，亚洲面容，20岁，正面，特写，洛可可风格，丁达尔光影，大胆的阴影，锐利的边缘，精致的五官和淡妆，锐利的线条，有光泽的头发，白皙的皮肤，最佳品质，4K分辨率，
+EN：An anime girl in a blue hoodie, anime style, Asian face, 20 years old, front, close-up, rococo style, Tyndall light and shadow, bold shadows, sharp edges, delicate facial features and light makeup, sharp lines, glossy hair, fair skin, best quality, 4K resolution, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

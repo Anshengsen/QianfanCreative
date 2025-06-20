@@ -1,0 +1,3 @@
+CN：产品摄影，银色戒指，单颗钻石，光滑的棕色背景，聚光灯，8K，超高质量，细节丰富，光线反射，奢华，优雅，珠宝，
+EN：Product photography, silver ring, solitaire diamond, glossy brown background, spotlight, 8K, ultra high quality, rich details, light reflections, luxury, elegance, jewelry, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

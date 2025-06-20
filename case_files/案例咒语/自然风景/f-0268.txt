@@ -1,0 +1,3 @@
+CN：航拍视角，法国圣米歇尔山，城堡建筑，岛屿，海水，滩涂，蜿蜒的河流，日落时分，金色阳光，云隙光，暖色调，史诗感，电影级光照，广角镜头，高动态范围，超清细节，8K
+EN：Aerial perspective, Mont Saint-Michel, France, castle architecture, islands, sea water, mudflats, winding rivers, sunset, golden sunlight, light through the clouds, warm colors, epic feeling, cinematic lighting, wide-angle lens, high dynamic range, ultra-clear details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

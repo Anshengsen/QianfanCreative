@@ -1,0 +1,2 @@
+CN：3D渲染，赛车，概念赛车，未来主义，蓝色光效，透视角度，高清，8K，光滑的表面，工作室灯光，产品展示，汽车设计，科技感，蓝色霓虹灯，逼真，高品质。
+EN：3D rendering, racing car, concept racing car, futurism, blue light effect, perspective angle, HD, 8K, smooth surface, studio lighting, product display, car design, sense of technology, blue neon light, realistic, high quality. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6

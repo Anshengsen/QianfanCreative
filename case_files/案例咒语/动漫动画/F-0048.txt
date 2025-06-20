@@ -1,0 +1,4 @@
+﻿CN：chibi动漫，学校里的小女孩，多人，大声尖叫，漫画书风格，chibi，
+EN：Chibi anime, little girl at school, multiplayer, screaming loudly, comic book style, chibi, --q 1 --s 100 --ar 16:9 --niji 5
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

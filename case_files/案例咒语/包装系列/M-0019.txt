@@ -1,0 +1,4 @@
+﻿CN：用于瓶装饮料的包装设计要求带有热带水果和树叶生动插图的标签，用于瓶装饮料包装，标签套装，简单，白色背景，清晰时尚的调色板，
+EN：Packaging design for bottled beverages requires labels with vivid illustrations of tropical fruits and leaves, for bottled beverage packaging, label sets, simple, white background, clear and stylish color palette, --q 1 --s 100 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

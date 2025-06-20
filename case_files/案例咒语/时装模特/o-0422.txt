@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个穿着驼色羊绒大衣的女性，服装特写，略微倾斜，佩戴细链项链，大衣为宽松版型，翻领，腰间系有同色腰带，袖口宽松，整体风格简约优雅，背景为纯色，光线柔和，突出服装质感。
+EN：Professional photography, 8K, a woman wearing a camel cashmere coat, clothing close-up, slightly tilted, wearing a thin chain necklace, the coat is a loose version, with a lapel, a belt of the same color tied around the waist, and loose cuffs. The overall style is simple and elegant, the background is a solid color, and the light is soft, highlighting the texture of the clothing. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

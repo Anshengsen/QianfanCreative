@@ -1,0 +1,3 @@
+CN：抽象艺术，微距摄影，液体混合，旋转动态，蓝绿色，棕色，金色，气泡，光泽，飞溅效果，中心构图，高对比度，细节丰富
+EN：Abstract art, macro photography, liquid mixing, swirling dynamics, turquoise, brown, gold, bubbles, gloss, splash effect, centered composition, high contrast, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

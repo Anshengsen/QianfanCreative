@@ -1,0 +1,2 @@
+CN：圣诞风格机车，红色和绿色装饰，圣诞树和礼物，雪地背景，温暖的灯光，卡通渲染，节日气氛，4K分辨率，车头有驯鹿角装饰。
+EN：Christmas style locomotive, red and green decorations, Christmas tree and gifts, snowy background, warm lights, cartoon rendering, festive atmosphere, 4K resolution, and reindeer antlers on the front. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no close up

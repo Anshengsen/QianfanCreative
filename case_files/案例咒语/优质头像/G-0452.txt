@@ -1,0 +1,3 @@
+CN：波普艺术，美少女，穿着鲜艳的服装，表情俏皮，画面充满大胆的色彩和重复的图案。背景是漫画风格的场景或具有流行文化元素的背景，整体风格大胆、前卫、充满活力。
+EN：Pop art, beautiful girls, wearing bright clothes, playful expressions, the picture is full of bold colors and repeated patterns. The background is a comic-style scene or a background with pop culture elements. The overall style is bold, avant-garde and full of vitality. --q 5 --s 100 --ar 1:1 --niji 6--personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

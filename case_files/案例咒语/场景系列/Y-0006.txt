@@ -1,0 +1,4 @@
+﻿CN：最小的中秋节主题的农家院，3D风格，微观，丰富的细节，颜色分级，虚幻引擎渲染，3D渲染，卡通，暖色调，
+EN：The smallest Mid-Autumn Festival-themed farmhouse, 3D style, micro, rich details, color grading, Unreal Engine rendering, 3D rendering, cartoon, warm colors, --q 1 --s 100 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：动画gif风格，日本著名动画片截图，下午的夕阳照射进房间的一个平静的角落，正面，丁达尔效应，地毯上有冥想坐垫和植物盆栽，木地板，暖色调，汤加艺术，tinycore，动漫艺术，8k，超清，超细节，超品质，uhd，
+EN：Animated gif style, screenshots of famous Japanese cartoons, afternoon sunset shines into a calm corner of the room, front, Tyndall effect, carpet with meditation cushions and plant potted plants, wooden floor, warm colors, Tonga art, tinycore, anime art, 8k, ultra-clear, ultra-detailed, ultra-quality, uhd, --q 1 --s 120 --ar 1:1 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

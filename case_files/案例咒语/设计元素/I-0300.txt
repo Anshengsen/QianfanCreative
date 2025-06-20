@@ -1,0 +1,3 @@
+CN：3D渲染，ui元素，图标，等距，卡通风格，一个病床，浅蓝色和灰色，带有可调节床头和床边桌，床上有床单和枕头，床边桌上放着水果，白色背景，柔和光线，中等特写。
+EN：3D rendering, ui element, icon, isometric, cartoon style, of a hospital bed in light blue and gray with an adjustable headboard and bedside tables, with sheets and pillows on the bed and fruit on the bedside tables, white background, soft light, medium close-up. --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

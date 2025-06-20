@@ -1,0 +1,4 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。一个女性，站立姿势，绿色短袖T恤，宽松版型，胸前有白色文字和图案印花，浅蓝色高腰牛仔裤，整体风格休闲，背景为浅色室内墙面，自然光，简洁风格。
+EN：Professional photography, 8K, clothing advertising shooting, no face. A woman, standing pose, green short-sleeved T-shirt, loose fit, white text and pattern printed on the chest, light blue high-waisted jeans, overall casual style, background is light-colored indoor wall, natural light, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

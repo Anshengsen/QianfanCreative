@@ -1,0 +1,3 @@
+CN：动漫风格，二次元，女性角色，灰白色长发，偏分刘海遮住一只眼睛，紫色瞳孔，睁大的眼睛，张开的嘴巴，伸出的舌头，口水，黑色和红色相间的服装，上半身特写，右侧视角，深色背景，强烈对比，戏剧性光照，超高质量，细节丰富。
+EN：Anime style, two-dimensional, female character, long gray hair, side-swept bangs covering one eye, purple pupils, wide-open eyes, open mouth, sticking out tongue, saliva, black and red clothing, upper body close-up, right side perspective, dark background, strong contrast, dramatic lighting, ultra-high quality, rich details. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

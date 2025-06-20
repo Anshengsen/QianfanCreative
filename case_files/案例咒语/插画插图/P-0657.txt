@@ -1,0 +1,3 @@
+CN：梵高风格插画，星空下的城镇，圆形构图，前景是树木的剪影，背景是漩涡状的星空，点缀着明亮的星星和月亮，城镇位于地平线上，灯光闪烁，水面倒映着星光，整体风格充满梦幻色彩，色彩浓烈，笔触粗犷，具有表现主义的特点，最佳品质，8K，油画质感，适合用于艺术海报或壁纸，深蓝色背景
+EN：Van Gogh style illustration, town under the starry sky, circular composition, silhouettes of trees in the foreground, swirling starry sky in the background, dotted with bright stars and the moon, the town is on the horizon, lights are flashing, and the starlight is reflected on the water. The overall style is dreamy, with strong colors and rough brushstrokes, with expressionist characteristics, best quality, 8K, oil painting texture, suitable for art posters or wallpapers, dark blue background --s 100 --ar 3:2 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

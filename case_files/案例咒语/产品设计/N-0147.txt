@@ -1,0 +1,3 @@
+CN：产品摄影，范思哲香水，蓝色，紫色，水晶瓶盖，岩石地面，山脉背景，日落，自然光，8K，超高质量，细节丰富，玻璃质感，光线折射，
+EN：Product photography, Versace perfume, blue, purple, crystal bottle cap, rocky ground, mountains background, sunset, natural light, 8K, ultra high quality, rich details, glass texture, light refraction, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

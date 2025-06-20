@@ -1,0 +1,4 @@
+CN：一张空白的名片，放在深色的办公桌面上，旁边是一支精致的钢笔，一台打开的笔记本电脑显示着代码界面，一盏金属台灯提供柔和的光线，空白效果图，3D渲染，V-Ray，商务氛围，
+EN：A blank business card on a dark office desk, next to a delicate pen, an open laptop showing a code interface, a metal desk lamp providing soft light, blank rendering, 3D rendering, V-Ray, business atmosphere, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6
+（PS：这个提示词逻辑上出现了些问题，抱一丝~） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

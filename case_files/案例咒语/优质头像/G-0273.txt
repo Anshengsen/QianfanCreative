@@ -1,0 +1,3 @@
+CN：平面风格，人物角色插图风格，可爱，简约，时尚，一个戴着眼镜的美少女插图，穿着黑色毛衣，棕色中发，白皙的脸，口红，简单的细节，白色背景，肖像，正面，极简主义，干净流畅的线条，
+EN：Flat style, character illustration style, cute, simple, stylish, illustration of a beautiful girl with glasses, wearing a black sweater, medium brown hair, fair face, lipstick, simple details, white background, portrait, front view, minimalism, clean and smooth lines, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：专业摄影，8K，背对镜头，亚洲女性，盘发，高丸子头，黑色细肩带背心，灰色宽松居家短裤，自然光，室内，简约背景，柔和光线，背部线条流畅，肩颈舒展，休闲放松姿态，皮肤白皙，无明显面部表情，整体氛围宁静，居家感，简约风格。
+EN：Professional photography, 8K, back to camera, Asian woman, bun, high bun, black spaghetti strap vest, gray loose home shorts, natural light, indoors, simple background, soft light, smooth back lines, stretched shoulders and neck, casual and relaxed posture, fair skin, no obvious facial expression, the overall atmosphere is quiet, homely, and simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

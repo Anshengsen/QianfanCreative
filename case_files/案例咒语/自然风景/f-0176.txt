@@ -1,0 +1,3 @@
+CN：铁路，延伸至远方，消失点构图，铁轨，枕木，碎石路基，森林边缘，茂密树木，深色轮廓，日落时分，橙色天空，云彩，光线穿透云层，自然光，广角镜头，低角度拍摄，色彩对比强烈，宁静氛围，自然景观，高清晰度，细节丰富
+EN：Railway, stretching into the distance, vanishing point composition, rails, sleepers, gravel roadbed, forest edge, dense trees, dark outlines, sunset, orange sky, clouds, light penetrating clouds, natural light, wide angle lens, low angle shot, strong color contrast, tranquil atmosphere, natural landscape, high definition, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

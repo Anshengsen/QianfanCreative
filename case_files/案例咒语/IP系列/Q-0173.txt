@@ -1,0 +1,3 @@
+CN：chibi，一只可爱的3D鸭子身穿藏青色西装外套和白色衬衫，<三视图设计（正面、侧面、背面）>，可爱风格，简约设计，chibi角色设计，卡通风格，3D风格，PVC材料，光滑，灰色背景，
+EN：Chibi, a cute 3D duck wearing a navy blue blazer and white shirt, < three-view design (front, side, back) >, cute style, minimalist design, chibi character design, cartoon style, 3D style, PVC material, smooth, gray background, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

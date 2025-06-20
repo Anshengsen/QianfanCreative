@@ -1,0 +1,3 @@
+CN：美丽的女孩，流苏耳环，虚幻引擎5风格，赛博朋克风格，赛博朋克高光，边缘光，霓虹光，暗黑系，紫色和蓝色调，光影强烈，闪亮的黄色眼睛，天使光环，双丸子头，特写，面向镜头，神秘感，最佳品质，超细腻，
+EN： Beautiful girl, tassel earrings, Unreal Engine 5 style, cyberpunk style, cyberpunk highlights, edge light, neon light, dark series, purple and blue tones, strong light and shadow, shiny yellow eyes, angel halo, double buns, close-up, facing the camera, mysterious, best quality, super delicate, --q 2 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

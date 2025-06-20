@@ -1,0 +1,5 @@
+CN：3D渲染，头像特写，照片，虚幻引擎5，一位年轻的亚洲女性，灰白色短发，精致的五官，清澈的蓝色眼睛，自然的妆容，略带忧郁的表情，身穿白色高领上衣，搭配银色和黑色外套，未来感服饰，柔和的光线，深色背景，高细节，8K，逼真。
+EN：3D rendering, headshot, photo, Unreal Engine 5, a young Asian woman with short grey hair, delicate features, clear blue eyes, natural makeup, slightly melancholy expression, wearing a white turtleneck top with a silver and black jacket, futuristic clothing, soft light, dark background, high detail, 8K, realistic. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

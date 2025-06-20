@@ -1,0 +1,4 @@
+
+CN：中国古代神话人物，彩色图像风格，正视图，全身，居中，彩色和白色，版画艺术，商周纹饰，独特的人物设计，中国纹饰，粗体线条，矢量插图，高质量，丰富的细节，
+EN：Ancient Chinese mythological figures, color image style, front view, full body, centered, color and white, printmaking art, Shang and Zhou patterns, unique character design, Chinese patterns, bold lines, vector illustrations, high quality, rich details, --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

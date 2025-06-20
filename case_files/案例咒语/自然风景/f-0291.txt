@@ -1,0 +1,3 @@
+CN：远山，雪山，登山者，广角镜头，自然光，冷色调，纪实摄影，航拍视角，高对比度，清晰锐利，8K，超高细节
+EN：Distant mountains, snow-capped mountains, climbers, wide-angle lens, natural light, cold tones, documentary photography, aerial perspective, high contrast, clear and sharp, 8K, ultra-high details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

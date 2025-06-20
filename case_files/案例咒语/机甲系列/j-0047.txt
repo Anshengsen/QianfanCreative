@@ -1,0 +1,3 @@
+CN：卡通风格机甲，圆润线条，鲜艳色彩，糖果色，童话世界，阳光明媚，卡通渲染，可爱表情，4K，柔和光线，景深效果，
+EN：Cartoon style mecha, rounded lines, bright colors, candy colors, fairy tale world, sunny, cartoon rendering, cute expressions, 4K, soft light, depth of field effect, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

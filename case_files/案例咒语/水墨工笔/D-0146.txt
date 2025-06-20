@@ -1,0 +1,3 @@
+CN：中国传统山水画，青绿山水，工笔重彩，群山，云雾缭绕，飞鸟，古建筑，寺庙，松树，满月，米黄色背景，传统绘画技法，高对比度，细腻笔触，丰富层次，空间感，宁静氛围，最佳品质，超高细节
+EN：Traditional Chinese landscape painting, green landscape, detailed and colorful, mountains, mist, flying birds, ancient buildings, temples, pine trees, full moon, beige background, traditional painting techniques, high contrast, delicate brushstrokes, rich layers, sense of space, tranquil atmosphere, best quality, ultra-high details --q 1 --s 50 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

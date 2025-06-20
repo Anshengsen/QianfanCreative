@@ -1,0 +1,3 @@
+CN：液体波浪渐变背景，光线追踪，明亮，美丽，多彩，主色调为蓝色和黄色，有光泽，迷人的背景，抽象，8K，
+EN：Liquid wave gradient background, ray tracing, bright, beautiful, colorful, main colors are blue and yellow, shiny, fascinating background, abstract, 8K, --q 1 --s 100 --ar 3:4 --niji 6  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,11 @@
+
+戌狗
+CN：一只卡通狗，人脸，卡通，小女孩，生肖狗，开心的笑，可爱，调皮，漂亮，亚洲脸，符合中国人的审美，戴着狗帽子，IP，泡泡玛特，3D，C4D，OC渲染，彩虹色，穿七彩衣服，黑色背景，全身照，最佳质量，全身镜头，全身像，面对镜头，全景，
+EN：A cartoon dog, face, cartoon, little girl, zodiac dog, happy smile, cute, naughty, beautiful, Asian face, in line with the aesthetics of China people, wearing a dog hat, IP, POP MART, 3D, C4D, OC rendering, rainbow color, wearing colorful clothes, black background, full-length photo, best quality, full-length lens, full-length portrait, facing the camera, --q 5 --s 250 --ar 9:16 --v 5.2 --style raw --seed 2802536496
+
+
+
+
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

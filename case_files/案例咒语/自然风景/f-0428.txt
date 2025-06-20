@@ -1,0 +1,3 @@
+CN：冬季景观，奥地利哈尔施塔特村庄，湖畔小屋，雪山背景，宁静湖面，倒影，冷色调，广角，自然光，高对比度，旅游摄影，风景摄影，高清，8K
+EN：Winter landscape, Hallstatt village, Austria, lakeside cottage, snowy mountains in the background, tranquil lake, reflections, cold tones, wide angle, natural light, high contrast, travel photography, landscape photography, HD, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：傍晚时分的法国巴黎凯旋门，特写，暖黄色灯光照亮整个建筑，深蓝色天空背景，石板路面，路灯，低角度拍摄，对称构图，高清，8K，超广角，真实感，电影级光效
+EN：Arc de Triomphe in Paris, France at dusk, close-up, warm yellow light illuminates the entire building, dark blue sky background, stone pavement, street lights, low angle shot, symmetrical composition, HD, 8K, ultra wide angle, realistic, movie-level lighting effects --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

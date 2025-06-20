@@ -1,0 +1,3 @@
+CN：极简风格的白色相框，边框纤细，内部留白，白色背景，空白效果图，3D渲染，Keyshot渲染，高质量模型，用于展示图片或艺术作品，
+EN：Minimalist style white photo frame with slim borders and blank space inside, white background, blank rendering, 3D rendering, Keyshot rendering, high quality mockup for displaying pictures or artwork, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

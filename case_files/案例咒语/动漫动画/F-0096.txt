@@ -1,0 +1,4 @@
+﻿CN：动漫风格，一个美少女站在雨林中的瀑布前，月光，柔和，鲜艳的色彩，3D渲染，虚幻引擎，高清，梦幻，高分辨率，全景，飘落的枫叶，
+EN：Anime style, a beautiful girl standing in front of a waterfall in the rainforest, moonlight, soft, bright colors, 3D rendering, Unreal Engine, high definition, dream, high resolution, panorama, falling maple leaves, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

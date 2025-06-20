@@ -1,0 +1,4 @@
+﻿CN：一把赛博朋克手枪，黑暗的表面上有粉红色的灯，一丝不苟的线条精度，大胆的颜色混合，赛博朋克，黑色背景，
+EN：A cyberpunk pistol with pink lights on a dark surface, meticulous line precision, bold color mixing, cyberpunk, black background, --q 1 --s 100 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

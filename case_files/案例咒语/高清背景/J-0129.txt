@@ -1,0 +1,4 @@
+﻿CN：整个画布的中央区域有一个蓝色和黄色的漩涡，深色明暗对比照明，采用浅黑色和青铜色、深金色和深蓝色、浅海军和青铜色的风格，轮辋灯，最佳品质，最高分辨率，
+EN：The central area of the entire canvas has a swirl of blue and yellow, dark chiaroscuro lighting, in styles of light black and bronze, dark gold and dark blue, light navy and bronze, rim lights, best quality, highest resolution, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

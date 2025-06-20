@@ -1,0 +1,3 @@
+CN：万圣节角色扮演，电影风格，一个穿着僵尸新娘服装的中国女子，破旧的婚纱，苍白的皮肤，诡异的妆容，废弃的教堂内景，昏暗的灯光，营造恐怖氛围，低角度拍摄，高分辨率，电影质感，颗粒感，虚焦背景，突出人物，逼真写实，
+EN：Halloween role play, movie style, a Chinese woman in a zombie bride costume, worn wedding dress, pale skin, weird makeup, abandoned church interior, dim lighting, creating a horror atmosphere, low angle shot, high resolution, film texture, grainy, out of focus background, highlighting the characters, realistic, --q 5 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

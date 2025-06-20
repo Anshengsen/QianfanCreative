@@ -1,0 +1,4 @@
+CN：3D渲染图标，卡通风格，一个白色温度计，红色液柱显示高温，周围有蓝色水滴和橙色火焰，整体造型简洁明了，黏土材质，表面光滑有光泽，梦幻色彩，OC渲染，工作室照明，光线明亮，白色背景，无阴影，超细节，超品质，3D效果，适合用于天气预报或高温警示相关的APP图标或网页元素
+EN：3D rendering icon, cartoon style, a white thermometer, a red liquid column showing high temperature, surrounded by blue water droplets and orange flames, the overall shape is simple and clear, clay material, smooth and shiny surface, dreamy colors, OC rendering, studio lighting, bright light, white background, no shadow, super details, super quality, 3D effect, suitable for weather forecast or high temperature warning related APP icons or web elements --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

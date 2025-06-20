@@ -1,0 +1,3 @@
+CN：吉卜力工作室风格插图，鸟瞰视角，中国北京，天坛、中国国家体育场、紫禁城、街道、熙熙攘攘的人们，举天同庆，8K，高分辨，高细节，
+EN：Studio Ghibli style illustration, bird's eye view, Beijing, China, Temple of Heaven, China National Stadium, Forbidden City, streets, bustling people, celebrating the sky together, 8K, high resolution, high detail, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

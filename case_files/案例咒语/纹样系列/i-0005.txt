@@ -1,0 +1,3 @@
+CN：图形设计，矢量，单色，无阴影无灯光无渐变，白色背景，
+EN：Graphic design, vector, monochrome, no shadow, no light, no gradient, white background, --q 1 --s 100 --ar 1:1 --v 6.0 --tile 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

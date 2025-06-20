@@ -1,0 +1,3 @@
+CN：平面设计图，扁平，手绘稿件，可爱卡通风格，手机壳及挂饰，浅绿色格子背景，粉色心形图案，蓝色蝴蝶结装饰，白色猫咪头像挂坠，粉色与蓝色相间珠链，柔和光线，暖色调，高细节，8K。
+EN：Graphic design, flat, hand-drawn manuscript, cute cartoon style, mobile phone case and pendant, light green plaid background, pink heart pattern, blue bow decoration, white cat head pendant, pink and blue alternating bead necklace, soft light, warm colors, high details, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

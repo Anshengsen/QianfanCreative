@@ -1,0 +1,3 @@
+CN：生物机械风格机甲，有机纹理，金属骨骼，绿色植物，茂密丛林，阳光透过树叶，自然光，写实渲染，高精度建模，8K，景深效果，全局光照，
+EN：Biomechanical style mecha, organic textures, metal skeletons, green plants, dense jungle, sunlight through leaves, natural light, realistic rendering, high-precision modeling, 8K, depth of field effect, global illumination, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

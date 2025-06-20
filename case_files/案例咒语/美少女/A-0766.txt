@@ -1,0 +1,3 @@
+CN：现代摄影照片，写实，一位亚洲女性，红色长发，头戴黑色恶魔角发箍，身穿黑色无肩带连衣裙，黑色丝袜，黑色高跟鞋，蹲姿，手中拿着一个红苹果，面部表情冷艳，灰色背景，摄影室灯光。
+EN：Modern photo realistic of an Asian woman with long red hair, wearing a black devil horns headband, wearing a black strapless dress, black stockings, black high heels, squatting, holding a red apple in her hands, with a cool facial expression, gray background, studio lighting. --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

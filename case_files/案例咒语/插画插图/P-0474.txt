@@ -1,0 +1,3 @@
+CN：卡通风景插画，蓝色天空，有云朵和三个星球，下方是峡谷和河流，河流是绿色，峡谷是紫色和棕色，整体色调柔和，梦幻，扁平化设计，干净的线条，最佳品质，8K，
+EN：Cartoon landscape illustration, blue sky, clouds and three planets, canyons and rivers below, the river is green, the canyon is purple and brown, the overall tone is soft, dreamy, flat design, clean lines, best quality, 8K, --s 50 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

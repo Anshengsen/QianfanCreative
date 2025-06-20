@@ -1,0 +1,3 @@
+CN：3D渲染，金色皇冠，特写，柔和光线，光滑材质，白色背景，居中构图，
+EN：3D rendering, golden crown, close-up, soft light, smooth texture, white background, centered composition,  --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

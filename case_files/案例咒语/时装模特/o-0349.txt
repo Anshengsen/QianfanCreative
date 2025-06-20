@@ -1,0 +1,4 @@
+CN：专业摄影，8K，服装特写，亚洲女性，站立姿势，正面视角，微侧身，双手自然下垂，穿着短袖针织上衣，米白色，高领，领口有细褶皱，竖条纹针织纹理，修身版型，下身搭配浅蓝色牛仔裤，整体风格简约，优雅，柔和光线，背景模糊，室内环境。
+EN：Professional photography, 8K, clothing close-up, Asian woman, standing pose, front perspective, slightly sideways, hands hanging naturally, wearing a short-sleeved knitted top, off-white, high collar, fine pleats at the neckline, vertical striped knitted texture, slim fit, paired with light blue jeans, the overall style is simple and elegant, soft light, blurred background, indoor environment. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

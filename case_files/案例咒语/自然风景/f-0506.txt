@@ -1,0 +1,3 @@
+CN：金银花特写，白色与黄色花朵，花蕊纤细，绿色叶片背景，自然光，柔焦，微距摄影，高饱和度，细节丰富，8K
+EN：Honeysuckle close-up, white and yellow flowers, slender stamens, green leaves background, natural light, soft focus, macro photography, high saturation, rich details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

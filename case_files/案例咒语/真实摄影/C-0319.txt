@@ -1,0 +1,5 @@
+CN：人像摄影，戏剧光，一个年轻的亚洲男子，棕色短发，穿着灰色衬衫和T恤，看向左侧，蓝色背景光，面部有高光，半身像，电影照明，最佳质量，8k，超细节，色彩鲜明
+EN：Portrait photography, dramatic light, a young Asian man with short brown hair, wearing a grey shirt and t-shirt, looking to the left, blue background light with highlights on the face, half-length portrait, cinematic lighting, best quality, 8k, ultra details, vivid colors --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个年轻女性，站立姿势，略微侧身，身穿白色针织衫，宽松版型，材质柔软，有纽扣，内搭深色上衣，整体风格温柔，休闲，背景模糊，室内环境，柔和光线，细节丰富，质感细腻。
+EN：Professional photography, 8K, a young woman, standing, slightly sideways, wearing a white sweater, loose fit, soft material, with buttons, and a dark top underneath. The overall style is gentle and casual, with a blurred background, indoor environment, soft light, rich details, and delicate texture. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

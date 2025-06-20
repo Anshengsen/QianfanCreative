@@ -1,0 +1,3 @@
+CN：粗糙工笔风格，白色背景，一个中国古代的男性角色，发髻发簪，夸张的表情，皱眉，明暗梯度，正面，毕加索，迪士尼风格的面部特色，速写工笔画风格的绘画风格，
+EN：Rough brushwork style, white background, an ancient Chinese male character, hair bun and hairpin, exaggerated expression, frown, light and dark gradient, front view, Picasso, Disney style facial features, sketched brushwork style painting style, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

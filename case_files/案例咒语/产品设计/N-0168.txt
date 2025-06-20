@@ -1,0 +1,3 @@
+CN：产品摄影，黑色香水瓶，木炭块，原木，石头底座，红色背光，8K，超高质量，细节丰富，磨砂质感，深沉，神秘，男士香水，香氛，时尚，
+EN：Product photography, black perfume bottle, charcoal block, logs, stone base, red backlight, 8K, ultra high quality, rich details, matte texture, deep, mysterious, men's perfume, fragrance, fashion, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

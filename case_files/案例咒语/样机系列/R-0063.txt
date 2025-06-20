@@ -1,0 +1,3 @@
+CN：空白书籍模型，3D渲染，文艺复古风格，深棕色皮质封面，精美的烫金工艺，放置在书架上，周围环绕着其他书籍和装饰品，光线柔和，细节精致，高品质渲染，4K分辨率，空白书脊可用于展示书籍名称或作者信息。
+EN：Blank book mockup, 3D rendering, literary retro style, dark brown leather cover, exquisite hot stamping process, placed on a bookshelf, surrounded by other books and decorations, soft light, exquisite details, high-quality rendering, 4K resolution, blank spine can be used to display the book name or author information. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

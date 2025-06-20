@@ -1,0 +1,4 @@
+﻿CN：一个可爱的小女孩，扎着长长的麻花辫，矢量风格，正面，全身，白色背景，最佳品质，
+EN：A cute little girl with long braids, vector style, front, full body, white background, best quality, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

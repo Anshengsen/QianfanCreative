@@ -1,0 +1,3 @@
+CN：一位充满科技感和未来感的美少女，拥有金属质感的身体和发光的眼睛，背景是复杂的电路板和数据流，她眼神空灵，仿佛在思考着人类的未来，整体画面充满科技感和未来感，引发人们对人工智能的思考。
+EN：A beautiful girl full of sense of technology and the future, with a metallic body and glowing eyes, with a complex circuit board and data stream in the background. Her eyes are ethereal, as if she is thinking about the future of mankind. The overall picture is full of sense of technology and the future, which triggers people's thinking about artificial intelligence. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：海岛风光，碧海蓝天，热带岛屿，翠绿山丘，洁白沙滩，清澈海水，色彩斑斓的彩虹，云雾缭绕，远山，航拍视角，自然风光，明媚阳光，高饱和度，电影质感，广角镜头，超高清细节，8K。
+EN：Island scenery, blue sea and blue sky, tropical islands, green hills, white sand beaches, clear waters, colorful rainbows, clouds and mist, distant mountains, aerial perspective, natural scenery, bright sunshine, high saturation, film texture, wide-angle lens, ultra-high-definition details, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

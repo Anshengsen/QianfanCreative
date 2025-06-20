@@ -1,0 +1,3 @@
+CN：印象派风格，模糊的荷兰乡村风景，日落，风车，低光照，柔和的色彩，蓝色和橙色调，长焦镜头，景深浅，朦胧感，印象派绘画风格，克劳德·莫奈风格。
+EN：Impressionist style, blurred Dutch countryside landscape, sunset, windmill, low light, soft colors, blue and orange tones, telephoto lens, shallow depth of field, hazy feeling, impressionist painting style, Claude Monet style. --q 1 --s 100 --ar 16:9 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

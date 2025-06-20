@@ -1,0 +1,4 @@
+﻿CN：经典艺术风格，一个非常漂亮的东方女孩，照片写实，赛博朋克，黑色长发，戏剧性的姿势，电影风格，暗红色背景，特写，最高品质，
+EN：Classic art style, a very beautiful oriental girl, photo realism, cyberpunk, long black hair, dramatic poses, movie style, dark red background, close-up, highest quality, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

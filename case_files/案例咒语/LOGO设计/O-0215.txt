@@ -1,0 +1,4 @@
+CN：矢量风格的卡通标志设计，简单的线条，简单，矢量，一个太极形状的寿司，一半是米饭，一半是三文鱼，深蓝色轮廓线，下边的文字是“DreamLab”白色背景，正面居中，最佳品质
+EN：Vector style cartoon logo design, simple lines, simple, vector, a Tai Chi shaped sushi, half rice, half salmon, dark blue outline, the text below is "DreamLab" white background, front center, best quality --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg 
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

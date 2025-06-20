@@ -1,0 +1,3 @@
+CN：3D渲染，等距，站立，电源按钮图标，黑色方形板和白色圆形板背景+蓝色电源符号，多层，逼真，高质量，3D建模，简洁，在淡紫色背景上孤立，
+EN：3D rendering, isometric, standing, power button icon, black square plate and white round plate background + blue power symbol, multi-layered, realistic, high quality, 3D modeling, simple, isolated on lilac background,  --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

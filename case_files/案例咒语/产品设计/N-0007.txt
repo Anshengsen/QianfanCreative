@@ -1,0 +1,7 @@
+
+CN：赛博朋克，易拉罐可乐，可乐，易拉罐，水珠，简单背景，黑色高反射背景布，发光，最佳质量，最佳画质，电影级照明效果，
+EN：Cyberpunk, cans of coke, coke, cans, water drops, simple background, black highly reflective background cloth, light, best quality, best picture quality, movie-level lighting effect,  --q 5 --ar 3:4 --s 250 --v 5.2 --style raw
+
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

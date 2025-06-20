@@ -1,0 +1,3 @@
+CN：仰视图，远处上方有一块岩石，用于电商产品展示，最佳品质，白天，8K摄影，
+EN：Looking up, there is a rock above in the distance, used for e-commerce product display, best quality, daytime, 8K photography, --q 1 --s 100 --ar 1:1 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

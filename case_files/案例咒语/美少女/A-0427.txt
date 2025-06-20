@@ -1,0 +1,3 @@
+CN：一个穿着淡红色连帽衫的中国女孩，高马尾，瓜子脸，淡妆，白皙的皮肤，2D平面风格，卡通动漫风格，手绘插画风格，人物肖像，正面，面对观众，色彩柔和，卡通插图，白色背景，简单的线条，简单的细节， 高分辨率和高细节，最佳质量，
+EN：A Chinese girl wearing a light red hoodie, high ponytail, oval face, light makeup, fair skin, 2D flat style, cartoon anime style, hand-drawn illustration style, character portrait, front, facing the audience, soft colors, cartoon illustration, White background, simple lines, simple details, high resolution and high details, best quality, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

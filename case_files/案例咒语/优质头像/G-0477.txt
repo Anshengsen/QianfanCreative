@@ -1,0 +1,3 @@
+CN：虚幻引擎5风格，3D渲染，呈现了一种未来主义、反乌托邦的赛博朋克风格设计，一位日本舞妓戴着大星形太阳镜，她的头发是黑色和金色相间的长卷发，穿着一件饰有流光图案的紫色夹克，背景是动态霓虹绿色游戏标题屏幕，高清渲染，8K。
+EN：Unreal Engine 5 style, 3D rendering, presenting a futuristic, dystopian cyberpunk style design of a Japanese maiko wearing large star-shaped sunglasses, her hair is long black and blonde curly hair, wearing a purple jacket with a streamer pattern, with a dynamic neon green game title screen in the background, HD rendering, 8K. --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq --sref https://s.mj.run/TZn0Oqvs6HA 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

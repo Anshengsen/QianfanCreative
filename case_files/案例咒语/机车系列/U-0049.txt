@@ -1,0 +1,2 @@
+CN：赛车渲染图，赛车运动，未来主义，霓虹灯，蓝色，夜晚，车库，逼真，3D渲染，超高清，8K，光影效果，高光泽度，细节丰富，暗色调，赛车全景特写，动态构图。
+EN：Racing car rendering, motorsport, futuristic, neon, blue, night, garage, realistic, 3D rendering, ultra high definition, 8K, light and shadow effects, high gloss, rich details, dark tones, racing car panoramic close-up, dynamic composition. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6

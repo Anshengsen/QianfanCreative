@@ -1,0 +1,3 @@
+CN：一个3d商店图标，多层，有底座，磨砂玻璃，透明，超简约外观，明亮的色彩，工作室照明，蓝色白色风格，卡通，白色背景，光线追踪，等距透视，blender，c4d，oc渲染，最佳品质，丰富的细节，超高清，
+EN：A 3d store icon, multi-layer, with base, frosted glass, transparent, ultra-minimalist appearance, bright colors, studio lighting, blue white style, cartoon, white background, ray tracing, isometric perspective, blender, c4d, oc rendering, best quality, rich details, ultra high definition, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

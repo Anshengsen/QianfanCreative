@@ -1,0 +1,3 @@
+CN：热带海滩，清澈海水，金色沙滩，棕榈树叶，蓝天白云，远处岛屿，明媚阳光，海浪轻拍，广角镜头，自然光，鲜艳色彩，高饱和度，度假氛围，宁静，放松，天堂般，最佳品质，8K，超高清。
+EN：Tropical beach, clear water, golden sand, palm leaves, blue sky and white clouds, islands in the distance, bright sunshine, waves lapping at the waves, wide angle lens, natural light, bright colors, high saturation, vacation atmosphere, tranquility, relaxation, paradise, best quality, 8K, ultra high definition. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

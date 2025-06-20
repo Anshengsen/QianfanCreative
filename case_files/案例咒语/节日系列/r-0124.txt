@@ -1,0 +1,3 @@
+CN： 3D渲染，一个古老的魔法书，书页上写满了神秘的符文，书页自动翻动，发出诡异的声音，周围环绕着飘动的魔法粒子，背景是阴森的图书馆，营造神秘恐怖的氛围，高精度建模，4K分辨率，超写实渲染，最佳质量，魔法，神秘，细节丰富的书页纹理，
+EN：3D rendering, an ancient magic book, the pages are full of mysterious runes, the pages turn automatically, making strange sounds, surrounded by floating magic particles, the background is a gloomy library, creating a mysterious and terrifying atmosphere, high-precision modeling, 4K resolution, hyper-realistic rendering, best quality, magic, mystery, detailed page textures, --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

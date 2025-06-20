@@ -1,0 +1,3 @@
+CN：中国风头像，美少女，红色长发，穿着红色汉服，轻抚长发，温柔的表情，水墨画风格的背景，中国传统元素，飘逸的衣袂，淡雅的色彩，富有诗意。
+EN：A Chinese-style avatar, a beautiful girl with long red hair, wearing red Hanfu, stroking her long hair, with a gentle expression, a background in ink painting style, traditional Chinese elements, flowing sleeves, elegant colors, and full of poetry. --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

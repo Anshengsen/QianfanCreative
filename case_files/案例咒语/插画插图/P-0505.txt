@@ -1,0 +1,3 @@
+CN：复古动漫风格，一个女孩，紫色头发，绿色眼睛，室内场景，暖色调，细节丰富，手绘感，怀旧风格，最佳品质，插画设计，动漫插画，人物肖像，细节丰富，视觉冲击力，创意插画，时尚元素，复古风格，艺术氛围，精致画面，
+EN：Retro anime style, a girl, purple hair, green eyes, interior scene, warm tones, rich details, hand-painted feel, nostalgic style, best quality, illustration design, anime illustration, character portrait, rich details, visual impact, creative illustration, fashion elements, retro style, artistic atmosphere, exquisite picture, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

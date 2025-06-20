@@ -1,0 +1,3 @@
+CN：3D风格，卡通风格，皮克斯风格，纯白背景，角色一致性但动作不同，打太极的四个连招，四个长相一样的婴儿怪物，最佳品质，8K，
+EN：3D style, cartoon style, Pixar style, pure white background, consistent characters but different movements, four Tai Chi combos, four identical looking baby monsters, best quality, 8K, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

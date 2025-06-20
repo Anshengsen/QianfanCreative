@@ -1,0 +1,3 @@
+CN：着色书设计，卡哇伊的葡萄，线描，矢量，白色背景，低细节，
+EN：Coloring book design, kawaii grapes, line drawing, vector, white background, low detail, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

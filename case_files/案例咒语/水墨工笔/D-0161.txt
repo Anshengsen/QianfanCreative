@@ -1,0 +1,3 @@
+CN：水墨画风格，江南水乡，黑白灰为主色调，点缀金色和绿色，房屋，小船，山石，整体风格古朴，具有中国传统文化韵味，细节包括房屋的结构，小船的细节，以及山石的纹理，最佳品质，8K，水墨画质感，
+EN：Ink painting style, Jiangnan water town, black and white gray as the main colors, embellished with gold and green, houses, boats, rocks, the overall style is simple, with the charm of traditional Chinese culture, details include the structure of the house, the details of the boat, and the texture of the rocks, best quality, 8K, ink painting texture, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

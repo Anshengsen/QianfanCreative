@@ -1,0 +1,4 @@
+﻿CN：餐厅的LOGO设计，一位中国女酋长正在烹饪烧制的小块鸡蔬菜和面条，漫画艺术风格，矢量风格，白色背景，居中，最佳品质，
+EN：The logo design of the restaurant, a Chinese female chief is cooking small pieces of chicken, vegetables and noodles, comic art style, vector style, white background, centered, best quality, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

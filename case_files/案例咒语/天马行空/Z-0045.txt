@@ -1,0 +1,3 @@
+CN：使用粘土材料以卡通风格进行3D渲染，可爱多彩的春天花朵草地3d背景，3d云朵，c4d，oc，blender，柔光，明亮，卡通，高分辨，高细节，
+EN：3D rendering in cartoon style using clay materials, lovely and colorful spring flowers grass 3d background, 3d clouds, c4d, oc, blender, soft light, bright, cartoon, high resolution, high detail, --q 1 --s 180 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

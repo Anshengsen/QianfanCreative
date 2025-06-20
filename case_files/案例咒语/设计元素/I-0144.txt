@@ -1,0 +1,3 @@
+CN：一组矢量的可爱的美食的插图，平面风格，3x4排列，可爱的，卡通的，矢量的，白色背景，
+EN：A set of vector illustrations of cute food, flat style, 3x4 arrangement, cute, cartoon, vector, white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

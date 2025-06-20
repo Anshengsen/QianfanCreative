@@ -1,0 +1,3 @@
+CN：一张空白的名片，放在深色的办公桌面上，旁边是一支钢笔、笔记本电脑和一盏台灯，空白效果图，3D渲染，V-Ray，商务氛围，
+EN：A blank business card on a dark office desk, next to a pen, laptop and a desk lamp, blank rendering, 3D rendering, V-Ray, business atmosphere, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

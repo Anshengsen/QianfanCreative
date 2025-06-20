@@ -1,0 +1,5 @@
+
+CN：彩色玻璃，软渐变，彩色的透明玻璃，3D风格，3D渲染，全息风格，明亮，高反射，3D，虚幻引擎，32K，HD，
+
+EN：Stained glass, soft gradual change, colored transparent glass, 3D style, 3D rendering, holographic style, bright, high reflection, 3D, Unreal Engine, 32K, HD, --q 5 --s 180 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

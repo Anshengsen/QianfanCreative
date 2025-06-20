@@ -1,0 +1,5 @@
+CN：雪山风景，插画风格，冷色调，广角，一只枯树，两只狐狸，日落时分，冰雪覆盖的山脉背景，光线柔和，细节丰富，高品质，艺术作品。
+EN：Snowy mountain landscape, illustration style, cold tones, wide angle, a dead tree, two foxes, snow-covered mountains in the background at sunset, soft light, rich details, high quality, work of art. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

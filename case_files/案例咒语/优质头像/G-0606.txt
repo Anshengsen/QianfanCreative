@@ -1,0 +1,4 @@
+CN：水彩风格的水墨头像，水墨风，墨水风，一个男孩，黑色短发，表情忧郁，脸颊泛红，围着红色围巾，背着书包，背景是白色，整体风格清新，色彩淡雅，线条流畅，具有水彩和水墨质感，最佳品质，8K，
+EN：Watercolor style ink portrait, ink style, ink style, a boy, short black hair, melancholy expression, flushed cheeks, wearing a red scarf, carrying a schoolbag, the background is white, the overall style is fresh, the color is elegant, the lines are smooth, with watercolor and ink texture, best quality, 8K, --q 1 --s 30 --ar 1:1 --niji 6 --profile hrqrh1e
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

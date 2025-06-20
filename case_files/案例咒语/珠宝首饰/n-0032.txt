@@ -1,0 +1,3 @@
+CN：三维渲染图，一枚戒指，戒指顶部是一个粉色丝带蝴蝶结，蝴蝶结中心镶嵌一颗钻石，戒指侧面镶嵌一排小钻石，材质采用玫瑰金色，放置在粉色背景上，背景是丝绸材质，柔和的阴影，全局光，超级细节，光滑，超精细
+EN：3D rendering of a ring with a pink ribbon bow on top, a diamond in the center of the bow, and a row of small diamonds on the side of the ring, made of rose gold, placed on a pink background, the background is made of silk, soft shadows, global light, super detailed, smooth, super fine --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

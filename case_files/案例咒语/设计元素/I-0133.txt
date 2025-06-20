@@ -1,0 +1,3 @@
+CN：一组卡通风格的矢量小贴纸，以装饰品为主题（例如蝴蝶结、气球、心形元素、星星元素、小闪电、糖果包装、漂流瓶等等），矢量，粗线条和纯色，卡通风格，3x4排列布局，纯白背景，超品质，
+EN：A set of cartoon-style vector stickers with decorative themes (e.g. bows, balloons, heart-shaped elements, star elements, small lightning, candy packaging, drift bottles, etc.), vector, thick lines and solid colors, cartoon-style, 3x4 arrangement layout, pure white background, super quality, --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

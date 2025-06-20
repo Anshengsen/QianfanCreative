@@ -1,0 +1,3 @@
+CN：扁平风格LOGO设计，一组火箭相关的LOGO，9个，颜色为渐变色，形状为三角形、圆形和矩形，线条简洁，整体风格现代简约，具有科技感和活力感，细节包括LOGO的形状，颜色的渐变，以及火箭图案的细节，最佳品质，8K，矢量图形，白色背景，
+EN：Flat style LOGO design, a set of rocket-related LOGOs, 9 in gradient colors, in triangle, circle and rectangle shapes, with clean lines, the overall style is modern and simple, with a sense of technology and vitality, details include the shape of the LOGO, the gradient of the color, and the details of the rocket pattern, best quality, 8K, vector graphics, white background, --s 100 --ar 1:1 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

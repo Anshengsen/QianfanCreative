@@ -1,0 +1,3 @@
+CN：日本动漫风格，动画片截图，风景画，沿海铁路，阳光明媚，蓝天白云，清澈的海水，沙滩，绿色的植被，电线杆，火车轨道，远处的城镇和山峦，写实风格的动漫渲染，柔和的光线，温暖的色调，水平构图，长焦镜头，高饱和度，高清晰度，最佳品质。
+EN：Japanese anime style, animation screenshot, landscape painting, coastal railway, sunny day, blue sky and white clouds, clear sea water, beach, green vegetation, telephone poles, train tracks, towns and mountains in the distance, realistic style anime rendering, soft light, warm tones, horizontal composition, telephoto lens, high saturation, high definition, best quality. --q 1 --s 100 --ar 16:9 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

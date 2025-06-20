@@ -1,0 +1,3 @@
+CN：LOGO，狮子标志，线性风格，银色，咆哮姿态，侧身，鬃毛细节，几何风格，深黑色背景，纹理质感，简洁，优雅，标志设计。
+EN：LOGO, lion logo, linear style, silver color, roaring posture, sideways, mane details, geometric style, dark black background, textured texture, simplicity, elegance, logo design. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

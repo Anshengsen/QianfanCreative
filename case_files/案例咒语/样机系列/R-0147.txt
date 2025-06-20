@@ -1,0 +1,3 @@
+CN：空白效果图，俯视视角，木质桌面，两本叠放的笔记本，白色封面笔记本，黑色封面笔记本，一杯拿铁咖啡，一支黑色钢笔，简约风格，自然光，暖色调，高对比度，8K，超高清细节，产品展示，静物摄影
+EN：Blank rendering, top view, wooden desk, two stacked notebooks, white cover notebook, black cover notebook, a cup of latte, a black pen, minimalist style, natural light, warm tones, high contrast, 8K, ultra high definition details, product display, still life photography --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：一个可爱的人工智能机器人，3d，穿着蓝色斗篷，戴着魔术帽，拿着银色魔法棒，卡通，蓝白相间，白色背景，柔和的灯光，柔和的色彩，32kuhd，3D渲染，最佳品质，
+EN：A cute artificial intelligence robot, 3d, wearing a blue cape, wearing a magic hat, holding a silver magic wand, cartoon, blue and white, white background, soft lighting, soft colors, 32kuhd, 3D rendering, best quality, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

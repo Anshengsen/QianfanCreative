@@ -1,0 +1,3 @@
+CN：一组游戏图标（如油桶、弓箭、城堡、草屋、锤头、剑、盾牌、术士帽、盔甲等等），3x3平等排列，高饱和，迪士尼卡通风格，游戏风格，90年代风格，纯白背景，
+EN：A set of game icons (such as oil drums, bows and arrows, castles, thatched houses, hammers, swords, shields, warlock hats, armor, etc.), arranged equally 3x3, highly saturated, Disney cartoon style, game style, 90s style, pure white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

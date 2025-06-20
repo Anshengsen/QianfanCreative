@@ -1,0 +1,3 @@
+CN：宇宙，星空，幻想，星球，水面，倒影，光束，日落，紫色，蓝色，粉色，渐变，剪影，长曝光，超广角，科幻，艺术感，超现实，梦幻，8K，超高清，细节丰富，光线追踪，史诗级，电影感，壁纸。
+EN：Universe, starry sky, fantasy, planet, water surface, reflection, light beam, sunset, purple, blue, pink, gradient, silhouette, long exposure, ultra wide angle, science fiction, artistic, surreal, dreamy, 8K, ultra high definition, rich details, ray tracing, epic, cinematic, wallpaper. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

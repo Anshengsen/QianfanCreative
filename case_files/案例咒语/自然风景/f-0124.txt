@@ -1,0 +1,3 @@
+CN：幽暗森林小径，雾气弥漫，远处微弱火光，深邃黑暗，树木成排，纵深感，神秘氛围，冷色调，电影级光照，超高质量，8K。
+EN：Dark forest path, foggy, faint fire in the distance, deep darkness, rows of trees, sense of depth, mysterious atmosphere, cold colors, cinematic lighting, ultra high quality, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

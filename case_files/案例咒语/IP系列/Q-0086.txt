@@ -1,0 +1,4 @@
+﻿CN：一个3d卡通男孩戴着黄色棒球帽，穿着蓝色背心和牛仔短裤，看书，全身，柔和的阴影，干净锐利的焦点，8K，3D，
+EN：A 3D cartoon boy wearing a yellow baseball cap, blue tank top and denim shorts, reading a book, full body, soft shadows, clean and sharp focus, 8K, 3D, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：儿童插画风格，一群人，拿着花朵和水果，卡通人物，鲜艳色彩，手绘感，童趣，矢量图形，扁平化设计，最佳品质，插画设计，儿童书籍插画，快乐场景，温馨氛围，细节丰富，轻松愉快，简约背景，节日氛围，
+EN：Children's illustration style, a group of people, holding flowers and fruits, cartoon characters, bright colors, hand-drawn, childlike, vector graphics, flat design, best quality, illustration design, children's book illustration, happy scene, warm atmosphere, rich details, relaxed and happy, simple background, festive atmosphere, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：卡通风格头像，一只黑猫，脸颊上有黄色圆点，闭着一只眼睛，表情可爱，抱着一个橙色杯子，杯子上画着爱心图案，背景是蓝色，整体风格简约，色彩明快，线条简洁，具有治愈感，最佳品质，8K，矢量图形，干净利落，适合作为社交媒体头像
+EN：A cartoon-style avatar of a black cat with yellow dots on its cheeks, one eye closed, a cute expression, holding an orange cup with a heart pattern painted on it, with a blue background, the overall style is simple, the colors are bright, the lines are simple, and it has a healing feel, the best quality, 8K, vector graphics, clean and neat, suitable as a social media avatar --q 5 --s 50 --ar 1:1 --niji 6 --profile hrqrh1e
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：平面插图风格，一个古代红衣女子，撑伞，高冷，特写，金色头饰，美学，长直发，红色背景，niji漫画风 ，干净锐利且流畅的线条，简约，
+EN：Flat illustration style, an ancient red-dressed woman, holding an umbrella, cool, close-up, golden headdress, aesthetics, long straight hair, red background, niji comic style, clean, sharp and smooth lines, simple, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

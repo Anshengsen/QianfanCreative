@@ -1,0 +1,4 @@
+CN：远山风景，雪山，山脉，广阔草原，羊群，晴朗天空，蓝天白云，自然光，明暗对比，广角镜头，高饱和度，风景摄影，超高清，8K，细节丰富，真实感，色彩鲜明
+EN：Distant mountain scenery, snow-capped mountains, mountain ranges, vast grasslands, sheep flocks, clear sky, blue sky and white clouds, natural light, light and dark contrast, wide-angle lens, high saturation, landscape photography, ultra-high definition, 8K, rich details, realism, vivid colors --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

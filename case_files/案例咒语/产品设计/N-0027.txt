@@ -1,0 +1,4 @@
+﻿CN：圆珠笔产品渲染图，使用cinema 4D制作渲染，白色背景，干净的阴影，流行玩具，3d图标，游戏道具，完整单体，3D渲染，oc渲染，简单造型，多角度，极简主义，电影照明，超高清，
+EN：Ballpoint pen product rendering graph, rendering using cinema 4D, white background, clean shadows, popular toys, 3d icons, game props, full monomer, 3D rendering, oc rendering, simple modeling, multi-angle, minimalism, movie lighting, ultra high definition, --q 1 --s 100 --ar 1:1 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

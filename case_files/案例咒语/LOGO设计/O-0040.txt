@@ -1,0 +1,4 @@
+CN：为餐厅设计一个带有中国厨师头像的简单红色背景的LOGO，矢量，路径查找器，正面，特写，最佳品质，在adobe illustrator中绘制，
+EN：Design a LOGO with a simple red background with a Chinese chef's avatar for the restaurant, vector, path finder, front, close-up, best quality, drawn in Adobe Illustrator, --q 1 --s 100 --ar 1:1 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

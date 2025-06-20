@@ -1,0 +1,3 @@
+CN：3D渲染图，卡通风格，一辆橙色和蓝色的小汽车，视角略高于汽车，背景为浅蓝色，光线柔和均匀，没有明显的阴影，整体风格简洁，粘土材料，8K，3D，OC，
+EN：3D rendering, cartoon style, an orange and blue car, the perspective is slightly higher than the car, the background is light blue, the light is soft and even, there is no obvious shadow, the overall style is simple, clay material, 8K, 3D, OC,  --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

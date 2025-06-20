@@ -1,0 +1,3 @@
+CN：剪纸风格的头像，美少女，红色长发，穿着喜庆的中国传统服饰，面带微笑，双手比心。背景是红色的剪纸图案，展现出喜庆的节日氛围，线条简洁，色彩鲜艳，具有中国传统剪纸艺术的特色，简洁明快，充满喜庆感。
+EN：A paper-cut style avatar of a beautiful girl with long red hair wearing festive traditional Chinese clothing, smiling and making a heart shape with both hands. The background is a red paper-cut pattern, showing a festive atmosphere, with simple lines and bright colors. It has the characteristics of traditional Chinese paper-cut art, which is simple, bright and full of festive feeling. --q 1 --s 100 --ar 1:1 --niji 6--personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,2 @@
+CN：一辆梅赛德斯GT跑车在夜晚的城市中快速行驶，采用充满活力的动漫插画风格，超现实流行主义，赛博朋克配色方案，超清品质，
+EN：A Mercedes GT sports car zips through the city at night in a vibrant anime illustration style, surreal pop, cyberpunk color scheme, ultra-clear quality, --q 1 --s 100 --ar 3:2 --v 6.0

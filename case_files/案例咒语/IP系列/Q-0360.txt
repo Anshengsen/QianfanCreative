@@ -1,0 +1,4 @@
+CN：3D渲染的卡通女孩，玩具风格，灰色背景，穿着旗袍的chibi女孩，梳着中国古代发型，戴着耳环，闭着眼睛，简单的表情，圆润的身体，黏土材质，光滑的表面，OC渲染，工作室照明，最佳品质，超细节
+EN：3D rendered cartoon girl, toy style, gray background, chibi girl wearing cheongsam, ancient Chinese hairstyle, earrings, closed eyes, simple expression, round body, clay material, smooth surface, OC rendering, studio lighting, best quality, ultra details --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

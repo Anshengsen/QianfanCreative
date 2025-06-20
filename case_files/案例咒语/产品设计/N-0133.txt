@@ -1,0 +1,3 @@
+CN：产品摄影，透明香水瓶，金色瓶盖，放置在灰色岩石上，周围是金色麦田，背景是日落天空，暖色调，自然风格，细节丰富，高分辨率，麦穗纹理清晰，岩石表面粗糙，瓶身液体颜色温暖
+EN：Product photography of a transparent perfume bottle with a gold cap placed on a grey rock surrounded by a golden wheat field with a sunset sky in the background, warm tones, natural style, rich details, high resolution, clear texture of wheat ears, rough surface of the rock, warm color of the liquid in the bottle --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

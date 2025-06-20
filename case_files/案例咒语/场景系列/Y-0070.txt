@@ -1,0 +1,4 @@
+CN：3D渲染，信息技术研讨会主题模型，紫色背景，卡通风格，正面，3D，平滑，
+EN：3D rendering, IT workshop theme model, purple background, cartoon style, front, 3D, smoothing, --q 1 --s 100 --ar 1:1 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

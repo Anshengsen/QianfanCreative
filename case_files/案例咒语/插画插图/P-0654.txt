@@ -1,0 +1,3 @@
+CN：扁平风格插画，一个男人站在摩托车旁，向空中投掷纸飞机，背景是一栋房子和围栏，围栏里有一只狗，整体风格简约，色彩鲜明，具有活力和趣味性，细节包括人物的姿态，摩托车的细节，以及纸飞机的飞行轨迹，最佳品质，8K，矢量图形，干净利落，适合用于网页设计或UI设计，绿色背景，黑色线条，
+EN：A flat style illustration of a man standing next to a motorcycle and throwing a paper airplane into the air. In the background is a house and a fence with a dog in the fence. The overall style is simple and the colors are bright, which is vibrant and interesting. Details include the posture of the man, the details of the motorcycle, and the flight path of the paper airplane. Best quality, 8K, vector graphics, clean and neat, suitable for web design or UI design, green background, black lines, --s 100 --ar 3:2 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

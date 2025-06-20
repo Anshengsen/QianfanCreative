@@ -1,0 +1,3 @@
+CN：IP设计，3D，盲盒风格，泡泡玛特风格，粘土材质，全身，一个帅气的男孩，白色短发，大眼睛，蹲坐在地上，生气，愤怒，OC渲染，3D渲染，闪亮有光泽，光滑，3D，C4D，高质量，干净的背景，
+EN：IP design, 3D, blind box style, POP MART style, clay material, whole body, a handsome boy, short white hair, big eyes, squatting on the ground, angry, angry, OC rendering, 3D rendering, shiny shiny, smooth, 3D, C4D, high quality, clean background, --q 5 --s 150 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

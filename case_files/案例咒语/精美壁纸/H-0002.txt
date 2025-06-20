@@ -1,0 +1,4 @@
+﻿CN：机械手在笔记本电脑上按下键盘，快门，人像摄影镜头，难以置信，颜色编码，丰富的细节，赛博朋克，最高质量，
+EN：Robotic hand presses keyboard, shutter, portrait camera lens on laptop, incredible, color-coded, rich detail, cyberpunk, highest quality, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

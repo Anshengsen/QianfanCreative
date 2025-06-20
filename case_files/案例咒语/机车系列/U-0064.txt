@@ -1,0 +1,2 @@
+CN：勒芒赛车，原型车，蓝色车身，黑色侧裙，银色轮毂，复古赛车风格，工作室摄影，高光，阴影，低角度，广角镜头，细节丰富，超高清，8K分辨率
+EN：Le Mans race car, prototype, blue body, black side skirts, silver wheels, retro racing style, studio photography, highlights, shadows, low angle, wide angle shot, rich details, ultra high definition, 8K resolution --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

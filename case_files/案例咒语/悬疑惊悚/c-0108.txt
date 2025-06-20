@@ -1,0 +1,3 @@
+CN：漫画风格，恐怖漫画，一个70岁的老爷爷侧身站在中国庭院里，全身，全景，严肃的表情，穿着民间服饰和布鞋，傍晚，天空中电闪雷鸣，琥珀色和靛蓝色，锐利的线条，流畅的线条，细腻的笔触，丰富的细节，
+EN：Comic style, horror comics, a 70-year-old grandfather standing sideways in a Chinese courtyard, full body, panoramic, serious expression, wearing folk clothing and cloth shoes, evening, lightning and thunder in the sky, amber and indigo, sharp lines, smooth lines, delicate brushstrokes, rich details, --q 5 --s 150 --ar 9:16 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

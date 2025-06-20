@@ -1,0 +1,4 @@
+﻿CN：中式风景水墨画，荷花，荷叶，一只蜻蜓落在荷花上，大师作品，令人惊叹的艺术作品，丰富的细节，水墨风，
+EN：Chinese landscape ink painting, lotus flower, lotus leaf, a dragonfly falling on the lotus flower, master works, amazing works of art, rich details, ink wind, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：专业摄影，8K，亚洲女性，正面全身照，站立姿势，略微侧身，双手交叠于身前，戴着滑雪镜，齐刘海短发，黑色，自然发色，面部表情平静，眼神柔和，略带微笑，穿着黑色羽绒服，宽松版型，格子短裙，白色滑雪手套，背景是雪山，晴朗天气，雪地，户外场景，自然光，柔和光线，真实感，细节丰富。
+EN：Professional photography, 8K, Asian woman, frontal full-body shot, standing pose, slightly sideways, hands folded in front of body, wearing ski goggles, short hair with bangs, black, natural hair color, calm facial expression, soft eyes, slight smile, wearing black down jacket, loose fit, plaid skirt, white ski gloves, background is snow-capped mountains, sunny weather, snow, outdoor scene, natural light, soft light, realism, rich details. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

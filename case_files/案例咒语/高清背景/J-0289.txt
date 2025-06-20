@@ -1,0 +1,3 @@
+CN：紫色和白色条纹横幅印花，带有彩虹条纹，风格类似 Glen Keane、碎片化形式、Carlos Schwabe，浅粉色和粉色，错视幻觉细节，动画GIF，波浪形，
+EN：Purple and white striped banner print with rainbow stripes in a style similar to Glen Keane, fragmented forms, Carlos Schwabe, light pink and pastel, trompe l'oeil details, animated GIF, wavy, --q 1 --s 250 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

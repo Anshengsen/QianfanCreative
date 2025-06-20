@@ -1,0 +1,3 @@
+CN：微缩风格，3D风格，一个月饼形状的探测器在月球上降落，背景是满天星辰，几个宇航员打开舱门，全景，微缩，超品质，超细节，高清辛烷值渲染，逼真，详细，
+EN：Miniature style, 3D style, a mooncake-shaped probe lands on the moon, with a starry sky in the background, and several astronauts open the hatch, panoramic view, miniature, super quality, super detail, high-definition octane rendering, realistic, detailed, --q 1 --s 100 --ar 3:4 --v 6.0 --personalize ak9ezqk 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

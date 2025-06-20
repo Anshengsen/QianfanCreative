@@ -1,0 +1,3 @@
+CN：机甲格斗的游戏场景，日式动漫风格，厚涂，鲜艳色彩，阳光明媚的竞技场，观众席，粒子特效，动态模糊，高帧率，高清，游戏画面。
+EN：Mecha fighting game scene, Japanese anime style, thick painting, bright colors, sunny arena, audience seats, particle effects, motion blur, high frame rate, high definition, game screen. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

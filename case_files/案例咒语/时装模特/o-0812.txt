@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个穿着深蓝色羽绒服的女性，站立姿势，身体略微侧向镜头，羽绒服带有毛领，颜色为浅棕色，下身搭配黑色紧身裤，手提米白色手提包，背景为室内楼梯和玻璃窗，光线自然，整体风格休闲，保暖。
+EN：Professional photography, 8K, a woman in a dark blue down jacket, standing with her body slightly sideways to the camera, the down jacket has a fur collar and is light brown in color, paired with black leggings, carrying a beige handbag, the background is indoor stairs and glass windows, the light is natural, the overall style is casual and warm. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

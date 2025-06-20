@@ -1,0 +1,3 @@
+CN：奇幻风格的木制机甲，森林环境，阳光透过树叶洒落，藤蔓缠绕，Arnold渲染，木质纹理清晰可见，雕刻的符文装饰，背景是古老的树木和发光的蘑菇，8K分辨率，神秘感，
+EN：Fantasy style wooden mech, forest environment, sunlight shining through leaves, vines entwined, Arnold rendering, wood texture clearly visible, carved rune decoration, background with ancient trees and glowing mushrooms, 8K resolution, mysterious feeling, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

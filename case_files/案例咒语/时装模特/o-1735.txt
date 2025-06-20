@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，男士西装外套，深灰色，单纽扣，标准驳领，合身剪裁，左胸袋盖，两侧盖袋，长袖，袖口无纽扣，内搭白色衬衫，商务休闲风格，纯色背景，影棚灯光，均匀照明，焦点集中于服装，突出纹理与细节。
+EN：Professional clothing photography, 8K, front view, white background, men's suit jacket, dark grey, single button, standard lapel, fitted cut, left chest pocket flap, side flap pockets, long sleeves, no buttons at cuffs, worn with white shirt, business casual style, solid background, studio lighting, even lighting, focus on the garment, highlighting textures and details. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

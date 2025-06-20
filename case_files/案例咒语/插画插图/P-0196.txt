@@ -1,0 +1,3 @@
+CN：中国插画，手绘，踏青，流畅的线条和颜色明暗过渡，一家人坐在草地上，明亮的午后，草地和远处的小山丘和小河，画面中有几只小燕子在天空中飞翔，平面设计，高分辨，高品质，高细节，
+EN：Chinese illustration, hand-painted, outing, smooth lines and color transitions, family sitting on grass, bright afternoon, grass and distant hills and rivers, pictures with a few little swallows flying in the sky, graphic design, high resolution, high quality, high detail, --q 1 --s 50 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

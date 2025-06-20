@@ -1,0 +1,3 @@
+CN：意大利五渔村夜景，海滨小镇，建在悬崖上，房屋错落有致，灯光温暖，岩石海岸线，海堤，平静海面，深蓝色调，夜晚，云彩，长曝光，摄影，广角镜头，高角度，细节丰富，自然光与人造光结合，电影级光照，8K，超高清。
+EN：Night view of Cinque Terre, Italy, seaside town, built on cliffs, houses scattered around, warm lighting, rocky coastline, seawall, calm sea, deep blue tones, night, clouds, long exposure, photography, wide-angle lens, high angle, rich details, combination of natural and artificial light, cinematic lighting, 8K, ultra high definition. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

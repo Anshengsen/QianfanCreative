@@ -1,0 +1,3 @@
+CN：时尚产品摄影，米色DIOR手提包，放置在沙漠沙丘上，背景是连绵起伏的沙丘和淡蓝色天空，自然光，柔和阴影，焦点集中在手提包上，细节丰富，高分辨率，电影级照明，工作室质量，UHD，真实摄影，
+EN：Fashion product photography of a beige DIOR handbag placed on a desert dune with rolling dunes and pale blue sky in the background, natural light, soft shadows, focus on the handbag, rich details, high resolution, cinematic lighting, studio quality, UHD, real photography, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

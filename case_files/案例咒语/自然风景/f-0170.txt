@@ -1,0 +1,3 @@
+CN：旷野星空，木屋，远山，秋叶，自然风光，广角镜头，夜景，深蓝色调，高对比度，静谧氛围，电影感，细节丰富，8K，超高分辨率，星光闪烁，山脉剪影，秋季色彩，木屋特写，纹理清晰，光影交织，自然光，长曝光，低噪点，艺术摄影，构图平衡，黄金分割
+EN：wilderness starry sky, wooden house, distant mountains, autumn leaves, natural scenery, wide-angle lens, night view, dark blue tones, high contrast, quiet atmosphere, cinematic feel, rich details, 8K, ultra-high resolution, twinkling stars, mountain silhouette, autumn colors, close-up of wooden house, clear texture, light and shadow, natural light, long exposure, low noise, artistic photography, balanced composition, golden ratio --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

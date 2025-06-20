@@ -1,0 +1,3 @@
+CN：金色麦田，广阔视野，日落时分，暖色调，自然风光，宁静氛围，高动态范围，电影感，4K。
+EN：Golden wheat field, wide view, sunset, warm colors, natural scenery, tranquil atmosphere, high dynamic range, cinematic feel, 4K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

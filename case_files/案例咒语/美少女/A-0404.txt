@@ -1,0 +1,3 @@
+CN：写实风格，一位非常非常漂亮的日本模特，20岁，现实，逼真，微笑，上半身照片，淡妆，
+EN：Realistic style, a very, very beautiful Japanese model, 20 years old, realistic, realistic, smiling, upper body photo, light makeup, --q 1 --s 150 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

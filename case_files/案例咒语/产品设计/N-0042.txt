@@ -1,0 +1,4 @@
+﻿CN：3d渲染一个非常可爱的机器人拳击手狗，快乐，可爱的小狗机器人，霓虹灯发光，粉色和水配色，科幻，塑料和金属机器人，在街上，背景是人行道，
+EN：3D rendering of a very cute robot boxer dog, happy, cute puppy robot, neon glow, pink and water color scheme, sci-fi, plastic and metal robot, on the street, the background is the sidewalk, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

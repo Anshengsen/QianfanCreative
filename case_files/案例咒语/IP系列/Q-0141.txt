@@ -1,0 +1,4 @@
+CN：一只卡通猫，单脚走路，另一只脚高高抬起做出搞怪的动作，双手张开保持平衡，调皮的笑容，身穿白色的机甲，戴着青色的大墨镜，白色和青色，未来主义，可爱又搞笑，搞怪，超详细，白色背景，4k，无阴影，3d渲染，路径追踪，泡泡玛特风格，全身，
+EN：A cartoon cat, walking on one foot, raising the other foot high to make funny movements, with open hands for balance, mischievous smile, wearing white mecha, wearing big cyan sunglasses, white and cyan, futuristic, cute and funny, funny, super detailed, white background, 4k, no shadows, 3d rendering, path tracking, POP MART style, full body, --q 1 --s 200 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

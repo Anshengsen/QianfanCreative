@@ -1,0 +1,3 @@
+CN：空灵的3A游戏空镜头，内容是巨大的瀑布从悬崖顶上流下来，悬崖顶上音乐可见有一个小亭子，极简主义，超高清，黑色和灰色的色调，景深，禅意，宁静的氛围，云雾缭绕，广角，
+EN：Ethereal 3A game empty shot, the content is a huge waterfall flowing down from the top of the cliff, there is a small pavilion on the top of the cliff, minimalism, ultra high definition, black and gray tones, depth of field, zen, tranquil atmosphere, clouds and mist, wide angle, --q 1 --s 1000 --ar 3:4 --v 6.1 --personalize izkkm56 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

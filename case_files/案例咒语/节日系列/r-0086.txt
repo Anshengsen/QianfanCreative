@@ -1,0 +1,3 @@
+CN：一副万圣节插画，水彩风格，一只穿着巫婆服装的黑色小猫，坐在南瓜灯上，背景是幽暗的森林，月光照射，柔和的灯光，细节丰富，高清，艺术感强。
+EN：A Halloween illustration in watercolor style, a black kitten in a witch costume sitting on a pumpkin lantern, with a dark forest in the background, moonlight, soft lighting, rich details, high definition, and a strong sense of art. --q 5 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

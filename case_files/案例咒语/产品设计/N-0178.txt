@@ -1,0 +1,3 @@
+CN：3D产品渲染，BOSS香水瓶，黑色瓶身，银色字体，悬浮在破碎的岩石之间，岩石呈灰白色，边缘有暖色光晕，背景柔和渐变，产品级渲染，细节丰富，光影效果强烈，电影级照明，超高分辨率，8K，OC渲染，
+EN：3D product rendering, BOSS perfume bottle, black bottle, silver font, suspended between broken rocks, the rocks are grayish white, with warm halo around the edges, soft gradient background, product-level rendering, rich details, strong light and shadow effects, movie-level lighting, ultra-high resolution, 8K, OC rendering, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

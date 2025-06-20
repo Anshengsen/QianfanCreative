@@ -1,0 +1,4 @@
+CN：两朵盛开的白色莲花，特写，微距摄影，柔焦背景，浅绿色和黄色背景，高饱和度，自然光，露珠，花瓣纹理，细腻光影，中心构图，高清晰度，8K，超精细细节，真实感渲染，植物摄影，夏季，清新，宁静，禅意，生命力。
+EN：Two blooming white lotus flowers, close-up, macro photography, soft focus background, light green and yellow background, high saturation, natural light, dewdrops, petal texture, delicate light and shadow, central composition, high definition, 8K, ultra-fine details, realistic rendering, plant photography, summer, freshness, tranquility, Zen, vitality. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

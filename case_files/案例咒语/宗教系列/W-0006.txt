@@ -1,0 +1,4 @@
+﻿CN：一尊水中的佛像，坐在湖水的中心，身后有瀑布，采用发光3d物体的风格，逼真的渲染，喜马拉雅艺术，超高摄影品质，傍晚，
+EN：A Buddha statue in the water, sitting in the center of the lake with a waterfall behind it, in the style of luminous 3D objects, realistic renderings, Himalayan art, ultra-high photographic quality, evening, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：樱花特写，柔和光线，粉色花瓣，金色花蕊，晶莹露珠或霜，朦胧背景，浅景深，唯美，梦幻，高分辨率，细节丰富，艺术摄影，柔和色调，精致，浪漫，清新，自然光，花卉摄影，8k。
+EN：Cherry blossoms close-up, soft light, pink petals, golden stamens, crystal dew or frost, hazy background, shallow depth of field, beautiful, dreamy, high resolution, rich details, artistic photography, soft tones, exquisite, romantic, fresh, natural light, flower photography, 8k. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

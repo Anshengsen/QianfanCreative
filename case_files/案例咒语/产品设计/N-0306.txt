@@ -1,0 +1,3 @@
+CN：产品摄影，一个白色的AirPods Pro耳机，悬浮在空中，周围环绕着灰色的岩石，深色背景，戏剧性灯光，焦点集中在耳机上，细节丰富，高分辨率，3D渲染。
+EN：Product photography of a white AirPods Pro earphone suspended in mid-air surrounded by grey rocks, dark background, dramatic lighting, focus on the earphone, rich details, high resolution, 3D rendering. --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

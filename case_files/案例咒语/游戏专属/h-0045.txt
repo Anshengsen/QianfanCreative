@@ -1,0 +1,3 @@
+CN：打开的宝箱，卡通动画风格，里面装有金币，等距，干净的背景，
+EN：Opened treasure chest, cartoon animation style, containing gold coins, isometric, clean background, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

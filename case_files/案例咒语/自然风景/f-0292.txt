@@ -1,0 +1,3 @@
+CN：湖泊风光，清澈碧蓝的湖水，倒映着雪山和森林，湖面如镜，雪山顶峰有阳光照射，呈现金黄色，山脚下是茂密的针叶林，湖边有岩石，近景有两棵高大的松树，自然光，清晨或傍晚时分，广角镜头，色彩鲜艳，高对比度，风景摄影，超高清，8K分辨率，细节丰富。
+EN：Lake scenery, clear blue water reflecting snow-capped mountains and forests, the lake surface is like a mirror, the peak of the snow-capped mountain is illuminated by the sun and presents a golden color, at the foot of the mountain is a dense coniferous forest, there are rocks by the lake, and there are two tall pine trees in the foreground, natural light, early morning or evening, wide-angle lens, bright colors, high contrast, landscape photography, ultra high definition, 8K resolution, rich details. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个小女孩，戴着花朵头环，可爱，极简主义，白色背景，
+EN：A little girl wearing a flower headband, cute, minimalism, white background, --q 1 --s 100 --ar 3:4 --niji 6 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

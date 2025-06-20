@@ -1,0 +1,3 @@
+CN：一个非洲男性模特，光头，深色皮肤，强壮的体格，穿着蓝白条纹运动服，拳击姿势，干净清爽的工作室背景，动感灯光，力量感，4K，
+EN：An African male model with bald head, dark skin, strong physique, wearing blue and white striped sportswear, boxing pose, clean and fresh studio background, dynamic lighting, sense of power, 4K, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

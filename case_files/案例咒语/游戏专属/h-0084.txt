@@ -1,0 +1,3 @@
+CN：一个矩形的简单的卡通框架游戏元素，中间部分有绿色翡翠装饰，四周是以中国龙纹为主题的设计，色彩丰富鲜艳，白色背景，逼真的比例，采用皮克斯动画的概念艺术，8k，超级丰富的细节，
+EN：A simple cartoon frame game element in a rectangle, with a green jade decoration in the middle, surrounded by a Chinese dragon-themed design, rich and bright colors, white background, realistic proportions, concept art from Pixar animation, 8k, super rich details, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

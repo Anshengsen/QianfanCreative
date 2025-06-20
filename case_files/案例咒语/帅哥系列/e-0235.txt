@@ -1,0 +1,3 @@
+CN：恐怖漫画风格，漫画，现代，优雅，孟加拉艺术学院，浅蓝色和深蓝色，逼真，全身，一个穿着运动服的亚洲男孩，黑色卷发，拿着秒表，在操场上，环境光，正面。
+EN：Horror comic style, cartoon, modern, elegant, Bengali art school, light blue and dark blue, realistic, full body, an Asian boy in sportswear, with black curly hair, holding a stopwatch, on a playground, ambient light, front view. --q 5 --s 50 --ar 3:5 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness, 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

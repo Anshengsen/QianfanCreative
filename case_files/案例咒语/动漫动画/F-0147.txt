@@ -1,0 +1,3 @@
+CN：一个可爱的孩子在草地上奔跑，背着书包，色彩缤纷，蓝天白云，周围有很多草地，色彩鲜艳，柔和，迷人的光线，最佳品质，宫崎骏风格，
+EN：A cute kid running on the grass, carrying a school bag, colorful background, blue sky with white clouds, lots of grass around, bright colors, soft and charming light, best quality, Hayao Miyazaki style, --q 1 --s 500 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

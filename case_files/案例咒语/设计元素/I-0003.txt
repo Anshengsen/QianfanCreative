@@ -1,0 +1,5 @@
+CN：各种小动物，扁平，简笔画，简单的配色，标准的透视关系，矢量，白色背景，
+EN：Various small animals, flat, stick figure, simple color scheme, standard perspective, vector, white background, --q 3 --s 100 --ar 3:4 --v 5.2 --style raw
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：装饰插画风格，暖色调，棕色背景，黄色桌布，白色雏菊，黑色猫咪，毛绒椅子，细节包括花瓣的纹理，桌布的褶皱，猫咪的轮廓，椅子毛绒的质感，整体画面温馨舒适，色彩柔和，最佳品质，8K
+EN：Decorative illustration style, warm tones, brown background, yellow tablecloth, white daisies, black cat, plush chair, details include the texture of the petals, the folds of the tablecloth, the outline of the cat, the plush texture of the chair, the overall picture is warm and comfortable, the colors are soft, best quality, 8K --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，连衣裙，复古方领，泡泡短袖，高腰线，A字裙摆，褶皱细节，海军蓝，纯色设计，极简风格，影棚光，均匀照明，焦点集中于服装整体，突出服装的廓形与细节。
+EN：Professional fashion photography, 8K, front view, white background, dress, retro square neckline, puff short sleeves, empire waistline, A-line skirt, pleated details, navy blue, solid color design, minimalist style, studio light, even lighting, focus on the whole garment, highlighting the silhouette and details of the garment. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

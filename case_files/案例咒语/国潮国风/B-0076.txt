@@ -1,0 +1,5 @@
+CN：3D，侧面，一个中国古代戏子，脸上戴着京剧脸谱面具，面具图案以敦煌配色为灵感启发，鲜艳的色彩，特写，逼真，详细，超品质，
+EN：3D, side view, an ancient Chinese actor wearing a Peking Opera mask, the mask pattern is inspired by the Dunhuang color scheme, bright colors, close-up, realistic, detailed, super quality, --q 1 --s 250 --ar 3:4 --niji 6 --personalize x9me84t
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

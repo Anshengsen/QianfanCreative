@@ -1,0 +1,3 @@
+CN：2D游戏风格的带插图的羊皮纸，展开，炉石风格，卡通游戏风格，白色背景，最佳品质，丰富的细节，
+EN：2D game style illustrated parchment, unfolding, Hearthstone style, cartoon game style, white background, best quality, rich details, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

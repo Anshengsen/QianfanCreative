@@ -1,0 +1,2 @@
+CN：未来主义摩托车概念设计，电动摩托车，流线型车身，银色与黑色配色，紫色点缀线条，LED灯光，极简主义设计，低角度侧视图，摄影棚灯光，深灰色背景，高对比度，光滑表面，细节丰富，高清渲染，未来感，产品展示
+EN：Futuristic motorcycle concept design, electric motorcycle, streamlined body, silver and black color scheme, purple embellishment lines, LED lights, minimalist design, low angle side view, studio lighting, dark gray background, high contrast, smooth surface, rich details, high definition rendering, futuristic, product display --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

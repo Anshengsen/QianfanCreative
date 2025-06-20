@@ -1,0 +1,3 @@
+CN：简单的校园3d图标，非常光滑，深蓝色塑料，哑光，等距透视，白色背景，3d渲染，简单，
+EN：Simple campus 3d icon, very smooth, dark blue plastic, matte, isometric perspective, white background, 3d rendering, simple, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

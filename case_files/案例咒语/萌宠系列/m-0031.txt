@@ -1,0 +1,3 @@
+CN：皮克斯风格，3D，可爱的中国小白龙，胖嘟嘟的，圆滚滚的，开心的吃饭，毛茸茸的揪揪，开心，极简风格，浅红色背景，电影灯光，体积光，泡泡玛特，3D，C4D，详细，全景，中国元素，
+EN：Pixar style, 3D, cute Chinese little white dragon, chubby, round, happy to eat, furry, happy, minimalist style, light red background, movie lighting, volumetric light, Pop Mart, 3D, C4D, detailed, panoramic, Chinese elements, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

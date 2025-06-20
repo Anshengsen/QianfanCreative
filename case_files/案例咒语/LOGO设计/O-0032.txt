@@ -1,0 +1,4 @@
+﻿CN：矢量风格的卡通日本可爱胖女孩，动漫风格，白色背景，端着一盘蛋糕，适量插图，最佳品质，
+EN：Vector style cartoon Japanese cute fat girl, anime style, white background, holding a plate of cake, appropriate amount of illustrations, best quality, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

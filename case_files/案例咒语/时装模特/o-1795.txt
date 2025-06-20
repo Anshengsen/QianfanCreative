@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，炭灰色，高领毛衣，宽松版型，长袖，罗纹袖口，罗纹下摆，细针距编织，羊绒材质，柔软质感，简约风格，自然光，柔和阴影，焦点集中于服装，突出纹理细节。
+EN：Professional fashion photography, 8K, front view, white background, charcoal grey, turtleneck, loose fit, long sleeves, ribbed cuffs, ribbed hem, fine gauge weave, cashmere material, soft texture, minimalist style, natural light, soft shadows, focus on garment, highlighting texture details. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

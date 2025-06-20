@@ -1,0 +1,3 @@
+CN：动态模糊，一个穿着白色围裙和白色厨师帽的拉面师傅正在拉面，面条在空中飞舞，动作流畅，充满动感，暖色调灯光，市井气息的背景，4K，慢动作，电影级画质，动画GIF，3D，
+EN：Motion blur, a ramen chef in a white apron and a white chef hat is pulling noodles, the noodles are flying in the air, the movements are smooth and dynamic, warm lighting, the background of the city atmosphere, 4K, slow motion, movie-level quality, animated GIF, 3D, --q 5 --s 180 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：立冬主题，数字绘画和厚涂风格，冷暖色调对比强烈，主体为一位身穿厚重冬衣的女子，手持一把油纸伞，背景为下雪的古镇街道，细节丰富，高饱和度，高分辨率，
+EN：The theme of the beginning of winter, digital painting and thick painting style, with strong contrast between cold and warm tones. The main subject is a woman wearing heavy winter clothes, holding an oil-paper umbrella, and the background is a snowy ancient town street. It is rich in details, high saturation, and high resolution. --q 1 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

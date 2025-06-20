@@ -1,0 +1,4 @@
+﻿CN：一个可爱的蓝鸟站在窗户上，以Cinema 4D、丛林朋克、大胆的颜色、游戏截图、特色的动物肖像、标点漫画的风格，
+EN：A cute bluebird stands on the window in the style of Cinema 4D, bushpunk, bold colors, game screenshots, featured animal portraits, punctuated cartoons, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

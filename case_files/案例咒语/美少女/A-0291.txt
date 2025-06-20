@@ -1,0 +1,3 @@
+CN：一个动漫美少女，黑白风格，淡橙色的腮红，长直发，侧面，纯白背景，上半身，厚涂，平滑的头发，厚涂，多层，超品质，
+EN：An anime girl, black and white style, light orange blush, long straight hair, side, pure white background, upper body, thick coating, smooth hair, thick coating, multi-layer, super quality, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个小男孩闭着眼睛躺在地上，周围站着几个小男孩，全景，广角，天空盘旋几只乌鸦，中国农村风格，琥珀色和青色，深夜，中国农村恐怖漫画风格，8K分辨率，中国朋克，风格表现力，漫画风格，隐藏细节，2D平面插图，
+EN：A little boy is lying on the ground with his eyes closed, surrounded by several little boys, panorama, wide angle, a few crows hovering in the sky, Chinese rural style, amber and cyan, late night, Chinese rural horror comic style, 8K resolution, Chinese punk, style expressive, comic style, hidden details, 2D graphic illustration, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

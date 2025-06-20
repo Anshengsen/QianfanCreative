@@ -1,0 +1,3 @@
+CN：傍晚时分的小巷，复古风格，暖色调，石板路，砖石建筑，拱形门洞，路灯，行人，长曝光，动感模糊，电影质感，高饱和度，细节丰富，广角镜头，低角度拍摄
+EN：Alley at dusk, retro style, warm colors, cobblestone road, masonry buildings, arched doorways, street lights, pedestrians, long exposure, motion blur, film texture, high saturation, rich details, wide-angle lens, low-angle shot --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

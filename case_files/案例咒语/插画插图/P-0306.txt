@@ -1,0 +1,3 @@
+CN：特写，矢量插画，淡绿色背景，粗体线条风格，主体是一只胖嘟嘟的成年猪，职业是厨师，戴着白色厨师帽穿着绿色围裙，龇牙笑，手里拿着一把锅铲，矢量风格，平面，黑色粗体线条，大胆的色彩搭配，孟菲斯配色方案，
+EN：Close-up, vector illustration, light green background, bold line style, the main character is a chubby adult pig, occupation is a chef, wearing a white chef hat and a green apron, grinning, holding a spatula in his hand, vector style, flat, black bold lines, bold color matching, Memphis color scheme, --q 5 --s 180 --ar 1:1 --v 6 --personalize bvsvee7 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：傍晚时分的江南小镇3D图，家家户户的暖色灯照明，微观，3D，
+EN：3D map of Jiangnan Town in the evening, warm-colored lighting for every household, microscopic, 3D, --q 1 --s 100 --ar 3:2 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

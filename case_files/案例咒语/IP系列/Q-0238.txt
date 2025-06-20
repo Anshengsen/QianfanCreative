@@ -1,0 +1,3 @@
+CN：麒麟，中国神兽_麒麟，可爱Q萌，粘土材料，干净简约的设计，IP形象，高端的自然配色，明亮和谐，可爱多彩，细致的角色设计，C4D，3D，3D动画角色设计，光线追踪，全局光，干净的工作室背景，
+EN：Kirin, Chinese mythical beast_Kirin, cute Q Meng, clay material, clean and simple design, IP image, high-end natural color matching, bright and harmonious, cute and colorful, detailed character design, C4D, 3D, 3D animation character design, ray tracing, global light, clean studio background, --q 1 --s 100 --ar 3:4 --niji 6 --personalize rcwjofc 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

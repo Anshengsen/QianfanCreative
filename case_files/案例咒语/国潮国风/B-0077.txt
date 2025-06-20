@@ -1,0 +1,5 @@
+CN：一个亚洲风格的怪物插图，伪3D，特写，明暗对比，蓝色和橙色的风格，祥云，丰富多彩，丰富的细节，充满活力，俏皮，
+EN：An Asian-style monster illustration, pseudo-3D, close-up, chiaroscuro, blue and orange style, auspicious clouds, colorful, rich in detail, vibrant, playful, --q 1 --s 100 --ar 3:4 --v 6.1
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

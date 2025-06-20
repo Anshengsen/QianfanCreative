@@ -1,0 +1,4 @@
+
+CN：齐白石画的虾，水墨，工笔画，红色和黑色，水墨喷溅效果，灰色背景，高质量，
+EN：Qi Baishi's shrimp painting, ink painting, meticulous painting, red and black, ink splash, gray background, high quality, --q 1 --s 100 --ar 3:4 --v 6 --no text --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

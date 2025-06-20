@@ -1,0 +1,3 @@
+CN：复古肌理插画风格，噪点纹理，暖色配色，橙色山丘，米色道路，蓝色树丛，细节包括山丘的轮廓，道路的走向，树丛的形状，整体画面宁静祥和，风格复古，最佳品质，8K，几何图形，扁平化设计，风景插画
+EN：Retro texture illustration style, noise texture, warm color scheme, orange hills, beige roads, blue trees, details include the outline of the hills, the direction of the road, the shape of the trees, the overall picture is peaceful and serene, retro style, best quality, 8K, geometric graphics, flat design, landscape illustration --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

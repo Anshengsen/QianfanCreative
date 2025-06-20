@@ -1,0 +1,3 @@
+CN：海滩日出，金色阳光，蓝色渐变天空，蓬松云彩，橙色云彩点缀，深蓝色海水，海浪翻滚，白色泡沫，湿润沙滩，倒影，广角镜头，自然光，温暖色调，宁静氛围，高饱和度，电影级质感，超高清细节，8K分辨率，最佳画质
+EN：Sunrise on the beach, golden sunlight, blue gradient sky, fluffy clouds, orange clouds, deep blue water, rolling waves, white foam, wet sand, reflections, wide-angle lens, natural light, warm tones, tranquil atmosphere, high saturation, movie-level texture, ultra-high-definition details, 8K resolution, best picture quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

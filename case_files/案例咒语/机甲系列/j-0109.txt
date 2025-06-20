@@ -1,0 +1,3 @@
+CN：3D，动漫风格，机甲少女，熊猫头饰，白色短发，精致的五官，紫色瞳孔，上半身，未来科技风，白色与黑色机甲，红色线条点缀，翅膀元素，对称构图，柔光，最佳画质，8K，超高细节
+EN：3D, anime style, mecha girl, panda headdress, short white hair, delicate facial features, purple pupils, upper body, futuristic technology style, white and black mecha, red lines, wings, symmetrical composition, soft light, best quality, 8K, ultra-high details --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

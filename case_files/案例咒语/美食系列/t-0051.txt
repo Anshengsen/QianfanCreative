@@ -1,0 +1,3 @@
+CN：美食摄影，照片，一盘热气腾腾的炒面，丰富的配料，红辣椒，绿叶蔬菜，西兰花，暖色调，明亮的光线，俯视视角，浅景深，木质桌面背景，环境光，细节丰富，色彩鲜艳，高饱和度，8K，超高分辨率。
+EN：Food photography, photo, a plate of steaming fried noodles, rich ingredients, red peppers, green leafy vegetables, broccoli, warm tones, bright light, top view, shallow depth of field, wooden table background, ambient light, rich details, bright colors, high saturation, 8K, ultra high resolution. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

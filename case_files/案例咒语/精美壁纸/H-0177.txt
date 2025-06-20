@@ -1,0 +1,3 @@
+CN：赛博朋克风格，人物肖像，特写，戴着带有发光红色X图案的印花面罩和纽约棒球帽，穿着连帽衫，背景是霓虹灯照亮的城市夜景，蓝色和紫色调的灯光，强烈的明暗对比，高饱和度，电影质感，8K，超高清，最佳品质。
+EN：Cyberpunk style, portrait, close-up, wearing a printed mask with a glowing red X pattern and a New York baseball cap, wearing a hoodie, against the background of a neon-lit city night scene, lights in blue and purple tones, strong contrast between light and dark, high saturation, film texture, 8K, Ultra HD, best quality. --q 1 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

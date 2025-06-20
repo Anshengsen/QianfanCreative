@@ -1,0 +1,3 @@
+CN：3D渲染，万圣节，可爱小巫婆骑着飞天扫帚，穿着紫色蓬蓬，背景是万圣节主题的月亮和星星，扫帚细节清晰可见，小巫婆表情可爱，4K分辨率，超写实渲染，最佳质量，毛发蓬松，衣服褶皱自然，动态效果流畅，梦幻，可爱，童趣，3D，
+EN：3D rendering, Halloween, cute little witch riding a flying broom, wearing a purple pompadour, with a Halloween-themed moon and stars in the background, the broom details are clearly visible, the little witch has a cute expression, 4K resolution, hyper-realistic rendering, best quality, fluffy hair, natural wrinkles in clothes, smooth dynamic effects, dreamy, cute, childlike, 3D, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

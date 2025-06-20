@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。一个男性，站立姿势，双手自然下垂，穿着灰色长袖衬衫，衣领翻折，纽扣闭合，袖口扣紧，搭配黑色长裤，整体造型简约，背景为灰色墙面，室内光线，简洁风格，细节丰富，质感真实。特写。
+EN：Professional photography, 8K, clothing advertising shooting, no face. A man, standing, hands hanging naturally, wearing a gray long-sleeved shirt, collar folded, buttons closed, cuffs buttoned, with black trousers, the overall shape is simple, the background is a gray wall, indoor lighting, simple style, rich details, real texture. Close-up. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

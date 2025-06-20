@@ -1,0 +1,3 @@
+CN：平涂风格的头像，美少女，绿色的短发，穿着白色休闲T恤，略带生气表情，简洁的背景，平涂上色，色彩干净，线条简洁，风格清新，现代感。
+EN：A flat painting style avatar, a beautiful girl with short green hair, wearing a white casual T-shirt, with a slightly angry expression, a simple background, flat painting, clean colors, simple lines, fresh style, and a modern feel. --q 1 --s 200 --ar 1:1 --niji 6 --personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

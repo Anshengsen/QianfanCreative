@@ -1,0 +1,3 @@
+CN：正在打印中的报纸3D渲染图，曲线，特写，周围环境是网格状背景，霓虹光，在cinema 4d渲染，紫色风格，未来都市主义，彩色渐变，3D，超品质，超细节，8K分辨，逼真，无噪点，
+EN：3D rendering of a newspaper being printed, curve, close-up, the surrounding environment is a grid background, neon light, rendered in cinema 4d, purple style, futuristic urbanism, color gradient, 3D, ultra-quality, ultra-detail, 8K resolution , lifelike, no noise, --q 5 --s 50 --ar 3:2 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

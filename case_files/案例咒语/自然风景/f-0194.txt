@@ -1,0 +1,4 @@
+CN：宁静湖面，日落时分，粉色云彩，山脉倒影，水面波光粼粼，柔和光线，梦幻，唯美，艺术感，高分辨率，8k，风格类似新海诚，宫崎骏，背景虚化，色彩鲜艳，细节丰富，超现实主义，油画质感，平静，安详，氛围感。
+EN：Tranquil lake, sunset, pink clouds, mountain reflections, sparkling water, soft light, dreamy, beautiful, artistic, high resolution, 8k, style similar to Makoto Shinkai, Hayao Miyazaki, blurred background, bright colors, rich details, surrealism, oil painting texture, calm, tranquility, atmosphere. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

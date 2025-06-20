@@ -1,0 +1,3 @@
+CN：写实，逼真，一个美丽的16岁女孩，穿着中国维吾尔族民族服饰，穿着色彩鲜艳的长裙，穿着布鞋，头上戴有刺绣的头巾或花帽，全身，背景是山水、房屋、田园、湖泊，逼真，详细，最佳品质，高清，4K，
+EN：Realistic, lifelike, a beautiful 16-year-old girl in Chinese Uighur national costume, a colorful long skirt, cloth shoes, an embroidered headscarf or flower hat on her head, full body, with mountains, houses, fields, lakes in the background, realistic, detailed, best quality, HD, 4K, --q 5 --s 50 --ar 9:16 --niji 6 --style raw --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：专业摄影，8K，亚洲女性，站立姿势，略微侧身，自然微笑，棕色长发，中分，发尾微卷，淡妆，杏仁眼，细眉，高鼻梁，红润嘴唇，米色拉链夹克，灰色过膝裙，背景为动物园场景，铁栅栏，自然光，白天，户外。
+EN：Professional photography, 8K, Asian woman, standing pose, slightly sideways, natural smile, long brown hair, middle parting, slightly curled ends, light makeup, almond eyes, thin eyebrows, high nose bridge, rosy lips, beige zipper jacket, gray knee-length skirt, background is a zoo scene, iron fence, natural light, daytime, outdoors. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

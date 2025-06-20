@@ -1,0 +1,3 @@
+CN：巨大海浪，翻滚，卷曲成隧道状，阳光穿透，海浪呈蓝绿色，泡沫飞溅，背景是落日余晖，天空有云彩，远处有山，海面波光粼粼，电影级光照，广角，逼真，超高质量，8K
+EN：Huge ocean waves, rolling, curling into a tunnel, sunlight penetrating, blue-green waves, foam splashing, sunset in the background, clouds in the sky, mountains in the distance, sparkling sea surface, cinematic lighting, wide angle, realistic, ultra-high quality, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

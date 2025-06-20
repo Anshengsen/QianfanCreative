@@ -1,0 +1,3 @@
+CN：现代工业风厨房，2022年现代家装，黑色金属橱柜，水泥地面，开放式设计，冷色调灯光，几何构图，硬朗简洁，金属质感，高精度建模，8K，
+EN：Modern industrial style kitchen, modern home decoration in 2022, black metal cabinets, concrete floor, open design, cold lighting, geometric composition, hard and simple, metal texture, high-precision modeling, 8K, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

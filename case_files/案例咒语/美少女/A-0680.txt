@@ -1,0 +1,3 @@
+CN：动漫女孩，动漫风格，平涂风格，扁平风格，日式风格，霓虹色的调色板，亚洲配色，一个女孩一半脸是骷髅，穿着和服，背景是花卉图案，最佳品质，锐利流畅的线条，无阴影，低饱和，
+EN：Anime girl, anime style, flat painting style, flat style, Japanese style, neon color palette, Asian color scheme, a girl with half of her face is a skull, wearing a kimono, with a floral pattern on the background, best quality, sharp and smooth lines, no shadows, low saturation, --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

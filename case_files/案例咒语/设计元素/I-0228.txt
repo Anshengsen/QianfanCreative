@@ -1,0 +1,3 @@
+CN：标签元素设计，一个条幅样式的标签元素，粉色，正面，版权素材，白色背景，独奏，居中，超细节，平面设计风格，伪3d，
+EN：Label element design, a banner style label element, pink, front, copyright material, white background, solo, centered, super details, flat design style, pseudo 3d, --q 1 --s 100 --ar 1:1 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

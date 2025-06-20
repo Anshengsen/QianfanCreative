@@ -1,0 +1,4 @@
+CN：冬日景象，雪景，河流，薄雾，蓝色调，雪覆盖的树枝，寒冷，静谧，自然风光，长曝光，柔和的光线，高对比度，细节丰富，超广角，8K，超高分辨率，逼真渲染，电影级质感，冷色调，对称构图，前景虚化，主体突出
+EN：Winter scene, snow, river, mist, blue tones, snow-covered branches, cold, quiet, natural scenery, long exposure, soft light, high contrast, rich details, ultra wide angle, 8K, ultra high resolution, realistic rendering, film-level texture, cold tones, symmetrical composition, blurred foreground, prominent subject --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

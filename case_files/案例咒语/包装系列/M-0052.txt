@@ -1,0 +1,3 @@
+CN：中式风格包装设计，红色调料包，包装上印有中文和食物图片，色彩鲜明，线条简洁，整体风格传统喜庆，具有中国特色和食欲感，细节包括包装的材质，食物图片的细节，以及文字的排版，最佳品质，8K，产品摄影，适合用于中式调料或方便食品，红色背景
+EN：Chinese style packaging design, red seasoning package, Chinese characters and food pictures printed on the package, bright colors, simple lines, the overall style is traditional and festive, with Chinese characteristics and appetizing feeling, details include the material of the packaging, details of the food pictures, and the layout of the text, best quality, 8K, product photography, suitable for Chinese seasoning or convenience food, red background, --s 100 --ar 3:2 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：一个极其美丽的东方美少女，20岁，亚洲面容，精致的五官，8k，写实的肖像特写，完美的脸，发光的皮肤，浓眉，水汪汪大眼，腮红，害羞，微笑，长发，黑发，耳坠，面向观者，细腻的肌肤，
+EN：An extremely beautiful oriental girl, 20 years old, Asian face, exquisite facial features, 8k, realistic portrait close-up, perfect face, luminous skin, thick eyebrows, watery eyes, blush, shy, smile, long hair, black hair, earrings, facing the viewer, delicate skin, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一只正在吃面条的黑白色大熊猫，中秋节海报设计，一只熊猫坐在牌坊楼子下方的小摊上，3D渲染，背景是唐代不夜城长安的街道上，chibi，C4D渲染，虚幻引擎5，超广角，全身，画面中充斥着中国元素，例如灯笼、桂花酒、月饼、枫叶等，中国风，对称构图，夜晚，满月，角色居中，
+EN：A black and white giant panda eating noodles, Mid-Autumn Festival poster design, a panda sitting on a stall under the archway, 3D rendering, the background is the streets of Chang'an, the city that never sleeps in the Tang Dynasty, chibi, C4D rendering, Unreal Engine 5, ultra-wide angle, full body, the picture is full of Chinese elements, such as lanterns, osmanthus wine, moon cakes, maple leaves, etc., Chinese style, symmetrical composition, night, full moon, the character is in the center, --q 1 --s 100 --ar 3:4 --niji 6 --personalize rcwjofc 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：热带海滩风光，明媚，湛蓝天空，蓬松白云，碧绿海水，细腻白沙，成排棕榈树，树影婆娑，沙滩躺椅，遮阳伞，远处有人物，广角镜头，自然光，色彩鲜艳，高饱和度，度假氛围，海岛风情，8K，超高清细节。
+EN：Tropical beach scenery, bright, blue sky, fluffy white clouds, turquoise water, fine white sand, rows of palm trees, swaying tree shadows, beach lounge chairs, parasols, people in the distance, wide-angle lens, natural light, bright colors, high saturation, holiday atmosphere, island style, 8K, ultra-high-definition details. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

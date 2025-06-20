@@ -1,0 +1,3 @@
+CN：专业摄影，8K，下半身像特写，站立姿势，亚洲女性，上身穿白色长袖衬衫，下身穿高腰浅蓝色牛仔半身裙，裙子长度过膝，脚穿白色厚底休闲鞋，整体风格简约休闲，背景为室内场景，有画框和木质椅子。
+EN：Professional photography, 8K, close-up of lower body, standing pose, Asian woman, wearing white long-sleeved shirt on the upper body, high-waisted light blue denim skirt on the lower body, the skirt is longer than the knee, and she is wearing white thick-soled casual shoes on her feet. The overall style is simple and casual. The background is an indoor scene with a picture frame and a wooden chair. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

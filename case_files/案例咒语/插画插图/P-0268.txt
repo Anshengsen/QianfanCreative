@@ -1,0 +1,3 @@
+CN：一家公司的员工正在野外团建，野外聚餐，手绘草图风格，白色背景，高品质，
+EN：Employees of a company are doing team building in the wild, having a dinner in the wild, hand-drawn sketch style, white background, high quality, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

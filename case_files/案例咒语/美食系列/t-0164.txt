@@ -1,0 +1,3 @@
+CN：美食摄影，照片，一碗麻辣牛肉，特写镜头，鲜红的辣椒和翠绿的葱花点缀，浓郁的汤汁，牛肉块饱满，呈现诱人的深红色，细腻的光泽，暖色调，柔和的光线，突出食物的质感和层次，景深效果，突出主体，周围摆放着小碟调料，作为背景虚化处理，增强画面层次感，中国风餐具，陶瓷质感。
+EN：Food photography, photo, a bowl of spicy beef, close-up, embellished with bright red peppers and emerald green onions, rich soup, plump beef chunks, attractive deep red color, delicate luster, warm tones, soft light, highlighting the texture and layers of the food, depth of field effect, highlighting the subject, small dishes of seasonings placed around as a background blur to enhance the layering of the picture, Chinese-style tableware, ceramic texture. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

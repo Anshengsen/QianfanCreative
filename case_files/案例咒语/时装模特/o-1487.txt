@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，亚洲女性，坐姿，双腿交叉，黑色短裙，双层黑色带凉鞋，棕色鞋底，脚趾甲涂有深色指甲油，室内环境，浅灰色水泥地面，深色木质长椅，自然光线，焦点在鞋子上，浅景深，突出鞋子的细节和质感。
+EN：Professional photography, 8K, shoe and boot advertising shoot, no face, Asian woman, sitting, legs crossed, black short skirt, double-layer black strap sandals, brown soles, toenails painted with dark nail polish, indoor environment, light gray concrete floor, dark wooden benches, natural light, focus on the shoes, shallow depth of field, highlighting the details and texture of the shoes. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：抽象风格人物插画，一位女性，面部细节放大，色彩鲜艳，线条流畅，整体风格梦幻唯美，具有艺术感和想象力，细节包括眼睛的细节，皮肤的纹理，以及背景中的植物和昆虫，最佳品质，8K，手绘感强，适合用于艺术作品或时尚杂志，
+EN：Abstract style character illustration of a woman, with enlarged facial details, bright colors, smooth lines, and an overall dreamy and beautiful style with an artistic and imaginative feel. Details include the details of the eyes, the texture of the skin, and the plants and insects in the background. Best quality, 8K, with a strong hand-painted feel, suitable for art works or fashion magazines. --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

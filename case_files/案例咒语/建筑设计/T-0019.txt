@@ -1,0 +1,3 @@
+CN：建筑外观设计，多层大剧院，位于海边，阴天下午时分，暖色灯光内发光，扎哈风格，写实风格，现代主义，三维曲面，32kuhd，最佳品质，
+EN：Architectural exterior design, multi-storey grand theater, located by the sea, cloudy afternoon, glowing in warm lights, Zaha style, realistic style, modernism, three-dimensional curved surface, 32kuhd, best quality, --q 1 --s 150 --ar 1:1 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

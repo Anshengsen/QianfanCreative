@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，橙色小汽车，悬浮在浅绿色背景中，柔和灯光，正面视角，简单构图。
+EN：3D rendering, cartoon style, orange car, suspended on light green background, soft lighting, front view, simple composition.  --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

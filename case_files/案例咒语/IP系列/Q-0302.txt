@@ -1,0 +1,3 @@
+CN：一个可爱的卡通女孩，戴着太阳镜和草帽，坐在地上，手里拿着咖啡，浅绿色的T恤和牛仔短裤，棕色的头发扎成两条辫子，大眼睛，粉红色的鞋子，柔和的光照，高饱和度，chibi风格，白色背景，矢量插图，简单的细节,
+EN：A cute cartoon girl wearing sunglasses and a straw hat, sitting on the ground, holding a cup of coffee in her hand, a light green T-shirt and denim shorts, brown hair in two braids, big eyes, pink shoes, soft lighting, high saturation, chibi style, white background, vector illustration, simple details, --q 5 --s 100 --ar 3:4 --niji 6  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：冬季森林雪景，阳光穿透树林，雪地小路，暖色调阳光，冷色调树影，明暗对比强烈，自然光，电影感，高饱和度，童话氛围，超广角，纵深感，8K，超高清细节。
+EN：Winter forest snow scene, sunlight penetrating the woods, snowy path, warm sunlight, cold tree shadows, strong contrast between light and dark, natural light, movie feel, high saturation, fairy tale atmosphere, ultra wide angle, sense of depth, 8K, ultra high-definition details. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

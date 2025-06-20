@@ -1,0 +1,3 @@
+CN：卡通2D风格，中国年轻女孩艺术肖像，身穿时尚的服装，戴着项链和耳环，鲜艳的口红，漫画插图和超写实风格，肖像镜头，最佳品质，正面，纯白背景，
+EN：Cartoon 2D style, artistic portraits of young Chinese girls, wearing fashionable clothes, wearing necklaces and earrings, bright lipstick, comic illustrations and super realistic style, portrait shots, best quality, front, pure white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：3D渲染，卡通风格，chibi人物，围着桌子喝腊八粥，人物表情生动，场景明亮，色彩鲜艳，粥碗是卡通造型，蒸汽是动态效果，背景是卡通化的厨房，有炊烟，整体画面活泼，可爱，童趣，最佳质量，8K。
+EN：3D rendering, cartoon style, chibi characters, drinking Laba porridge around the table, the characters have vivid expressions, the scene is bright and colorful, the porridge bowl is cartoon-shaped, the steam is a dynamic effect, the background is a cartoon kitchen with cooking smoke, the overall picture is lively, cute, and childlike, the best quality, 8K. --q 1 --s 100 --ar 3:4 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

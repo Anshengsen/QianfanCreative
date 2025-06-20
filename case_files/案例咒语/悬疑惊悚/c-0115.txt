@@ -1,0 +1,3 @@
+CN：动漫风格，一位抓狂的帅哥戴着耳机在电脑前怒吼，特写，漫画风格，酒吧环境光，锐利的五官，流畅的线条，日本漫画风格，最佳品质，超丰富的细节，
+EN：Anime style, a crazy handsome guy roaring in front of the computer with headphones, close-up, manga style, bar ambient light, sharp facial features, smooth lines, Japanese manga style, best quality, super rich details, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

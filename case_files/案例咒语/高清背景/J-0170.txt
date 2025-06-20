@@ -1,0 +1,4 @@
+﻿CN：它像是某种蓝色的现代艺术品，在Cinema 4d中渲染，起伏的线条，蛇形，坐标，深黑色背景，夜晚，抽象，极简主义，
+EN：It's like some kind of blue modern artwork, rendered in Cinema 4d, undulating lines, serpentine, coordinates, dark black background, night, abstract, minimalist, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

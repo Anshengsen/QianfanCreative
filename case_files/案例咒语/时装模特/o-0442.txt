@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个穿着黑色针织开衫的女性，上半身特写，V，纽扣，长袖，深色长发，自然垂落，肤色白皙，背景模糊，服装材质柔软，光线柔和，细节清晰，整体风格简约，优雅，日常穿搭，无面部，不出现面部，白皙的脖子，
+EN：Professional photography, 8K, a woman wearing a black knitted cardigan, close-up of the upper body, V, buttons, long sleeves, dark long hair, naturally drooping, fair skin, blurred background, soft clothing material, soft light, clear details, simple overall style, elegant, daily wear, no face, no face, fair neck, --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

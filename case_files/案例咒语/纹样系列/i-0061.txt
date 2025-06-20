@@ -1,0 +1,3 @@
+CN：无缝图案，六边形等距网格图案，黑色六边形图案，边缘霓虹光，3D，凹凸，
+EN：Seamless pattern, hexagonal isometric grid pattern, black hexagon pattern with neon light on the edges, 3D, convex, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize l4j9qoj --tile  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

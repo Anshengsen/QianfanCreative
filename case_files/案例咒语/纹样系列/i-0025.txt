@@ -1,0 +1,3 @@
+CN：橙色=#ea876a（R:227/G:102/B:70）和红色=#e70012（R:231/G:0/B:18）的渐变颜色，图案设计，抽象的图案，视觉错觉强烈，矢量，白色背景，
+EN：Gradient colors of orange = #ea876a (R:227 / G:102 / B:70) and red = #e70012 (R:231 / G:0 / B:18), pattern design, abstract pattern, strong optical illusion, vector, white background, --q 1 --s 0 --ar 1:1 --v 6.0 --tile 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

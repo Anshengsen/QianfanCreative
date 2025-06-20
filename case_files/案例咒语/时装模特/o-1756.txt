@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，炭灰色连衣短裙，基础袖，短袖，小圆领，肩部褶皱设计，A字裙摆，长度及膝，纯色，极简风格，室内影棚，均匀柔和光线，焦点集中于服装整，
+EN：Professional fashion photography, 8K, front view, white background, charcoal grey dress, basic sleeves, short sleeves, scoop neckline, pleated shoulder design, A-line skirt, knee-length, solid color, minimalist style, indoor studio, even soft light, focus on the whole garment, --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

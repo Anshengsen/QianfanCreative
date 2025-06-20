@@ -1,0 +1,3 @@
+CN：现代客厅室内设计，落地窗，自然光，米色沙发，大理石咖啡桌，几何图案吊灯，黑色和米色组合储物柜，极简主义风格，干净线条，中性色调，高品质材质，精致细节，全局光照，8K分辨率，Octane渲染。
+EN：Modern living room interior design, floor-to-ceiling windows, natural light, beige sofa, marble coffee table, geometric pattern chandelier, black and beige combined storage cabinets, minimalist style, clean lines, neutral tones, high-quality materials, exquisite details, global illumination, 8K resolution, Octane rendering. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

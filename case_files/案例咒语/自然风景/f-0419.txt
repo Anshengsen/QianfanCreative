@@ -1,0 +1,3 @@
+CN：冬季雪景，乡村道路，弯曲小路，路边有石头，远处有房屋，被雪覆盖的树木，山脉背景，清晨，淡蓝色天空，粉色云彩，冷色调，高对比度，广角镜头，自然光，风景摄影，超高清，8K，细节丰富
+EN：Winter snowy landscape, country road, curvy path, stones on the roadside, houses in the distance, snow-covered trees, mountains in the background, early morning, pale blue sky, pink clouds, cold tones, high contrast, wide angle lens, natural light, landscape photography, ultra high definition, 8K, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

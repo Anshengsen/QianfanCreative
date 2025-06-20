@@ -1,0 +1,4 @@
+CN：专业摄影，8K，女性，下半身像特写，服装广告，无面部，棕色针织毛衣，黑色高腰阔腿短裤，腰带，自然光，站姿，略微侧身，放松姿态，室内场景，浅色木质背景，白色椅子，盆栽植物。
+EN：Professional photography, 8K, woman, close-up of lower body, clothing advertisement, no face, brown knitted sweater, black high-waisted wide-leg shorts, belt, natural light, standing, slightly sideways, relaxed posture, indoor scene, light wooden background, white chair, potted plants. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

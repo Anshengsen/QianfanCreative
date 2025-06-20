@@ -1,0 +1,3 @@
+CN：产品摄影，香水广告，浅蓝色香水瓶，瓶身印有白色文字，白色瓶盖，一双手捧着香水瓶，背景是蓝色水面，水波荡漾，光线明亮，突出产品的颜色和质感，细节丰富，焦点清晰，电影级质感，8K，超高分辨率，清新感，
+EN：Product photography, perfume advertising, light blue perfume bottle, white text printed on the bottle, white bottle cap, a pair of hands holding the perfume bottle, the background is blue water surface, rippling water, bright light, highlighting the color and texture of the product, rich details, sharp focus, film-level texture, 8K, ultra-high resolution, fresh feeling, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

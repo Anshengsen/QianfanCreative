@@ -1,0 +1,4 @@
+CN：产品摄影，香水广告，透明香水瓶，黑色瓶盖，香水瓶放置在水中，水面平静，有涟漪，背景是山脉和树木，光线柔和，突出瓶身的质感和水面的反射，细节丰富，焦点清晰，电影级质感，8K，超高分辨率，
+EN：Product photography, perfume advertising, transparent perfume bottle, black bottle cap, perfume bottle placed in water, the water is calm, there are ripples, the background is mountains and trees, the light is soft, highlighting the texture of the bottle and the reflection of the water, rich details, sharp focus, film-level texture, 8K, ultra-high resolution, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

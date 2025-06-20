@@ -1,0 +1,3 @@
+CN：高达，紫色眼睛发光，正面，对称，游戏艺术，电影海报，白色和银色，雕塑表达，细致而复杂的构图，强烈的面部表情，金属构图，光滑的表面，超级精细的细节，
+EN：Gundam, purple eyes glowing, front view, symmetry, game art, movie poster, white and silver, sculptural expression, detailed and intricate composition, strong facial expressions, metallic composition, smooth surface, super fine details, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

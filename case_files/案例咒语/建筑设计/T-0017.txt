@@ -1,0 +1,4 @@
+﻿CN：中式建筑，传统中式风格，3D渲染，C4D，Blender，干净的背景，
+EN：Chinese architecture, traditional Chinese style, 3D rendering, C4D, Blender, clean background, --q 1 --s 100 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

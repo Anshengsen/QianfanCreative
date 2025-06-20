@@ -1,0 +1,3 @@
+CN：LOGO，卡通风格，蜜蜂logo，拟人化，简化设计，黑色与黄色相间，翅膀为黑色线条勾勒，身体为黄黑条纹，触角细节，白色背景，简笔画风格，高对比度。
+EN：LOGO, cartoon style, bee logo, personification, simplified design, black and yellow, wings outlined with black lines, body with yellow and black stripes, antennae details, white background, stick figure style, high contrast. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

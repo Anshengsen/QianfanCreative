@@ -1,0 +1,4 @@
+CN：3D渲染，字母“M”，木质纹理，音响造型，房间内景，米色墙面，黑色沙发，木质茶几，简约风格，环境光，最佳品质，超细腻。
+EN：3D rendering, letter "M", wood texture, speaker shape, room interior, beige wall, black sofa, wooden coffee table, simple style, ambient light, best quality, super detailed. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

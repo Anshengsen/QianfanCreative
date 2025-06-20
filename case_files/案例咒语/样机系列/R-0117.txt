@@ -1,0 +1,3 @@
+CN：鼠标垫空白效果图，矩形，黑色橡胶底面，白色布料表面，放置在桌面上，旁边是键盘和鼠标，高清3D渲染，办公场景，适合展示图案和logo设计，营造工作氛围，
+EN：Mouse pad blank rendering, rectangular, black rubber bottom, white cloth surface, placed on the desktop, next to the keyboard and mouse, high-definition 3D rendering, office scene, suitable for displaying patterns and logo designs, creating a working atmosphere, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：极简线条插画风格，双色配色，黑色线条，红色点缀，白色背景，超级英雄主题细节包括人物的服装，表情，头饰，整体画面简洁有趣，风格现代，最佳品质，8K，矢量图形，干净利落，人物插画风格
+EN：Minimalist line illustration style, two-color color scheme, black lines, red embellishment, white background, superhero theme details including character costumes, expressions, headdresses, the overall picture is simple and interesting, the style is modern, the best quality, 8K, vector graphics, clean and neat, character illustration style --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

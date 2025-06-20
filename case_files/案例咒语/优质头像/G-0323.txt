@@ -1,0 +1,3 @@
+CN：动漫风格，侧面肖像，年轻男性，深蓝色头发，星光点缀发丝，明亮眼睛，金色光芒，梦幻背景，星空，宇宙，流动线条，暖色调，冷色调对比，高光，精致细节，插画风格，艺术感。
+EN：Anime style, side portrait, young man, dark blue hair, starry hair, bright eyes, golden light, dreamy background, starry sky, universe, flowing lines, warm tones, cold tones contrast, highlights, exquisite details, illustration style, artistic sense. --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

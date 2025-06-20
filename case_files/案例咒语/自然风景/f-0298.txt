@@ -1,0 +1,3 @@
+CN：极光风光摄影，自然奇观，夜景，绚丽多彩的极光，绿色，蓝色，紫色，渐变色，星空，雪山，岩石，冷色调，广角镜头，长曝光，高对比度，电影级光照，超高清，8K，最佳画质，细节丰富
+EN：Aurora photography, natural wonders, night scenes, colorful aurora, green, blue, purple, gradient colors, starry sky, snowy mountains, rocks, cold tones, wide-angle lens, long exposure, high contrast, cinematic lighting, ultra high definition, 8K, best quality, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

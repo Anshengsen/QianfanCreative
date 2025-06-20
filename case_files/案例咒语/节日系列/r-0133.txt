@@ -1,0 +1,3 @@
+CN：一个俏皮、诡异且充满活力的万圣节主题插图，既诡异又有趣，有鬼魂、黑猫、蜘蛛网、小蜘蛛和南瓜，背景应该是深色、丰富的颜色，让明亮、多彩的橡皮泥人物脱颖而出，高分辨率，
+EN：A playful, spooky and vibrant Halloween themed illustration that is both spooky and fun, with ghosts, black cats, spider webs, tiny spiders and pumpkins, the background should be dark, rich colors to let the bright, colorful plasticine figures stand out, high resolution, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

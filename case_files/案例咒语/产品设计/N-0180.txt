@@ -1,0 +1,3 @@
+CN：产品摄影，黑色香水瓶，金色文字，放置在黑色沙子上，沙子呈波浪状，暗黑风格，低调奢华，电影级光照，细节丰富，高分辨率，8K，
+EN：Product photography, black perfume bottle with gold text, placed on black sand with waves, dark style, low-key luxury, cinematic lighting, rich details, high resolution, 8K, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

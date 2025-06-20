@@ -1,0 +1,3 @@
+CN：梦幻田园风光，紫色薰衣草田，小屋，树木，紫色天空，星空，夜晚，发光，唯美，宁静，高饱和度，细节丰富，艺术感，
+EN：Dreamy rural scenery, purple lavender fields, huts, trees, purple sky, starry sky, night, glow, beautiful, tranquil, high saturation, rich details, artistic, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

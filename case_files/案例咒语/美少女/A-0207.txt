@@ -1,0 +1,4 @@
+﻿CN：一个动漫女孩躺在草地上，手里拿着书，抽象的风格，浅海军和深棕色，现代，超现实，动漫风格，时尚插画，超现实照片，油画，彩漆，顶部视角，
+EN：An anime girl lying on the grass, book in hand, abstract style, light navy and dark brown, modern, surreal, anime style, fashion illustration, surreal photo, oil painting, paint, top perspective, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

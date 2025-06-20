@@ -1,0 +1,3 @@
+CN：嫦娥向月亮飞去，身着飘逸的长裙，裙角飞扬，长发向后飘扬，精致的五官，背景是浩瀚的星空，周围是淡淡的云彩，色彩简单而鲜明，奇幻，浪漫，采用中国现代插画师风格，服装配色采用敦煌壁画配色方案，全身，全景，有高光，
+EN：Chang'e flies to the moon, wearing a flowing long skirt with flying skirt corners, long hair fluttering back, delicate facial features, the background is the vast starry sky, surrounded by light clouds, the colors are simple and bright, fantasy, romantic, using the style of modern Chinese illustrators, the clothing color scheme adopts the color scheme of Dunhuang murals, full body, panoramic view, with highlights, --q 5 --s 500 --ar 3:4 --niji 6 --personalize vqg1oua --style raw --no blurry, close-up, low quality, grunge 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

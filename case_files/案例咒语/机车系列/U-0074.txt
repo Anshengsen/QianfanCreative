@@ -1,0 +1,3 @@
+CN：跑车，轿跑，蓝色金属漆面，渐变色车身，红色轮毂，未来感工作室，霓虹灯光效，粉色与蓝色灯光，低角度拍摄，广角镜头，电影级打光，反射光，高光，细节丰富，超高清，8K，最佳质量，产品摄影，汽车摄影
+EN：sports car, coupe, blue metallic paint, gradient body, red wheels, futuristic studio, neon light effects, pink and blue lights, low angle shot, wide angle lens, cinematic lighting, reflected light, highlights, rich details, ultra high definition, 8K, best quality, product photography, automotive photography 
+--q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

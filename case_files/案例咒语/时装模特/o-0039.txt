@@ -1,0 +1,3 @@
+CN：一个美丽的欧洲女性模特，金色长卷发，蓝色眼睛，有一些小雀斑，穿着红色吊带连衣裙，行走姿势，动态捕捉，干净清爽的工作室背景，逆光拍摄，突出轮廓，8K，超高清，
+EN：A beautiful European female model with long blond curly hair, blue eyes, some freckles, wearing a red halter dress, walking pose, dynamic capture, clean and refreshing studio background, backlit shooting, highlighting the outline, 8K, ultra high definition, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 --no scantily clad 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

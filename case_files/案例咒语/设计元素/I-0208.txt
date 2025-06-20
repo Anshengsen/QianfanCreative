@@ -1,0 +1,3 @@
+CN：3D装饰元素，3D星星、3D对话框、3D信封、3D云朵、3D报纸、3D铃铛、3D喇叭等元素，3D渲染，柔光，黑色背景，最佳品质，
+EN：3D decorative elements, 3D stars, 3D dialog boxes, 3D envelopes, 3D clouds, 3D newspapers, 3D bells, 3D speakers and other elements, 3D rendering, soft light, black background, best quality, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

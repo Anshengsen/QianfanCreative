@@ -1,0 +1,3 @@
+CN：动漫风格，韩国时尚插图，动漫插图，美少女，双马尾辫子，正面，艺术，粉色时尚的头发，鲜艳的红色口红，强烈的黑色眼影，洒脱的姿势，精致而富有表现力的黑色眼睛，戴着流苏耳环和金属项链，现代，上半身，流畅的线条，橙黄色背景，
+EN：Anime style, Korean fashion illustration, anime illustration, beautiful girl, double ponytail braids, front, art, pink fashion hair, bright red lipstick, strong black eyeshadow, free and easy posture, delicate and expressive black eyes, wearing fringed earrings and metal necklace, modern, upper body, smooth lines, orange background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

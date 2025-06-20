@@ -1,0 +1,3 @@
+CN：赛博朋克动漫风格，高饱和度配色，霓虹灯光，故障艺术，蓝发少女，VR头显，细节包括人物的表情，头显的贴纸，背景的二进制代码，整体画面未来感十足，风格前卫，最佳品质，8K，厚涂，动漫风格，科幻插画
+EN：Cyberpunk anime style, highly saturated colors, neon lights, glitch art, blue-haired girl, VR headset, details including the character's expression, the stickers on the headset, the binary code in the background, the overall picture is futuristic, avant-garde style, best quality, 8K, thick coating, anime style, science fiction illustration --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

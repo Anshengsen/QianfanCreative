@@ -1,0 +1,3 @@
+CN：照片，夜核风格，美女，背景虚化，中国朋克，深灰色，4k，白皙光滑的皮肤，美颜，绝美，回头看，周围漂浮着火点，
+EN：Photo, Nightcore style, beautiful woman, bokeh background, Chinese punk, dark gray, 4k, fair and smooth skin, beauty, stunning beauty, looking back, floating around the fire point, --q 1 --s 180 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

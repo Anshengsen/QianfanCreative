@@ -1,0 +1,3 @@
+CN：国漫，蓝发男子手持相机，逼真，色彩梦幻，边缘光，迷人的光影，脸部细节，高分辨率，8K画质，背景虚幻，蓝眼睛，光滑细腻逼真白皙的皮肤，
+EN：Chinese cartoon, blue-haired man holding camera, realistic, dreamy colors, edge light, charming light and shadow, facial details, high resolution, 8K quality, unreal background, blue eyes, smooth and delicate realistic white skin, --q 5 --s 100 --ar 3:4 --niji 6 --style raw --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

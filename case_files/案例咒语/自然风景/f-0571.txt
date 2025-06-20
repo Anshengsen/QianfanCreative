@@ -1,0 +1,3 @@
+CN：电影摄影，广角镜头，一望无际的沙漠景观，日落时分的壮丽景象，清晰的地平线，暖色调为主，橙色和蓝色渐变的天空，细腻的沙丘纹理，柔和的光线洒在沙面上，营造出电影般的质感，8K分辨率，超细节呈现，最佳品质，运用大气透视增强空间感，远处的景物略显模糊，突出近景的细节。
+EN：Cinematography, wide-angle lens, endless desert landscape, magnificent scene at sunset, clear horizon, warm tones, orange and blue gradient sky, delicate sand dune texture, soft light sprinkled on the sand surface, creating a movie-like texture, 8K resolution, ultra-detailed presentation, best quality, use of atmospheric perspective to enhance the sense of space, the scenery in the distance is slightly blurred, highlighting the details of the close scene. --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

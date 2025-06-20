@@ -1,0 +1,3 @@
+CN：写意风格，潦草的写意风格，水墨工笔画风，粗犷且潦草的笔触，淡墨，粉彩或铅笔画，特写，一个漂亮的亚洲美少女，披散的黑色长发夹杂几缕白色丝带，头戴黑色蝴蝶形发饰，围巾上有精致的金色刺绣，背景为简洁的白纸纹理，隐约带有水墨晕染效果,
+EN：Freehand style, sloppy freehand style, ink painting style, rough and sloppy brushstrokes, light ink, pastel or pencil drawing, close-up, a beautiful Asian girl, with loose black hair mixed with a few white ribbons, wearing a black butterfly-shaped hair accessory, and a scarf with delicate gold embroidery, the background is a simple white paper texture, with a faint ink effect, --q 1 --s 1000 --ar 1:1 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

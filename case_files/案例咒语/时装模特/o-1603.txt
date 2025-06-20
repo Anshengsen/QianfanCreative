@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，米色系运动鞋，厚底设计，白色短袜，沥青路面，自然光，休闲风格，细节丰富，纹理清晰，鞋带系紧，鞋面材质质感，焦距集中于鞋子，背景虚化。
+EN：Professional photography, 8K, shoe advertising shoot, no face, beige sneakers, thick sole design, white socks, asphalt road, natural light, casual style, rich details, clear textures, tight laces, upper material texture, focus on the shoes, blurred background. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

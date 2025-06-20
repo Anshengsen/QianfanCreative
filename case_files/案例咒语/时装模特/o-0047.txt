@@ -1,0 +1,3 @@
+CN：白人男性，红色莫西干头，些许雀斑，蓝色眼睛，穿着朋克风格的皮衣，弹吉他的姿势，干净清爽的工作室背景，舞台灯光效果，摇滚范儿，8K，
+EN：Caucasian male, red mohawk, some freckles, blue eyes, wearing punk style leather jacket, playing guitar, clean studio background, stage lighting effects, rock style, 8K, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

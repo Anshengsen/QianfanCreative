@@ -1,0 +1,3 @@
+CN：蓝色花朵，水滴，微距摄影，电影感，超高分辨率，8K，超细节，自然光，柔和的光线，特写镜头，摄影作品，花瓣纹理，水珠，清新，宁静的氛围
+EN：blue flowers, water drops, macro photography, cinematic feel, ultra high resolution, 8K, ultra detail, natural light, soft light, close-up, photography, petal texture, water drops, freshness, tranquil atmosphere --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

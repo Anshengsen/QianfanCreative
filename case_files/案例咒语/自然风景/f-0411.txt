@@ -1,0 +1,3 @@
+CN：冬夜雪景，小路，路灯，暖黄色灯光，薄雾，树木，雪，两人并肩行走，背影，冷色调，电影感，环境光，高质量。
+EN：Snow scene on a winter night, path, street lights, warm yellow light, mist, trees, snow, two people walking side by side, back view, cold tones, cinematic feel, ambient light, high quality. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

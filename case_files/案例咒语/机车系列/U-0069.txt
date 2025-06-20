@@ -1,0 +1,2 @@
+CN：改装保时捷911，经典跑车，金色车身，宽体套件，大尾翼，金色轮毂，低角度，摄影棚光照，暖色调背景，反光地面，高光细节，电影级质感，超高清，8K，细节增强，真实感渲染
+EN：Modified Porsche 911, classic sports car, gold body, wide body kit, large rear wing, gold wheels, low angle, studio lighting, warm background, reflective ground, highlight details, movie-level texture, ultra-high definition, 8K, enhanced details, realistic rendering --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

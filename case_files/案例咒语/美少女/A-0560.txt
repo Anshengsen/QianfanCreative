@@ -1,0 +1,3 @@
+CN：一个可爱的卡通青年女孩坐在桌子前，职业是主播，戴着耳机，自信地微笑，白色背景，有趣，
+EN：A cute cartoon young girl sitting at a desk, a broadcaster by profession, wearing headphones, smiling confidently, white background, funny, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：高科技水冷回路的详细3D插图，展示散热器、泵和水块等组件，3D插图，黑色高反射背景，透视，3D，OC渲染，极其详细的细节，超品质，超级降噪，4K，
+EN：Detailed 3D illustrations of high-tech water cooling circuits, showing components such as radiators, pumps, and water blocks, 3D illustrations, black high-reflection background, perspective, 3D, OC rendering, extremely detailed details, super quality, super noise reduction, 4K, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：壁纸，峡谷中的湖，两侧是雪山，尽头是夕阳，正面视图，唯美壁纸，真实摄影，细致刻画，32K，最佳品质，最佳分辨率，
+EN：Wallpaper, lake in a canyon, snow-capped mountains on both sides, sunset at the end, front view, beautiful wallpaper, real photography, detailed portrayal, 32K, best quality, best resolution, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：秋季森林，木桥，河流，倒影，暖色调，橙色，黄色，落叶，雾气，宁静，自然风光，广角，对称构图，景深，电影级光照，逼真渲染，超高清，8K，最佳画质，细节丰富
+EN：Autumn forest, wooden bridge, river, reflections, warm colors, orange, yellow, fallen leaves, mist, tranquility, natural scenery, wide angle, symmetrical composition, depth of field, cinematic lighting, realistic rendering, ultra high definition, 8K, best quality, rich details --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

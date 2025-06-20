@@ -1,0 +1,4 @@
+﻿CN：机器人，正视图，居中构图，全身，夜晚，干净的背景，散发霓虹灯光，全息照明，最佳质量，HD，
+EN：Robot, front view, centered composition, full body, night, clean background, emitting neon lights, holographic lighting, best quality, HD, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

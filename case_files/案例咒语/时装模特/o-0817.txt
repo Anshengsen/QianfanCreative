@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部，一个女性，站立姿势，身体略微侧向镜头，穿着一件浅米色无袖背心，V，领口和肩部有精致的白色蕾丝花边装饰，搭配蓝色高腰牛仔裤，裤子有明显的缝线和口袋细节，肩上挎着一个棕色单肩包，背景是室内窗户，光线明亮，整体风格简约，清新，细节丰富，质感真实。
+EN：Professional photography, 8K, clothing advertising shooting, no face, a woman, standing pose, body slightly sideways to the camera, wearing a light beige sleeveless vest, V, with delicate white lace decoration on the neckline and shoulders, paired with blue high-waisted jeans with obvious stitching and pocket details, a brown shoulder bag on the shoulder, the background is an indoor window, the light is bright, the overall style is simple, fresh, rich in details, and real texture. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

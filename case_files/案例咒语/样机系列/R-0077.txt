@@ -1,0 +1,3 @@
+CN：个性化定制帆布包，手提展示，复古砖墙背景，空白效果图，3D渲染，撞色拼接造型，帆布材质外观，自然光线，产品细节图，高清，纹理清晰，
+EN：Personalized custom canvas bag, handheld display, vintage brick wall background, blank rendering, 3D rendering, contrasting color stitching, canvas material appearance, natural light, product details, high definition, clear texture, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

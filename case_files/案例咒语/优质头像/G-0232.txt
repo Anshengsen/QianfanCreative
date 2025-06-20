@@ -1,0 +1,3 @@
+CN：韩漫风格，韩国偶像风格，一位美丽的韩国美少女，精致的妆容，穿着米黄色的T恤，正面，韩国漫画风格，锐利的线条::3，白色背景，超细节，超品质，杰作，
+EN：Han Man style, Korean idol style, a beautiful Korean girl, exquisite makeup, wearing a beige T-shirt, front, Korean manga style, sharp lines:: 3, white background, super detail, super quality, masterpiece, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

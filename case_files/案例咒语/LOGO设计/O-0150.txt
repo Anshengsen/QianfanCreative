@@ -1,0 +1,3 @@
+CN：几何logo，图标，烧瓶和钥匙孔，盾牌形状，蓝色到粉色渐变，深蓝色背景，矢量风格，现代，抽象，风格化，干净线条，对称，渐变填充，高质量，矢量艺术。
+EN：Geometric logo, icon, flask and keyhole, shield shape, blue to pink gradient, dark blue background, vector style, modern, abstract, stylized, clean lines, symmetric, gradient fill, high quality, vector art. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

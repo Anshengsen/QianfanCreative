@@ -1,0 +1,3 @@
+CN：一个身穿黑色超大连帽衫的女模特，短发，连帽衫和黑色休闲裤，白色背景，工作室灯光，柔和的斜角，全身，模特姿势，美丽，欧洲美女，
+EN：A female model in a black oversized hoodie, short hair, hoodie and black casual pants, white background, studio lighting, soft angled, full body, model pose, beauty, European beauty, --q 1 --s 100 --ar 9:16 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

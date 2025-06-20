@@ -1,0 +1,3 @@
+CN：中国龙幼崽，白色细长且蓬松的毛发，可爱卡通风格，大眼睛，短耳朵，龙角，粉色背景空间，体积光，蓬松，3D，
+EN：Chinese dragon cub, white slender and fluffy hair, cute cartoon style, big eyes, short ears, dragon horns, pink background space, volumetric light, fluffy, 3D, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

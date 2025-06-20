@@ -1,0 +1,3 @@
+CN：像素艺术游戏风格的人物零件，看起来很像梅达博特的chibi机器人的零件，蓝色，盔甲、剑、盾牌、帽子、宝石等元素，白色背景，
+EN：Pixel art game-style character parts that look a lot like the parts of Medabot's chibi robot, blue, armor, swords, shields, hats, gems and other elements, white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

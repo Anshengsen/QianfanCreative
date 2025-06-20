@@ -1,0 +1,3 @@
+CN：夜间，天文摄影，全景，黑暗的火山山峰轮廓，蜿蜒的道路，云海之上，银河系占据天空大部分区域，呈现出青绿色调，星光点点，远方有微弱的灯光，低光照，高对比度，长曝光摄影，超高分辨率，逼真，32kuhd，
+EN：Night, astrophotography, panorama, dark volcanic peaks silhouette, winding road, above the sea of ​​clouds, the Milky Way occupies most of the sky, showing a turquoise hue, stars, faint lights in the distance, low light, high contrast, long exposure photography, ultra high resolution, realistic, 32kuhd, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

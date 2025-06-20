@@ -1,0 +1,5 @@
+CN：七彩蘑菇照片，彩色的蘑菇，蘑菇，下雨天，傍晚，电影级照明，湿润的土壤，露水，最佳质量，最佳画质，
+EN：Colorful mushroom photos, colorful mushrooms, mushrooms, rainy days, evening, movie-grade lighting, moist soil, dew, best quality, best image quality,  --q 5 --s 550 --ar 3:4 --v 5.2 --style raw
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：线条风格人物插画，一个人抱着各种绘画工具，如笔、颜料桶和卷笔刀，黑白配色，线条简洁，整体风格现代简约，具有设计感和创意感，细节包括人物的姿态，以及各种绘画工具的造型，最佳品质，8K，矢量图形，干净利落，适合用于设计工作室宣传或艺术教育，淡紫色背景，
+EN：Line style character illustration of a person holding various painting tools, such as pens, paint buckets and pencil sharpeners, black and white color scheme, clean lines, modern and simple overall style, with a sense of design and creativity, details include the character's posture, and the shape of various painting tools, best quality, 8K, vector graphics, clean and neat, suitable for design studio promotion or art education, lavender background, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

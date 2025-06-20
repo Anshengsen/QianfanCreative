@@ -1,0 +1,4 @@
+﻿CN：一只穿着粉色工作服的卡通3d老虎，站着，造型可爱的玩具雕塑，动漫风格的角色设计，深白色和深橙色，32k，uhd，工笔，丰富的细节，逼真的阴影，超高质量，
+EN：A cartoon 3d tiger in pink overalls, standing, modeling cute toy sculpture, anime-style character design, dark white and dark orange, 32k, uhd, meticulous brushwork, rich details, realistic shadows, super high quality, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：蒸汽朋克风格的机甲，黄铜和皮革材质，复杂的齿轮和管道结构，背光，昏暗的工厂背景，弥漫着煤烟和蒸汽，体积光渲染，强调金属质感和光影效果，锈迹斑斑，细节刻画到铆钉和螺丝，8K，超高分辨率，逼真，
+EN：Steampunk style mecha, brass and leather materials, complex gear and pipe structure, backlight, dim factory background, filled with soot and steam, volumetric light rendering, emphasizing metal texture and light and shadow effects, rusty, details depicted to rivets and screws, 8K, ultra-high resolution, realistic, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 --no close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

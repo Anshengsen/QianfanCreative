@@ -1,0 +1,3 @@
+CN：傍晚时分，云雾缭绕的山峰，悬崖峭壁，两棵造型独特的松树，紫色野花，岩石，远山，自然风光，摄影，广角镜头，电影级光照，柔和的色彩，高对比度，超高清，8K，最佳质量。
+EN：Misty peaks at dusk, steep cliffs, two uniquely shaped pine trees, purple wildflowers, rocks, distant mountains, nature, photography, wide-angle lens, cinematic lighting, soft colors, high contrast, Ultra HD, 8K, best quality. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

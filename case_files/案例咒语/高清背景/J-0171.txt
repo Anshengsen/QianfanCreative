@@ -1,0 +1,5 @@
+﻿CN：扭曲线条的像素化抽象背景，起伏线条的风格，交互式艺术品，霓虹灯注入的数字主义，抽象，极简主义，地形，
+EN：Pixelated abstract backgrounds with distorted lines, undulating line styles, interactive artwork, neon-infused digitalism, abstraction, minimalism, topography, --q 1 --s 100 --ar 16:9 --v 6.0 --c 0
+（PS：出现这个风格的概率比较低，可能需要多次出图）
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

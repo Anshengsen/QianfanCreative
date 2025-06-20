@@ -1,0 +1,3 @@
+CN：3D风格，盲盒玩具，唐代女孩，站立姿势，正面，她有着婴儿肥、胖乎乎的脸，柔和的灯光，青绿色和淡黄色，敦煌服饰，中国传统文化，干净的背景，3D渲染，OC渲染，4k，超细节，超品质，全身，
+EN：3D style, blind box toys, girl from the Tang Dynasty, standing pose, front view, she has a baby fat, chubby face, soft lighting, turquoise and light yellow, Dunhuang costumes, traditional Chinese culture, clean background, 3D rendering, OC rendering, 4k, super details, super quality, full body, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

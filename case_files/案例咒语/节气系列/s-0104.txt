@@ -1,0 +1,3 @@
+CN：水墨工笔风格，划龙舟，端午节主题，远处是山脉和江南徽派建筑群，河流，荷叶，墨水，淡绿色和淡黑色，俯拍，鸟瞰视角，超广角，广角，最佳品质，8K，
+EN：Ink and brushwork style, dragon boat racing, Dragon Boat Festival theme, mountains and Jiangnan Hui-style buildings in the distance, river, lotus leaves, ink, light green and light black, bird's-eye view, ultra-wide angle, wide angle, best quality, 8K, --q 5 --s 50 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

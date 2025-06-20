@@ -1,0 +1,4 @@
+﻿CN：一个超级可爱的小男孩，圆脸，黑发，正面，全身，穿着未来科技宇航员配饰，白色背景，盲盒风格，时尚，粘土模型，IP，闪亮有光泽，干净的背景，最佳品质，
+EN：A super cute little boy, round face, black hair, front, full body, wearing futuristic technology astronaut accessories, white background, blind box style, fashion, clay model, IP, shiny and shiny, clean background, best quality, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：秋日风光，远山，湖泊，草地，阴天，多云，广角镜头，自然光，暖色调，低饱和度，风景摄影，真实感，高清晰度
+EN：Autumn scenery, distant mountains, lakes, grasslands, overcast sky, cloudy, wide-angle lens, natural light, warm tones, low saturation, landscape photography, realistic, high definition --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

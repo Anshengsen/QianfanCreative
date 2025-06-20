@@ -1,0 +1,3 @@
+CN：最小的产品舞台设计，3D，前景是一个圆形台子，两侧是打开的窗户，窗外景是带有中国江南建筑风格的建筑和河道，对称构图，红色和金色，外面烟花绽放，3D渲染，c4d，OC，3dmax渲染，全局光，明亮的光，最佳品质，8K，
+EN：Minimal production stage design, 3D, a round platform in the foreground, open windows on both sides, buildings and rivers in the Jiangnan style of China, symmetrical composition, red and gold, fireworks outside, 3D rendering, c4d, OC, 3dmax rendering, global light, bright light, best quality, 8K, --q 1 --s 100 --ar 1:1 --v 6.0 --profile c8gkksr 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

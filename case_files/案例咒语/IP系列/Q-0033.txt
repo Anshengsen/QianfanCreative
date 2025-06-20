@@ -1,0 +1,5 @@
+
+CN：一个毛茸茸的怪物，全景，正面视图，面对镜头，居中，使用C4D建模渲染，OC渲染，极致降噪，黑色背景，大师杰作，最高质量，电影级光照，
+
+EN：A furry monster, panoramic, frontal view, camera-facing, centered, rendered using C4D modeling, OC rendering, extreme noise reduction, black background, masterpiece, highest quality, cinematic lighting, --q 5 --s 180 --ar 3:4 --v 5.2 --style raw --fast 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

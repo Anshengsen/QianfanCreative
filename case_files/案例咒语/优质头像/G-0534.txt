@@ -1,0 +1,3 @@
+CN：真实摄影，4岁的中国女孩，小眼睛，非常非常胖嘟嘟的，肉嘟嘟的脸，双下巴，齐肩的中发，齐刘海，调皮地吐舌头，一只眼睛眯起，穿着橙色带卡通图案的背心，双手叉腰，真实照片，家中沙发背景，柔和的灯光，暖色调，
+EN：Real photography, 4-year-old Chinese girl, small eyes, very, very chubby, chubby face, double chin, shoulder-length medium hair, bangs, playfully sticking out tongue, one eye squinting, wearing orange vest with cartoon pattern, hands on hips, real photo, sofa background at home, soft lighting, warm colors, --q 1 --s 100 --ar 1:1 --niji 6 --sref https://s.mj.run/KEDzHRVYYBk 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

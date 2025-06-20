@@ -1,0 +1,3 @@
+CN：傍晚时分的湖边小镇，雪山，房屋，教堂，灯光，倒影，冷色调，雾气，宁静，广角，航拍视角，高清晰度，8K，超细节，真实感摄影
+EN：Lakeside town at dusk, snow-capped mountains, houses, churches, lights, reflections, cold tones, fog, tranquility, wide angle, aerial perspective, high definition, 8K, ultra-detailed, realistic photography --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

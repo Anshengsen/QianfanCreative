@@ -1,0 +1,3 @@
+CN：动画片风格，一只拟人化的橘黄色的猫，趴在床上看手机::3，开心大笑，动画GIF风格，动画片截图，夜晚，桌面上有一个可爱的小台灯照明，特写，暖光，卧室里，温馨的画面，可爱，
+EN：Cartoon style, an anthropomorphic orange cat, lying on the bed looking at the phone:: 3, happy laugh, animated GIF style, cartoon screenshots, night, there is a cute little desk lamp lighting on the desktop, close-up, warm light, bedroom, warm picture, cute, --q 1 --s 100 --ar 1:1 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

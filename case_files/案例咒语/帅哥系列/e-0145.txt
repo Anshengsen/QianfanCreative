@@ -1,0 +1,3 @@
+CN：游戏画面中的青年男子身着中国古代武士装束，飘逸的长长的黑发，身着蓝色铠甲，五官精致，相貌英俊，双眼在霓虹灯下微微发光，冷色调，营造出一种神秘的氛围，虚幻引擎5，夜晚，
+EN：The young man in the game screen is dressed in ancient Chinese warrior costume, with long flowing black hair, wearing blue armor, delicate features, handsome appearance, and his eyes glowing slightly under the neon lights. The cold tones create a mysterious atmosphere, Unreal Engine 5, night, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

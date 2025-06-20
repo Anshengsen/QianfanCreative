@@ -1,0 +1,2 @@
+﻿CN：霓虹灯中的SUV，笔法探索的风格，深色明暗对比，32kuhd，红色和青色，超高品质，超高分辨率，
+EN：SUV in neon, style of brushwork exploration, dark chiaroscuro, 32kuhd, red and cyan, super high quality, super high resolution, --q 1 --s 100 --ar 3:2 --v 6.0

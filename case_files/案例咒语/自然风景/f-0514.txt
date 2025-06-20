@@ -1,0 +1,3 @@
+CN：星河之路，蜿蜒盘旋，蓝色与金色光芒交织，星光点点，梦幻，超现实主义，山脉背景，城市灯光点缀，夜空，深蓝色，电影感光效，超高分辨率，8K，最佳质量，细节丰富，光影效果，虚幻引擎渲染。
+EN：Galaxy road, winding, blue and gold light interweaving, starry sky, dreamy, surrealism, mountain background, city lights, night sky, dark blue, film-like lighting effect, ultra-high resolution, 8K, best quality, rich details, light and shadow effects, rendered in Unreal Engine. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

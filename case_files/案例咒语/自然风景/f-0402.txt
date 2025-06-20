@@ -1,0 +1,4 @@
+CN：洞穴内部景观，天然形成的岩石洞穴，水潭，水面反射光线，岩石纹理，自然光透过洞口，暖色调，湿润的岩石表面，水流，长曝光，广角镜头，低角度拍摄，高动态范围(HDR)，自然奇观，探险，地质构造，8K，超高细节，真实感渲染
+EN：cave interior, naturally formed rock cave, pool, light reflecting off water, rock texture, natural light filtering through cave entrance, warm tones, wet rock surface, water flow, long exposure, wide angle lens, low angle shot, high dynamic range (HDR), natural wonder, exploration, geological formations, 8K, ultra-high detail, photorealistic rendering --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

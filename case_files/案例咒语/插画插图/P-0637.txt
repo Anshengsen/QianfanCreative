@@ -1,0 +1,3 @@
+CN：卡通线条插画风格，撞色配色，粉色瓷砖，绿色皮肤，橙色袜子，细节包括人物的姿态，酒杯的形状，房间的摆设，整体画面轻松随意，风格现代，最佳品质，8K，矢量图形，干净利落，生活插画风格
+EN：Cartoon line illustration style, contrasting colors, pink tiles, green skin, orange socks, details include the character's posture, the shape of the wine glass, the furnishings in the room, the overall picture is relaxed and casual, the style is modern, the best quality, 8K, vector graphics, clean and neat, life illustration style --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

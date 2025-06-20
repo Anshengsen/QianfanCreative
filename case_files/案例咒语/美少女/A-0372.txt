@@ -1,0 +1,3 @@
+CN：2D，动漫，日本漫画，时尚，长发，穿着黑色外套，冷白皮肤，亚洲面孔，可爱，纯黑色背景，
+EN：2D, anime, Japanese manga, fashion, long hair, wearing a black coat, cold white skin, Asian face, cute, pure black background, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

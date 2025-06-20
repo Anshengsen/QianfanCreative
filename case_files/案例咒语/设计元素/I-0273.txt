@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，一个橙色和黄色的扩音器，白色背景，柔和的灯光，居中构图，
+EN：3D rendering, cartoon style, an orange and yellow megaphone, white background, soft lighting, centered composition, --q 1 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

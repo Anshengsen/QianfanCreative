@@ -1,0 +1,3 @@
+CN：两只可爱的熊猫幼崽坐在地上查看红包，在房间内，明亮的灯光，新年氛围，挂着灯笼，有趣的画面，高分辨率，C4D风格，迪士尼3D动画风格，卡通逼真的角色设定，光线追踪，
+EN：Two cute panda cubs sitting on the floor checking red envelopes, in a room with bright lights, New Year atmosphere, hanging lanterns, interesting picture, high resolution, C4D style, Disney 3D animation style, cartoon realistic character setting, ray tracing, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：抽象海景，长时间曝光，模糊的海浪，柔和的渐变，日落色调，蓝色，橙色，金色，平静，宁静，水平构图，极简主义，艺术摄影，电影级光照，高动态范围(HDR)，超宽画幅
+EN：Abstract seascape, long exposure, blurred ocean waves, soft gradient, sunset tones, blue, orange, gold, calm, tranquility, horizontal composition, minimalism, artistic photography, cinematic lighting, high dynamic range (HDR), ultra wide frame --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

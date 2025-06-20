@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，一个打开的橙色礼盒，里面装着两个红色的红包和一些金币，金币有部分飘在空中。礼盒上系着橙色的丝带。背景为浅蓝色，光线柔和，整体风格喜庆，适合中国新年主题，居中，
+EN：3D rendering, cartoon style, an open orange gift box with two red envelopes and some gold coins, some of which are floating in the air. The gift box is tied with an orange ribbon. The background is light blue, the light is soft, and the overall style is festive, suitable for the Chinese New Year theme, centered, --q 1 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

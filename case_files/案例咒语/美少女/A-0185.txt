@@ -1,0 +1,4 @@
+﻿CN：赛博朋克女孩手绘风格数字绘画，
+EN：Cyberpunk girl hand-drawn style digital painting, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

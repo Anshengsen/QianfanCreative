@@ -1,0 +1,3 @@
+CN：2.5D透视现代插图，蓝色背景，2个男性角色站在打印机面前，等距，科技线条，蓝色与紫色渐变梯度，居中构图，最佳品质，矢量，
+EN：2.5D perspective modern illustration, blue background, 2 male characters standing in front of printer, isometric, technology lines, blue and purple gradient, centered composition, best quality, vector, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize ak9ezqk 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

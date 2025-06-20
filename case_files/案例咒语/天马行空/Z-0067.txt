@@ -1,0 +1,3 @@
+CN：中国山水画，古代皇家建筑，哑光蓝色背景，树木和祥云和古代建筑，以金色描摹为主，中国工笔画风格，中国传统文化，
+EN：Chinese landscape painting, ancient royal architecture, matte blue background, trees and auspicious clouds and ancient buildings, mainly depicted in gold, Chinese fine brushwork style, traditional Chinese culture, --q 5 --s 250 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：最小的舞台设计，3D，地面上有一个圆形台子，简单的背景，光影，窗户光影，极简主义，简单的细节，3D渲染，白色，
+EN：Minimal stage design, 3D, a round podium on the ground, simple background, light and shadow, window light and shadow, minimalism, simple details, 3D rendering, white, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

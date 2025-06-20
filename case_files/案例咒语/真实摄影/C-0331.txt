@@ -1,0 +1,3 @@
+CN：自然光人像，简约风格，一个年轻的白人女性，金发盘起，穿着黑色丝绸上衣，看向镜头，浅色背景，面部有阴影，半身像，最佳质量，8k，超细节，皮肤光泽感强
+EN：Natural light portrait, minimalist style, a young Caucasian woman with blond hair tied up, wearing a black silk top, looking towards the camera, light background, shadows on face, half-length, best quality, 8k, super detailed, strong skin gloss --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

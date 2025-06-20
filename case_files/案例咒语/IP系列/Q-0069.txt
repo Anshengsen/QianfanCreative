@@ -1,0 +1,4 @@
+﻿CN：卡通赤壁虎的3d渲染，以石格的视觉美学风格，工笔，青色和白色，动画电影先锋，玩具核心，顽皮的女性气质，
+EN：Cartoon Chibi Tiger's 3d rendering, with the visual aesthetic style of stone grid, meticulous brushwork, cyan and white, animation film pioneer, toy core, naughty femininity, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：海边悬崖，岩石峭壁，海浪，星空，银河，长曝光，自然风光，冷色调，广角镜头，高对比度，电影级光照，超高清，8K，细节丰富。
+EN：Seaside cliffs, rocky cliffs, ocean waves, starry sky, Milky Way, long exposure, natural scenery, cold tones, wide-angle lens, high contrast, cinematic lighting, ultra high definition, 8K, rich details. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

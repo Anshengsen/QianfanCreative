@@ -1,0 +1,3 @@
+CN：深紫色3D背景，曲线效果，浅紫色和浅橙色，丰富的细节，光滑无噪点，流畅，抽象，扭转，
+EN：Deep purple 3D background, curvilinear effect, light purple and light orange, rich details, smooth and noise-free, smooth, abstract, twisted, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

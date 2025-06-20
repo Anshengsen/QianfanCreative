@@ -1,0 +1,3 @@
+CN：逼真的摄影，年轻少女的纤纤玉手手指轻捏着一枚小小的直径为58毫米的空白圆形徽章，徽章放置在一个木质桌面上，背景轻微模糊，焦点集中在徽章上，暖色调的光线洒在徽章表面，极高品质，8K，
+EN：Realistic photography of a young girl's delicate hand holding a small blank round badge with a diameter of 58 mm, placed on a wooden table, with a slightly blurred background and the focus on the badge, with warm light shining on the surface of the badge, very high quality, 8K, --q 1 --s 100 --ar 1:1 --v 6.0 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

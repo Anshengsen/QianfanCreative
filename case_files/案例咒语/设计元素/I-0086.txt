@@ -1,0 +1,4 @@
+﻿CN：救护车3D图标，3D，等距，粘土材料，三维渲染，红色和白色，白色背景，居中构图，最佳品质，最高分辨率，
+EN：Ambulance 3D icon, 3D, isometric, clay material, 3D rendering, red and white, white background, centered composition, best quality, highest resolution, --q 1 --s 100 --ar 3:4 --niji 5
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

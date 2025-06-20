@@ -1,0 +1,3 @@
+CN：奇幻森林中的少女，金色长发，身着轻盈的白色裙子，身后是缠绕的藤蔓和绚烂的花朵，光线透过树叶洒下斑驳的光影，配色采用梦幻般的蓝色和绿色，柔和的色调，超写实风格，逼真，细腻的肌肤和流动的裙摆，高清细节，UHD画质，
+EN：A girl in a fantasy forest, with long golden hair and a light white dress, with winding vines and gorgeous flowers behind her, and light shining through the leaves, casting mottled shadows. The color scheme uses dreamy blue and green, soft tones, hyper-realistic style, realistic, delicate skin and flowing skirt, high-definition details, UHD quality, --q 1 --s 100 --ar 9:20 --v 6.1 --personalize srak4m6  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

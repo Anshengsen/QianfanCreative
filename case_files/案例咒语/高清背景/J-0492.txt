@@ -1,0 +1,3 @@
+CN：抽象艺术，丙烯颜料画，流体艺术，粉色与蓝色，漩涡状纹理，柔和的色彩过渡，梦幻般的质感，高光与阴影，动态构图，艺术摄影，高分辨率，细节丰富
+EN：Abstract art, acrylic painting, fluid art, pink and blue, swirling texture, soft color transition, dreamy texture, highlights and shadows, dynamic composition, artistic photography, high resolution, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

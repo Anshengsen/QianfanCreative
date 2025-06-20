@@ -1,0 +1,3 @@
+CN：绝美的光影，硬阴影，丁达尔效应的极致，美学，一个帅气的欧洲男士站在纯黑背景布前，闭眼，银色凌乱的头发，虚幻引擎5，动画gif，极其详细光滑的皮肤，特写，绝美的画面，居中，正面视图，
+EN：Beautiful lighting, hard shadows, extreme Tyndall effect, aesthetics, a handsome European man standing in front of a pure black background, eyes closed, silver messy hair, Unreal Engine 5, animated gif, extremely detailed smooth skin, close-up, beautiful image, centered, front view,  --q 5 --s 50 --ar 1:1 --niji 6 --personalize abwlbtq --stop 99 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

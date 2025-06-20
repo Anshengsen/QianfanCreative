@@ -1,0 +1,3 @@
+CN：卡通风格的迷你机甲，糖果色涂装，明亮的游乐场背景，气球和彩带装饰，Redshift渲染，塑料质感，圆润的造型，大大的眼睛，背景是旋转木马和摩天轮，8K分辨率，可爱的风格，超级卡哇伊，
+EN：Cartoon style mini mech, candy color paint, bright playground background, balloons and ribbons decoration, Redshift rendering, plastic texture, rounded shape, big eyes, carousel and Ferris wheel in the background, 8K resolution, cute style, super kawaii, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

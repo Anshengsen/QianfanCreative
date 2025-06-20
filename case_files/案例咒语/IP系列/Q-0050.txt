@@ -1,0 +1,5 @@
+MJ-SC-0043      洛丽塔3D女孩
+CN：一个3D卡通中国少女，洛丽塔，18岁，少女，七彩，缤纷，魔幻，3D，C4D，OC渲染，简约黑色高反光背景，黑色地面，黑色背景，全身照，全身镜头，面对镜头，
+EN：A 3D cartoon China girl, Lolita, 18 years old, girl, colorful, colorful, magical, 3D, C4D, OC rendering, simple black highly reflective background, black ground, black background, full-body photo, full-body lens, facing the lens, --q 5 --s 550 --ar 3:4 --v 5.2 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

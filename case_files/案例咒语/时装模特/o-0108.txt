@@ -1,0 +1,3 @@
+CN：一件绿色碎花连衣裙，V领设计，田园风格，碎花图案精细，飘逸面料，白色背景，平铺，正视图，褶皱细节，花纹细节，居中，
+EN：A green floral dress, V-neck design, pastoral style, detailed floral pattern, flowing fabric, white background, flat lay, front view, pleat details, pattern details, centered, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

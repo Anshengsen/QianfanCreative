@@ -1,0 +1,3 @@
+CN：时尚人像摄影，一位亚洲女性，长发，戴着棕色报童帽，穿着米色风衣，脸上有一些雀斑，妆容精致，眼神迷离，背景模糊，柔和的光线，最佳品质。
+EN：Fashion portrait photography of an Asian woman with long hair, wearing a brown newsboy cap and a beige trench coat, with some freckles on her face, delicate makeup, blurred eyes, blurred background, soft light, best quality. --s 50 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

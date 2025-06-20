@@ -1,0 +1,3 @@
+CN：一个美少女，穿着汉服，拿着一把扇子，水墨风，眼睛特写，腮红，明亮的眼睛，第一人称拍摄，最高质量，闪亮有光泽，风格富有表现力，肖像，特写，
+EN：A beautiful girl in Hanfu, holding a fan, ink style, eye close-up, blush, bright eyes, first-person shot, highest quality, shiny and shiny, expressive style, portrait, close-up, --q 5 --s 180 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个可爱的8岁女孩，短卷发，在明亮舒适的厨房里学做菜，阳光透过窗户照进来，餐桌上摆满了米饭和菜肴，气氛温馨，全景，迪士尼动画风格，3D，高清辛烷值渲染，最佳照明，最佳质量，
+EN：A cute 8-year-old girl with short curly hair is learning to cook in a bright and cozy kitchen, the sun shines through the window, the dining table is full of rice and dishes, the atmosphere is warm, panoramic view, Disney animation style, 3D, high-definition octane rendering, best lighting, best quality, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

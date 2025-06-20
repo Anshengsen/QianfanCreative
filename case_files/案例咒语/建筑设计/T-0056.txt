@@ -1,0 +1,3 @@
+CN：外观看起来像一个巨大苹果的大剧院，解构主义风格，20世纪末，鲜红色金属外壳，顶部有一个巨大的咬痕形状的天窗，夜晚，内部灯光从咬痕处透出，暖色调灯光，艺术渲染，仰视视角，强调建筑的奇特造型，4K。
+EN：The theater looks like a giant apple, deconstructivist style, late 20th century, bright red metal shell, with a huge bite-shaped skylight on the top, at night, the interior lights shine through the bite, warm lighting, artistic rendering, upward perspective, emphasizing the peculiar shape of the building, 4K. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

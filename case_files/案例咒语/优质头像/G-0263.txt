@@ -1,0 +1,3 @@
+CN：手绘写实角色插图，白色背景，一个小女孩坐在地上，大眼睛，双马尾，头发顶部有高光，双手托住下巴，旁边有一只小猫，左侧有一个盆栽，超品质，超细节，超质量，
+EN：Hand drawn realistic character illustration, white background, a little girl sitting on the ground, big eyes, twin ponytails, highlights on the top of her hair, her hands on her chin, a kitten next to her, a potted plant on the left, super quality, super details, super quality, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

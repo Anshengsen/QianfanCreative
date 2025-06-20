@@ -1,0 +1,3 @@
+CN：一个可爱的3D动物，身体有尖刺，外表像刺猬，胖嘟嘟的，非常可爱，它有可爱的小手臂，蓝色背景，3D渲染，粘土材料，光滑，简单的细节，
+EN：A cute 3D animal with spikes on its body, looks like a hedgehog, chubby and very cute, it has cute little arms, blue background, 3D rendering, clay material, smooth, simple details, --q 1 --s 100 --ar 1:1 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

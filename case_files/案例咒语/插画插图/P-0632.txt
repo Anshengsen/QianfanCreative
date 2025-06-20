@@ -1,0 +1,4 @@
+CN：复古肌理插画风格，噪点纹理，冷色配色，蓝色天空，米色雪山，黑色城堡，细节包括雪山的轮廓，城堡的结构，树木的形状，整体画面宁静深邃，风格复古，最佳品质，8K，几何图形，扁平化设计，风景插画
+EN：Retro texture illustration style, noise texture, cold color scheme, blue sky, beige snow mountain, black castle, details include the outline of the snow mountain, the structure of the castle, the shape of the trees, the overall picture is quiet and profound, retro style, best quality, 8K, geometric graphics, flat design, landscape illustration --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

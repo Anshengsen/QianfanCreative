@@ -1,0 +1,3 @@
+CN：沙丘，特写，暗色调，冷色系，极简主义，明暗对比，高耸，流畅线条，自然风光，摄影，高质量，8K
+EN：sand dunes, close-up, dark tones, cold colors, minimalism, chiaroscuro, towering, smooth lines, nature, photography, high quality, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

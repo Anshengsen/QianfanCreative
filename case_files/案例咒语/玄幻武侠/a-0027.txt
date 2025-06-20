@@ -1,0 +1,4 @@
+
+CN：一个年轻的剑客在竹林中舞剑、他的背后有一条青龙，武术动作，泼墨，墨水，绿色光，全息，全息光效，动态模糊，游戏光效，精细光泽，赛博朋克风格，油画质感，全长镜头，全景，虚幻引擎渲染，丰富的细节，
+EN：A young swordsman dances in the bamboo forest, there is a green dragon behind him, martial arts action, splashing ink, ink, green light, holography, holographic light effect, motion blur, game light effect, fine gloss, cyberpunk style, oil painting texture, full length shot, panorama, unreal engine rendering, rich details, --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：卡通矢量风格的一块西瓜，独奏，简单的细节，简单，大红色的西瓜果肉和黄色的籽和绿色有花纹的西瓜皮，简单的样式，极简主义，卡通风格，矢量，可爱的，明亮的，居中构图，白色背景，
+EN：Cartoon vector style piece of watermelon, solo, simple details, simple, big red watermelon pulp and yellow seeds and green patterned watermelon rind, simple style, minimalism, cartoon style, vector, cute, bright, centered composition, white background, --q 1 --s 100 --ar 1:1 --v 6.0
+（PS：籽的颜色搞错了，自己做的的时候可以改成黑色的籽） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

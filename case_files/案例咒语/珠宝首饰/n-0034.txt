@@ -1,0 +1,3 @@
+CN：三维渲染图，一枚戒指，戒指顶部镶嵌一颗方形蓝色宝石，宝石周围镶嵌着小钻石，戒指侧面镶嵌一颗圆形红色宝石和三颗小钻石，材质采用铂金，放置在木质桌面上，桌面上散落着小宝石，柔和的阴影，全局光，超级细节，光滑，超精细
+EN：3D rendering of a ring with a square blue gemstone on the top and small diamonds around it, a round red gemstone and three small diamonds on the side of the ring, made of platinum, placed on a wooden table with small gemstones scattered on the table, soft shadows, global light, super detail, smooth, super fine --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：卡通矢量风格的草莓，独奏，简单的细节，简单，大红色的草莓和黄色的籽，顶部有绿色的叶子，简单的样式，极简主义，卡通风格，矢量，可爱的，明亮的，居中构图，白色背景，
+EN：Cartoon vector style strawberries, solo, simple details, simple, big red strawberries and yellow seeds, with green leaves on top, simple style, minimalism, cartoon style, vector, cute, bright, centered composition, white background, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

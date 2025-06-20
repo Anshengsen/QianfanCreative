@@ -1,0 +1,2 @@
+CN：Art Deco风格机车，流线型设计，几何图案装饰，金色和黑色的配色方案，奢华的内饰，城市夜景背景，霓虹灯光，Octane渲染，高贵典雅，4K分辨率，强调奢华和复古感。
+EN：Art Deco style motorcycle, streamlined design, geometric pattern decoration, gold and black color scheme, luxurious interior, city night scene background, neon lights, Octane rendering, noble and elegant, 4K resolution, emphasizing luxury and retro feel. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

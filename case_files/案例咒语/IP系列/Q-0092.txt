@@ -1,0 +1,4 @@
+﻿CN：一个可爱的中国男孩娃娃，新年，龙年主题，卡通，可爱，3D，Q版风格，丰富的细节，全身，正面，盲盒风格，
+EN：A cute Chinese boy doll, New Year, Year of the Dragon theme, cartoon, cute, 3D, Q version style, rich details, full body, front, blind box style, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：金色海滩，落日余晖，海浪轻抚，岩石耸立，湿润沙滩，光影交织，自然风光，宁静氛围，高角度拍摄，暖色调，细腻质感，高清画质
+EN：Golden beach, sunset, waves caressing, rocks towering, wet sand, light and shadow interweaving, natural scenery, tranquil atmosphere, high-angle shooting, warm colors, delicate texture, high-definition quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

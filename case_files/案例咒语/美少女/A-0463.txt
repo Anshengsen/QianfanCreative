@@ -1,0 +1,3 @@
+CN：动漫截图，一个美少女，星星眼，特写，锐利的线条，最佳品质，有光泽，彩色漫画，8k，
+EN：Anime screenshot, a beautiful girl, starry eyes, close-up, sharp lines, best quality, glossy, colorful comics, 8k, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

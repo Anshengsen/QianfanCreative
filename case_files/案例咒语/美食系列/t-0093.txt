@@ -1,0 +1,3 @@
+CN：美食摄影，照片，热气腾腾的麻婆豆腐，中式菜肴，豆腐块，肉末，红油汤底，撒上葱花，用黑色中式餐具盛装，搭配红辣椒和青葱点缀，旁边有小碗调料，暖色调，近景特写，柔和光线，高对比度，突出食物的质感和色泽，景深效果，营造温馨的用餐氛围。
+EN：Food photography, photo, steaming Mapo Tofu, Chinese cuisine, tofu cubes, minced meat, red oil soup base, sprinkled with chopped green onions, served on black Chinese tableware, garnished with red peppers and green onions, with a small bowl of seasoning next to it, warm colors, close-up, soft light, high contrast, highlighting the texture and color of the food, depth of field effect, creating a warm dining atmosphere. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

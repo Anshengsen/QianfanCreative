@@ -1,0 +1,3 @@
+CN：3D木板，正面，矩形，用作标题的背景木板，网络游戏风格，左右两侧有不规则的断痕，明亮且柔和，白色背景，独奏，居中，
+EN：3D wooden board, front, rectangular, background board for titles, online game style, with irregular breaks on the left and right sides, bright and soft, white background, solo, centered, --q 1 --s 100 --ar 3:2 --niji 6  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

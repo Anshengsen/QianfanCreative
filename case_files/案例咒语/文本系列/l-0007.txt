@@ -1,0 +1,3 @@
+CN：以冰雪奇缘电影风格写着“Midjourney”，孤立在白色背景上，电影标题风格，最佳品质，
+EN：Wording "Midjourney" in Frozen movie style, isolated on white background, movie title style, best quality, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：美食摄影，照片，一碗热气腾腾的牛肉拉面，深色汤底，鲜艳的黄色面条，大块牛肉，半颗溏心蛋，翠绿的香菜，点缀着红色的辣椒和花朵装饰，深色木质背景，暖色调，柔和的顶光，蒸汽缭绕，特写镜头，突出食物的质感和色泽，低角度拍摄，强调拉面的丰富层次感，日式风格。
+EN：Food photography, photo, a bowl of steaming beef ramen, dark soup base, bright yellow noodles, large chunks of beef, half a soft-boiled egg, emerald green coriander, garnished with red peppers and flowers, dark wooden background, warm tones, soft top light, steam, close-up, highlighting the texture and color of the food, low-angle shot, emphasizing the rich layers of ramen, Japanese style. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

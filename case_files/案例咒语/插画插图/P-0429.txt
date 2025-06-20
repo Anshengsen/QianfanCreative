@@ -1,0 +1,3 @@
+CN：插画风格，亚洲女孩，黑色短发，微笑，蓝色上衣，橙色裤子，盘腿坐姿，双手抱膝，两棵树，绿色草地，远山，暖色调，柔和光线，儿童画风格，色彩简单，线条粗犷，整体构图居中。
+EN：Illustration style, Asian girl, short black hair, smiling, blue top, orange pants, sitting cross-legged, hands on knees, two trees, green grass, distant mountains, warm colors, soft light, children's painting style, simple colors, rough lines, and the overall composition is centered. --q 1 --s 50 --ar 1:1 --v 6.1 --personalize srak4m6 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

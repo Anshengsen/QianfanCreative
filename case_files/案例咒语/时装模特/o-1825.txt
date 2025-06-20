@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，一件灰褐色针织外套，短款，西装领，长袖，合身剪裁，肩部线条流畅，纹理细腻，纯色，简约风格，无口袋，焦点集中于服装，光线均匀柔和，突出服装质感与细节。 
+EN：Professional fashion photography, 8K, front view, white background, a taupe knitted jacket, short style, suit collar, long sleeves, fitted cut, smooth shoulder lines, fine texture, solid color, simple style, no pockets, focus on the garment, even and soft light, highlighting the texture and details of the garment. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

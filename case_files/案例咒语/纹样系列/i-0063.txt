@@ -1,0 +1,3 @@
+CN：无缝图案，炫酷的几何形状背景，立体，蓝色、紫色、红色、粉色，边缘霓虹光，3D，
+EN：Seamless pattern, cool geometric shapes background, solid, blue, purple, red, pink, neon light on the edges, 3D, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize l4j9qoj --tile  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

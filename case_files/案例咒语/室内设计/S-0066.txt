@@ -1,0 +1,3 @@
+CN：中式古典风格，明代，红木家具，雕花屏风，陶瓷摆件，暖黄色灯光，红棕色，黑色，金色配色，对称构图，工笔画质感，8K，超高清，细节刻画，
+EN：Chinese classical style, Ming Dynasty, mahogany furniture, carved screens, ceramic ornaments, warm yellow lighting, reddish brown, black, gold color matching, symmetrical composition, fine brushwork texture, 8K, ultra-high definition, detailed depiction, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

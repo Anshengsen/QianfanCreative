@@ -1,0 +1,3 @@
+CN：3D渲染，麦穗，金色，三株麦穗，麦秆弯曲，光滑材质，纯色填充，白色背景，产品渲染，最佳品质，3D模型
+EN：3D rendering, wheat ears, golden color, three wheat ears, curved stalks, smooth texture, solid color fill, white background, product rendering, best quality, 3D model --s 100 --ar 1:1 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

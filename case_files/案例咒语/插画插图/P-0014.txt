@@ -1,0 +1,6 @@
+
+CN：黑白线描，卡通，一个小女孩，坐在地上吃西瓜，线描，白色背景，
+EN：Black and white line drawing, cartoon, a little girl, sitting on the ground eating watermelon, line drawing, white background, --q 5 --s 250 --ar 3:4 --v 5.2
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：科技感十足的未来都市，夜景中矗立的巨大摩天大楼，五光十色的霓虹灯照亮街道，前景是一位身穿机械装甲的女孩，短发飘逸，冷酷的眼神，身旁有浮动的全息投影，超现实风格，高清渲染，虚幻引擎5风格，逼真，详细，细节丰富，夜空中的星星和满月，梦幻的氛围。
+EN：A futuristic city with a strong sense of technology, huge skyscrapers standing in the night scene, colorful neon lights illuminating the streets, in the foreground is a girl in mechanical armor, with short flowing hair and cold eyes, and a floating holographic projection next to her, surreal style, high-definition rendering, Unreal Engine 5 style, realistic, detailed, rich in details, stars and full moon in the night sky, and a dreamy atmosphere. --q 1 --s 100 --ar 9:20 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

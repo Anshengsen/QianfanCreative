@@ -1,0 +1,3 @@
+CN：一位身穿传统服饰的亚洲女性，手握扇子，长睫毛，宝石耳饰，白皙的面部皮肤，双侧分，闭眼，侧视图，张晶娜，细致的面部特征，柔和的光线，自然光，深色背景，高细节，超现实主义，3D，逼真，亚洲配色，
+EN：An Asian woman in traditional dress, holding a fan, long eyelashes, jewel earrings, fair facial skin, double parting, closed eyes, side view, Zhang Jingna, delicate facial features, soft lighting, natural light, dark background, high details, surrealism, 3D, realistic, Asian color scheme, --q 1 --s 1000 --ar 3:4 --v 6.1 --personalize izkkm56 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

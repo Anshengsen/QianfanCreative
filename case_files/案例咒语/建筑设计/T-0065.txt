@@ -1,0 +1,3 @@
+CN：中国古典主义的花园景观，长镜头，平静的池塘，橙色锦鲤在水中嬉戏，中式亭子建筑，桃花树，自然光，逼真的照片，浅景深，水平构图，传统庭院设计，高品质，高分辨率。
+EN：Chinese classicism garden landscape, long shot, calm pond, orange koi carp playing in water, Chinese pavilion architecture, peach blossom trees, natural light, realistic photo, shallow depth of field, horizontal composition, traditional courtyard design, high quality, high resolution. --q 1 --s 100 --ar 3:4 --v 6.0 --personalize e1tb3jm 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

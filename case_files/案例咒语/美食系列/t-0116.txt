@@ -1,0 +1,3 @@
+CN：美食摄影，照片，一盘炸薯条，金黄色，整齐排列，红色托盘，白色衬纸，俯视视角，暖色调，摄影棚灯光，高对比度，细节丰富，高分辨率
+EN：Food photography, photo, plate of french fries, golden yellow, neatly arranged, red tray, white backing paper, top view, warm tones, studio lighting, high contrast, rich details, high resolution --q 5 --s 50 --ar 3:5 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

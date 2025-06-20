@@ -1,0 +1,4 @@
+CN：3D渲染模型，写实，3个大小不一的蓝色病毒，表面有突刺结构，细节丰富，纹理清晰，整体造型逼真，材质具有光泽感，OC渲染，工作室照明，光线均匀，白色背景，无阴影，超细节，超品质，3D效果，适合用于医学科普或相关主题的视觉呈现
+EN：3D rendering model, realistic, 3 blue viruses of different sizes, with spikes on the surface, rich details, clear texture, realistic overall shape, glossy material, OC rendering, studio lighting, uniform light, white background, no shadows, super details, super quality, 3D effect, suitable for visual presentation of medical science or related topics --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

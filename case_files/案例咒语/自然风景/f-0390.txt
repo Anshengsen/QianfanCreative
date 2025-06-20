@@ -1,0 +1,3 @@
+CN：绿色自然景观，池塘，倒影，草地，树木，茂密的植被，宁静，平和，广角，自然光，鲜艳的绿色调，高饱和度，清晰的细节，反射，对称构图，风景摄影，高质量
+EN：Green nature landscape, pond, reflections, grass, trees, lush vegetation, tranquility, peace, wide angle, natural light, vivid green tones, high saturation, sharp details, reflections, symmetrical composition, landscape photography, high quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

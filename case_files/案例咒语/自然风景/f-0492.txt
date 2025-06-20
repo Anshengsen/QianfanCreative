@@ -1,0 +1,3 @@
+CN：冬季雪景，被雪覆盖的树木，晴朗的蓝天，明亮的日光，倾斜的山坡，特写，自然摄影，高对比度，冷色调，高清画质，8K
+EN：Winter snowy landscape, snow covered trees, clear blue sky, bright daylight, sloping hillside, close up, nature photography, high contrast, cold tones, HD quality, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

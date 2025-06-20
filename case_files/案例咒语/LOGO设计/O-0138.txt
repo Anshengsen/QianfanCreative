@@ -1,0 +1,3 @@
+CN：一个圆形的LOGO徽标，采用摩托车轮廓和精致的叶子或环保符号，代表电动汽车和可持续性。使用宝石蓝作为主色，辅以白色，并使用第三种强调色绿色来传达环保和可靠性，纯黑背景，居中构图，
+EN：A circular LOGO logo with a motorcycle silhouette and a delicate leaf or environmental symbol to represent electric vehicles and sustainability. Use sapphire blue as the main color, supplemented by white, and use a third accent color of green to convey environmental protection and reliability, with a pure black background and centered composition. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

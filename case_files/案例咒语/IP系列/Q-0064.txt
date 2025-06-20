@@ -1,0 +1,4 @@
+﻿CN：中国新年主题的3D女孩，摆出祝贺的手势，3D风格，黏土材质，红色背景空间，居中构图，正视图，全景，
+EN：Chinese New Year-themed 3D girl with a congratulatory gesture, 3D style, clay material, red background space, centered composition, front view, panorama, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

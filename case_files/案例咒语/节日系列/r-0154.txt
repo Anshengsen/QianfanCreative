@@ -1,0 +1,3 @@
+CN：极简主义，扁平化设计，纯色背景，一个简单的碗，里面是抽象化的腊八粥，用简单的几何图形和线条表示食材，色彩对比强烈，简洁，现代，时尚，最佳质量。
+EN：Minimalism, flat design, solid color background, a simple bowl with abstract Laba porridge in it, simple geometric shapes and lines to represent ingredients, strong color contrast, simplicity, modern, fashion, best quality. --q 1 --s 100 --ar 3:4 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

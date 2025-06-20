@@ -1,0 +1,3 @@
+CN：为一家名为“Type”的公司设计一款字体标志，采用2.5D微雕刻风格，高端，大气，孤立在白色背景上，柔和的阴影，
+EN：Design a font logo for a company called "Type", using 2.5D micro-engraving style, high-end, atmospheric, isolated on white background, soft shadow, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

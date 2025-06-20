@@ -1,0 +1,3 @@
+CN：3D渲染，缆车，卡通风格，橙色和蓝色，悬挂在缆绳上，简洁背景，柔和光线，中等特写，等距，3D，OC，8K，
+EN：3D rendering, cable car, cartoon style, orange and blue, hanging on cables, simple background, soft light, medium close-up, isometric, 3D, OC, 8K,  --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：蓬松可爱的小狗，萨摩耶犬或博美犬，在海滩上玩耍，飞溅的水花，快乐的表情，咧嘴笑，毛发细节丰富，阳光明媚，浅蓝色海水，背景虚化，电影光效，暖色调，超广角，低角度拍摄，3D渲染，卡通风格，超高质量，8K，超细节
+EN：Fluffy cute puppy, Samoyed or Pomeranian, playing on the beach, splashing water, happy expression, grinning, detailed fur, sunny day, light blue water, bokeh, cinematic lighting, warm tones, ultra wide angle, low angle shot, 3D rendering, cartoon style, ultra high quality, 8K, ultra details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

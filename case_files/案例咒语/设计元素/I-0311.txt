@@ -1,0 +1,3 @@
+CN：3D渲染图，卡通风格，一辆黄色叉车正在搬运两个黄色的纸箱，背景为浅紫色，光线柔和，画面简洁，3D，OC，粘土材料，
+EN：3D rendering, cartoon style, a yellow forklift is carrying two yellow cartons, the background is light purple, the light is soft, the picture is simple, 3D, OC, clay material,  --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

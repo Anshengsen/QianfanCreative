@@ -1,0 +1,3 @@
+CN：玫瑰花瓣，飘落，柔和光线，暖色调，梦幻，唯美，散景，浅景深，浪漫，轻盈，空气感，水彩风格，油画质感，朦胧，柔焦，高分辨率，艺术感，电影感。
+EN：Rose petals, falling, soft light, warm colors, dreamy, beautiful, bokeh, shallow depth of field, romantic, light, airy, watercolor style, oil painting texture, hazy, soft focus, high resolution, artistic, cinematic. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个女性，服装广告拍摄，无面部，特写，站立姿势，身体略微侧向镜头，穿着米色无袖针织上衣，肩部有垫肩设计，搭配深蓝色牛仔短裙，黑色皮带，背景为室内场景，有深色墙面和浅色家具，光线柔和，整体风格简约，时尚。
+EN：Professional photography, 8K, a woman, clothing advertising shooting, no face, close-up, standing posture, body slightly sideways to the camera, wearing a beige sleeveless knitted top with shoulder pads, paired with a dark blue denim skirt, a black belt, the background is an indoor scene with dark walls and light furniture, soft light, the overall style is simple and fashionable. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

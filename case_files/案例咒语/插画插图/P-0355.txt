@@ -1,0 +1,3 @@
+CN：一幅非常精细和复杂的头骨画，头骨上戴着皇冠，皇冠装饰华丽，饰有金色装饰和符号，头骨本身被光环状结构包围，散发出光芒，头骨的面部特征很明显，牙齿锋利，眼睛深陷，纯黑色背景，突出了发光元素，给图像带来了神秘而险恶的氛围。
+EN：A very detailed and intricate painting of a skull, the skull is wearing a crown, which is ornately decorated with golden decorations and symbols, the skull itself is surrounded by a halo-like structure that radiates light, the facial features of the skull are very clear, with sharp teeth and deep-set eyes, the solid black background highlights the glowing elements, giving the image a mysterious and sinister atmosphere. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，亚洲女性，行走姿势，双腿微曲，浅色长裤，脚踩运动鞋，鞋面为白色、浅粉色和浅蓝色的拼接设计，鞋带为白色，厚底设计，鞋底有明显纹路，背景为户外岩石，自然光，焦点在鞋子上，浅景深，突出鞋子的细节和设计。
+EN：Professional photography, 8K, shoe and boot advertising shooting, no face, Asian woman, walking posture, legs slightly bent, light-colored trousers, sneakers on feet, the upper is a patchwork design of white, light pink and light blue, the laces are white, the sole design has obvious texture, the background is outdoor rocks, natural light, the focus is on the shoes, shallow depth of field, highlighting the details and design of the shoes. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

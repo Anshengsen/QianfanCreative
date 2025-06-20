@@ -1,0 +1,3 @@
+CN：3D卡通元素渲染效果图，白色背景，一个橙色的卡通直升机连接着一个3D包装纸箱，旁边漂浮着2个美元金币和2个写着“%”的小购物袋，粘土材料，
+EN：3D cartoon element rendering, white background, an orange cartoon helicopter connected to a 3D packaging carton, with 2 dollar gold coins and 2 small shopping bags with "%" written on them floating next to them, clay material, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

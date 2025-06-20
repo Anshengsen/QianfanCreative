@@ -1,0 +1,3 @@
+CN：手绘插画，手绘，淡绿色的风格，天空中飘着小雨，一艘小船在河面上，超广角，鸟瞰视角，远处（画面上方）隐约可见山脉，画面右侧有一枝桂花枝冒出来，极简主义，完美构图，超高清，超品质，8K，中国传统文化主义，24节气_雨水，
+EN：Hand-painted illustration, hand-painted, light green style, light rain in the sky, a small boat on the river, ultra-wide angle, bird's-eye view, mountains can be vaguely seen in the distance (above the picture), and a branch of osmanthus emerges on the right side of the picture, minimalism, perfect composition, ultra-high definition, ultra-quality, 8K, traditional Chinese culture, 24 solar terms_rain, --q 5 --s 250 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

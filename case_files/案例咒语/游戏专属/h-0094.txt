@@ -1,0 +1,3 @@
+CN：动漫截图，森林、高山、瀑布、蓝天，简单的细节，动画gif，动漫剧照，可爱的配色，最佳品质，
+EN：Anime screenshots, forests, mountains, waterfalls, blue sky, simple details, animated gifs, anime stills, lovely colors, best quality, --q 1 --s 100 --ar 16:9 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

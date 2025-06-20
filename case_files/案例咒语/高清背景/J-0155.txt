@@ -1,0 +1,4 @@
+﻿CN：黑色背景，一颗蓝紫色的气泡孤立在黑色背景上，虹彩风格，uhd，融化，彩虹色，抽象的颜色，圆形形状，
+EN：Black background, a blue-purple bubble isolated on a black background, iridescent style, uhd, melted, rainbow color, abstract color, round shape, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

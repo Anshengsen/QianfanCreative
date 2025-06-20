@@ -1,0 +1,4 @@
+CN：薰衣草花田，广阔视角，延伸至远方，中心对称构图，紫色花海，田埂小路，地平线，地平线中央有一棵树，剪影，日落时分，暖色调天空，渐变色，粉紫色，深蓝色，银河，星空，繁星点点，超广角，史诗级，电影感，超现实主义，梦幻，高饱和度，超高细节，8K，最佳品质
+EN：Lavender field, wide angle of view, stretching into the distance, central symmetry, purple flowers, path along the ridge, horizon, a tree in the center of the horizon, silhouette, sunset, warm sky, gradient color, pink and purple, dark blue, Milky Way, starry sky, starry sky, ultra wide angle, epic, cinematic, surrealism, dreamy, high saturation, ultra high detail, 8K, best quality 
+--q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：2.5D，动漫，现代写实风格，一个穿着西装的亚洲帅哥，20岁，黑色西装白色衬衫配黑色领带，些许凌乱的头发，对称构图， 面对镜头，背景是城市街道，夜晚，天空中下着雨，赛博朋克，有景深，光滑细腻的皮肤，冷峻，高冷帅气男神，
+EN：2.5D, anime, modern realistic style, a handsome Asian man in a suit, 20 years old, black suit, white shirt with black tie, slightly messy hair, symmetrical composition, facing the camera, the background is a city street, at night, it is raining in the sky, cyberpunk, depth of field, smooth and delicate skin, cold, handsome and handsome, --q 5 --s 100 --ar 16:9 --niji 6 --no close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

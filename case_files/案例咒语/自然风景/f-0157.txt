@@ -1,0 +1,3 @@
+CN：远景，剪影，山峰，地平线，日出或日落，渐变天空，蓝色，橙色，深色调，极简主义，广角，对称构图，宁静，自然，大气光，高对比度
+EN：vista, silhouette, mountain, horizon, sunrise or sunset, gradient sky, blue, orange, dark tones, minimalism, wide angle, symmetrical composition, tranquility, nature, atmospheric light, high contrast --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

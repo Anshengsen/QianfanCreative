@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个女性，服装广告，无面部，身穿黑白条纹针织衫，高领，肩部有纽扣装饰，黑色修身牛仔裤，腰间系黑色皮带，上半身特写，面向镜头，柔和自然光，背景为浅色木质家具，简洁，温暖，居家风格。
+EN：Professional photography, 8K, a woman, clothing advertisement, no face, wearing a black and white striped sweater, high collar, button decoration on the shoulders, black slim jeans, black belt around the waist, upper body close-up, facing the camera, soft natural light, background of light wooden furniture, simple, warm, home style. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

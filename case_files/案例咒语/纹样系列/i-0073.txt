@@ -1,0 +1,3 @@
+CN：极简线条图案，黑色，白色背景，小花朵，叶子，散落分布，手绘风格，二维平面，最佳品质
+EN：Minimalist line pattern, black, white background, small flowers, leaves, scattered, hand drawn style, 2D flat, best quality --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 --tile 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,5 @@
+CN：手绘质感，中式极简风格，卡通女孩的上半身，中国美女，长直发，正面，单手扶额头，平面插画，鲜艳的口红色号，优雅的眼影，
+EN：Hand-painted texture, Chinese minimalist style, cartoon girl's upper body, Chinese beautiful woman, long straight hair, front, single-handed forehead, flat illustration, bright lipstick color, elegant eyeshadow, --q 1 --s 100 --ar 3:4 --v 6.0
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

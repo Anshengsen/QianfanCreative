@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，浅蓝色的复古踏板电动车，配有浅蓝色储物箱，上方漂浮着一个浅蓝色头盔，背景为纯白色，柔和灯光，单一光源，等距，中等特写，简洁构图，3D渲染，OC渲染，
+EN：3D rendering, cartoon style, light blue retro pedal electric car with light blue storage box, a light blue helmet floating above, pure white background, soft lighting, single light source, isometric, medium close-up, simple composition, 3D rendering, OC rendering,  --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，炭灰色，短袖衬衫，经典领口，合身版型，单口袋设计，袖口平整，下摆平直，面料挺括，无褶皱，纯色，均匀光照，无明显阴影，焦点清晰，服装细节突出
+EN：Professional clothing photography, 8K, front view, white background, charcoal grey, short sleeve shirt, classic neckline, fitted fit, single pocket design, flat cuffs, straight hem, crisp fabric, no wrinkles, solid color, even lighting, no noticeable shadows, sharp focus, prominent details on clothing --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：美食摄影，照片，巧克力蛋糕，多层，淋面，巧克力酱，坚果，特写，深棕色，黑色背景，柔和光线，湿润质感，诱人
+EN：Food photography, photo, chocolate cake, multiple layers, glaze, chocolate sauce, nuts, close-up, dark brown, black background, soft light, moist texture, tempting --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

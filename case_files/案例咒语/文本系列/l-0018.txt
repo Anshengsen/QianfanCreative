@@ -1,0 +1,3 @@
+CN：3D字体渲染，写着“Midjourney”，独奏，白色背景，居中，采用卡通风格，
+EN：3D font rendering of the word "Midjourney", solo, white background, centered, in a cartoon style, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

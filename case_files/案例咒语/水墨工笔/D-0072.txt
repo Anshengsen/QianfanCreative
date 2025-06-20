@@ -1,0 +1,3 @@
+CN：荷叶和荷花，图案绘画风格，橙色和绿色，异想天开的美学诠释，彼得·布鲁姆，白色背景上的荷花，爱德华多·特雷索尔迪的风格，象征性图像，蜿蜒的线条，流畅，干净，
+EN：Lotus leaves and lotus flowers, graphic painting style, orange and green, whimsical aesthetic interpretation, Peter Blum, lotus flowers on white background, Edoardo Tresoldi style, symbolic image, sinuous lines, smooth, clean, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

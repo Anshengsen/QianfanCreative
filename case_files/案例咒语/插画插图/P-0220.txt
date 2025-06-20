@@ -1,0 +1,3 @@
+CN：飞机航线的线稿图，航线虚线::2，简单，无实色，虚线，地标、飞机航线矢量轮廓等元素，淡棕色线条，流畅，无锯齿，纯白色背景，
+EN： Line sketch of the aircraft route, line dotted line:: 2, simple, no solid color, dotted line, landmark, vector outline of the aircraft route and other elements, light brown lines, smooth, no jagged, pure white background, --q 5 --s 10 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

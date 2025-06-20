@@ -1,0 +1,3 @@
+CN：一个中国的帅气青年，20岁，眼神犀利，湛蓝色的瞳孔，头戴中国龙角，五官端正，身穿汉服，战斗姿态，手握八卦，周围环绕墨水、符咒、光效，全息光环，动态虚化，中国神话风格，
+EN：A handsome Chinese young man, 20 years old, with sharp eyes, blue pupils, wearing Chinese dragon horns, regular features, wearing Hanfu, fighting posture, holding the Bagua, surrounded by ink, spells, light effects, holographic halo, dynamic blur, Chinese mythology style, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：一个英俊的剑客为小女孩撑伞，背景是道观，唐朝，水墨画风格，中国元素，丰富细节，优雅的线条，
+EN：A handsome swordsman holds an umbrella for a little girl, the background is Taoist temple, Tang Dynasty, ink painting style, Chinese elements, rich details, elegant lines, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

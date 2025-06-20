@@ -1,0 +1,3 @@
+CN：蒸汽朋克风格，在昏暗的工厂内部，暖色灯光，一个复杂的机械臂正在组装一个巨型机甲，齿轮，蒸汽，金属质感，细节刻画，CG渲染，工业感，8K。
+EN：Steampunk style, inside a dim factory, with warm lights, a complex robotic arm is assembling a giant mecha, gears, steam, metal texture, detailed depiction, CG rendering, industrial feel, 8K. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个穿着汉服的可爱的中国女孩，chibi，全身，双髻，拿着一把扇子，她有着大大的眼睛，简单的线条，色彩鲜艳，白色背景，穿着扁平插画风格的长裙，人物整体造型应该是圆润丰满的，卡哇伊动漫风格，
+EN：A cute Chinese girl in Hanfu, chibi, full body, double bun, holding a fan, she has big eyes, simple lines, bright colors, white background, wearing a long skirt in flat illustration style, the overall shape of the character should be round and plump, kawaii anime style, --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

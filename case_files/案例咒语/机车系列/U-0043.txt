@@ -1,0 +1,2 @@
+CN：蒸汽朋克风格的摩托车，黄铜和皮革材质，暴露的齿轮和管道，维多利亚时代街道背景，煤气灯照明，Octane渲染，复古未来主义，4K分辨率，细节丰富的机械结构。
+EN：Steampunk style motorcycle, brass and leather materials, exposed gears and pipes, Victorian street background, gas lighting, Octane rendering, retro futurism, 4K resolution, rich mechanical structure. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

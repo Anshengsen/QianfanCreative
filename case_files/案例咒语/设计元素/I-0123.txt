@@ -1,0 +1,3 @@
+CN：一本打开的书，封皮是厚厚的纸板，正面站立着，以平面设计角度呈现，破旧感，复古感，纯白色背景，居中，牛皮纸材质，
+EN：An open book, the cover is thick cardboard, standing on the front, presented from a graphic design perspective, shabby, retro, pure white background, centered, kraft paper material, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

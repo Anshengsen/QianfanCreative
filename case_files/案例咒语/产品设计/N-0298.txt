@@ -1,0 +1,3 @@
+CN：产品摄影，一个黑色的水瓶，放置在火山岩石台上，周围环绕着熔岩，背景是火山爆发的场景，烟雾弥漫，暖色调和冷色调的对比，焦点集中在水瓶上，细节丰富，高分辨率，3D渲染，超现实主义风格。
+EN：Product photography of a black water bottle placed on a volcanic rock platform surrounded by lava, with a volcanic eruption scene in the background, full of smoke, contrast of warm and cold tones, focus on the water bottle, rich details, high resolution, 3D rendering, surreal style. --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

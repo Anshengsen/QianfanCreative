@@ -1,0 +1,5 @@
+
+CN：铅笔画::，一个美少女，肖像特写，白色背景，素描，铅笔画风格，高质量，高品质，高细节，
+
+EN：Pencil drawing::, a beautiful girl, portrait close-up, white background, sketch, pencil drawing style, high quality, high quality, high detail, --q 1 --s 180 --ar 3:4 --niji 5 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

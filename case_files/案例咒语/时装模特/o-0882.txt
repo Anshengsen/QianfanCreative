@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个女性，站立姿势，双臂交叉于胸前，身穿深色长款外套，衣领翻折，宽松版型，搭配浅色渔夫帽，背景为室外场景，地面为浅色铺装，天空晴朗，自然光，整体风格休闲，简洁。
+EN：Professional photography, 8K, a woman, standing, arms crossed in front of her chest, wearing a dark long coat with folded collar, loose fit, and a light-colored fisherman's hat. The background is an outdoor scene with light-colored paved ground, a clear sky, natural light, and the overall style is casual and simple. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

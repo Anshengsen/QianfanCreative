@@ -1,0 +1,3 @@
+CN：一款圆形徽章，金色的边框，中间有一颗紫色宝石，两侧配有粉红色的翅膀，英雄联盟游戏资产风格，独奏，白色背景，居中，细节，
+EN：A round badge with a gold border and a purple gem in the center, flanked by pink wings, League of Legends game asset style, solo, white background, centered, detail, --q 1 --s 100 --ar 1:1 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

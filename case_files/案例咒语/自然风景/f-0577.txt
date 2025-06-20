@@ -1,0 +1,3 @@
+CN：电影摄影，湖泊，山脉，天空，倒影，花朵，垂直构图，橙色和蓝色天空，平静的湖面，细节丰富，8K，超高清，最佳品质，自然光，大气透视，宁静氛围，对称构图。
+EN：Cinematography, lake, mountains, sky, reflections, flowers, vertical composition, orange and blue sky, calm lake, rich details, 8K, Ultra HD, best quality, natural light, atmospheric perspective, tranquil atmosphere, symmetrical composition. --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

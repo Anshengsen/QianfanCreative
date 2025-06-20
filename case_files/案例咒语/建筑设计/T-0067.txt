@@ -1,0 +1,3 @@
+CN：中式花园，宁静，绿意盎然，流水，鲤鱼，石头，竹子，亭子，自然光，和谐，禅意，中国古典主义，传统，精致，高品质，摄影，逼真，
+EN：Chinese garden, tranquility, greenery, running water, carp, stones, bamboo, pavilion, natural light, harmony, zen, Chinese classicism, tradition, exquisite, high quality, photography, realistic, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

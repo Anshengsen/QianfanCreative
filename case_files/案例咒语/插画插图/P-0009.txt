@@ -1,0 +1,12 @@
+
+CN：T恤印花，矢量插画，中国美少女，小女孩，6岁，可爱，彩色渐变，最佳画质，最佳质量，矢量图，黑色背景，
+EN： Keywords T-shirt printing, vector illustration, China beautiful girl, little girl, 6 years old, cute, color gradient, best picture quality, best quality, vector diagram, black background, --q 5 --ar 3:4 --s 250 --v 5.2 --seed 3057434887
+
+
+
+CN：T恤印花，矢量插画，中国男孩，小男孩，6岁，可爱，彩色渐变，最佳画质，最佳质量，矢量图，黑色背景，
+EN：Keywords T-shirt printing, vector illustration, China boy, little boy, 6 years old, cute, color gradient, best picture quality, best quality, vector diagram, black background, --q 5 --ar 3:4 --s 250 --v 5.2 --seed 3057434887
+
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

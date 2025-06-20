@@ -1,0 +1,3 @@
+CN：一个人做出向后踢腿的动作，微笑着挥手，身边有一只小狗，现代简约插画，矢量，平面插图，简单的设计，简约的插画，淡蓝色和靛蓝色配色，白色背景，
+EN：A man doing a backward kick, smiling and waving, with a puppy next to him, modern minimalist illustration, vector, flat illustration, simple design, minimalist illustration, light blue and indigo colors, white background, --q 1 --s 100 --ar 3:4 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

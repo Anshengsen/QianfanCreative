@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，一个打开的礼物盒，礼物盒呈橙红色渐变色，盒盖上系着橙色丝带，盒内露出两枚金色的空白金币，灯光柔和，突出礼物盒和金币的质感，白色背景，简洁明快。
+EN：3D rendering, cartoon style, an open gift box, the gift box is orange-red gradient color, with an orange ribbon tied on the lid, and two golden blank coins exposed in the box. The lighting is soft, highlighting the texture of the gift box and the gold coins, white background, simple and bright. --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

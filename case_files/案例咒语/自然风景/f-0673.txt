@@ -1,0 +1,3 @@
+CN：银河系，星空，蓝色和棕色，宇宙，电影感，超高分辨率，8K，超细节，自然光，大气透视，广角镜头，摄影作品，星云，星尘，深空
+EN：milky way, starry sky, blue and brown, universe, cinematic, ultra high resolution, 8K, ultra detail, natural light, atmospheric perspective, wide angle lens, photography, nebula, stardust, deep space --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

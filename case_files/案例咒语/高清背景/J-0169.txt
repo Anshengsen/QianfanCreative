@@ -1,0 +1,4 @@
+﻿CN：一组抽象的3D液体流体，蓝色，黑色背景，最佳品质，3D，
+EN：A set of abstract 3D liquid fluids, blue, black background, best quality, 3D, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

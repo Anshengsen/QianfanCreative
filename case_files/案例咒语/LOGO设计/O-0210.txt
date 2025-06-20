@@ -1,0 +1,3 @@
+CN：矢量风格的卡通小鸟，简单的线条，简单，矢量，一只绿色的卡通小鸟，橙色的喙和脚，蓝色的阴影，白色背景，正面居中，最佳品质
+EN：Vector style cartoon bird, simple lines, simple, vector, a green cartoon bird with orange beak and feet, blue shadow, white background, front center, best quality --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

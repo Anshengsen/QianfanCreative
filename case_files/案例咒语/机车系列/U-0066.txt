@@ -1,0 +1,2 @@
+CN：未来主义概念车，轿跑车型，香槟金色车身，流线型设计，黑色轮毂，红色尾灯，全景天窗，停在反光地面上，远景山脉与城市天际线，黄昏光照，低角度拍摄，电影级质感，高细节，8K，超宽画幅。
+EN：Futuristic concept car, coupe style, champagne gold body, streamlined design, black wheels, red taillights, panoramic sunroof, parked on reflective ground, distant mountains and city skyline, dusk lighting, low-angle shot, cinematic texture, high details, 8K, ultra-wide frame. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

@@ -1,0 +1,3 @@
+CN：手绘，工笔画，山脉、小船、下雨天、桂花枝，极简主义，完美构图，超高清，超品质，8K，中国传统文化主义，24节气_雨水，
+EN：Hand-painted, meticulous painting, mountains, boats, rainy days, osmanthus branches, minimalism, perfect composition, ultra-high definition, ultra-quality, 8K, traditional Chinese culture, 24 solar terms_rain, --q 1 --s 50 --ar 3:4 --niji 6 --personalize mtd2w9f --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

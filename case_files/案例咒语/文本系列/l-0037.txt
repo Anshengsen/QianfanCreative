@@ -1,0 +1,3 @@
+CN：黑色背景，“Midjourney”低保真像素风格，每个宇由粗糙明亮的像素组成，带有迷人的复古感，隐晦的边缘，
+EN：Black background, "Midjourney" low-fidelity pixel style, each word is composed of rough and bright pixels, with a charming retro feel, obscure edges, --q 1 --s 100 --ar 3:2 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

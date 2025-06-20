@@ -1,0 +1,3 @@
+CN：抽象水面场景，鸟瞰视角，小船，单人，极简主义，分层剪纸风格，深蓝色水面，浅蓝色水面，白色海岸线，水彩纹理，柔和光照，最佳品质，8k，超细节。
+EN：Abstract water scene, bird's eye view, small boat, single person, minimalism, layered paper cut style, dark blue water surface, light blue water surface, white coastline, watercolor texture, soft lighting, best quality, 8k, ultra detail. --q 1 --s 100 --ar 9:20 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

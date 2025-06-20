@@ -1,0 +1,3 @@
+CN：产品摄影，棕色香水瓶，岩石，沙子，金色闪光，黑色背景，自然光，8K，超高质量，细节丰富，玻璃质感，光线折射，
+EN：Product photography, brown perfume bottle, rocks, sand, gold glitter, black background, natural light, 8K, ultra high quality, rich details, glass texture, light refraction, --s 100 --ar 1:1 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

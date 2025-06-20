@@ -1,0 +1,3 @@
+CN：手绘，LOGO，彩色铅笔风格，鲜艳的色彩，适用于文具或儿童教育品牌，彩虹图案，柔和的色彩过渡，白色背景，童趣，梦幻，充满活力，居中，
+EN：Hand drawn, LOGO, colored pencil style, bright colors, suitable for stationery or children's education brand, rainbow pattern, soft color transition, white background, childlike, dreamy, full of vitality, centered, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

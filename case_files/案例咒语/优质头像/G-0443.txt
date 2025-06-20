@@ -1,0 +1,3 @@
+CN：水墨风格的头像，美少女，乌黑亮丽的长发，穿着飘逸的汉服，手持一把油纸伞，眼神温柔，凝视着远方。背景是水墨晕染的山水画，展现出朦胧的远山和轻柔的云雾，笔触轻盈，留白空间，意境深远，展现出中国传统水墨画的韵味。
+EN：The ink-and-wash style portrait shows a beautiful girl with long black hair, wearing flowing Hanfu, holding an oil-paper umbrella, with gentle eyes, gazing into the distance. The background is a landscape painting smudged with ink, showing hazy distant mountains and soft clouds. The brushstrokes are light, leaving blank space, and the artistic conception is profound, showing the charm of traditional Chinese ink painting. --q 1 --s 100 --ar 1:1 --niji 6--personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

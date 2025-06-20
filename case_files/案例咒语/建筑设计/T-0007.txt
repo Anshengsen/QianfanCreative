@@ -1,0 +1,5 @@
+
+CN：酒吧，L型发光的沙发，赛博朋克风格，真实摄影，照片，全景，30mm镜头拍摄，最高质量，极致降噪，
+
+EN：Bar, L-lit sofa, cyberpunk style, real photography, photo, panorama, 30mm lens shot, highest quality, extreme noise reduction, --q 5 --s 180 --ar 3:4 --v 5.2 --style raw --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

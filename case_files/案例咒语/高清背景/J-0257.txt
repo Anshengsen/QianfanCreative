@@ -1,0 +1,3 @@
+CN：用于YouTube的视频封面背景，平面设计风格，渐变风格，黄色和橙色的渐变色彩，圆形的碰撞，最佳品质，明亮的调色板，
+EN：Video cover background for YouTube, flat design style, gradient style, gradient colors of yellow and orange, collision of circles, best quality, bright color palette, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

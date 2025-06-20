@@ -1,0 +1,3 @@
+CN：现代摄影照片，写实，一位亚洲年轻女性，黑色长发，刘海，精致的妆容，佩戴银色耳环和项链，身穿粉色运动背心和白色紧身裤，双手轻触背心肩带，站立姿势，室内环境，柔和光线，面带微笑，注视镜头，身材苗条，背景虚化。
+EN：Modern photo realistic of a young Asian woman, with long black hair, bangs, delicate make-up, wearing silver earrings and necklace, wearing pink sport vest and white leggings, touching the vest straps with both hands, standing pose, indoor environment, soft light, smiling, looking at the camera, slim figure, blurred background. --q 5 --s 80 --ar 3:5 --niji 6 --personalize abwlbtq --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

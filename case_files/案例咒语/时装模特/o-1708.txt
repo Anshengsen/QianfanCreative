@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，纯色T恤，基础款，短袖，圆领，黑色，合身剪裁，面料平整，无图案，无褶皱，光线均匀，焦点集中于服装整体，细节清晰展现面料纹理。
+EN：Professional clothing photography, 8K, front view, white background, solid color T-shirt, basic style, short sleeves, round neck, black, fitted cut, flat fabric, no pattern, no wrinkles, even lighting, focus on the garment as a whole, clear details showing the fabric texture. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：雪山，山峰，日照金山，金色光芒，冰雪覆盖，冷峻，壮丽，自然风光，远景，广角镜头，高对比度，HDR，天空云彩，橙红色渐变，蓝紫色调，对称构图，电影级光照，8K，超高清细节。
+EN：Snow-capped mountains, peaks, golden mountains in the sun, golden light, snow-covered, cold, magnificent, natural scenery, vista, wide-angle lens, high contrast, HDR, sky clouds, orange-red gradient, blue-purple tones, symmetrical composition, cinematic lighting, 8K, ultra-high-definition details. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

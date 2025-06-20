@@ -1,0 +1,3 @@
+CN：一个巨大的毛笔，笔尖朝下欲在宣纸上写字，笔尖处有墨汁，背景是云雾中的山峰和寺庙，宏观，禅意，空灵，长焦摄影，逆光，禅意画卷，虚幻引擎，详细，高清，32kuhd，
+EN：A huge brush, with the tip of the brush facing down, about to write on rice paper, with ink on the tip, and the background is the mountains and temples in the clouds, macro, Zen, ethereal, telephoto photography, backlighting, Zen painting, Unreal Engine, detailed, HD, 32kuhd, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize ak9ezqk 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：机器人天使，女性，灰蓝色双马尾，精致面容，蓝色眼睛，复杂机械身体，白色与灰色装甲，金色与蓝色装饰细节，机械翅膀，头顶光环，全身像，未来科幻风格，高细节，8K，超高分辨率，精细光照，冷色调，金属质感，背景虚化。
+EN：Robot angel, female, gray-blue twin tails, delicate face, blue eyes, complex mechanical body, white and gray armor, gold and blue decorative details, mechanical wings, halo on head, full-body portrait, futuristic sci-fi style, high details, 8K, ultra-high resolution, fine lighting, cold colors, metallic texture, blurred background. --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

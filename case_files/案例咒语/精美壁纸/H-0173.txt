@@ -1,0 +1,3 @@
+CN：动漫风格，逼真，详细，写实，虚幻引擎5，一个美丽的动漫美少女倚靠着大树，看着云海，黑暗系幻想，高饱和度，光影对比强烈，粒子特效，金光点缀，俯瞰视角，动态构图，油画质感，超写实细节，最佳品质，8K，高分辨率，
+EN：Anime style, realistic, detailed, realistic, Unreal Engine 5, a beautiful anime girl leaning against a tree, looking at the sea of ​​clouds, dark fantasy, high saturation, strong contrast between light and shadow, particle effects, golden embellishment, bird's-eye view, dynamic composition, oil painting texture, hyper-realistic details, best quality, 8K, high resolution, --q 1 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

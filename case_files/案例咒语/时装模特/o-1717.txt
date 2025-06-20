@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，连衣裙，喇叭袖，A字裙摆，彼得潘领，短袖，收腰设计，过膝长度，深青色，纯色，面料有垂坠感，整体风格简约优雅，环境光照明，焦点在连衣裙整体。
+EN：Professional fashion photography, 8K, front view, white background, dress, flared sleeves, A-line skirt, Peter Pan collar, short sleeves, waist-hugging design, above-knee length, dark teal, solid color, fabric has drape, the overall style is simple and elegant, ambient lighting, focus is on the dress as a whole. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

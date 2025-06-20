@@ -1,0 +1,2 @@
+CN：高清摩托车渲染图，侧视图，三分法构图，主光源来自左侧，辅光源来自右侧，环境为城市街道夜景，逼真渲染，金属质感强烈，车身细节清晰可见，8K分辨率，UHD，
+EN：High-definition motorcycle rendering, side view, rule of thirds, main light source from the left, auxiliary light source from the right, the environment is a city street night scene, realistic rendering, strong metal texture, body details are clearly visible, 8K resolution, UHD, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

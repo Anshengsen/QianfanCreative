@@ -1,0 +1,3 @@
+CN：远景，海浪，冲浪者，剪影，动态模糊，深蓝色海水，崎岖海岸线，冷色调，自然光，广角镜头，运动摄影，高对比度，电影质感
+EN：distant view, ocean waves, surfer, silhouette, motion blur, deep blue water, rugged coastline, cold tones, natural light, wide angle lens, sports photography, high contrast, film texture --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

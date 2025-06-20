@@ -1,0 +1,4 @@
+CN：冬夜，雪地，脚印，枯树，剪影，远景，明亮的月亮，月光，冷色调，深蓝色天空，云层，弥漫的光晕，自然风光，静谧，孤独感，高对比度，摄影风格，超广角，8K，超高清细节
+EN：Winter night, snow, footprints, dead trees, silhouettes, distant view, bright moon, moonlight, cold tones, dark blue sky, clouds, diffuse halo, natural scenery, tranquility, loneliness, high contrast, photography style, ultra wide angle, 8K, ultra high definition details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

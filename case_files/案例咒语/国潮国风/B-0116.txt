@@ -1,0 +1,3 @@
+CN：中国古代的竹简，竹简上的古文，特写，暖色调灯光，自然光，浅色木质背景，中国古代风格，高清，高分辨率，细节清晰可见，历史感，古朴，逼真，真实质感，横向构图，对焦清晰。
+EN：Ancient Chinese bamboo slips, ancient text on the bamboo slips, close-up, warm lighting, natural light, light wooden background, ancient Chinese style, high definition, high resolution, details are clearly visible, sense of history, simplicity, realistic, real texture, horizontal composition, clear focus. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

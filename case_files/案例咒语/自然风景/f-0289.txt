@@ -1,0 +1,3 @@
+CN：深夜，公路，双黄线，延伸，雾气，森林，黑暗，树木剪影，神秘氛围，冷色调，低饱和度，广角，透视，消失点，电影感，高质量，细节丰富
+EN：Late night, highway, double yellow line, extension, fog, forest, darkness, tree silhouettes, mysterious atmosphere, cold tones, low saturation, wide angle, perspective, vanishing point, cinematic feel, high quality, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

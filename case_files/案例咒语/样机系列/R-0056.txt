@@ -1,0 +1,3 @@
+CN：空白产品展示架，3D渲染，现代简约风格，白色背景，三个不同尺寸的圆形展示架组合，金属材质，光滑表面，精细的灯光效果，产品轮廓清晰可见，高清质感，8K分辨率，产品造型突出。
+EN：Blank product display rack, 3D rendering, modern minimalist style, white background, combination of three circular display racks of different sizes, metal material, smooth surface, fine lighting effects, product outlines are clearly visible, HD texture, 8K resolution, product shape is prominent. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

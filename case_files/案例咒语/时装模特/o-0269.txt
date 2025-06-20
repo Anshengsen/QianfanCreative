@@ -1,0 +1,3 @@
+CN：专业摄影，8K，亚洲女性，站立姿势，微侧身，长波浪卷发，自然棕色发色，淡妆，眼神柔和，面带微笑，粉色格子长袖睡衣套装，白色蕾丝领口，白色蕾丝袖口，宽松版型，居家场景，浅色沙发背景，木质书架背景，室内自然光，柔和光线，全身像。
+EN：Professional photography, 8K, Asian woman, standing pose, slightly sideways, long wavy hair, natural brown hair color, light makeup, soft eyes, smiling, pink plaid long-sleeved pajama set, white lace neckline, white lace cuffs, loose fit, home scene, light-colored sofa background, wooden bookshelf background, natural light indoors, soft light, full-body portrait. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

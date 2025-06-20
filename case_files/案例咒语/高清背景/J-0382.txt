@@ -1,0 +1,3 @@
+CN：背景为柔和的蓝色渐变，漂浮的水波纹和空灵的几何图形，平面插画，具有矢量艺术风格、色彩鲜艳、设计细致的特点，具有让人联想到迷幻艺术的元素，迷幻艺术的风格，营造出梦幻而宁静的视觉体验，
+EN：Background with soft blue gradient, floating water ripples and ethereal geometric shapes, flat illustration, with vector art style, bright colors, detailed design, with elements reminiscent of psychedelic art, the style of psychedelic art, creating a dreamy and tranquil visual experience, --q 1 --s 100 --ar 3:4 --v 6.0 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

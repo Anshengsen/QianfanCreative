@@ -1,0 +1,5 @@
+
+CN：3D耳机渲染图，半透明玻璃材质，OC渲染，3D渲染，全息色彩，高反射，等距视图，最高质量，32K，
+
+EN：3D headset rendering graph, translucent glass material, OC rendering, 3D rendering, holographic color, high reflection, isometric view, highest quality, 32K, --q 5 --s 180 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

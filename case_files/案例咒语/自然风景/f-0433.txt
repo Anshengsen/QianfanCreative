@@ -1,0 +1,3 @@
+CN：雪地，冬季森林，桦树林，日落，金色阳光，雪中阴影，长长的树影，冷色调，蓝色调雪，自然景观，广角，宁静，空旷，高对比度，细节丰富，逼真渲染，8K分辨率，超高清画质
+EN：Snowy, winter forest, birch grove, sunset, golden sunlight, shadows in the snow, long tree shadows, cold tones, blue tint snow, natural landscape, wide angle, tranquil, empty, high contrast, rich details, realistic rendering, 8K resolution, ultra high definition quality --q 2 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

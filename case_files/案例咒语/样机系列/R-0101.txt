@@ -1,0 +1,3 @@
+CN：一个正方形的白色包装盒，盒盖打开，内部空空如也，放置在干净的白色背景下，空白效果图，3D渲染，Arnold，产品展示，
+EN：A square white packaging box with the lid open and empty inside, placed on a clean white background, blank rendering, 3D rendering, Arnold, product display, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

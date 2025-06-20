@@ -1,0 +1,3 @@
+CN：纯白背景，3D渲染，卡通风格，头像特写，低头视角，一个惊喜的男孩，深棕色短发，头上别着彩色发夹，穿着浅蓝色针织衫，米色内搭，皮肤细腻，带有小雀斑，嘴巴微张，双眼带着好奇与惊讶的表情，轻柔灯光，高分辨率，8K，
+EN：Pure white background, 3D rendering, cartoon style, head close-up, looking down, a surprised boy, short dark brown hair, colorful hairpins on his head, wearing a light blue sweater, beige inner wear, delicate skin with freckles, mouth slightly open, eyes with curiosity and surprise, soft lighting, high resolution, 8K,  --q 5 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq --sref https://s.mj.run/BjO6p-b1cpg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

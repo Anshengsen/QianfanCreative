@@ -1,0 +1,3 @@
+CN：背景，科幻风格，空房间中央有一个圆形平台，配有霓虹灯，打开像是门一样的窗外是未来主义的城市景观，卡通插画风格，3D卡通风格，卡通游戏场景，对称构图，科幻概念艺术，霓虹灯蓝色主题，超高分辨率，8K，
+EN：Background, sci-fi style, a circular platform in the middle of an empty room with neon lights, a futuristic city view outside the window like a door, cartoon illustration style, 3D cartoon style, cartoon game scene, symmetrical composition, sci-fi concept art, neon blue theme, ultra high resolution, 8K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize p3k252d 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：一个非常酷的卡通淘气猫小女孩玩滑板，3D，捕捉到空中跳跃的一瞬间，简单的白色背景，虚幻引擎渲染，高分辨率，工笔，正面，32kuhd，
+EN：A very cool cartoon naughty cat little girl playing skateboarding, 3D, captures the moment of jumping in the air, simple white background, Unreal Engine rendering, high resolution, fine brushwork, front, 32kuhd, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

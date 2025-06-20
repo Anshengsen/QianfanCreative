@@ -1,0 +1,3 @@
+CN：雾蒙蒙的冬日景象，远景，灰蓝色调，雪地，枯树，树枝，木栅栏，弥漫的雾气，寒冷，寂静，自然，摄影，真实感，高细节，8K。
+EN：Misty winter scene, distant view, gray-blue tones, snow, dead trees, branches, wooden fence, diffuse mist, cold, silence, nature, photography, photorealism, high details, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

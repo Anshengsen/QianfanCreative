@@ -1,0 +1,4 @@
+
+CN：一个穿着红色衣服的美女，中国风，数字绘画，照片写实，写实，闪亮有光泽，自然光照明，细腻的皮肤，正视图，居中，最佳品质，
+EN：A beautiful woman in red, Chinese style, digital painting, photo realistic, realistic, shiny and shiny, natural light lighting, delicate skin, front view, centered, best quality, --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

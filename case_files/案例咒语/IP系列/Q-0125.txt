@@ -1,0 +1,3 @@
+CN：像素艺术游戏的精灵表，展示了一个看起来像斯潘克的 medabot灵感的chibi机器人，带有护盾和剑，身穿蓝色盔甲，纯白背景，正面，
+EN：The Pixel Art game's sprite table showcases a chibi robot that looks like Spank's medabot inspiration, with a shield and sword, wearing blue armor, a plain white background, and a front. --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一只展翅翱翔的雄鹰，以写意水墨风格描绘，雄鹰姿态矫健，羽毛细节清晰可见，背景是气势磅礴的太行山脉，山峦起伏，云雾缭绕，远方隐约可见升起的旭日和飘扬的五星红旗，整体色调沉稳大气，墨色层次丰富，展现出祖国山河的壮丽景象与蓬勃生机。
+EN：An eagle with its wings spread is depicted in freehand ink painting style. The eagle has a vigorous posture and the details of its feathers are clearly visible. The background is the majestic Taihang Mountains, with undulating mountains and shrouded in clouds and mist. The rising sun and the fluttering five-star red flag can be vaguely seen in the distance. The overall tone is calm and majestic, with rich layers of ink, showing the magnificent scenery and vigorous vitality of the motherland's mountains and rivers. --q 5 --s 100 --ar 3:2 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

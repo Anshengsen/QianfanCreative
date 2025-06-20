@@ -1,0 +1,3 @@
+CN：盛开的羽扇豆花田，特写，紫色，粉色，蓝色，多种颜色，花朵细节，景深，阳光，柔和的光线，自然光，温暖色调，高饱和度，电影感，自然，美丽，8K，超高细节，高质量
+EN：Blooming lupine flower field, close-up, purple, pink, blue, multiple colors, flower details, depth of field, sunlight, soft light, natural light, warm tones, high saturation, cinematic feel, nature, beautiful, 8K, ultra high detail, high quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

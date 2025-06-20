@@ -1,0 +1,3 @@
+CN：赛博朋克风格机甲，霓虹灯，飞车，未来都市，雨夜，蓝色和粉色霓虹光，高饱和度，赛博朋克渲染，锐利边缘，4K，体积光，光晕效果，
+EN：Cyberpunk style mecha, neon lights, flying cars, future city, rainy night, blue and pink neon light, high saturation, cyberpunk rendering, sharp edges, 4K, volumetric light, halo effect, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

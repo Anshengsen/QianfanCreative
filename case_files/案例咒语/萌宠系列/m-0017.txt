@@ -1,0 +1,3 @@
+CN：一个可爱的低多边形角色，3D，刺猬的外观，粘土材料，简单的细节，它有可爱的小手臂，圆嘟嘟，可爱，白色背景，
+EN：A cute low polygon character, 3D, hedgehog appearance, clay material, simple details, it has cute little arms, round and cute, white background, --q 1 --s 100 --ar 1:1 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

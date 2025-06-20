@@ -1,0 +1,5 @@
+
+CN：3D图标，购物车，卡通，3D渲染，OC渲染，全息色彩，高反射，黑色背景，等距视图，最高质量，32K，
+
+EN：3D icons, shopping cart, cartoon, 3D rendering, OC rendering, holographic color, high reflection, black background, isometric view, highest quality, 32K, --q 5 --s 180 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

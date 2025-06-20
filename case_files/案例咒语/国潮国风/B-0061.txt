@@ -1,0 +1,3 @@
+CN：矢量，中国漫画，一个动漫美少女，16岁，丸子头，正面，戴墨镜，一只手做出把墨镜向下拉的动作，瓜子脸，白皙的皮肤，柳叶眉，暗红色的口红色号，穿着红绿相间的泡泡袖，另一只手拿着红色的扇子，锐利的线条，矢量插图，白皙的皮肤，国潮配色，红色背景，复杂的细节，最佳品质，
+EN：Vector, Chinese manga, an anime beautiful girl, 16 years old, meatball head, front, wearing sunglasses, one hand makes the action of pulling the sunglasses down, melon seed face, fair skin, willow eyebrows, dark red lipstick color number, wearing red and green bubble sleeves, holding a red fan in the other hand, sharp lines, vector illustrations, fair skin, Guochao color scheme, red background, complex details, best quality, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

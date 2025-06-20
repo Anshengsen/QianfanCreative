@@ -1,0 +1,3 @@
+CN：20世纪90年代日本动漫风格，魔法女孩转变动作镜头特写，焦点，手绘，有阴影和表现力面孔的动态姿势，90年代动漫美学，闪光，大胆的鲜艳色彩，漫画风格，
+EN：1990s Japanese anime style, magic girl shift action shots close-up, focus, hand-drawn, dynamic poses with shaded and expressive faces, 1990s anime aesthetics, flash, bold bright colors, manga style, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

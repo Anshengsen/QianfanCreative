@@ -1,0 +1,4 @@
+﻿CN：3d卡通女孩，粉色购物袋，素描风格，干净简约的设计，微妙的色彩运用，童真人物，
+EN：3D cartoon girl, pink shopping bag, sketch style, clean and simple design, subtle use of color, childlike characters, --q 1 --s 80 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

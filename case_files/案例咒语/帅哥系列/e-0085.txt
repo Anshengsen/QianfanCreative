@@ -1,0 +1,4 @@
+CN：漫画风格，插图，20岁，男性，黑发，时尚套装，赛博朋克，单手着地另一只手举起，超人的姿势，耍酷，在街道上，锐利的线条，8K，
+EN：Comic style, illustration, 20 years old, male, black hair, stylish outfit, cyberpunk, one hand on the ground and the other hand raised, superman pose, cool, on the street, sharp lines, 8K, --q 1 --s 50 --ar 3:2 --v 6.0 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

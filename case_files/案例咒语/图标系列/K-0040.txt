@@ -1,0 +1,3 @@
+CN：一组web图标，简单，相同风格，白色背景，科技感，3d，高级，简洁，浅色逼真，半透明渐变，
+EN：A set of web icons, simple, same style, white background, sense of technology, 3d, advanced, concise, light realistic, semi-transparent gradient, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

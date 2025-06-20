@@ -1,0 +1,4 @@
+CN：恐怖漫画风格，居中，一个身穿高达机甲的动漫美少女的肖像特写，惊恐的表情，瞳孔放大，极其夸张，青色眼球，她的脸上和身上有许多机械部件，粗线条，彩色动画剧照，赛博朋克美学，黑暗艺术风格，以十郎正宗和新川洋司的风格绘制，哥特式色调，恐怖，漫画风格，白色背景，
+EN：Horror manga style, centered, a close-up portrait of a beautiful anime girl in Gundam mech, terrified expression, dilated pupils, extremely exaggerated, cyan eyeballs, many mechanical parts on her face and body, thick lines, colorful animated stills, cyberpunk aesthetics, dark art style, drawn in the style of Jiro Authentic and Shinkawa Yoji, Gothic tones, horror, manga style, white background, --q 1 --s 100 --ar 3:2 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

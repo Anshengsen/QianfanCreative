@@ -1,0 +1,4 @@
+
+CN：一个中国古代美少女，独奏，穿着中国宋代时期的服装，背后是青龙，特写，正视图，一幅中国水墨画，邱英、张大千风格，绿色和蓝色，厚涂、写实，最佳质量，
+EN：An ancient Chinese beautiful girl, solo, wearing Chinese Song Dynasty clothing, with a blue dragon on the back, close-up, front view, a Chinese ink painting, Qiu Ying, Zhang Daqian style, green and blue, thick painting, realistic, best quality, --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

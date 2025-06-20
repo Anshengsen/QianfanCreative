@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，连衣裙，基础袖，A字版型，中长款，彼得潘领，长袖，腰部收紧，裙摆宽松，深空灰，纯色，棉质面料，柔和光线，焦点在服装整体，突出服装的廓形和细节。
+EN：Professional fashion photography, 8K, front view, white background, dress, basic sleeves, A-line fit, midi length, Peter Pan collar, long sleeves, nipped in waist, loose hem, space grey, solid color, cotton fabric, soft light, focus on the garment as a whole, highlighting the silhouette and details of the garment. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

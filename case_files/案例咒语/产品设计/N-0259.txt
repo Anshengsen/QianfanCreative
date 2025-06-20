@@ -1,0 +1,3 @@
+CN：口红产品摄影，一支口红，颜色为红色，旁边有一条红色的丝带，背景是红色闪光，光线柔和，营造出一种时尚的氛围，产品摄影，电影级光照，超高分辨率，8K，超细节，工作室质量,
+EN：Lipstick product photography, a lipstick, the color is red, there is a red ribbon next to it, the background is red glitter, the light is soft, creating a fashionable atmosphere, product photography, movie-level lighting, ultra-high resolution, 8K, ultra-detailed, studio quality, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

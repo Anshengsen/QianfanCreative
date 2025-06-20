@@ -1,0 +1,3 @@
+CN：乡村田园风光摄影，远景，四座破旧谷仓并排伫立在金黄色的油菜花田中央，背景是起伏的绿色和黄色丘陵，天空灰白，光线柔和漫射，构图简洁对称，具有宁静祥和的氛围，自然光，写实风格，高清晰度，
+EN：Rural pastoral photography, distant view, four dilapidated barns standing side by side in the middle of a golden rapeseed field, with rolling green and yellow hills in the background, gray sky, soft and diffuse light, simple and symmetrical composition, with a peaceful and tranquil atmosphere, natural light, realistic style, high definition, --q 2 --s 100 --ar 16:9 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

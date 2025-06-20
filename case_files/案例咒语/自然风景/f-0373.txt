@@ -1,0 +1,3 @@
+CN：林间小路，清晨，薄雾，阳光穿透树林，泥泞，湿润，落叶，绿色植被，幽静，自然光，广角，远景，暖色调，高对比度，细节丰富，8K，超高清，真实感渲染
+EN：Forest path, early morning, mist, sunlight through the trees, mud, wet, fallen leaves, green vegetation, quiet, natural light, wide angle, distant view, warm colors, high contrast, rich details, 8K, ultra high definition, photorealistic rendering --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

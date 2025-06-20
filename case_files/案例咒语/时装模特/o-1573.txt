@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，男士，坐姿，双腿自然分开，深蓝色西装套装，深色袜子，棕色系带皮鞋，正装鞋，圆头，低跟，鞋面有缝线细节，室内环境，棕色木质背景，浅色地面，暖色调光线，焦点在鞋子上，浅景深
+EN：Professional photography, 8K, shoe and boot advertising shoot, no face, man, sitting, legs apart, dark blue suit, dark socks, brown lace-up shoes, dress shoes, round toe, low heels, stitching details on the upper, indoor environment, brown wooden background, light floor, warm light, focus on shoes, shallow depth of field --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

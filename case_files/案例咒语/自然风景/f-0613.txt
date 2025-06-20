@@ -1,0 +1,3 @@
+CN：暴风雨海滩摄影，棕榈树，海浪拍打岩石，乌云密布的天空，狂风，海滩，自然，户外，风暴，旅行，冒险，探索，摄影，高清，4k，8k，超高清，细节丰富，色彩鲜艳，光线追踪，全局照明，大气透视
+EN：stormy beach photography, palm trees, waves crashing against rocks, cloudy sky, strong winds, beach, nature, outdoors, storm, travel, adventure, exploration, photography, hd, 4k, 8k, ultra hd, rich details, vivid colors, ray tracing, global illumination, atmospheric perspective --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：胖胖的、可爱的、毛茸茸的小白熊，有趣的面部表情，夸张的小动作，3D，白色背景，蓬松的毛发，可爱的小角色，
+EN：Chubby, cute, furry little white bear, funny facial expression, exaggerated little movements, 3D, white background, fluffy hair, cute little character, --q 1 --s 100 --ar 1:1 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

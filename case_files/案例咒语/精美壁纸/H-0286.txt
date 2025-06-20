@@ -1,0 +1,4 @@
+CN：动漫风格，女性角色，蓝黑色长发，双马尾，蓝色发饰，苍白肤色，黑色服装，哥特风格，回眸，黑暗背景，闪烁的微光，神秘氛围，精致五官，特写，高对比度，电影级光照，艺术渲染，超高质量，8K。
+EN：Anime style, female character, long blue-black hair, twin ponytails, blue hair accessories, pale skin tone, black clothing, Gothic style, looking back, dark background, flickering light, mysterious atmosphere, delicate facial features, close-up, high contrast, movie-level lighting, artistic rendering, ultra-high quality, 8K. --q 2 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

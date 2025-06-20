@@ -1,0 +1,2 @@
+CN：未来主义概念车，银色流线型车身，夸张的轮毂设计，低底盘，蓝色氛围灯，科技感背景，摄影棚灯光，广角镜头，侧面视角，超高清细节，8K分辨率，真实感渲染，电影级光效
+EN：Futuristic concept car, silver streamlined body, exaggerated wheel design, low chassis, blue ambient light, technological background, studio lighting, wide-angle lens, side view, ultra-high-definition details, 8K resolution, realistic rendering, movie-level lighting effects --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲男性，站立姿势，身体略微侧向镜头，双腿自然分开，黑色短发，发型简洁，穿着白色短袖T恤，黑色背包单肩背，深色长裤，背景为绿色草地和树木，傍晚时分，天空明亮，自然光，整体氛围休闲。
+EN：Professional photography, 8K, an Asian male, standing pose, body slightly sideways to the camera, legs naturally apart, short black hair, simple hairstyle, wearing a white short-sleeved T-shirt, a black backpack on one shoulder, dark trousers, with green grass and trees in the background, in the evening, the sky is bright, natural light, and the overall atmosphere is casual. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

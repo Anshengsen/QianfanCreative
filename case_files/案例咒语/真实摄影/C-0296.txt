@@ -1,0 +1,3 @@
+CN：时尚摄影，一位年轻的亚洲男性，黑色短发，穿着黑色T恤，双臂交叉，灰色背景，黑白照片，自然光，最佳品质。
+EN：Fashion photography of a young Asian male with short black hair, wearing black t-shirt, with arms crossed, on gray background, black and white photo, natural light, best quality. --s 50 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

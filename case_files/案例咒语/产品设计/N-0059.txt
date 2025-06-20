@@ -1,0 +1,3 @@
+CN：3D，一个带有未来感的黑色吹风机，黄色光圈，未来感，黑色背景，电影级照明，立体感，最佳品质，居中，
+EN：3D, a futuristic black hair dryer, yellow aperture, futuristic, black background, cinematic lighting, three-dimensional, best quality, centered, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

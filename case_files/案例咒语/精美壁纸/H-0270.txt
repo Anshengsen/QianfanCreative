@@ -1,0 +1,4 @@
+CN：动漫风格，赛博朋克，猫耳少女，黑色长发，红色眼睛，黑色上衣，银色吊坠，冷漠表情，头部和肩部特写，蓝色和粉色霓虹灯光照，背景虚化，未来感，高品质，细节丰富，8K
+EN：Anime style, cyberpunk, cat-eared girl, long black hair, red eyes, black top, silver pendant, indifferent expression, head and shoulders close-up, blue and pink neon light, blurred background, futuristic, high quality, rich details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

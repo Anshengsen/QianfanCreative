@@ -1,0 +1,6 @@
+CN：水壶分镜头渲染页面，包括水壶的盖子，壶嘴，把手等细节镜头，以及水壶的整体特写，3D，产品设计风格，深色背景，按照Apple公司的设计理念设计，要求精简，高级，
+EN：The kettle split-shot rendering page includes the kettle lid, spout, handle and other detail shots, as well as the overall close-up of the kettle, 3D, product design style, dark background, designed according to Apple's design concept, requiring simplicity, advanced, --q 1 --s 100 --ar 9:16 --v 6.0
+
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

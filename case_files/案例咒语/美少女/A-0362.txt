@@ -1,0 +1,3 @@
+CN：动漫风格，中国朋克，棕色长发，亚洲人，22岁的动漫美少女坐在车里，忧郁的表情，穿着衬衣和外套，深夜，昏暗的灯光，锐利的线条，流畅的线条，明暗对比，
+EN：Anime style, Chinese punk, long brown hair, Asian, 22-year-old anime girl sitting in the car, melancholy expression, wearing shirt and coat, late night, dim lighting, sharp lines, smooth lines, chiaroscuro, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

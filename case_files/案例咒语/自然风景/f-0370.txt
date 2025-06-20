@@ -1,0 +1,3 @@
+CN：深夜小路，昏暗路灯，树木剪影，秋季落叶，暖色调灯光，长长的道路，延伸感，黑暗氛围，对称构图，低饱和度，电影感，真实感，高细节，8K
+EN：Late night road, dim street lights, tree silhouettes, autumn leaves, warm lighting, long road, sense of extension, dark atmosphere, symmetrical composition, low saturation, film sense, realism, high details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

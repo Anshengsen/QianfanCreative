@@ -1,0 +1,3 @@
+CN：热带雨林瀑布，宽阔水景，多层瀑布，水流倾泻而下，碧绿水潭，茂密植被，阳光穿透树叶，湿润环境，长曝光摄影，自然风光，宁静氛围，高饱和度，电影级光照，广角镜头，超高画质，8K。
+EN：Tropical rainforest waterfall, wide waterscape, multi-layered waterfall, water cascading down, turquoise pool, dense vegetation, sunlight penetrating leaves, humid environment, long exposure photography, natural scenery, tranquil atmosphere, high saturation, cinematic lighting, wide-angle lens, ultra-high image quality, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

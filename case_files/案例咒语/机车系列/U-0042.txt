@@ -1,0 +1,2 @@
+CN：万圣节风格机车，南瓜灯和骷髅装饰，阴森的城堡背景，蝙蝠和蜘蛛网，暗黑渲染，恐怖的氛围，4K分辨率，强调万圣节主题，车厢里坐着各种怪物。
+EN：Halloween style locomotive, pumpkin lanterns and skull decorations, spooky castle background, bats and spider webs, dark rendering, scary atmosphere, 4K resolution, emphasizing the Halloween theme, with various monsters sitting in the carriage. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

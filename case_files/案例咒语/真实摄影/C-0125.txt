@@ -1,0 +1,4 @@
+﻿CN：逼真的海面，在海水面下拍摄，超高清，索尼相机拍摄，自然光，
+EN：Realistic sea surface, shooting under the sea surface, ultra high definition, Sony camera shooting, natural light, --q 1 --s 100 --v 5.2 --ar 16:9 --style raw --no people
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

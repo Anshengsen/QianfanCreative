@@ -1,0 +1,3 @@
+CN：极简主义，虚拟2.2D伪空间，对称构图，工作室空间，顶灯照明，平面风格，黑色系，高品质，8K画质，高分辨，简约，
+EN：Minimalism, virtual 2.2D pseudo space, symmetrical composition, studio space, ceiling lighting, flat style, black, high quality, 8K quality, high resolution, simplicity, --q 1 --s 100 --ar 3:4 --v 5.2 --no 3d 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

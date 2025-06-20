@@ -1,0 +1,3 @@
+CN：迈凯伦，银色金属漆，轿跑，黑色车顶，侧面视角，停放，摄影棚灯光，浅灰色背景，远山背景，电影感，工作室质量，产品摄影，真实感，超高清，细节丰富，光线追踪，反射，高光，阴影，8K
+EN：McLaren, silver metallic paint, coupe, black roof, side view, parked, studio lighting, light grey background, distant mountains background, cinematic, studio quality, product photography, photorealistic, ultra high definition, rich details, ray tracing, reflections, highlights, shadows, 8K 
+--q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，炭灰色，针织外套，宽松版型，大翻领设计，长袖，拉链开襟，纹理质感，休闲风格，极简主义，柔和光线，焦点清晰，细节丰富，
+EN：Professional fashion photography, 8K, front view, white background, charcoal grey, knitted jacket, loose fit, wide lapel design, long sleeves, zipper placket, textured texture, casual style, minimalism, soft light, sharp focus, rich details, --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

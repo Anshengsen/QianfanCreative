@@ -1,0 +1,3 @@
+CN：广阔水面，日落后的余晖，深蓝色天空，地平线处橙红色渐变，微弱云层细节，平静水面反射天空色彩，远景模糊树木轮廓，自然风光，摄影风格，长曝光效果，高饱和度，冷暖色调对比，水平构图，广角镜头，宁静氛围，超高清细节，8K分辨率
+EN：Wide water surface, afterglow after sunset, deep blue sky, orange-red gradient at the horizon, faint cloud details, calm water reflecting the sky color, blurred tree outlines in the distance, natural scenery, photography style, long exposure effect, high saturation, contrast between warm and cold tones, horizontal composition, wide-angle lens, tranquil atmosphere, ultra-high-definition details, 8K resolution --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

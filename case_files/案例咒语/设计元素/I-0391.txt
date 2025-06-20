@@ -1,0 +1,4 @@
+CN：矢量插画，卡通风格，一片枫叶，颜色为橙色到黄色的渐变，叶脉清晰可见，叶片边缘呈锯齿状，叶柄为棕色，整体造型简洁明快，白色背景，无阴影，适合用于秋季主题的海报设计或网页元素
+EN：Vector illustration, cartoon style, a maple leaf, the color is orange to yellow gradient, the veins are clearly visible, the leaf edge is serrated, the petiole is brown, the overall shape is simple and bright, white background, no shadow, suitable for autumn theme poster design or web elements --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

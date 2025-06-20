@@ -1,0 +1,3 @@
+CN：战斗场面渲染，一个非常帅气的年轻男子，身穿汉服，拿着剑攻向镜头，武术动作，战斗特效，火焰，火花，红色风格，景深，丰富的细节，全景，高质量，虚幻引擎，
+EN：Battle scene rendering, a very handsome young man in Hanfu, attacking the camera with a sword, martial arts action, combat special effects, flames, sparks, red style, depth of field, rich detail, panorama, high quality, Unreal Engine, --q 5 --s 750 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

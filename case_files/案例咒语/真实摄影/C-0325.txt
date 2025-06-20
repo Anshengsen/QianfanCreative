@@ -1,0 +1,4 @@
+CN：古典人像，油画质感，一个年轻的白人女性，红发，绿眼睛，面部有雀斑，穿着浅色丝绸连衣裙，靠在石柱旁，看向镜头，自然光，半身像，最佳质量，8k，超细节，色彩柔和
+EN：Classic portrait, oil painting texture, of a young Caucasian woman with red hair, green eyes, freckles, wearing a light silk dress, leaning against a stone column, looking towards the camera, natural light, half-length, best quality, 8k, ultra-detailed, soft colors --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

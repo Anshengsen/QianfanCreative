@@ -1,0 +1,3 @@
+CN：时尚摄影，特写，穿着时尚服装的蓬松白Pomeranian犬，穿着格子围巾、白色蓬蓬裙、金属链条和带铆钉的黑色鞋子，提着一个橄榄绿小包，背景虚化，光线柔和，对称，强调了狗狗的可爱和时尚感，狗狗模特时装秀风格，
+EN：Fashion photography, close up, fluffy white Pomeranian dog in stylish clothes, wearing a plaid scarf, white tutu skirt, metal chain and black shoes with rivets, carrying a small olive green bag, blurred background, soft light, symmetry, emphasizes the cuteness and fashion sense of the dog, dog model fashion show style, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

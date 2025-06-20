@@ -1,0 +1,3 @@
+CN：卡通风格人物插画，一位男性，站在网页界面前，色彩明快，线条简洁，整体风格现代简约，具有科技感和设计感，细节包括人物的表情，网页界面的元素，以及背景中的图形点缀，最佳品质，8K，矢量图形，干净利落，适合用于网页设计或UI设计，白色背景，
+EN：Cartoon style character illustration, a man, standing in front of a web page interface, bright colors, clean lines, the overall style is modern and simple, with a sense of technology and design, details include the character's expression, elements of the web page interface, and graphic embellishments in the background, best quality, 8K, vector graphics, clean and neat, suitable for web design or UI design, white background, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

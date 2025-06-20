@@ -1,0 +1,3 @@
+CN：产品摄影，磨砂质感香水瓶，木质瓶盖，放置在枯木上，背景是模糊的树木，自然光，柔和阴影，细节丰富，高分辨率，8K，
+EN：Product photography, frosted textured perfume bottle with wooden cap placed on dead wood with blurred trees in the background, natural light, soft shadows, rich details, high resolution, 8K, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

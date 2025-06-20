@@ -1,0 +1,3 @@
+CN：傍晚时分，法国埃特尔塔海岸，象鼻山，平静的海面，鹅卵石沙滩，悬崖峭壁，灯光照明，远处的房屋，深蓝色天空，晚霞，长曝光摄影，广角镜头，电影级光照，超高质量，8K。
+EN：At dusk, Etretat coast, France, Elephant Trunk Hill, calm sea, pebble beach, cliffs, lighting, houses in the distance, deep blue sky, sunset, long exposure photography, wide-angle lens, cinematic lighting, ultra-high quality, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

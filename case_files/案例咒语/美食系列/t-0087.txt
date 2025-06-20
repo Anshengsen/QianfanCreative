@@ -1,0 +1,3 @@
+CN：美食摄影，照片，辛辣的川菜，红油牛肉片，切成方块，撒上芝麻和香料，点缀着青葱和红辣椒丝，绿色的辣椒和红色的辣椒环绕，深色有纹理的盘子，背景是模糊的其他菜肴和餐具，暖色调，近景特写，强烈的色彩对比，丰富的细节。
+EN：Food photography, photo, spicy Sichuan cuisine, beef slices in red oil, cut into cubes, sprinkled with sesame seeds and spices, garnished with green onions and red pepper shreds, surrounded by green and red peppers, on a dark textured plate, with blurred other dishes and tableware in the background, warm tones, close-up, strong color contrast, rich details. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

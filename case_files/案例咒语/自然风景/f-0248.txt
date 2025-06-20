@@ -1,0 +1,4 @@
+CN：航拍视角，壮丽山景，清晨日出，金色阳光，山间云雾缭绕，翠绿山峰，心形湖泊，蜿蜒小路，远山层叠，自然风光，高饱和度，广角镜头，电影级光影，8K，超高细节，最佳质量
+EN：Aerial perspective, magnificent mountain scenery, early morning sunrise, golden sunlight, misty mountains, emerald green peaks, heart-shaped lakes, winding paths, distant mountains, natural scenery, high saturation, wide-angle lens, cinematic light and shadow, 8K, ultra-high details, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

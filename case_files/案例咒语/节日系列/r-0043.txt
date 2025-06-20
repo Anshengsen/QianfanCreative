@@ -1,0 +1,8 @@
+CN：平面插图，几个戴着红领巾穿着校服的中国小学生一起在长城上，蓝天白云、没有任何图案的空白红旗，全景，广角，极简主义，平面插图，现代插图，中国现代插画师风格，简单，简约，
+EN：Flat illustration, several Chinese primary school students wearing red scarves and school uniforms on the Great Wall together, blue sky and white clouds, blank red flag without any pattern, panorama, wide angle, minimalism, flat illustration, modern illustration, Chinese modern illustrator style, simple, minimalist, --q 5 --s 200 --ar 3:2 --niji 6 --personalize iji9f42 --no Pentagram, star,
+
+（！！！注意：上面这组提示词尽量不要用，生成结果也切勿直接用于项目或公开！！！我的本意是想出现红旗但不能有星星，然后就是可以通过关键词直出，但试了很多次，最终只能选择使用PS把星星擦除。下面这组是我把红旗关键词去除的提示，推荐用下面这组。）
+
+CN：平面插图，几个戴着红领巾穿着校服的中国小学生一起在长城上，蓝天白云，全景，广角，极简主义，平面插图，现代插图，中国现代插画师风格，简单，简约，
+EN：Flat illustration, several Chinese primary school students wearing red scarves and school uniforms on the Great Wall together, blue sky and white clouds, panorama, wide angle, minimalism, flat illustration, modern illustration, Chinese modern illustrator style, simple, minimalist,  --q 5 --s 200 --ar 3:2 --niji 6 --personalize iji9f42  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

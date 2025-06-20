@@ -1,0 +1,3 @@
+CN：中国江南徽派建筑风格，徽派建筑，初冬的黑瓦白墙，宁静，吴冠中风格，简单，笔触细腻，细节精致，背景干净，
+EN：China Jiangnan Huizhou architectural style, Huizhou architecture, black tile and white walls in early winter, tranquility, Wu Guanzhong style, simple, delicate brushstrokes, exquisite details, clean background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

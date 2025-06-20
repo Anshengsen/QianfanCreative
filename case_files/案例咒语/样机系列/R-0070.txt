@@ -1,0 +1,3 @@
+CN：精致首饰盒，打开状态展示，梳妆台环境，空白效果图，3D渲染，欧式复古造型，绒面内衬外观，粉色背景，产品细节，
+EN：Exquisite jewelry box, open state display, dressing table environment, blank rendering, 3D rendering, European retro shape, suede lining appearance, pink background, product details, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

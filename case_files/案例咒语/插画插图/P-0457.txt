@@ -1,0 +1,3 @@
+CN：美式卡通插画风格，极简主义，简单，一群不同肤色、不同年龄的人，聚集在一起，色彩鲜艳，扁平化设计，人物形象多样，有人拿着手机，有人交谈，有人微笑，动态姿势，浅蓝色背景，整体氛围轻松愉快，最佳品质，8K，超高分辨率，
+EN：American cartoon illustration style, minimalism, simplicity, a group of people of different skin colors and ages, gathered together, colorful, flat design, diverse characters, some holding mobile phones, some talking, some smiling, dynamic poses, light blue background, the overall atmosphere is relaxed and happy, best quality, 8K, ultra high resolution, --q 5 --s 100 --ar 3:2 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

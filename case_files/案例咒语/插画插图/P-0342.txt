@@ -1,0 +1,3 @@
+CN：中国现代动漫风格，亚洲风格配色方案，一副围绕封神榜主题的海报，上中下排版，chibi，中国神话人物，各有特色，富有想象力，新中式美学探索，超品质，超细节，8k分辨，
+EN：Chinese modern anime style, Asian style color scheme, a poster centered on the theme of Fengshenbang, top-middle-bottom layout, chibi, Chinese mythological characters, each with its own characteristics, imaginative, new Chinese aesthetic exploration, super quality, super details, 8k resolution, --q 1 --s 100 --ar 3:4 --niji 6 --personalize q7jjrqf 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

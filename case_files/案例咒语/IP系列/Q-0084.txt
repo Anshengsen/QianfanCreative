@@ -1,0 +1,4 @@
+﻿CN：一只毛茸茸的小中国龙，皮克斯动画风格，粉绿色，站立，全身，居中视图，C4D，OC渲染，简单的背景，
+EN：A fluffy little Chinese dragon, Pixar animated style, pink green, standing, full body, center view, C4D, OC rendering, simple background, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

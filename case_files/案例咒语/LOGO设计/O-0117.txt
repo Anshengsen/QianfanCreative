@@ -1,0 +1,3 @@
+CN：3D，LOGO，纸张折叠效果，彩色纸张，适用于教育或手工制品品牌，纸飞机形状，折叠痕迹清晰可见，白色背景，创意，手工感，立体感，
+EN：3D, LOGO, paper folding effect, colored paper, suitable for education or handmade product branding, paper airplane shape, folding marks are clearly visible, white background, creative, handmade, three-dimensional, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：动漫风格，男性角色，西装革履，黑暗背景，侧光，霓虹边缘光，特写，忧郁的表情，犀利的眼神，厚涂风格，电影感，高对比度，深蓝色调，8K，最佳品质。
+EN：Anime style, male character, suit, dark background, side light, neon edge light, close-up, melancholy expression, sharp eyes, thick painting style, film feel, high contrast, dark blue tone, 8K, best quality. --q 1 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

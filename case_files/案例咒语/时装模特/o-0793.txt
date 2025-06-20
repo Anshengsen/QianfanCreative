@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲年轻女性，站立姿势，身体略微侧向镜头，长发，黑色，自然垂落，戴着浅色针织帽，身穿米白色宽松毛衣，毛衣上有黑色图案，下身穿绿色格子裤，背景为雪地，雪山，阴天，整体氛围温暖，休闲。
+EN：Professional photography, 8K, a young Asian woman, standing pose, body slightly sideways to the camera, long black hair, hanging naturally, wearing a light-colored knitted hat, wearing a beige loose sweater with a black pattern on it, and green plaid pants, with the background of snow, snow-capped mountains, and cloudy sky, the overall atmosphere is warm and casual. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

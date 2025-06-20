@@ -1,0 +1,3 @@
+CN：秋日乡村道路，两旁是白色栅栏，落叶满地，树木呈现橙色和黄色渐变，阳光透过树叶，道路蜿蜒向前，色彩鲜艳，自然光，广角镜头，高饱和度，宁静氛围，秋季主题，风景摄影，超高清画质，8K。
+EN：Autumn country road, white fences on both sides, fallen leaves on the ground, trees with orange and yellow gradients, sunlight filtering through leaves, road winding forward, bright colors, natural light, wide angle lens, high saturation, tranquil atmosphere, autumn theme, landscape photography, ultra high definition quality, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

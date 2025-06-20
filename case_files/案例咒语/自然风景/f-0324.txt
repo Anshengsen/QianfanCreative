@@ -1,0 +1,3 @@
+CN：热带海滩风光，清澈碧蓝海水，细腻白色沙滩，茂盛翠绿植被，高耸棕榈树，明媚阳光，晴朗天空，海浪轻拍岸边，自然风光，度假氛围，高饱和度色彩，明亮光线，广角镜头，水平构图，高清画质，8K
+EN：Tropical beach scenery, clear blue water, fine white sand, lush green vegetation, towering palm trees, bright sunshine, clear sky, waves lapping the shore, natural scenery, vacation atmosphere, highly saturated colors, bright light, wide-angle lens, horizontal composition, HD quality, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

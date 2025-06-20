@@ -1,0 +1,3 @@
+CN：3D风格，背景是唐代长安城的街道上，一个小女孩、一只拟人化的小白兔，背影，小女孩穿着时尚潮流的红配绿汉服，小白兔则穿着短短的红色小马甲和小短裤，可爱，两侧是喧闹的小摊，画面中间有一轮巨大的明月，暖色调，高品质，高细节，对称构图，在晚上，
+EN：3D style, the background is the streets of Chang'an City in the Tang Dynasty, a little girl, an anthropomorphic little white rabbit, back view, the little girl is wearing a fashionable red and green Hanfu, the little white rabbit is wearing a short red vest and shorts, cute, on both sides are noisy stalls, there is a huge bright moon in the middle of the picture, warm colors, high quality, high details, symmetrical composition, at night, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize izkkm56 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

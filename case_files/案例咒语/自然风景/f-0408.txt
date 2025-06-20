@@ -1,0 +1,3 @@
+CN：宁静的湖泊，黄昏时分，剪影，两棵树，枯树，水中倒影，长曝光，平滑水面，冷色调，蓝色，深蓝色，极简主义，自然风光，广角，低角度，对称构图，高对比度，细节丰富，8K，超高清，摄影，真实感渲染
+EN：tranquil lake, dusk, silhouette, two trees, dead tree, reflection in water, long exposure, smooth water surface, cold tones, blue, dark blue, minimalism, nature, wide angle, low angle, symmetrical composition, high contrast, rich details, 8K, ultra high definition, photography, photorealistic rendering --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

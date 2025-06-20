@@ -1,0 +1,4 @@
+CN：超现实主义摄影，静谧湖泊，白色木质栈桥延伸至湖心，倒影清晰，湖面波光粼粼，蓝调，冷色调，白色树木环绕，对称构图，广角镜头，高饱和度，超广角，超高清，8K，细节丰富，光线追踪，全局光照，最佳品质
+EN：Surreal photography, quiet lake, white wooden pier extending to the center of the lake, clear reflections, sparkling lake, blues, cold colors, surrounded by white trees, symmetrical composition, wide-angle lens, high saturation, ultra-wide angle, ultra-high definition, 8K, rich details, ray tracing, global illumination, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,5 @@
+CN：渲染图，奢华的美容产品，粉色包装，如玻璃瓶、精致PVC盒子、陶瓷罐等精美包装，产品针对成熟女性，电影般的灯光，奢华的背景，柔光渲染，逼真，3D渲染，最佳品质，
+EN：Rendering, luxury beauty product, pink packaging, such as glass bottle, exquisite PVC box, ceramic jar and other exquisite packaging, product targeted at mature women, cinematic lighting, luxurious background, soft light rendering, realistic, 3D rendering, best quality, --q 1 --s 100 --ar 3:2 --v 5.2
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

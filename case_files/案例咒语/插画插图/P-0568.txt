@@ -1,0 +1,3 @@
+CN：水彩风格人物插画，一位年轻女性，侧脸，头发上装饰着蓝色的花朵，色彩柔和，光影细腻，营造出一种宁静而美好的氛围，人物表情安详，细节包括女性的肤色纹理，花朵的细节，以及背景中的水彩晕染效果，最佳品质，8K，手绘感强，适合用于艺术作品或书籍插画，蓝色背景，
+EN：Watercolor style character illustration, a young woman, profile, with blue flowers in her hair, soft colors, delicate light and shadow, creating a peaceful and beautiful atmosphere, the character's expression is serene, details include the woman's skin texture, the details of the flowers, and the watercolor smudge effect in the background, best quality, 8K, strong hand-painted feel, suitable for art works or book illustrations, blue background, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

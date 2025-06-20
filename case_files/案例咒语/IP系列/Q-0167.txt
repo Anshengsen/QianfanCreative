@@ -1,0 +1,3 @@
+CN：卡通动画风格的中国龙，穿着休闲装，戴着太阳镜，优雅的喝咖啡，站立姿态，白色背景，最佳品质，居中构图，
+EN：Cartoon animated Chinese dragon, wearing casual clothes, wearing sunglasses, drinking coffee elegantly, standing posture, white background, best quality, centered composition, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

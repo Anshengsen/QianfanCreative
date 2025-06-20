@@ -1,0 +1,3 @@
+CN：一个男剑客，黑色束身服、红色腰带、戴着斗笠，水墨画，墨烟，墨云，泼墨，墨水，光影艺术，细腻的笔触，水墨工笔，毕加索，张大千，纯白色背景，杰作，高品质，
+EN：A male swordsman, black corset, red belt, wearing a bamboo hat, ink painting, ink smoke, ink cloud, splashed ink, ink, light and shadow art, delicate brushstrokes, ink and brushwork, Picasso, Zhang Daqian, pure white background, masterpiece, high quality, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：中国漫画风格，农园中的老伯伯在浇花，农园，下午，中华民国时代，特写，
+EN：Chinese comic style, the old uncle in the farm watering the flowers, farm garden, afternoon, the era of the Republic of China, close-up, --q 1 --s 100 --ar 3:2 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

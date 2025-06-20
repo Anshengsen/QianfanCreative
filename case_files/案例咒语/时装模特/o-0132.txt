@@ -1,0 +1,3 @@
+CN：专业摄影，全身像，女性，亚洲人，短发，波波头，自然黑色，中分，略带凌乱感，面无表情，眼神平静，直视前方，站立姿势，身体略微侧向镜头，双臂自然下垂，红色衬衫，长袖，宽松版型，领口立领，前襟有荷叶边装饰，黑色阔腿裤，高腰，宽松垂坠感，黑色高跟鞋，尖头，整体风格简约时尚，背景为纯白色，光线柔和，
+EN：Professional photography, full-length portrait, female, Asian, short hair, bob, natural black, middle part, slightly messy, expressionless, calm eyes, looking straight ahead, standing pose, body slightly turned to the camera, arms hanging naturally, red shirt, long sleeves, loose fit, stand-up collar, ruffles on the front, black wide-leg pants, high waist, loose drape, black high heels, pointed toes, the overall style is simple and fashionable, the background is pure white, the light is soft, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

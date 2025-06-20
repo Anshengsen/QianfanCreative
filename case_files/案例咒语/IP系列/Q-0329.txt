@@ -1,0 +1,3 @@
+CN：“2025”艺术字设计，需要有蛇年元素，中国风，中国元素，3D，等距，居中构图，纯白背景，无阴影，正确的解剖学，超高品质，超细节，
+EN：The "2025" word art design needs to have elements of the Year of the Snake, Chinese style, Chinese elements, 3D, isometric, centered composition, pure white background, no shadows, correct anatomy, super high quality, super details, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 --no Watermark, grunge, wrong construction, low quality, low detail, 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

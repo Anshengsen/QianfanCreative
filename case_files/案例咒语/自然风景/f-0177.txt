@@ -1,0 +1,3 @@
+CN：海滩日落，金色时刻，太阳光线，海浪轻拂，湿润沙滩，倒影，暖色调，橙色天空，云彩，地平线，广角，自然风光，宁静氛围，高动态范围，细节丰富，8K，超高清画质，电影级光照
+EN：Beach sunset, golden hour, sun rays, waves, wet sand, reflections, warm tones, orange sky, clouds, horizon, wide angle, nature, tranquil atmosphere, high dynamic range, rich details, 8K, ultra high definition, cinematic lighting --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN： 专业摄影，8K，下半身像特写，站立姿势，女性，侧身，米色碎花半身裙，白色短袖上衣，白色运动鞋，室内，自然光，柔和，简约，清新，
+EN：Professional photography, 8K, close-up of lower body, standing pose, female, sideways, beige floral skirt, white short-sleeved top, white sneakers, indoors, natural light, soft, simple, fresh, --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

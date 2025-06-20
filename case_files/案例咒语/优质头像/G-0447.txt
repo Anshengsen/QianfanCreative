@@ -1,0 +1,3 @@
+CN： 新艺术风格，一位年轻女子，有着飘逸的、风格化的红棕色长发，发饰上点缀着花卉图案。她穿着线条流畅、形态自然的连衣裙，如同流动的水波。她的表情宁静而梦幻，眼神略微低垂。背景是新艺术风格的典型花卉图案和曲线，色彩丰富，以深绿色、蓝色和金色为主。
+EN：Art Nouveau style, a young woman with long flowing, stylized reddish-brown hair decorated with floral patterns. She wears a dress with flowing lines and natural shapes, like flowing water. Her expression is serene and dreamy, with her eyes slightly downcast. The background is typical of Art Nouveau floral patterns and curves, rich in colors, mainly dark green, blue and gold. --q 5 --s 100 --ar 1:1 --niji 6 --personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

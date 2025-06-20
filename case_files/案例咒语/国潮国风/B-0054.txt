@@ -1,0 +1,4 @@
+﻿CN：中国京剧人偶，戏子风格，3D，京剧，中国古典主义，简单的背景，在cinema 4d中呈现，最佳品质，最高质量，丰富的细节，超高分辨率，
+EN：Chinese Peking Opera dolls, actor style, 3D, Peking Opera, Chinese classicism, simple background, presented in cinema 4d, best quality, highest quality, rich details, super high resolution, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

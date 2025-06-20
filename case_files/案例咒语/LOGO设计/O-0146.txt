@@ -1,0 +1,3 @@
+CN：LOGO，卡通风格，矢量标志，橙色三角龙，恐龙，极简主义，平面设计，几何形状，轮廓清晰，侧面剪影，白色背景，居中构图，简洁可爱，标志性，高质量。
+EN：LOGO, cartoon style, vector logo, orange triceratops, dinosaur, minimalism, flat design, geometric shapes, clear outlines, side silhouette, white background, centered composition, simple and cute, iconic, high quality. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

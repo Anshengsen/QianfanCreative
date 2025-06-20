@@ -1,0 +1,3 @@
+CN：CG，虚幻引擎5，逼真，写实，一个古装美男子，拿着一个3D面具想要往脸上放，能看到他英俊的外表，浓眉，45度侧身，背景是蓝色水墨古建筑合群山，柔和的红色光照耀在他脸上，穿着华丽的明朝服饰，戴着手套，束发，绝美的画面，昏暗的氛围，浅灰色调，戏剧性的灯光，
+EN：CG, Unreal Engine 5, realistic, realistic, a handsome man in ancient costume, holding a 3D mask and trying to put it on his face, you can see his handsome appearance, thick eyebrows, 45 degrees sideways, the background is blue ink ancient buildings and mountains, soft red light shines on his face, wearing gorgeous Ming Dynasty costumes, wearing gloves, tied hair, beautiful picture, dim atmosphere, light gray tones, dramatic lighting, --q 1 --s 200 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

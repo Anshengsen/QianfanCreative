@@ -1,0 +1,3 @@
+CN：一个日本年轻人思考未来职业的黑白漫画书风格形象，女性，坐在办公桌前看着电脑，日本黑白漫画书风格，深灰色线条与白色填充色，明暗对比，积极向上，风格可爱，侧面45°，第三人称视角，
+EN：Black and white comic book style image of a Japanese young person thinking about a future career, female, sitting at a desk looking at a computer, Japanese black and white comic book style, dark gray lines and white fill colors, chiaroscuro contrast, positive, cute style, side 45 °, third person perspective, --q 1 --s 100 --ar 3:2 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

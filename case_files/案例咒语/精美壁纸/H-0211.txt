@@ -1,0 +1,3 @@
+CN：赛博朋克都市夜景，一个穿着未来感紧身衣的少女，背着发光的能量剑，站在摩天大楼的边缘，俯瞰着霓虹闪烁的城市，雨水在她的脸上滑落，眼神坚定而冷漠，超写实风格，C4D渲染，Octane Render，光线追踪，体积光，景深效果，电影级画质，8K分辨率。
+EN：Cyberpunk city night scene, a girl in futuristic tights, carrying a glowing energy sword, standing on the edge of a skyscraper, overlooking the neon city, rain sliding down her face, her eyes firm and indifferent, hyper-realistic style, C4D rendering, Octane Render, ray tracing, volumetric light, depth of field effect, movie-level image quality, 8K resolution. --q 2 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

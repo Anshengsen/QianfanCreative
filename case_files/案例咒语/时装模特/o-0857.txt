@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部，一个穿着白色长袖卫衣的女性，站立姿势，身体略微侧向镜头，卫衣胸前印有深蓝色字母“W”，上方有橘色半圆形图案，下身搭配深色裤子，背景为室内浅色墙面和深色门框，光线柔和，整体风格简约，休闲。
+EN：Professional photography, 8K, clothing advertising shooting, no face, a woman wearing a white long-sleeved sweatshirt, standing, body slightly sideways to the camera, the sweatshirt has a dark blue letter "W" printed on the chest, and an orange semicircular pattern on the top, the lower body is matched with dark pants, the background is a light-colored wall and dark door frame indoors, the light is soft, and the overall style is simple and casual. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

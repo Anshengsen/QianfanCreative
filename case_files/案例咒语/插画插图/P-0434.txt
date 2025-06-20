@@ -1,0 +1,3 @@
+CN：卡通插画风格，一位深色头发，深色胡须的男士，双手抱头，表情痛苦，闭着眼睛，穿着米色衬衫，桌面上散落着文件，周围有多只手伸向他，有的拿着手机，有的拿着文件，蓝色背景，平面设计，矢量图，简约风格，高对比度。
+EN：Cartoon illustration style, a dark-haired, dark-bearded man, holding his head in his hands, with a painful expression, eyes closed, wearing a beige shirt, with documents scattered on his desk, surrounded by multiple hands reaching out to him, some holding mobile phones, some holding documents, blue background, flat design, vector illustration, simple style, high contrast. --q 0.5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

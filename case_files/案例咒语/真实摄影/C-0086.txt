@@ -1,0 +1,4 @@
+
+CN：一个非常漂亮的中国女孩，上半身，祈祷，现实生活中的人像摄影，侧脸，侧面拍摄，，蓝天，白云，
+EN：A very beautiful Chinese girl, upper body, prayer, real life portrait photography, side face, side shot, blue sky, white clouds, --q 5 --s 100 --ar 3:4 --v 5.2 --style raw --fast 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

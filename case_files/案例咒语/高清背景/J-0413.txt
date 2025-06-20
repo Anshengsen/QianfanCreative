@@ -1,0 +1,3 @@
+CN：抽象渐变背景，动感模糊，蓝色和紫色，柔和光线，无焦点，高清，高分辨率，
+EN：Abstract gradient background, motion blur, blue and purple, soft light, out of focus, HD, high resolution, --q 1 --s 100 --ar 16:9 --v 6.0 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

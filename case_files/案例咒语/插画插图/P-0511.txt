@@ -1,0 +1,3 @@
+CN：超现实主义插画风格，夜晚场景，玉米地，女孩，粉色外套，贴纸，香烟，月亮，UFO，鲜艳色彩，细节丰富，矢量图形，最佳品质，插画设计，海报风格，超现实插画，细节丰富，视觉冲击力，创意插画，时尚元素，奇幻风格，个性化，叛逆，神秘感，
+EN：Surreal illustration style, night scene, cornfield, girl, pink coat, stickers, cigarette, moon, UFO, bright colors, rich details, vector graphics, best quality, illustration design, poster style, surreal illustration, rich details, visual impact, creative illustration, fashion elements, fantasy style, personality, rebellious, mysterious, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

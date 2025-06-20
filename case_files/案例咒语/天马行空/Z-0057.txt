@@ -1,0 +1,3 @@
+CN：一副中国传统节日主题的多维纸艺剪纸工艺纸插画，中国传统绘画，莲花、荷叶、玉石、山水、祥云，中国风格，最佳质量，丰富的细节，3D渲染，柔和的光线，金边，超详细，
+EN：A multi-dimensional paper art paper-cut craft paper illustration with the theme of traditional Chinese festivals, traditional Chinese painting, lotus, lotus leaves, jade, landscape, auspicious clouds, Chinese style, best quality, rich details, 3D rendering, soft light, gold edges, super detailed, --q 1 --s 100 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

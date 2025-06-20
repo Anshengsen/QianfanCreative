@@ -1,0 +1,2 @@
+CN：概念跑车照片，广角镜头，精致的专业审美拍摄角度，浅灰色和深黑色，柔和的光照，梦幻般的品质，英特尔核心，巴比松学派，超高清，8k，
+EN：Concept sports car photo, wide-angle lens, exquisite professional aesthetic shooting angle, light gray and dark black, soft lighting, fantastic quality, Intel core, Barbizon school, ultra high definition, 8k, --q 1 --s 100 --ar 3:2 --v 6.0

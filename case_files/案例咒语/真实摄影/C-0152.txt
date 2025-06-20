@@ -1,0 +1,4 @@
+﻿CN：从整个馅饼中取出一片比萨，五颜六色的配料，8K，逼真的照片，
+EN：Take a slice of pizza from the whole pie, colorful toppings, 8K, realistic photos, --q 1 --s 100 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

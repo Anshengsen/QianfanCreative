@@ -1,0 +1,4 @@
+﻿CN：中国传统水墨画风格，小溪亭，夕阳，荷花，喜鹊，
+EN：Traditional Chinese Ink Painting Style, Xiaoxi Pavilion, Lotus, Magpie, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

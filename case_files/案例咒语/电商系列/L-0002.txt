@@ -1,0 +1,4 @@
+﻿CN：旧中式风格的中国新年一个美丽的舞台，展示灯笼、鲜花和纸插，极简几何抽象风格，浅祖母绿和金色，极简主义舞台设计，
+EN：A beautiful stage for Chinese New Year in old Chinese style, displaying lanterns, flowers and paper inserts, minimalist geometric abstract style, light emerald and gold, minimalist stage design, --q 1 --s 100 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：孟菲斯风格插画，一个人正在使用电脑，色彩鲜艳大胆，线条简洁，图案丰富，整体风格充满活力和趣味性，具有现代感和设计感，细节包括人物的服饰，电脑的造型，以及背景中的各种几何形状和装饰元素，最佳品质，8K，矢量图形，干净利落，适合用于网页设计或广告宣传，蓝色背景，
+EN：Memphis style illustration of a person using a computer, bright and bold colors, clean lines, rich patterns, the overall style is vibrant and interesting, with a sense of modernity and design, details include the character's clothing, the shape of the computer, and various geometric shapes and decorative elements in the background, best quality, 8K, vector graphics, clean and neat, suitable for web design or advertising, blue background, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：一头脸上带着快乐表情的奶牛，采用vray追踪、卡通动画、动画电影、辛烷值渲染、迷人、田园诗般的乡村场景，
+EN：A cow with a happy expression on its face, using vray tracking, cartoon animation, animated film, octane rendering, charming, idyllic rural scenes, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

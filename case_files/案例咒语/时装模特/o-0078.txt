@@ -1,0 +1,3 @@
+CN：羊毛针织衫，平整的铺在白色背景上，正面，米白色，麻花纹理，学院风，高领，落肩袖，宽松版型，白色背景，产品摄影，柔和的光线，真实质感，8K，
+EN：Wool sweater, flat on white background, front view, off-white, twisted texture, preppy style, high collar, dropped shoulder sleeves, loose fit, white background, product photography, soft light, real texture, 8K, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

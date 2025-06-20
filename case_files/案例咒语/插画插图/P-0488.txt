@@ -1,0 +1,3 @@
+CN：现代扁平插画风格，一个女人，白色背景，蓝色外套，红色手，黑色短发，戴眼镜，正在设计网页，电脑屏幕，黄色元素，简约线条，矢量图形，鲜艳色彩，无阴影，卡通风格，插画设计，商业插画，人物半身像，动态姿势，最佳品质，干净利落的边缘，现代设计，扁平化设计，网页设计插画，创意插画，
+EN：Modern flat illustration style, a woman, white background, blue coat, red hands, short black hair, glasses, designing a web page, computer screen, yellow elements, simple lines, vector graphics, bright colors, no shadows, cartoon style, illustration design, commercial illustration, half-length portrait, dynamic pose, best quality, clean edges, modern design, flat design, web design illustration, creative illustration, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

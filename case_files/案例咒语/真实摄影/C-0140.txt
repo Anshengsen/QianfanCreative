@@ -1,0 +1,4 @@
+﻿CN：一群可爱的小鸭子们在田地里的照片，下午时分，
+EN：A photo of a group of cute ducklings in the field, in the afternoon, --q 1 --s 100 --v 5.2 --ar 16:9
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

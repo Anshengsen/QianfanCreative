@@ -1,0 +1,3 @@
+CN：产品3D渲染图，一套女性护肤品，柔和灯光照明，电商展台，水滴，有倒影，宁静的海洋主题，电商摄影，产品镜头，3D渲染，OC渲染，最佳品质，超级降噪，
+EN：Product 3D rendering graph, a set of female skin care products, soft lighting, e-commerce booth, water drop, reflection, quiet ocean theme, e-commerce photography, product lens, 3D rendering, OC rendering, best quality, super noise reduction, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

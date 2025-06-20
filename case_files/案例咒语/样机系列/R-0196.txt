@@ -1,0 +1,3 @@
+CN：空白效果图，极简主义，单色背景，浅灰色墙面，浅灰色桌面，黑色细边框，竖直矩形画框，画框内为纯白色，画框轻微倾斜倚靠墙面，左侧光源，柔和阴影，高分辨率，8K。
+EN：Blank rendering, minimalism, monochrome background, light gray wall, light gray desktop, thin black border, vertical rectangular frame, pure white inside the frame, the frame is slightly tilted against the wall, light source on the left, soft shadows, high resolution, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

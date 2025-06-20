@@ -1,0 +1,4 @@
+
+CN：一个可爱的东方女孩坐在桌子上，地上散落着玩具，3D风格，水彩质感，泡泡玛特风格，皮克斯趋势，粘土材质，辛烷值渲染，丰富的细节，工作室质量，lED灯照明，
+EN：A cute oriental girl sits on a table with toys scattered on the ground, 3D style, watercolor texture, POP MART style, Pixar trend, clay material, octane rendering, rich details, studio quality, lED lamp lighting, --q 1 --s 180 --ar 3:4 --v 5.2 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：DNA双螺旋结构的生物实验室，未来科技风格，24世纪，主要是金属和玻璃材质，灯光闪烁，蓝色和绿色灯光交替，体积光渲染，夜晚场景，旋转视角构图，8K，科技感，未来感十足，超细节。
+EN：Biological laboratory with DNA double helix structure, futuristic technology style, 24th century, mainly metal and glass materials, flashing lights, alternating blue and green lights, volumetric light rendering, night scene, rotating perspective composition, 8K, sense of technology, full of futuristic feeling, ultra-details. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

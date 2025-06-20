@@ -1,0 +1,3 @@
+CN：雄伟的山峰，瑞士阿尔卑斯山，艾格峰，险峻的山脊，积雪覆盖的山顶，云雾缭绕，绿色山坡，晴朗的蓝天，广角镜头，自然风光，高对比度，鲜艳的色彩，逼真的细节，8K分辨率，超高质量。
+EN：Majestic mountain peaks, Swiss Alps, Eiger, steep ridges, snow covered mountain tops, clouds and mist, green slopes, clear blue sky, wide angle shot, natural scenery, high contrast, vivid colors, lifelike details, 8K resolution, ultra high quality. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

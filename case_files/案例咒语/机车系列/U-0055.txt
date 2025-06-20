@@ -1,0 +1,2 @@
+CN：3D渲染，赛车，赛车运动，未来主义，速度感，动感，夜晚，地面上是蓝色和红色的光迹，黑暗背景，留白，正面视角，中心构图，超现实主义，高品质，8K，逼真，光线追踪。
+EN：3d render, racing, motorsport, futuristic, speed, motion, night, blue and red light trails on the ground, dark background, white space, front view, center composition, surrealism, high quality, 8K, realistic, ray tracing. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6

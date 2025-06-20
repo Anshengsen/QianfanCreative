@@ -1,0 +1,2 @@
+CN：复古咖啡赛车摩托车，磨砂棕色油箱，镀铬部件闪耀，复古赛道背景，阳光洒在车身上，写实渲染，强调复古质感和速度感，4K分辨率，细节丰富的车身纹理。
+EN：Retro cafe racer motorcycle, matte brown fuel tank, shining chrome parts, retro racetrack background, sunlight shining on the body, realistic rendering, emphasizing retro texture and sense of speed, 4K resolution, detailed body texture. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

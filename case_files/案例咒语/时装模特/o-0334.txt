@@ -1,0 +1,4 @@
+CN：专业摄影，8K，女性，白种人，中等身材，微胖，金色中长发，自然垂落，发梢微卷，长袖衬衫，草绿色底色，白色小圆点图案，宽松版型，袖口收紧，浅棕色高腰半身裙，纽扣装饰，正面站立，面带微笑，眼神柔和，自然光，背景纯白。
+EN：Professional photography, 8K, female, Caucasian, medium build, slightly plump, medium-length blond hair, naturally falling, slightly curled ends, long-sleeved shirt, grass green background, white polka dot pattern, loose fit, tightened cuffs, light brown high-waisted skirt, button decoration, standing frontally, smiling, soft eyes, natural light, pure white background. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

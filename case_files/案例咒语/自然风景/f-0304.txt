@@ -1,0 +1,3 @@
+CN：暴风雪中的场景，蓝色调，弥漫的风雪，模糊的能见度，空旷的道路，路边有木制围栏，远处有树木和路灯的轮廓，寒冷，阴郁，孤独，广角镜头，纪实摄影风格，低饱和度，高对比度，电影质感，4K，细节丰富
+EN：Snowstorm scene, blue tones, diffuse snow, blurred visibility, empty road, wooden fences on the roadside, silhouettes of trees and street lamps in the distance, cold, gloomy, lonely, wide-angle lens, documentary style, low saturation, high contrast, film texture, 4K, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：虚幻引擎5，2.5D，国漫，中国风美人，3D渲染，动态人像，瓜子脸，柳叶眉，丹凤眼，长发及腰，乌黑亮丽，发丝飘逸，发髻精致，点缀珠钗，肤若凝脂，樱桃小嘴，略施粉黛，眼神温柔，略带忧郁，身着淡紫色汉服，衣袂飘飘，刺绣精美，手势轻柔，置于胸前，背景虚化，紫色梦幻，光线柔和，唯美，细节丰富，高分辨率，电影质感，艺术品，最佳品质。
+EN：Unreal Engine 5, 2.5D, Chinese comics, Chinese beauty, 3D rendering, dynamic portrait, oval face, willow-leaf eyebrows, phoenix eyes, waist-length hair, black and shiny, flowing hair, delicate bun, embellished with pearl hairpins, smooth skin, cherry lips, lightly made-up, gentle eyes, slightly melancholy, wearing lavender Hanfu, fluttering sleeves, exquisite embroidery, gentle gestures, placed on the chest, blurred background, purple dream, soft light, beautiful, rich details, high resolution, movie texture, artwork, best quality. --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

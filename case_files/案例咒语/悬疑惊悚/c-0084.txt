@@ -1,0 +1,3 @@
+CN：漫画风格，粗体轮廓和填充色，悬疑小说配图，简单的细节，一个美丽的16岁的动漫女孩，丹凤眼，精致的眼妆，吃土色口红色号，长发，上身特写，正面，中景，在房间里，暗色调，夜晚，通过昏暗的台灯照亮部分区域，最佳品质，
+EN：Comic style, bold outline and fill color, suspense novel with pictures, simple details, a beautiful 16-year-old anime girl, Danfeng eyes, exquisite eye makeup, eating earth lipstick color number, long hair, upper body close-up, front, medium shot, in the room, dark tones, night, illuminating part of the area through a dim desk lamp, best quality, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

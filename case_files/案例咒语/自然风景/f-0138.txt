@@ -1,0 +1,3 @@
+CN：远景，富士山，雪顶，深色调，湖面，倒影，夜晚，微弱灯光，平静，广角镜头，对称构图，电影级光照，超高质量，8K。
+EN：Distant view, Mount Fuji, snow-capped peaks, dark tones, lake surface, reflections, night, dim lights, calm, wide-angle lens, symmetrical composition, cinematic lighting, ultra-high quality, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

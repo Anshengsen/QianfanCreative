@@ -1,0 +1,3 @@
+CN：平面插画，帐篷、河流、山脉、鲜花盛开、日出，充满活力，简约，大自然，高分辨，
+EN：Flat illustration, tent, river, mountains, blooming flowers, sunrise, vibrant, simple, nature, high resolution, --q 1 --s 100 --ar 3:2 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

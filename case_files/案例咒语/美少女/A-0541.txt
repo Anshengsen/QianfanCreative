@@ -1,0 +1,3 @@
+CN：蓝色、白色和黑色的配色方案，简单的形状，抽象的孟菲斯，一个女孩的平面插图，白色的脸、黑色的头发，克莱因蓝色背景，苗条的身材，极简主义，
+EN：Blue, white and black color scheme, simple shapes, abstract memphis, flat illustration of a girl, white face, black hair, Klein blue background, slim figure, minimalism, --q 1 --s 100 --ar 3:4 --niji 5 --style expressive 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

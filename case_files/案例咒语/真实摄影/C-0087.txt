@@ -1,0 +1,5 @@
+
+CN：漂亮的中国女孩，照片，她有着精致的五官，精致的妆容，长发，穿着黑色毛衣，黑色背景，顶光照明，面对镜头，正面，上半身，最高质量，HD，
+
+EN：Beautiful Chinese girl, photo, she has exquisite facial features, exquisite makeup, long hair, wearing a black sweater, black background, top lighting, facing the camera, front, upper body, highest quality, HD, --q 5 --s 100 --ar 3:4 --v 5.2 --style raw --fast 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

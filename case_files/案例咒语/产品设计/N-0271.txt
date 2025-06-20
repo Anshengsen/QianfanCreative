@@ -1,0 +1,3 @@
+CN：能量饮料产品摄影，一罐AZZEJA能量饮料，罐身颜色从粉色渐变到蓝色，周围环绕着冰块，底部是云雾，背景是蓝色和棕色的光线，光线明亮，营造出一种清爽和活力的氛围，产品摄影，电影级光照，超高分辨率，8K，超细节，工作室质量,
+EN：Energy drink product photography, a can of AZZEJA energy drink, the can color changes from pink to blue, surrounded by ice cubes, with clouds at the bottom, and blue and brown light in the background, the light is bright, creating a refreshing and energetic atmosphere, product photography, cinematic lighting, ultra-high resolution, 8K, ultra-detailed, studio quality, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

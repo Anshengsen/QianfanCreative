@@ -1,0 +1,3 @@
+CN：时尚人像摄影，一位亚洲女性，黑发，蓝眼睛，红唇，脸上画着花朵图案，穿着黑色蕾丝服装，妆容精致，眼神迷离，背景模糊，冷色调，最佳品质。
+EN：Fashion portrait photography of an Asian woman with black hair, blue eyes, red lips, flower pattern painted on her face, wearing black lace clothing, delicate makeup, blurred eyes, blurred background, cold tones, best quality. --s 50 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

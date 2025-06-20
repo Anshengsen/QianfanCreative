@@ -1,0 +1,3 @@
+CN：矢量风格的标志设计，天鹅，紫色轮廓，翅膀是粉色，紫色和蓝色，浅紫色背景，居中构图，简洁优雅，最佳品质，高分辨率
+EN：Vector style logo design of a swan with purple outline and wings in pink, purple and blue on a light purple background, centered composition, simple and elegant, best quality, high resolution --s 100 --ar 1:1 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

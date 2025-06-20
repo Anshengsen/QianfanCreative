@@ -1,0 +1,5 @@
+
+CN：黑暗系圆形舞台背景图，顶部光照射在舞台上，圆形舞台、台阶、照射灯，最高质量，HD，32K，
+
+EN：Dark round stage background cover, top light on the stage, round stage, steps, illumination lights, highest quality, HD, 32K, --q 5 --s 250 --ar 3:4 --v 5.2 --style raw --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

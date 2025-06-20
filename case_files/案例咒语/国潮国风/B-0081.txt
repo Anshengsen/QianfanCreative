@@ -1,0 +1,3 @@
+CN：3D模型渲染，一组中国古建筑，黑色瓦顶和朱砂红色的墙壁，弧形飞檐，有亭、阁、楼，超级特写，高视角，最佳品质，
+EN：3D model rendering, a group of ancient Chinese buildings, black tile roofs and cinnabar red walls, curved eaves, pavilions, pavilions, and towers, super close-up, high angle view, best quality, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

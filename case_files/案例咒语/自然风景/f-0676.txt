@@ -1,0 +1,3 @@
+CN：冰岛，黑沙滩，山脉，极光，蓝色和绿色，电影感，超高分辨率，8K，超细节，自然光，大气透视，广角镜头，摄影作品，海岸线，雪山，宁静的氛围
+EN：Iceland, black sand beach, mountains, aurora borealis, blues and greens, cinematic feel, ultra high resolution, 8K, ultra detail, natural light, atmospheric perspective, wide angle lens, photography, coastline, snowy mountains, tranquil atmosphere --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

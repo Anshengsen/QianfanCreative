@@ -1,0 +1,3 @@
+CN：3D渲染，表情包符号，特写，黄色球体，卡通风格，沮丧表情，emoji，脸颊泛红，额头有一滴蓝色汗珠，柔和光照，白色背景，简洁构图。
+EN：3D rendering, emoticon symbol, close-up, yellow sphere, cartoon style, frustrated expression, emoji, with flushed cheeks and a drop of blue sweat on the forehead, soft lighting, white background, simple composition.  --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

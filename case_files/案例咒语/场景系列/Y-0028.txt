@@ -1,0 +1,5 @@
+CN：游戏风格的厨房，绿色风格，冰箱、灶台、餐桌等，时尚风格，现代风格，等距视图::2，真实比例1:1，在cinema 4d中呈现，白色背景，3d，最佳品质，平滑有光泽，
+EN：Game style kitchen, green style, refrigerator, stove, dining table, etc., fashion style, modern style, isometric view:: 2, real scale 1:1, presented in cinema 4d, white background, 3d, best quality, smooth and glossy, --q 1 --s 180 --ar 1:1 --v 5.2
+
+（PS：做小场景，等距视图权重一定要高，其次，不要使用v 6.0，其他自由发挥） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个蒸汽小飞机的3d图标，卡通，3D渲染，光滑，闪亮有光泽，可爱的风格，任天堂风格，柔和的颜色，白色背景，超细节，高清，高分辨率，
+EN：A steam plane 3d icon, cartoon, 3D rendering, smooth, shiny glossy, cute style, Nintendo style, soft colors, white background, super detail, high definition, high resolution, --q 1 --s 100 --ar 1:1 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：空白效果图，iPhone X，白色模型，斜角透视，简约风格，纯色背景，产品展示，3D渲染，细节清晰，光线柔和，高分辨率。
+EN：Blank rendering, iPhone X, white mockup, angled perspective, minimalist style, solid color background, product display, 3D rendering, clear details, soft light, high resolution. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

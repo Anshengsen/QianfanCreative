@@ -1,0 +1,3 @@
+CN：海岛风光，清澈海水，白色沙滩，浅滩，延伸至远方，蓝天白云，晴朗天气，少量船只，广角镜头，航拍视角，明亮色调，自然光，高饱和度，超广角，8K，超高清晰度，细节丰富，真实感。
+EN：Island scenery, clear water, white sand, shallows extending into the distance, blue sky and white clouds, sunny weather, a small number of boats, wide-angle lens, aerial perspective, bright tones, natural light, high saturation, ultra-wide angle, 8K, ultra-high definition, rich details, and realism. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

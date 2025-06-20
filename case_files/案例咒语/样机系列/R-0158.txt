@@ -1,0 +1,3 @@
+CN：空白效果图，两款手机模型，iPhone XS，iPhone XS Max，并排，正面，白色屏幕，银色边框，金色边框，特写，产品展示，简约风格，纯白背景，高分辨率。
+EN：Blank rendering of two mobile phone mockups, iPhone XS, iPhone XS Max, side by side, front view, white screen, silver frame, gold frame, close-up, product display, minimalist style, pure white background, high resolution. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

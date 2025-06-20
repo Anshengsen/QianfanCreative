@@ -1,0 +1,2 @@
+CN：赛博朋克风格悬浮机车，霓虹灯点缀，流线型车身，黑色哑光涂装，繁华的未来都市夜景，雨后街道反射霓虹灯光，光线追踪渲染，超现实主义风格，4K分辨率，强调速度感和科技感，车身有轻微磨损和划痕。
+EN：Cyberpunk style hoverbike, neon embellishment, streamlined body, black matte paint, bustling future city night scene, streets reflecting neon lights after rain, ray tracing rendering, surrealist style, 4K resolution, emphasizing the sense of speed and technology, the body has slight wear and scratches. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

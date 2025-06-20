@@ -1,0 +1,3 @@
+CN：中国女孩标准证件照，精致的面容和妆容，柳叶眉，丸子头，大眼睛，高鼻梁，圆脸，鲜艳的口红，脸红，穿着正式的西装，朱砂红色背景，正面，肖像，最佳品质，32uhd，
+EN：Chinese girl standard ID photo, exquisite face and makeup, willow eyebrows, ball head, big eyes, high nose bridge, round face, bright lipstick, blush, wearing a formal suit, cinnabar red background, front, portrait, best quality, 32uhd, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

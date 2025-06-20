@@ -1,0 +1,6 @@
+
+CN：一支玫瑰花，全息色彩，梦幻般的颜色，使用C4D建模，并使用OC渲染器渲染，3D渲染，3D，工作室照明，工作室质量，黑色背景，
+EN：A rose, holographic colors, fantastic colors, modeled with C4D and rendered with OC renderer, 3D rendering, 3D, studio lighting, studio quality, black background, --q 5 --s 250 --ar 3:4 --v 5.2
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,2 @@
+﻿CN：一个摩托车的矢量风格的平面插图，采用赛博朋克、中国朋克风格，高品质，矢量，
+EN：A vector-style graphic illustration of a motorcycle, in cyberpunk, Chinese punk style, high quality, vector, --q 1 --s 100 --ar 3:4 --v 5.2

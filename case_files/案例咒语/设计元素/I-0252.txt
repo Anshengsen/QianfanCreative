@@ -1,0 +1,4 @@
+CN：长方形标题栏图标游戏资产，上方有两条小锁链，3D渲染，青色光芒，白色，科技感，未来感，超未来主义，正面，独奏，居中构图，最佳品质，8K，
+EN：Rectangular title bar icon game asset with two small chains on top, 3D rendering, cyan glow, white, technology, futuristic, ultra-futuristic, front view, solo, centered composition, best quality, 8K, --q 1 --s 50 --ar 3:2 --niji 6 --personalize mtd2w9f --style raw
+（PS：加上个性化参数影响就容易出现等距视图，建议生成的时候在末尾再添加上排除等距影响，即--no Isometric, isometric view） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个20岁的中国动漫女孩，火车站背景，昏暗，身后是火车，暗绿色风格，粗线条和纯色，中国乡村风格，图文漫画风格，2D恐怖，悬疑风格，8k，超品质，超细节，
+EN：A 20-year-old Chinese anime girl, train station background, dim, train behind, dark green style, thick lines and solid colors, Chinese country style, graphic comic style, 2D horror, suspense style, 8k, super quality, super detail, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

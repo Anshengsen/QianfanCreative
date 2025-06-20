@@ -1,0 +1,3 @@
+CN：冬季景观，雪中小屋，夜晚场景，星空，积雪覆盖的屋顶，温暖的灯光，雪地小径，高耸的松树，宁静的氛围，深蓝色调，电影感光照，超广角，高细节，8K，超现实主义，虚幻引擎渲染。
+EN：Winter landscape, cabin in the snow, night scene, starry sky, snow-covered roof, warm lighting, snowy trails, towering pine trees, tranquil atmosphere, deep blue tones, cinematic lighting, ultra wide angle, high details, 8K, hyperrealism, Unreal Engine rendering. --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：美食摄影，照片，烤肉串，牛肉块，蔬菜块，红辣椒，黄辣椒，青瓜，西红柿，铁钎，烧烤架，炭火，火焰，烟雾，特写镜头，暖色调，高对比度，垂直构图
+EN：Food photography, photo, kebab, beef chunks, vegetable chunks, red pepper, yellow pepper, cucumber, tomato, skewer, grill, charcoal, flame, smoke, close-up, warm tones, high contrast, vertical composition --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：比亚兹莱风格，一位美少女，以黑白线条为主，装饰性极强，线条流畅而富有韵律，人物造型优雅而略带颓废，背景是花卉、植物等自然元素的变形，整体画面呈现出独特的艺术感和神秘感。
+EN：Beardsley style, a beautiful girl, mainly black and white lines, highly decorative, the lines are smooth and rhythmic, the character modeling is elegant and slightly decadent, the background is the deformation of natural elements such as flowers and plants, the overall picture presents a unique sense of art and mystery. --q 5 --s 100 --ar 1:1 --niji 6--personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

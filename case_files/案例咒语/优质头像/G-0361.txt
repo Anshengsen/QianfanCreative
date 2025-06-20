@@ -1,0 +1,3 @@
+CN：粗糙漫画风格，漫画，一个有着黑色齐肩长发的女孩，手托下巴，思考，大眼睛，坐在咖啡店的一角，面前放着一杯咖啡，
+EN：Rough comic style, cartoon, a girl with black shoulder-length hair, chin on hand, thinking, big eyes, sitting in a corner of a coffee shop, with a cup of coffee in front of her, --q 1 --s 100 --ar 3:4 --niji 6 --personalize 4fzjcca 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

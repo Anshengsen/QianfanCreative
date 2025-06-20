@@ -1,0 +1,3 @@
+CN：美食摄影，照片，日式天妇罗，炸虾，摆盘精致，特写，浅景深，暖色调，柔和光线，顶部撒有绿色点缀物，盘子纹理独特，背景虚化，高光，蒸汽，细节丰富，高品质，8K，超清
+EN：Food photography, photo, Japanese tempura, fried shrimp, exquisite presentation, close-up, shallow depth of field, warm tones, soft light, green sprinkles on top, unique texture of the plate, blurred background, highlights, steam, rich details, high quality, 8K, ultra-clear --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

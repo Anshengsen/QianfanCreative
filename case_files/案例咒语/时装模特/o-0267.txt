@@ -1,0 +1,4 @@
+CN：专业摄影，全身像，亚洲女性，年轻，站立姿势，身体略微侧向镜头，右手举起手机自拍，左手轻扶柱子，黑色长发，中分，自然垂落，略带蓬松感，面部表情平静，眼神柔和，略带微笑，瓜子脸，五官精致，淡妆，黑色连衣裙，方领，长袖，裙摆略微蓬松，长度在膝盖以上，整体风格优雅，背景为室内，有拱形窗户和装饰植物，光线柔和，暖色调。
+EN：Professional photography, full-length portrait, Asian woman, young, standing pose, body slightly turned to the camera, right hand holding up mobile phone to take a selfie, left hand gently holding the pillar, long black hair, middle part, naturally hanging down, slightly fluffy, calm facial expression, soft eyes, slightly smiling, oval face, delicate features, light makeup, black dress, square neck, long sleeves, slightly fluffy skirt, length above the knee, overall elegant style, background is indoors, with arched windows and decorative plants, soft light, warm colors. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：中国龙，可爱，8位像素风格，标志，白色背景，简单的插图，全身，简单，动漫，最佳品质，居中构图，
+EN：Chinese dragon, cute, 8-bit pixel style, logo, white background, simple illustration, full body, simple, anime, best quality, centered composition, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

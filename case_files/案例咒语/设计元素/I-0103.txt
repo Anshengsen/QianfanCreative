@@ -1,0 +1,4 @@
+﻿CN：3D图标，摩天轮，柔和的颜色，明亮，3D，等距，粘土材料，三维渲染，白色背景，居中构图，最佳品质，最高分辨率，
+EN：3D icons, ferris wheel, soft colors, bright, 3D, isometric, clay material, 3D rendering, white background, centered composition, best quality, highest resolution, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

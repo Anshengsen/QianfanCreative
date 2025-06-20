@@ -1,0 +1,4 @@
+CN：3D渲染，OC渲染，高清辛烷值渲染，梦幻艺术，赛博朋克，双包子头发型的美丽的动漫女孩，双发髻，16岁，穿着皮质小款外套，带透明墨镜，黑紫色头发，俏皮，高分辨率，动态照明，干净的浅玫红色背景，逼真，详细，超细节，超品质，正面，全身，面对镜头，胜利的手势，
+EN：3D rendering, OC rendering, high-definition octane rendering, fantasy art, cyberpunk, beautiful anime girl with double bun hairstyle, double buns, 16 years old, wearing a small leather jacket, transparent sunglasses, dark purple hair, playful, high resolution, dynamic lighting, clean light rose red background, realistic, detailed, super detailed, super quality, front view, full body, facing the camera, victory gesture, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

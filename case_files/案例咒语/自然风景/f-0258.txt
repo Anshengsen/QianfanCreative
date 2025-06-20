@@ -1,0 +1,4 @@
+CN：极光，全景，冰岛风光，水面反射，绿色和蓝色光芒，长曝光，广角，电影感光照，超高质量，8K，超广角
+EN：Aurora, panorama, Icelandic landscape, water reflection, green and blue light, long exposure, wide angle, cinematic, ultra high quality, 8K, ultra wide angle --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

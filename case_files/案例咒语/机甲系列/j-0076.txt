@@ -1,0 +1,3 @@
+CN：废土风格，黄昏，逆光，背影，一个孤独的巨型机甲，站在荒凉的沙漠中，远处是残破的城市废墟，夕阳的余晖洒在机甲身上，金属质感，颗粒感，CG渲染，史诗感，8K。
+EN：Wasteland style, dusk, backlight, back view, a lonely giant mecha standing in the desolate desert, with ruined city ruins in the distance, the afterglow of the setting sun shining on the mecha, metal texture, grainy feeling, CG rendering, epic feeling, 8K. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：中国传统纹样，以商周时期的衣服纹饰为主题，在白色的背景上，最高品质，矢量，
+EN：Traditional Chinese patterns, with the theme of clothes decoration in the Shang and Zhou Dynasties, on a white background, the highest quality, vector, --q 1 --s 100 --ar 1:1 --v 6.0 --tile 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

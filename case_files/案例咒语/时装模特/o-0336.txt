@@ -1,0 +1,4 @@
+CN：专业摄影，服装特写，亚洲女性，站立姿势，身体略微侧向镜头，佩戴珍珠项链，身穿浅黄色外套，外套无领，前襟系带，系成蝴蝶结，宽松版型，袖子较长，有方形贴袋，内搭黑色针织衫，搭配黑色裙子，整体风格简约，温柔，日常，背景为室内，光线柔和。
+EN：Professional photography, clothing close-up, Asian woman, standing pose, body slightly sideways to the camera, wearing a pearl necklace, wearing a light yellow jacket, collarless, tied in the front, tied in a bow, loose fit, long sleeves, square patch pockets, black sweater inside, paired with a black skirt, the overall style is simple, gentle, and everyday, the background is indoors, and the light is soft. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

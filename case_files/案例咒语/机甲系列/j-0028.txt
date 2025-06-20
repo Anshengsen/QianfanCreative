@@ -1,0 +1,3 @@
+CN：未来科幻风格机甲，金属质感，银灰色，柔和的光线，太空站内部，漂浮的碎片，宇宙背景，细节精细，逼真，8K，超高清。
+EN：Futuristic sci-fi style mecha, metal texture, silver-gray, soft light, space station interior, floating debris, cosmic background, fine details, realistic, 8K, ultra high definition. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

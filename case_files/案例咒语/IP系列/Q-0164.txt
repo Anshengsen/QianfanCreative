@@ -1,0 +1,5 @@
+CN：游戏人物设计，一个中国的甜酷小女孩，3d角色设计，双马尾，卡哇伊，甜美，跪坐在地上，全身，穿着短裤和时尚的鞋子，透明材料，泡泡，C4D，3D，OC渲染，IP形象风格，边缘光，干净的背景，赛博朋克灯光，
+EN：Game character design, a Chinese sweet cool little girl, 3d character design, double ponytail, kawaii, sweet, kneeling on the ground, full body, wearing shorts and fashionable shoes, transparent material, bubbles, C4D, 3D, OC rendering, IP image style, edge light, clean background, cyberpunk lighting, --q 1 --s 150 --ar 1:1 --v 6.0 --no Weird body structure, extra fingers, extra palms, extra feet, wrong proportions,
+
+（该咒语需要排除负向词，怪异的身体构造，多余的手指，多余的手掌，多余的脚，错误的比例，） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

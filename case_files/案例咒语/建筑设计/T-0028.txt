@@ -1,0 +1,5 @@
+CN：一栋临街公寓楼，现代风格，多层，三维渲染图，假设是夜晚，暖光，公路上有汽车，
+EN：A modern multi-storey apartment building facing the street, 3D rendering, at night, warm light, with cars on the road, --q 1 --s 100 --ar 3:4 --v 6.0
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

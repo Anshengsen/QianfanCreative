@@ -1,0 +1,3 @@
+CN：最小的3D舞台渲染，湿润的黑色岩石产品展台，背景是湿润的黑色岩石壁，产品光照，硬阴影，湿润，逼真，详细，8K，
+EN：Minimal 3D stage rendering, wet black rock product stand, wet black rock wall in the background, product lighting, hard shadows, wet, realistic, detailed, 8K, --q 1 --s 100 --ar 1:1 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

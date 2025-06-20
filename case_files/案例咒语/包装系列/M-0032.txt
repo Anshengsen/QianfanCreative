@@ -1,0 +1,3 @@
+CN：日系风格包装设计，一组小包装，颜色为各种马卡龙色，包装上印有日文和人物图案，色彩清新，线条柔和，整体风格可爱精致，具有日式小清新的感觉，细节包括包装的颜色，日文的排版，以及人物图案的造型，最佳品质，8K，产品摄影，适合用于糖果或小零食，白色背景，
+EN：Japanese style packaging design, a set of small packages, the colors are various macaron colors, Japanese characters and character patterns are printed on the packaging, the colors are fresh, the lines are soft, the overall style is cute and delicate, with a Japanese fresh feeling, the details include the color of the packaging, the layout of the Japanese characters, and the shape of the character patterns, the best quality, 8K, product photography, suitable for candy or snacks, white background, --s 100 --ar 3:2 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

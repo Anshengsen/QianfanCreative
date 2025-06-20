@@ -1,0 +1,4 @@
+﻿CN：粉彩水墨风格，不同颜色的笔刷在画布上有规则的构成的平面背景图，黑色和深蓝色和淡紫色，暗色调，多层，低饱和度，最佳品质，最佳质量，最佳分辨率，32kuhd，
+EN：Pastel ink style, different color brushes on the canvas have regular composition of flat background cover, black and dark blue and lavender, dark tones, multi-layer, low saturation, best quality, best quality, best resolution, 32kuhd, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

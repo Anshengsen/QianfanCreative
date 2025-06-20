@@ -1,0 +1,3 @@
+CN：赛博朋克风格，全身像，一位机械少女，精灵族，白色长发，蓝色眼睛，精致的面部特征，身穿白色与蓝色相间的机械装甲，装甲带有复杂的细节和发光线条，站在一个带有水池和植物的环境中，背景模糊，整体色调偏冷，光线柔和，带有未来感，高细节，8K，最佳画质。
+EN：Cyberpunk style, full-body portrait, a mechanical girl, elf, long white hair, blue eyes, delicate facial features, wearing white and blue mechanical armor with complex details and glowing lines, standing in an environment with a pool and plants, blurred background, overall cold tones, soft light, futuristic feel, high details, 8K, best image quality. --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

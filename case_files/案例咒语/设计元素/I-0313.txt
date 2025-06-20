@@ -1,0 +1,3 @@
+CN：3D渲染图，产品展示，标签打印机，黑色机身，金色按钮，正在打印白色标签，白色背景，特写，高质量，逼真，渲染，粘土材料，3D，卡通，
+EN：3D rendering, product display, label printer, black body, gold button, printing white label, white background, close-up, high quality, realistic, rendering, clay material, 3D, cartoon,  --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

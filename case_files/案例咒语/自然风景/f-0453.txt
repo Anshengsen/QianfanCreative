@@ -1,0 +1,4 @@
+CN：雪夜，木屋，芬兰桑拿房，暖光，灯笼，雪地，小径，冷杉树，黄昏，静谧，自然风光，纪实摄影，低饱和度，广角镜头，电影感，细节丰富，8K，超高分辨率，真实感渲染
+EN：Snowy night, wooden house, Finnish sauna, warm light, lantern, snow, trail, fir tree, dusk, tranquility, natural scenery, documentary photography, low saturation, wide-angle lens, cinematic feel, rich details, 8K, ultra-high resolution, photorealistic rendering --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

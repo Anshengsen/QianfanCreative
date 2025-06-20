@@ -1,0 +1,3 @@
+CN：复古肌理插画风格，噪点纹理，撞色配色，橙色天空，蓝色桥梁，蓝色山石，细节包括桥梁的结构，山石的纹理，道路的走向，整体画面宁静深邃，风格复古，最佳品质，8K，几何图形，扁平化设计，风景插画
+EN：Retro texture illustration style, noise texture, contrasting colors, orange sky, blue bridge, blue rocks, details include the structure of the bridge, the texture of the rocks, the direction of the road, the overall picture is quiet and profound, retro style, best quality, 8K, geometric graphics, flat design, landscape illustration --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

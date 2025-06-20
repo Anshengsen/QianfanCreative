@@ -1,0 +1,4 @@
+﻿CN：微距拍摄，带有纹理石头图案的3D风格黑白背景，突出石头表面的自然纹理和深度，超高分辨率，丰富的细节，
+EN：Macro shooting, 3D-style black and white background with textured stone patterns, highlighting the natural texture and depth of the stone surface, ultra-high resolution, rich detail, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

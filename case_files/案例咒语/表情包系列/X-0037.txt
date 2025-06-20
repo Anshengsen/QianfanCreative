@@ -1,0 +1,3 @@
+CN：一组emoji表情包，九宫格，黄色的3d小圆脸emoji，快乐、愤怒、悲伤、惊讶、困惑、害怕、兴奋、无聊、鄙视、怀疑、平静、傲慢、感动、凝视、可爱、无助等，白色背景，3D，
+EN：A set of emoji emoji, Jiugongge, yellow 3d small round face emoji, happy, angry, sad, surprised, confused, afraid, excited, bored, despised, doubted, calm, arrogant, moved, staring, cute, helpless, etc., white background, 3D, --q 1 --s 50 --ar 1:1 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

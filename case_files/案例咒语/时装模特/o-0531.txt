@@ -1,0 +1,3 @@
+CN：专业摄影，8K，女性，服装，无面部，身穿深蓝色，格子图案，长款大衣，翻领，两侧有贴袋，黑色内搭，黑色长裤，站立姿势，双手自然下垂，略微侧身，背景模糊，室内环境，暖色调灯光，自然光，服装材质为羊毛或类似质感，整体风格简约，成熟，优雅。
+EN：Professional photography, 8K, female, clothing, no face, wearing dark blue, plaid pattern, long coat, lapel, patch pockets on both sides, black inner wear, black trousers, standing pose, hands hanging naturally, slightly sideways, blurred background, indoor environment, warm lighting, natural light, clothing material is wool or similar texture, the overall style is simple, mature and elegant. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

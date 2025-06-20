@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，炭灰色，圆领套头针织衫，基础款，宽松版型，落肩袖设计，罗纹袖口及下摆，细密针织纹理，柔软质感，简约风格，自然光，焦点清晰集中于服装
+EN：Professional fashion photography, 8K, front view, white background, charcoal grey, crew neck pullover, basic style, loose fit, dropped shoulder sleeves, ribbed cuffs and hem, fine knit texture, soft feel, simple style, natural light, sharp focus on garment --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

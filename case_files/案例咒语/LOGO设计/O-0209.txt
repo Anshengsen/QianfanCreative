@@ -1,0 +1,3 @@
+CN：矢量风格的标志设计，复古，棕色和米色配色，圆形齿轮背景，齿轮上方有一个啤酒杯图案，齿轮中心写着DLAB，下方是弧形排列的DreamLab，底部是扇形图案，白色背景，居中构图，最佳品质，高分辨率
+EN：Vector style logo design, retro, brown and beige color scheme, circular gear background, a beer mug pattern above the gear, DLAB written in the center of the gear, DreamLab arranged in an arc below, fan-shaped pattern at the bottom, white background, centered composition, best quality, high resolution --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

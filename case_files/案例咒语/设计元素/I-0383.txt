@@ -1,0 +1,4 @@
+CN：3D渲染人物模型，卡通风格，一个穿着黄色上衣和蓝色短裙的卡通女孩，蓝色短发，推着一辆装满礼品盒和购物袋的蓝色购物车，女孩面部表情积极，手臂指向前方，整体造型生动活泼，黏土材质，表面光滑有光泽，梦幻色彩，OC渲染，工作室照明，光线明亮，白色背景，无阴影，超细节，超品质，3D效果，适合作为电商促销或购物主题的宣传素材
+EN：3D rendering character model, cartoon style, a cartoon girl in a yellow top and blue skirt, with short blue hair, pushing a blue shopping cart full of gift boxes and shopping bags, with a positive facial expression and arms pointing forward, the overall shape is lively and vivid, clay material, smooth and shiny surface, dreamy colors, OC rendering, studio lighting, bright light, white background, no shadows, super details, super quality, 3D effect, suitable as promotional material for e-commerce promotions or shopping themes --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

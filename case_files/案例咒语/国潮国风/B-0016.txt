@@ -1,0 +1,3 @@
+CN：一个美少女，正面视图，全身，远景，戏曲风格，青花瓷配色方案，人物设计，中国古典主义，粗线条，平面插画，矢量，白色背景，高质量，
+EN：A beautiful girl, front view, full body, vista, opera style, blue and white porcelain color scheme, character design, Chinese classicism, thick lines, graphic illustration, vector, white background, high quality, --q 5 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

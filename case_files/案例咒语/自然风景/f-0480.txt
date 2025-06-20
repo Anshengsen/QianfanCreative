@@ -1,0 +1,3 @@
+CN：海岛日落，剪影，棕榈树，晚霞，渐变天空，蓝色，粉色，橙色，金色，海面反光，远景，广角，自然风光，摄影，高饱和度，戏剧性光线，宁静，温暖色调，冷暖对比，最佳品质，8K，超高分辨率，细节丰富
+EN：Island sunset, silhouette, palm trees, sunset glow, gradient sky, blue, pink, orange, gold, sea reflection, distant view, wide angle, natural scenery, photography, high saturation, dramatic light, tranquility, warm tones, cold and warm contrast, best quality, 8K, ultra high resolution, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

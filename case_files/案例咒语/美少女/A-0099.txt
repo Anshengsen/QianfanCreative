@@ -1,0 +1,5 @@
+
+CN：钢笔画::，一个美少女，精致的五官，肖像特写，白色背景，钢笔画风格，高质量，高细节，最佳品质，
+
+EN：Pen painting::, a beautiful girl, exquisite facial features, portrait close-up, white background, pen painting style, high quality, high detail, best quality, --q 1 --s 180 --ar 3:4 --niji 5 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

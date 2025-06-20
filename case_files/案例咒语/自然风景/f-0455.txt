@@ -1,0 +1,3 @@
+CN：广阔的麦田，金黄色，成熟的小麦，乡村风光，农场，谷仓，远景，蓝天，白云，晴朗天气，自然光，高饱和度，田园风，宁静，广角镜头，地平线构图，色彩鲜明，细节丰富，8K，超高清，真实感渲染
+EN：Wide wheat field, golden color, ripe wheat, rural scenery, farm, barn, distant view, blue sky, white clouds, sunny weather, natural light, high saturation, pastoral style, tranquility, wide angle lens, horizon composition, vivid colors, rich details, 8K, ultra high definition, photorealistic rendering --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

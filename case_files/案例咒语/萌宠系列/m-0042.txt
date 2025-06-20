@@ -1,0 +1,3 @@
+CN：皮克斯风格，3D风格，红色的、毛茸茸的、拟人化的、胖嘟嘟的小龙，干净的红色背景，3D渲染，可爱，
+EN：Pixar style, 3D style, red, furry, anthropomorphic, chubby little dragon, clean red background, 3D rendering, cute, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

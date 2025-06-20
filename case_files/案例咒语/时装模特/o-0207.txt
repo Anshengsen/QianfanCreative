@@ -1,0 +1,3 @@
+CN：专业摄影，8K，下半身像特写，女性，自然垂落，宽松格子长裤，米色、黑色格纹，高腰，抽绳设计，黑色长袖紧身上衣，双手自然下垂，略微内八站姿，脚穿黑色毛绒拖鞋，面部无明显表情，自然光，明亮的墙边室内背景，简约风格。
+EN：Professional photography, 8K, close-up of lower body, female, naturally drooping, loose plaid trousers, beige and black plaid, high waist, drawstring design, black long-sleeved tight top, hands hanging naturally, standing slightly turned inward, wearing black plush slippers, no obvious expression on the face, natural light, bright wall indoor background, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

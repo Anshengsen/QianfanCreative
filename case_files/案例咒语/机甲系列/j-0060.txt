@@ -1,0 +1,3 @@
+CN：二战风格的坦克机甲，背景是泥泞的战场环境，爆炸的火光和浓烟，履带和炮管细节清晰，V-Ray渲染，做旧质感，金属和橡胶材质，迷彩涂装，背景是残垣断壁和倒下的士兵，8K，写实风格，超逼真，超详细，
+EN：World War II style tank mecha, with muddy battlefield environment in the background, explosion fire and smoke, clear track and gun barrel details, V-Ray rendering, old texture, metal and rubber materials, camouflage paint, background with ruins and fallen soldiers, 8K, realistic style, super realistic, super detailed, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

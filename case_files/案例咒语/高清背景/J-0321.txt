@@ -1,0 +1,3 @@
+CN：灰色科技背景，带有黄色元素，柔和的阴影，黄色发光线条，层次分明，
+EN：Gray tech background with yellow elements, soft shadows, yellow glowing lines, layers, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

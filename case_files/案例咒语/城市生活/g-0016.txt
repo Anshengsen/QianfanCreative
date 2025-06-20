@@ -1,0 +1,3 @@
+CN：傍晚海滨城镇，深蓝色调，广角镜头，平静水面，倒影，远景，暖色灯光，城镇建筑，深蓝色多云天空，金色夕阳余晖，高对比度，电影级光照，超广角，8K，超高清，细节丰富。
+EN：Seaside town in the evening, dark blue tones, wide-angle lens, calm water, reflections, distant view, warm lights, town buildings, dark blue cloudy sky, golden sunset glow, high contrast, cinematic lighting, ultra wide angle, 8K, ultra high definition, rich details. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

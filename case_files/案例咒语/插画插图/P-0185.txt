@@ -1,0 +1,3 @@
+CN：卡通，矢量，一只沮丧的乌龟慢慢的爬行，干净，粗体线条，无阴影，儿童书籍插图风格，纯白背景，最佳品质，
+EN：Cartoon, vector, a frustrated tortoise crawling slowly, clean, bold lines, no shadows, children's book illustration style, pure white background, best quality, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

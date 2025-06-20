@@ -1,0 +1,3 @@
+CN：CG插画风格，黄金时分，暖色调，祥云，画面中间有一条小路，几只小动物并排站着向前走，路的两侧有小木屋和松树，最佳构图，杰作，全景，广角，暖色调，插画，
+EN：CG illustration style, golden hour, warm colors, auspicious clouds, there is a path in the middle of the picture, several small animals stand side by side and walk forward, there are cabins and pine trees on both sides of the road, best composition, masterpiece, panorama, wide angle, warm colors, illustration, --q 1 --s 100 --ar 3:4 --niji 6 --personalize upa948c 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

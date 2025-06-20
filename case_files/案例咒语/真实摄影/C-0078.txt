@@ -1,0 +1,5 @@
+CN：一只猫，在实验室里，蒸汽朋克风格，蒸汽朋克，
+EN：A cat, in the lab, steampunk style, steampunk,  --q 5 --s 250 --ar 3:4 --v 5.2
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

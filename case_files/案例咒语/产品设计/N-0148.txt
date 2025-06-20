@@ -1,0 +1,3 @@
+CN：产品摄影，红色饮料罐（易拉罐装的饮料），气泡，云雾背景，蓝色灯光，8K，超高质量，细节丰富，金属质感，水滴，
+EN：Product photography, red beverage cans (drinks in cans), bubbles, misty background, blue lighting, 8K, ultra high quality, rich details, metal texture, water drops, --s 100 --ar 1:1 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

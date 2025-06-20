@@ -1,0 +1,3 @@
+CN：美食摄影，照片，四川火锅，特写，俯视视角，鲜艳的红色汤底，漂浮的辣椒和花椒，丰富的食材，血豆腐，葱花点缀，周围环绕着各种小料碟，辣椒，香菜，蒜蓉，暖色调，柔和的灯光，热气腾腾，高饱和度，8K，超高细节
+EN：Food photography, photo, Sichuan hot pot, close-up, bird's-eye view, bright red soup, floating chili peppers and peppercorns, rich ingredients, blood tofu, chopped green onions, surrounded by various small dishes, chili peppers, coriander, minced garlic, warm colors, soft lighting, steaming, high saturation, 8K, ultra-high detail --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

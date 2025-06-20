@@ -1,0 +1,4 @@
+﻿CN：彩色字母“Hello”，用彩色液体油漆写的，霓虹灯现实主义风格，平面设计灵感插图，滴水油漆，逼真的调色板，正视图，白色背景，
+EN：Colorful letters "Hello", written in colored liquid paint, neon realism style, graphic design inspired illustrations, drip paint, realistic color palette, front view, white background, --q 1 --s 100 --ar 3:2 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：赛博朋克风格包装设计，透明塑料袋，袋身印有电路板图案和二进制代码，颜色为黑色和绿色，整体风格科技感十足，具有未来主义和极客精神，适合电子元件或科技周边，最佳品质，8K，产品摄影，金属质感背景。
+EN：Cyberpunk style packaging design, transparent plastic bag, printed with circuit board pattern and binary code, black and green colors, the overall style is full of technology, futuristic and geeky, suitable for electronic components or technology peripherals, best quality, 8K, product photography, metal texture background. --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

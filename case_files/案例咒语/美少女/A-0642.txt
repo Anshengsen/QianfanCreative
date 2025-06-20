@@ -1,0 +1,3 @@
+CN：一个动漫女孩，动漫风格，线条简洁，平涂上色，浅色调，粉色背景，半身像，侧身站立，平涂，
+EN：An anime girl, anime style, simple lines, flat painting, light tones, pink background, half-length portrait, standing sideways, flat painting, --q 1 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

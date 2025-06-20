@@ -1,0 +1,3 @@
+CN：3D，高清辛烷值渲染，一只可爱的小白兔坐在小木船上抱着一块巨大的月饼，大笑，愉快，穿着白色的明代服装，小船四周是盛开的荷花，绿色的荷叶，正面，高分辨率，丰富的细节高品质，色彩鲜艳，迷人的边缘光，深夜，星空和满月，居中构图，对称，迷人的光芒，柔和的阴影，
+EN：3D, high-definition octane rendering, a cute little white rabbit sitting on a small wooden boat holding a huge moon cake, laughing, happy, wearing white Ming Dynasty clothing, the boat is surrounded by blooming lotus flowers, green lotus leaves, front view, high resolution, rich details, high quality, bright colors, charming edge light, late night, starry sky and full moon, centered composition, symmetry, charming light, soft shadows, --q 1 --s 100 --ar 3:4 --niji 6 --personalize rcwjofc 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

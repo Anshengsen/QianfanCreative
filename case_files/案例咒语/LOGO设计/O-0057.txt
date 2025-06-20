@@ -1,0 +1,3 @@
+CN：矢量标志设计，白色背景，有着椭圆形瞳孔的猫标志，极简主义，黑色，可爱，
+EN：Vector logo design, white background, cat logo with oval pupils, minimalist, black, cute, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：微距摄影，三叶草，酢浆草，植物，绿色，叶子，特写，密集，自然，清新，露珠，景深，柔和光线，高饱和度，细节丰富，8K，超高清
+EN：macro photography, clover, sorrel, plant, green, leaves, close-up, dense, nature, fresh, dew drops, depth of field, soft light, high saturation, rich details, 8K, UHD --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

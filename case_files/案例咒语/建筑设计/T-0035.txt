@@ -1,0 +1,3 @@
+CN：未来城市的交通枢纽，2040年，外观看起来像巨大的蜘蛛网，由无数条钢索和玻璃面板组成，充满科技感，科幻风格，夜晚，灯光渲染，俯瞰视角，超写实，8K，最佳品质，超细节。
+EN：The transportation hub of the future city, in 2040, looks like a huge spider web, composed of countless steel cables and glass panels, full of technology, science fiction style, night, lighting rendering, bird's-eye view, hyper-realism, 8K, best quality, ultra-details. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

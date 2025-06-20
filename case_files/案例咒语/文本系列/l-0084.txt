@@ -1,0 +1,3 @@
+CN：3D渲染，数字“6”，装饰艺术风格，金色和深色金属质感，精细雕刻细节，黑色背景，高对比度，华丽，复古，奢华，高分辨率。
+EN：3D rendering, number "6", art deco style, gold and dark metal texture, fine engraving details, black background, high contrast, ornate, vintage, luxury, high resolution. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

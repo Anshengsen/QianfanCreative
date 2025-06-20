@@ -1,0 +1,3 @@
+CN：3D摩托车，摩托车，3D模型，3D，C4D，机甲感，闪亮有光泽，彩色，光滑，侧面，超清，UHD，黑色高反射背景，电影级照明，工作室质量，丁达尔效应，
+EN：3D Motorcycle, Motorcycle, 3D Model, 3D, C4D, Mecha Sense, Shiny Glossy, Colored, Smooth, Side, Ultra Clear, UHD, Black High Reflective Background, Cinematic Lighting, Studio Quality, --q 5 --s 250 --ar 3:4 --v 5.2 
+

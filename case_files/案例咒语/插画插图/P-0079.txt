@@ -1,0 +1,4 @@
+
+CN：可爱的中国龙平面插图，平面阴影，极高分辨率，卡通贴纸风格，儿童图画书设计，大胆的色彩，鲜艳的颜色渐变，白色背景，正视图，超高质量，超细节，
+EN：Cute Chinese dragon graphic illustration, flat shadow, extremely high resolution, cartoon sticker style, children's picture book design, bold colors, bright colors gradual change, white background, front view, super high quality, super detail, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

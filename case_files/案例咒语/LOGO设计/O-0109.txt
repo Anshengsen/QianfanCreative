@@ -1,0 +1,3 @@
+CN：3D，LOGO，金属质感，金色和银色相间，适用于高端奢侈品牌，字母“S”变形设计，光滑表面反射周围环境，黑色背景，逼真渲染，精致，奢华，
+EN：3D, LOGO, metal texture, gold and silver, suitable for high-end luxury brands, letter "S" deformed design, smooth surface reflects the surrounding environment, black background, realistic rendering, exquisite, luxury, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：现代写真摄影，一个中国美女，20岁，身穿新中式旗袍，摆拍，一手持双面刺绣八角团扇，一手托下巴，居中构图，质感细腻，脸部五官清晰，细腻真实光滑的皮肤，自然的妆容，自然嘴唇色，背景是民国风情建筑，丁达尔效应，
+EN：Modern photo shoot, a Chinese beauty, 20 years old, wearing a new Chinese cheongsam, posing, holding a double-sided embroidered octagonal round fan in one hand, supporting her chin with the other hand, center composition, delicate texture, clear facial features, delicate and real smooth skin, natural makeup, natural lip color, the background is the Republic of China style architecture, Tyndall effect, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

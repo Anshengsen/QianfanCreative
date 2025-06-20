@@ -1,0 +1,2 @@
+CN：蓝色的跑车，白色背景，侧后方拍摄，8K摄影，逼真，超未来，佳能相机拍摄，居中，最佳品质，
+EN：Blue sports car, white background, side and rear shot, 8K photography, realistic, ultra-futuristic, Canon camera shot, centered, best quality, --q 5 --s 180 --ar 3:2 --v 6.0

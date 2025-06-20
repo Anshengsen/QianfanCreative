@@ -1,0 +1,3 @@
+CN：极简主义室内设计，宽大的木质窗户，米色窗帘，浅色木地板，白色墙壁，米色沙发，盆栽绿植，自然光，简约风格，干净，温馨，舒适，柔和的色彩，细节丰富，高分辨率，8k。
+EN：Minimalist interior design, large wooden windows, beige curtains, light wooden floor, white walls, beige sofa, potted green plants, natural light, simple style, clean, warm, comfortable, soft colors, rich details, high resolution, 8k. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：未来主义风格的机甲，悬浮城市，高科技建筑，夜晚，霓虹灯，冷暖色调对比，超写实渲染，金属反光，边缘光，8K，光线追踪，景深效果，
+EN：Futuristic mecha, suspended city, high-tech buildings, night, neon lights, contrast between warm and cold tones, hyper-realistic rendering, metal reflections, edge light, 8K, ray tracing, depth of field effect, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

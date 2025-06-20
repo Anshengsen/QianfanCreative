@@ -1,0 +1,3 @@
+CN：沙漠景观，剪影，沙丘，日落，渐变天空，蓝色，紫色，橙色，阳光，地平线，极简主义，自然，宁静，温暖色调，冷色调，对比，光线，阴影，广角，风景摄影，高分辨率
+EN：desert landscape, silhouette, sand dunes, sunset, gradient sky, blue, purple, orange, sunlight, horizon, minimalism, nature, tranquility, warm tones, cold tones, contrast, light, shadows, wide angle, landscape photography, high resolution --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

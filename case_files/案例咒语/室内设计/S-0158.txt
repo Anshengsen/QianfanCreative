@@ -1,0 +1,3 @@
+CN：室内装饰场景，极简主义风格，浅色墙面，米色沙发，绿色靠垫，白色毛绒靠垫，大型绿植，棕色地毯，木质画架，抽象植物画，白色花盆，自然光，柔和阴影，温馨舒适，3D渲染，OC渲染，最佳品质，8K。
+EN：Interior decoration scene, minimalist style, light-colored walls, beige sofa, green cushions, white plush cushions, large green plants, brown carpet, wooden easel, abstract plant painting, white flower pots, natural light, soft shadows, warm and comfortable, 3D rendering, OC rendering, best quality, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。特写。一个女性，站立姿势，身穿浅色竖条纹西装外套，宽松版型，内搭白色上衣，下身搭配浅色长裤，手持黑色手提包，室内场景，浅色背景，柔和光线，简约风格。
+EN：Professional photography, 8K, clothing advertising shooting, no face. Close-up. A woman, standing pose, wearing a light vertical striped suit jacket, loose fit, a white top, light-colored trousers, holding a black handbag, indoor scene, light background, soft light, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

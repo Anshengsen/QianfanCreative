@@ -1,0 +1,3 @@
+CN：网格透视背景，未来主义风格，黑色反光地面和绿色网格线，简约网格，地面朋克，霓虹光，黑底，最佳品质，
+EN：Grid perspective background, futuristic style, black reflective ground and green grid lines, minimalistic grid, ground punk, neon light, black bottom, best quality, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

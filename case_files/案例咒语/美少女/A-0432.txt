@@ -1,0 +1,3 @@
+CN：一个中国少女，16岁，高马尾，有明暗对比的灰黑色的头发，穿着淡红色的连帽衫，大眼睛，柳叶眉，脸红，瓜子脸，扁线画，动漫写实，马克笔艺术，乔治·莫兰迪，简单的背景，正面，上半身，
+EN：A Chinese girl, 16 years old, with a high ponytail, gray-black hair with chiaroscuro, wearing a light red hoodie, big eyes, willow eyebrows, blush, oval face, flat line drawing, animation realism, marker art, George. Morandi, simple background, front, upper body, --q 5 --s 180 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

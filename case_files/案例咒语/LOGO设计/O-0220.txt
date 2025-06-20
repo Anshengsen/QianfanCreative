@@ -1,0 +1,3 @@
+CN：矢量风格的标志设计，简约抽象，立方体，由三条相互平行的白色线条组成，线条具有立体感，黑色背景，居中构图，简洁现代，最佳品质，高分辨率
+EN：Vector style logo design, simple and abstract, cube, composed of three white lines parallel to each other, the lines have a three-dimensional sense, black background, centered composition, simple and modern, best quality, high resolution --s 100 --ar 1:1 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

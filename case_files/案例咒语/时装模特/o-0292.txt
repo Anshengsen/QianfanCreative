@@ -1,0 +1,3 @@
+CN：专业摄影，正面，年轻女性，亚洲人，黑色齐刘海中长发，发尾微卷，自然垂落，戴蓝色棒球帽，面带微笑，眼神柔和，表情自然，上身穿浅米白色宽松长袖Polo衫，下身穿浅色宽松长裤，整体风格休闲舒适，背景为雪地，
+EN：Professional photography, front view, young woman, Asian, black bangs, medium-length hair, slightly curled at the ends, naturally falling, wearing a blue baseball cap, smiling, with soft eyes and a natural expression, wearing a light off-white loose long-sleeved Polo shirt on the upper body and light-colored loose trousers on the lower body, the overall style is casual and comfortable, the background is snow, --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

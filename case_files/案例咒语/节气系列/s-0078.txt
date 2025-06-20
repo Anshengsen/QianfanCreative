@@ -1,0 +1,3 @@
+CN：从中国古代房间内部窗户向外看，外面是森林，地上有积雪，大雪天气，寒风凛冽，明亮的调色板，迷人的光影，手绘风格，高清，最佳品质，8K，
+EN：Looking out of the window of an ancient Chinese room, with a forest outside and snow on the ground, heavy snowy weather, cold wind, bright color palette, fascinating light and shadow, hand-painted style, HD, best quality, 8K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

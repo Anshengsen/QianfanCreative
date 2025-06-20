@@ -1,0 +1,3 @@
+CN：以《赌博学校》动画的主题和美学为灵感，创作动画风格的角色面部特写肖像，有光泽的头发，丹凤眼，黄皮肤，戴着精美的耳坠，厚涂，锐利的线条，棱角分明的面部，特写，超清，
+EN：Inspired by the theme and aesthetics of the "Gambling School" animation, create close-up portraits of animated characters with glossy hair, red phoenix eyes, yellow skin, wearing exquisite earrings, thick coating, sharp lines, angular faces, close-ups, ultra-clear, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

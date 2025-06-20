@@ -1,0 +1,3 @@
+CN：机甲武士，日式风格，金属质感，黑色和红色，月光照射，背景是古色古香的街道，武士刀，高清，细节刻画，
+EN：Mech warrior, Japanese style, metal texture, black and red, moonlight, antique street in the background, katana, HD, detailed, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

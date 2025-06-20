@@ -1,0 +1,3 @@
+CN：手绘风格，手绘，鸟瞰视图，航拍视角，在两个高山中间的小河里，一个农民伯伯正在弯腰插水稻，天空中飘着雨（画面中有白色的流线型雨滴），超品质，超细节，高饱和，8k，淡绿色和淡琥珀色，
+EN：Hand-painted style, hand-painted, bird's-eye view, aerial perspective, in a small river between two high mountains, a farmer is bending over to plant rice, rain is falling in the sky (there are white streamlined raindrops in the picture), ultra-quality, ultra-detailed, high saturation, 8k, light green and light amber, --q 5 --s 500 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

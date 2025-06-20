@@ -1,0 +1,4 @@
+﻿CN：桌面，3D，第三人称摄影师视角拍摄，迪士尼风格，午后，暖色调，在温馨的房间里，特写，卡通，动画截图，照片抨击，32kuhd，最佳品质，
+EN：Desktop, 3D, third-person photographer's perspective shot, Disney style, afternoon, warm colors, in a cozy room, close-up, cartoon, animated screenshots, photo bashing, 32kuhd, best quality, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

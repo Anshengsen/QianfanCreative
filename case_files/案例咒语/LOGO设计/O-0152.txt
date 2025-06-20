@@ -1,0 +1,3 @@
+CN：LOGO，卡通三角龙，卡通风格，矢量风格，可爱，简约，平面设计，薄荷绿，黑色粗轮廓线，白色高光，侧视图，站立姿势，圆润的形状，小圆点，角，颈盾，白色背景，最佳品质
+EN：LOGO, cartoon triceratops, cartoon style, vector style, cute, simple, flat design, mint green, black thick outline, white highlights, side view, standing pose, rounded shape, small dots, horns, neck shield, white background, best quality --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

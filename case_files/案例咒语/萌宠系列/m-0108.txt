@@ -1,0 +1,3 @@
+CN：高清写实风格的数字绘画，一只穿着厨师帽和围裙的小猫厨师正在厨房里准备意大利千层面。小猫的表情可爱，眼神明亮，手里拿着一个大大的红辣椒，画面光线柔和温暖，色调偏暖色系，细节丰富，质感细腻，整体氛围温馨舒适。构图简洁明了，小猫占据画面中心位置，千层面作为视觉焦点，营造出一种轻松愉悦的氛围。
+EN：A high-definition realistic digital painting of a kitten chef wearing a chef hat and apron preparing lasagna in the kitchen. The kitten has a cute expression and bright eyes, holding a big red pepper in his hand. The picture is soft and warm in light, with warm tones, rich details, delicate texture, and a warm and comfortable overall atmosphere. The composition is simple and clear, with the kitten occupying the center of the picture and the lasagna as the visual focus, creating a relaxed and pleasant atmosphere. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

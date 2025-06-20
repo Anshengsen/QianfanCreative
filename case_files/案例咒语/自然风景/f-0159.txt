@@ -1,0 +1,3 @@
+CN：海边日落，岩洞视角，剪影，暖色调，橙色天空，金色光线，海浪，岩石，沙滩，自然光，高对比度，广角，对称构图，电影感，4K，高细节
+EN：Seaside sunset, cave perspective, silhouette, warm tones, orange sky, golden light, waves, rocks, beach, natural light, high contrast, wide angle, symmetrical composition, cinematic feel, 4K, high detail --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

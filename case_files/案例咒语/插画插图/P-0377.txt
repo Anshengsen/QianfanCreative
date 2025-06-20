@@ -1,0 +1,3 @@
+CN：中国传统水墨插画，小雪节气，山村雪景，一位穿着厚重棉袄的少年在雪地里骑马，马蹄踏过雪层，雪花飘落，远处的古老村舍屋顶覆盖着厚雪，山间云雾缭绕，水墨画的柔和背景，细腻的笔触，冬季的冷冽与宁静，航拍视角，极高品质，
+EN：Traditional Chinese ink illustration, Xiaoxue solar term, snowy mountain village, a boy in a thick cotton jacket riding a horse in the snow, the horse's hooves stepping on the snow, snowflakes falling, the roofs of the ancient cottages in the distance are covered with thick snow, the mountains are shrouded in mist, the soft background of the ink painting, the delicate brushstrokes, the cold and tranquility of winter, the aerial perspective, extremely high quality, --q 1 --s 100 --ar 3:4 --v 6.0 --personalize vgwm6sp 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

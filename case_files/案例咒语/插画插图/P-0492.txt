@@ -1,0 +1,3 @@
+CN：儿童插画风格，夜晚场景，城堡，公主，黑马，猫头鹰，红色月亮，鲜艳色彩，卡通风格，童话故事，矢量图形，扁平化设计，最佳品质，插画设计，儿童书籍插画，梦幻场景，奇幻风格，细节丰富，手绘感，温馨氛围，
+EN：Children's illustration style, night scene, castle, princess, black horse, owl, red moon, bright colors, cartoon style, fairy tale, vector graphics, flat design, best quality, illustration design, children's book illustration, dream scene, fantasy style, rich details, hand-painted feeling, warm atmosphere, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

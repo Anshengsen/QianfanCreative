@@ -1,0 +1,3 @@
+CN：一个高清动漫角色，外表像是《七龙珠》中的爷爷，七龙珠_动漫风格，白色胡子，飘逸的灰发，奔跑姿势，戴着迷你小款墨镜，黄白蓝橙相间的服装，黑白色裤子，蓝色布鞋，2D动漫，32k，全身，高分辨率，高细节，最佳质量，超高清，白色背景，
+EN：A high-definition anime character, looks like the grandfather in Dragon Ball, Dragon Ball_anime style, white beard, flowing gray hair, running posture, wearing mini sunglasses, yellow, white, blue and orange clothes, black and white pants, blue cloth shoes, 2D anime, 32k, full body, high resolution, high details, best quality, ultra high definition, white background, --q 1 --s 200 --ar 3:4 --niji 6 --personalize kj2n27s 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

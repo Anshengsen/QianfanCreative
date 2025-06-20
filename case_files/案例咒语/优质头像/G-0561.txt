@@ -1,0 +1,3 @@
+CN：卡通风格头像，一个男孩，黑色短发，刘海微卷，脸颊泛红，穿着黑色高领毛衣和米色外套，眼神温柔，背景是白色，整体风格简约，色彩柔和，线条简洁，具有少年感，最佳品质，8K，矢量图形，干净利落，适合作为社交媒体头像
+EN：Cartoon style avatar, a boy, short black hair, slightly curly bangs, rosy cheeks, wearing a black turtleneck sweater and a beige coat, with gentle eyes, white background, simple overall style, soft colors, simple lines, with a sense of youth, best quality, 8K, vector graphics, clean and neat, suitable as a social media avatar --q 1 --s 100 --ar 1:1 --niji 6 --profile hrqrh1e 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

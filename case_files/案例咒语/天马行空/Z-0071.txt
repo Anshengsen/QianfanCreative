@@ -1,0 +1,3 @@
+CN：梦幻的风格，特写，白色薄纱上印着金色文字，光线透过薄纱照亮了蝴蝶，营造出一种梦幻的氛围，构图简洁，以蝴蝶为中心，周围的文字作为背景，整体画面清新淡雅，充满诗意。
+EN：Dreamy style, close-up, golden text printed on white tulle, light shining through the tulle to illuminate the butterfly, creating a dreamy atmosphere, the composition is simple, with the butterfly as the center and the surrounding text as the background, the overall picture is fresh, elegant and full of poetry. --q 1 --s 100 --ar 3:2 --v 6.0 --personalize e1tb3jm 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

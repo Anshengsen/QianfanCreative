@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，一个穿着朋克风格服装的粉色头发女孩正在唱歌，她一只手拿着麦克风，另一只手举起，动态姿势，柔和的灯光，全身像，高质量，8K，人物居中，风格类似于3D动画或游戏角色建模，淡蓝色背景，
+EN：3D rendering, cartoon style, a pink-haired girl in punk-style clothing is singing, she holds a microphone in one hand and raises the other hand, dynamic pose, soft lighting, full body portrait, high quality, 8K, character is centered, styled similar to 3D animation or game character modeling, light blue background, --q 5 --s 150 --ar 3:5 --niji 6 --personalize abwlbtq --stop 98 --c 2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

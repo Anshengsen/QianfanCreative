@@ -1,0 +1,2 @@
+CN：摩托车特写，居中构图，强光源直射车头灯，黑色背景，光线追踪，高光和反光效果逼真，车灯内部结构清晰可见，4K分辨率，高品质。
+EN：Close-up of motorcycle, centered composition, strong light source directly hitting the headlight, black background, ray tracing, realistic highlights and reflections, the internal structure of the headlight is clearly visible, 4K resolution, high quality. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

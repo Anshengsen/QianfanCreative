@@ -1,0 +1,3 @@
+CN：黎明前的乡村景色，冰冻的土路，延伸至远方，枯树剪影，左侧大树倾斜，右侧小树丛，微弱的月光，地平线处泛红，天空呈深蓝色渐变，寒冷氛围，广角镜头，低饱和度，高对比度，自然光，细节丰富，8K，超高清，摄影作品，真实感渲染
+EN：Pre-dawn rural scenery, frozen dirt road stretching into the distance, dead tree silhouettes, large tree leaning on the left, small bush on the right, faint moonlight, reddish tint at the horizon, sky fading to dark blue, cold atmosphere, wide angle lens, low saturation, high contrast, natural light, rich details, 8K, ultra high definition, photography, photorealistic rendering --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

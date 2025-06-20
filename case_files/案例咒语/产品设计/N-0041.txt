@@ -1,0 +1,4 @@
+﻿CN：可爱的机器人，等距，柔和的灯光，柔和的颜色，3d图标，黏土材质，Blender，干净的简单背景，
+EN：Cute robot, isometric, soft lighting, soft colors, 3d icons, clay material, Blender, clean simple background, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

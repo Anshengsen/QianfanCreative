@@ -1,0 +1,4 @@
+﻿CN：说明性风格的中国热门目的地，色彩缤纷，美丽而平静的自然，
+EN：Illustrative style of popular Chinese destinations, colorful, beautiful and calm nature, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

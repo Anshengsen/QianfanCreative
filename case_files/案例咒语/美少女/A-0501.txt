@@ -1,0 +1,3 @@
+CN：韩漫风格，韩漫，18岁的动漫女孩，身穿军绿色外套配白色T恤，下身穿着牛仔裤，倒着戴鸭舌帽，大眼睛，灵动，可爱，干净流畅的线条，白色背景，
+EN：Korean comic style, Korean comic, 18-year-old cartoon girl, wearing a military green jacket with a white T-shirt, jeans, and a backwards cap, big eyes, smart, cute, clean and smooth lines, white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：真实摄影，专业摄影风格，一个美丽的女人羞涩地透过很薄很薄的黑色纱布看着镜头，齐肩长发，对称构图，极简主义风格融合了波普艺术和光学艺术，白皙的皮肤，鲜艳的红唇，纯黑背景，特写，照片，正面，
+EN：Real photography, professional photography style, a beautiful woman shyly looks at the camera through very thin black gauze, shoulder-length hair, symmetrical composition, minimalist style combines pop art and optical art, fair skin, bright red lips, pure black background, close-up, photo, front view, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

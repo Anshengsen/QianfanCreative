@@ -1,0 +1,3 @@
+CN：抽象的平面背景，风格是交织的网络、橙色和蓝色、电路板、英特尔核心，平面风格，抽象，暗角，层次分明，柔和的阴影，
+EN：Abstract graphic background in the style of an intertwined network, orange and blue, circuit boards, Intel cores, flat style, abstraction, vignetting, layering, soft shadows, --q 1 --s 100 --ar 16:9 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

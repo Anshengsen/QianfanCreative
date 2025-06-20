@@ -1,0 +1,4 @@
+﻿CN：现代3d房屋等距图像，柔和简单的背景，精心设计的风格，简约，居中构图，超清，
+EN：Modern 3D house isometric images, soft and simple background, well-designed style, minimalist, centered composition, ultra-clear, --q 1 --s 100 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

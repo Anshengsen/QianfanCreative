@@ -1,0 +1,3 @@
+CN：空白T恤展示，3D渲染，纯白色T恤，木质背景，自然光线，突出衣物纹理，简洁造型，空白效果图，单品展示，高清，4K，无褶皱，
+EN：Blank T-shirt display, 3D rendering, pure white T-shirt, wooden background, natural light, highlighting clothing texture, simple shape, blank rendering, single product display, HD, 4K, no wrinkles, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

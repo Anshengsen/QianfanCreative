@@ -1,0 +1,3 @@
+CN：3D卡通风格，一个多任务处理的职场人士，坐在黄色办公桌前，电脑屏幕置于桌子中央，人物被云雾状的白色背景环绕，拥有多只手臂，分别处理不同的文件和书籍，文件和书籍堆叠在桌子两侧，整体色调为蓝色、黄色和黑色，C4D渲染，OC渲染，卡通渲染，超高清，最佳画质。
+EN：3D cartoon style, a multitasking professional sitting in front of a yellow desk, with the computer screen placed in the center of the desk, the character is surrounded by a cloudy white background, has multiple arms, each handling different files and books, files and books are stacked on both sides of the desk, the overall tone is blue, yellow and black, C4D rendering, OC rendering, cartoon rendering, ultra high definition, best picture quality. --q 0.5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

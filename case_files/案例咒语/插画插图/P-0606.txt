@@ -1,0 +1,3 @@
+CN：极简线条插画风格，单色配色，蓝色线条，白色填充，人物插画，建筑工人，安全帽，手持手机，细节包括人物的表情，衣服的条纹，手机的界面，整体画面简洁明了，风格现代，最佳品质，8K，矢量图形，干净利落，商务插画风格
+EN：Minimalist line illustration style, monochrome color scheme, blue lines, white fill, character illustration, construction worker, hard hat, holding a mobile phone, details include the character's expression, the stripes on his clothes, the interface of the mobile phone, the overall picture is simple and clear, the style is modern, the best quality, 8K, vector graphics, clean and neat, business illustration style --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D，电商产品展台，最小的展台设计，红色的圆台，后面是圆形的淡白色背景，正面，光影，丁达尔效应，3D渲染，OC渲染，最佳品质，极致降噪，
+EN：3D, e-commerce product booth, smallest booth design, red round table, followed by a round pale white background, front, light and shadow, Tyndall effect, 3D rendering, OC rendering, best quality, extreme noise reduction, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

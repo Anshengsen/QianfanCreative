@@ -1,0 +1,3 @@
+CN：一个无面人穿着街头服饰风格的连帽衫，3D渲染图，层次分明，超大，前卫，现代时尚主义，白色背景，全景，广角，
+EN：A faceless man wearing a streetwear style hoodie, 3D rendering, layered, oversized, avant-garde, modern fashionism, white background, panorama, wide angle, --q 1 --s 100 --ar 9:16 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

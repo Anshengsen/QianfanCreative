@@ -1,0 +1,3 @@
+CN：产品摄影，酒类产品广告，透明玻璃瓶，瓶身贴有水墨山水画标签，旁边是同款包装盒和手提袋，背景是水墨山水画，整体色调淡雅，突出产品的文化内涵，细节丰富，焦点清晰，电影级质感，8K，超高分辨率，中国风，
+EN：Product photography, alcohol product advertising, transparent glass bottle, ink landscape painting label on the bottle, next to the same packaging box and handbag, ink landscape painting in the background, the overall tone is elegant, highlighting the cultural connotation of the product, rich details, clear focus, movie-level texture, 8K, ultra-high resolution, Chinese style, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个穿着校服的2D美少女角色，采用写实风格，优雅，孟加拉艺术学院，浅海军和浅深红色，逼真，全身，白色背景，正面，
+EN：A 2D beautiful girl character wearing a school uniform, in a realistic style, elegant, Bengal Academy of Arts, light navy and light crimson, realistic, full body, white background, front, --q 1 --s 180 --ar 9:16 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：三维场景渲染，最小的完整生产线，特写，传送带上的包装盒，正在拖车打包封箱的工人，机械，发光，玻璃管，卡通风格，黑色背景，等距透视，最佳品质，高角度，
+EN：3D scene rendering, smallest complete production line, close-up, packing boxes on conveyor belts, workers packing and sealing boxes on trailers, machinery, luminescence, glass tubes, cartoon style, black background, isometric perspective, best quality, high angle, --q 5 --s 150 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

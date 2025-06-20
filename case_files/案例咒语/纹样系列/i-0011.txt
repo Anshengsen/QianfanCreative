@@ -1,0 +1,3 @@
+CN：儿童手绘风格，黑白线条，各种蜗牛，毕加索风格，抽象，单色，
+EN：Children's hand-drawn style, black and white lines, various snails, Picasso style, abstract, monochrome, --q 1 --s 100 --ar 1:1 --v 6.0 --tile  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

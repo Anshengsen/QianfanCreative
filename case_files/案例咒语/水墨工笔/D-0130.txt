@@ -1,0 +1,3 @@
+CN：手绘插画，背景是在中国古代的花园里，一个美少女穿着薄纱和羽绒外套，站在雪地里喝咖啡，四周是修剪精致的梅花树，细腻的水彩渲染，极高品质，8k，
+EN：Hand-painted illustration, the background is in an ancient Chinese garden, a beautiful girl wearing tulle and down jacket, standing in the snow drinking coffee, surrounded by finely trimmed plum trees, delicate watercolor rendering, extremely high quality, 8k, --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

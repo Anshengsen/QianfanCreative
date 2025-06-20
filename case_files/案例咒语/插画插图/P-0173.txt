@@ -1,0 +1,3 @@
+CN：一只看起来很酷的忍者猫拿着一把击剑，穿着忍者服装，采用高细节动画的风格，漫画插图风格，丰富而流畅的线条和填充色，蓝紫色风格，全身，纯白背景，居中，
+EN：A cool-looking ninja cat holding a fencing sword, wearing a ninja costume, in the style of high-detail animation, manga illustration style, rich and smooth lines and fill colors, blue-purple style, full body, pure white background, centered, --q 5 --s 180 --ar 9:16 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

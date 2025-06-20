@@ -1,0 +1,4 @@
+
+CN：令人惊叹的3D文本，上面写着“2024  Happy New Year！”
+EN：Stunning 3D text that says "2024 Happy New Year!" --q 1 --s 180 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

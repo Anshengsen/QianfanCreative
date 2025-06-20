@@ -1,0 +1,3 @@
+CN：一部全新的智能手机，屏幕朝上，空白无内容，金属边框反射着工作室柔和的灯光，平放在干净的白色桌面上，旁边一根Type-C数据线随意摆放，手机壳半透明磨砂材质，空白效果图，3D渲染，Keyshot，科技感，等待UI设计，突出手机质感。
+EN：A brand new smartphone, the screen facing up, blank with no content, the metal frame reflecting the soft light of the studio, lying flat on a clean white desktop, with a Type-C data cable placed casually next to it, the phone case is made of translucent frosted material, blank rendering, 3D rendering, Keyshot, sense of technology, waiting for UI design, highlighting the texture of the phone. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：雪山，溪流，积雪，白天，摄影，高清，细节，逼真，写实，
+EN：Snow mountain, stream, snow, daytime, photography, HD, detail, realistic, realism, --q 1 --s 100 --ar 3:4 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

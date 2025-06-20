@@ -1,0 +1,3 @@
+CN：3D渲染，数字“6”，浅蓝色，光滑材质，白色背景，特写，产品展示，高质量，8K，
+EN：3D rendering, number "6", light blue, smooth material, white background, close-up, product display, high quality, 8K, --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

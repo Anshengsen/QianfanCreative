@@ -1,0 +1,4 @@
+﻿CN：漫山遍野的向日葵，日落时分，晚霞，唯美和浪漫，
+EM：Sunflowers all over the mountains, sunset, sunset, beautiful and romantic, --q 1 --s 100 --ar 16:9 --v 5.2 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

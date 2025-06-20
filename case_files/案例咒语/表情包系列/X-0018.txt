@@ -1,0 +1,3 @@
+CN：一只粉红色的猫的各种表情，多种姿势和表情，如：快乐，愤怒，哭泣等，角色一致性，3x3排列法，最佳品质，手绘风格，
+EN：Various expressions of a pink cat, various poses and expressions, such as: happy, angry, crying, etc., character consistency, 3x3 arrangement, best quality, hand-drawn style, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

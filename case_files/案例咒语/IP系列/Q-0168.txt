@@ -1,0 +1,5 @@
+CN：透明背景，正在跳舞的3D女孩渲染角色，卡通风格，迪士尼风格，盲盒风格，3D风格，粘土材料，
+EN：Transparent background, dancing 3D girl rendering characters, cartoon style, Disney style, blind box style, 3D style, clay material, --q 1 --s 100 --ar 3:4 --v 6.0 --no Extra fingers, extra legs, extra hands, bad hands, bad fingers, bad legs, wrong body proportions, wrong body structure
+负向词：多余的手指，多余的腿，多余的手，坏的手，坏的手指，坏的腿，错误的身体比例，错误的身体构造，/
+--no Extra fingers, extra legs, extra hands, bad hands, bad fingers, bad legs, wrong body proportions, wrong body structure 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

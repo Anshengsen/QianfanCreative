@@ -1,0 +1,3 @@
+CN：活动清洁服务的3D场景，等距，居中，使用哑光深蓝色主题，浅蓝色高光，白色背景，3D，卡通，
+EN：3D scene of event cleaning service, isometric, centered, using matte dark blue theme, light blue highlight, white background, 3D, cartoon, --q 5 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

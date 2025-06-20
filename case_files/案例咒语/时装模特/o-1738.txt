@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，礼服，长袖，圆形领口，高腰线设计，大裙摆，褶皱细节，深空灰，纯色，影棚光，均匀照明，焦点集中于服装整体，突出服装的廓形和褶皱细节。
+EN：Professional fashion photography, 8K, front view, white background, dress, long sleeves, round neckline, empire waist, full skirt, pleated details, space grey, solid color, studio light, even lighting, focus on the garment as a whole, highlighting the silhouette and pleated details of the garment. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

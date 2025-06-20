@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部，一个女性，站立姿势，身穿白色无袖背心，圆领，贴身剪裁，搭配一件卡其色针织开衫，宽松版型，袖子自然垂落，下身穿着浅蓝色宽松长裤，整体风格休闲舒适，背景为浅色墙面，室内光线，简洁背景，最佳品质，超细节。
+EN：Professional photography, 8K, clothing advertising shooting, no face, a woman, standing pose, wearing a white sleeveless vest with a round neck and a close-fitting cut, paired with a khaki knitted cardigan with a loose fit and naturally drooping sleeves, and light blue loose trousers on the bottom. The overall style is casual and comfortable, with a light-colored wall in the background, indoor lighting, simple background, best quality, and super details. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

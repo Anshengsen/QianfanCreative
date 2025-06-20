@@ -1,0 +1,4 @@
+CN：中国的中秋节海报设计，主题是一个可爱的3D卡通女孩戴着兔耳装饰，抱着一个巨大的月饼，坐在荷叶上，背景是唐朝长安城，夜晚，到处都挂满了灯笼，高分辨率，详细的面部特征，3D风格，最佳品质，超清，
+EN：Chinese Mid-Autumn Festival poster design, the theme is a cute 3D cartoon girl wearing rabbit ears decoration, holding a huge moon cake, sitting on a lotus leaf, the background is the Tang Dynasty Chang'an City, at night, there are lanterns everywhere, high resolution, detailed facial features, 3D style, best quality, ultra clear, --q 1 --s 180 --ar 3:4 --niji 6 --personalize oh8yylw
+（PS：建议做的时候在英文后面加上“--no text”排除下文本） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

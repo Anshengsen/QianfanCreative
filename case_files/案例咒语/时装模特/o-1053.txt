@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲男性，站立姿势，双腿并拢，深棕色短发，发型清爽，面部表情平静，眼神直视前方，穿着一件深蓝色竖条纹衬衫，长袖，袖口卷起，搭配白色长裤，整体风格休闲，背景为纯白色，光线均匀，整体氛围简洁，时尚。
+EN：Professional photography, 8K, an Asian male, standing pose, legs together, short dark brown hair, clean hairstyle, calm facial expression, eyes looking straight ahead, wearing a dark blue vertical striped shirt, long sleeves, cuffs rolled up, paired with white trousers, the overall style is casual, the background is pure white, the light is even, the overall atmosphere is simple and stylish. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

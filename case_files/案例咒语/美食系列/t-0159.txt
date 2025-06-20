@@ -1,0 +1,3 @@
+CN：美食摄影，照片，铁锅，火焰，特写，方块牛排，酱汁，烟雾缭绕，绿叶点缀，暖色调，浓郁色彩，油亮质感，细节丰富，高光，阴影，动态模糊
+EN：Food photography, photo, wok, flame, close-up, cube steak, sauce, smoke, green leaves, warm tones, rich colors, glossy texture, rich details, highlights, shadows, motion blur --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

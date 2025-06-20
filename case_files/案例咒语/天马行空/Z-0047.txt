@@ -1,0 +1,4 @@
+CN：卡通风格的3D渲染，前景以蓝天绿草为特色，以山、树、花、云环绕的彩色木制圆形平台用于进行产品展示，可爱的风格中融入了色彩鲜艳、童真简约的自然元素，有趣充满活力的3D舞台场景，
+
+EN：Cartoon-style 3D rendering, the foreground is characterized by blue sky and green grass, and a colorful wooden circular platform surrounded by mountains, trees, flowers and clouds is used for product display. The cute style is integrated with colorful, childlike and simple natural elements. Interesting and vibrant 3D stage scene. --q 1 --s 0 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

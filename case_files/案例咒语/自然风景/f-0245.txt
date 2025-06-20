@@ -1,0 +1,4 @@
+CN：极光夜景，山水画卷，远山，河流，月亮，剪影，观景台，冷色调，蓝绿色，光晕，弥散光，层次感，宁静，唯美，高品质，8K
+EN：Aurora night scene, landscape painting, distant mountains, river, moon, silhouette, observation deck, cold colors, blue-green, halo, diffuse light, layering, tranquility, beauty, high quality, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

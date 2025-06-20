@@ -1,0 +1,3 @@
+CN：专业摄影，8K，下半身像特写，女性，灰色长袖上衣，搭配深蓝色格子高腰阔腿长裤，裤子有褶皱，脚穿黑色平底鞋，左手插在裤兜，右手拎着黑色小包，站立姿势，背景为纯色浅灰墙面和浅棕色地面，整体光线柔和。
+EN：Professional photography, 8K, close-up of lower body portrait, female, gray long-sleeved top, paired with dark blue plaid high-waisted wide-leg trousers with pleats, black flat shoes, left hand in trouser pocket, right hand holding a small black bag, standing posture, the background is a solid light gray wall and light brown ground, the overall light is soft. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

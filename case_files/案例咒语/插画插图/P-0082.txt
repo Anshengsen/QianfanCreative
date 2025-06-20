@@ -1,0 +1,4 @@
+MJ-YZ-0021
+CN：一个小男孩的简笔画风格头像，简笔画，特写，侧脸，短发，可爱，卡通，粗线条，蓝色，单色，平面插图风格，卡通风格，极简主义，白色背景，高质量，
+EN：A little boy's stick figure style avatar, stick figure, close-up, profile face, short hair, cute, cartoon, thick lines, blue, monochrome, graphic illustration style, cartoon style, minimalism, white background, high quality, --q 5 --s 250 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

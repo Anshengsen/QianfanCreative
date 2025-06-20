@@ -1,0 +1,3 @@
+CN：机甲设计图稿，工业设计风格，工作室环境，柔和的灯光，突出机甲的结构和细节，线稿渲染，高清，机甲外观：模块化设计，可拆卸部件，金属质感极强，以灰色和黑色为主，
+EN：Mecha design artwork, industrial design style, studio environment, soft lighting, highlighting the structure and details of the mecha, line drawing rendering, high definition, mecha appearance: modular design, detachable parts, strong metal texture, mainly gray and black, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

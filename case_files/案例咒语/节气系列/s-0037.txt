@@ -1,0 +1,3 @@
+CN：一个可爱的小女孩在西湖划船，3D皮克斯动画风格，chibi，色彩鲜艳，宽阔平静的湖面，波光粼粼的水面，柳树，盛开的荷花，风景秀丽的西湖，阳光明媚的天气，欢快的氛围，远处隐约可见雷峰塔，高品质，高细节，高清，
+EN：A cute little girl is rowing a boat on the West Lake, 3D Pixar animation style, chibi, bright colors, wide and calm lake, sparkling water, willow trees, blooming lotus, scenic West Lake, sunny weather, cheerful atmosphere, Leifeng Pagoda is faintly visible in the distance, high quality, high detail, HD, --q 1 --s 100 --ar 3:2 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

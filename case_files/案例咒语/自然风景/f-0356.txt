@@ -1,0 +1,4 @@
+CN：意大利威尼斯，大运河，日出/黎明/拂晓时分，天空呈现橙红色渐变，圣马可教堂圆顶，城市景观，建筑灯光，水面反光，长曝光，平滑水面，对称构图，暖色调，静谧氛围，高饱和度，电影级光照，广角镜头，超高分辨率，8K，细节丰富，最佳画质
+EN：Venice, Italy, Grand Canal, sunrise/dawn/early morning, orange-red sky, dome of St. Mark's Basilica, city view, building lights, water reflections, long exposure, smooth water, symmetrical composition, warm tones, tranquil atmosphere, high saturation, cinematic lighting, wide-angle lens, ultra-high resolution, 8K, rich details, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

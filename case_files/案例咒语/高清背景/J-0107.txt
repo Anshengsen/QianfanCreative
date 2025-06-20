@@ -1,0 +1,4 @@
+﻿CN：一组具有黑白3D效果的机械齿轮，突出显示互锁部件及其体积，超高品质，
+EN：A set of mechanical gears with black and white 3D effects, highlighting interlocking parts and their volume, ultra-high quality, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

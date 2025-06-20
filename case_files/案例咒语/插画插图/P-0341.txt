@@ -1,0 +1,3 @@
+CN：明亮的现代日本漫画，流畅锐利的线条，一个女孩，橙色的头发，充满活力的蓝眼睛，坐在一个纸箱里，白色背景，明亮柔和的配色，明亮的调色板，高亮度，chibi
+EN：Bright modern Japanese manga, smooth and sharp lines, a girl with orange hair and vibrant blue eyes sitting in a cardboard box, white background, bright pastel color scheme, bright palette, high brightness, chibi, --q 1 --s 100 --ar 9:20 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

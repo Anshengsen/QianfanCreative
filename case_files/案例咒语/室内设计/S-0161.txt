@@ -1,0 +1,3 @@
+CN：室内浴室，浴缸位于窗前，现代简约风格，米色墙面，黑色窗框，自然光线，绿色植物点缀，盆栽，木质元素，干净整洁，细节丰富，高分辨率，8k。
+EN：Bathroom interior, bathtub in front of the window, modern minimalist style, beige walls, black window frame, natural light, green plants, potted plants, wooden elements, clean and tidy, rich details, high resolution, 8k. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

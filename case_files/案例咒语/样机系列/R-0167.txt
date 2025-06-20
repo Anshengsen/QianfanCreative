@@ -1,0 +1,3 @@
+CN：空白效果图，漂浮，两个白色MacBook，模型，粘土渲染，极简主义，白色背景，产品展示，3D渲染，高分辨率，干净，工作室照明，柔和阴影，超现实主义，细节清晰
+EN：blank rendering, floating, two white MacBooks, mockup, clay rendering, minimalism, white background, product display, 3D rendering, high resolution, clean, studio lighting, soft shadows, surrealism, sharp details --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

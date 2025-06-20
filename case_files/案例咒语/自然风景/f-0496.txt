@@ -1,0 +1,3 @@
+CN：海景，日落，金色光线，深蓝色调，云层缝隙透光，戏剧性光照，海浪翻滚，水花飞溅，湿润沙滩反光，广角镜头，自然风光摄影，高饱和度，高对比度，电影感，8K，超高细节，最佳画质
+EN：Seascape, sunset, golden light, deep blue tones, light through gaps in the clouds, dramatic lighting, rolling waves, splashing water, wet beach reflections, wide-angle lens, natural scenery photography, high saturation, high contrast, cinematic feel, 8K, ultra-high details, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

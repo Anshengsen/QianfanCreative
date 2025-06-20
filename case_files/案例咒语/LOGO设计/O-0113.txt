@@ -1,0 +1,3 @@
+CN：矢量，LOGO，线条艺术，金色线条，适用于珠宝或时尚品牌，女性头像轮廓，居中构图，优雅的线条，黑色背景，高贵，优雅，神秘，
+EN：Vector, LOGO, line art, golden lines, suitable for jewelry or fashion brand, female head profile, centered composition, elegant lines, black background, noble, elegant, mysterious, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

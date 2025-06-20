@@ -1,0 +1,3 @@
+CN：在古老的桌面上展开的中国卷轴画，卷轴上是中国古代阁楼建筑和人物的微型模型，暖光，剪纸艺术，超现实主义，中国传统文化，微景观，极其华丽，3D，金粉，超清品质，超高画质，32kuhd，
+EN：A Chinese scroll painting unfolded on an ancient desktop, with miniature models of ancient Chinese attic buildings and figures on the scroll, warm light, paper-cut art, surrealism, traditional Chinese culture, micro-landscape, extremely gorgeous, 3D, gold powder, ultra-clear quality, ultra-high quality, 32kuhd, --q 1 --s 100 --ar 3:2 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：产品摄影，耳机广告，黑色无线耳机和充电盒，充电盒打开，耳机放置在灰色表面上，背景是湖泊和山脉，光线柔和，突出产品的颜色和质地，细节丰富，焦点清晰，电影质感，8K，超高分辨率，户外感觉，阴天。
+EN：Product photography, earphones advertising, black wireless earphones and charging case, charging case open, earphones placed on gray surface, lake and mountains in the background, soft light, highlighting the color and texture of the product, rich details, sharp focus, film texture, 8K, ultra-high resolution, outdoor feeling, cloudy day. --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

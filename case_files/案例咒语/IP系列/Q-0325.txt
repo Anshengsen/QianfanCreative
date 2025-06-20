@@ -1,0 +1,3 @@
+CN：四个长相一样的可爱的毛茸茸的小怪物，3D风格，有两只脚，大眼睛，大嘴巴，尖锐的牙齿，卡通风格，纯白背景，角色一致性但动作不同，打太极的四个连招，最佳品质，8K，
+EN：Four cute furry monsters that look the same, 3D style, two feet, big eyes, big mouth, sharp teeth, cartoon style, pure white background, consistent characters but different movements, four Tai Chi combos, best quality, 8K, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

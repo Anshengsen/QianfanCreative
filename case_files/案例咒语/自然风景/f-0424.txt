@@ -1,0 +1,4 @@
+CN：冰川内部视角，冰穴，蓝色冰墙，纹理清晰，光线穿透，冰雪融水，远处雪山，森林，晴朗天空，自然光，冷色调，广角镜头，对称构图，高对比度，超现实主义，自然奇观，8K，超高细节，最佳品质，真实感渲染
+EN：Inside view of glacier, ice cave, blue ice walls, clear texture, light penetrating, meltwater, snowy mountains in the distance, forest, clear sky, natural light, cold tones, wide angle lens, symmetrical composition, high contrast, surrealism, natural wonder, 8K, ultra-high detail, best quality, photorealistic rendering --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

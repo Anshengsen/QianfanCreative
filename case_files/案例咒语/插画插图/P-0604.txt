@@ -1,0 +1,3 @@
+CN：卡通矢量插画风格，几何图形堆叠，鲜艳配色，高饱和度，丛林动物场景，长颈鹿，猴子，狮子，老虎，大象，蛇，变色龙，秃鹫，细节包括动物的表情，树木的形状，背景的山脉，整体画面生动有趣，色彩丰富，最佳品质，8K，扁平化设计，干净利落，儿童插画风格
+EN：Cartoon vector illustration style, geometric shapes stacked, bright colors, high saturation, jungle animal scene, giraffe, monkey, lion, tiger, elephant, snake, chameleon, vulture, details include animal expressions, tree shapes, mountains in the background, the overall picture is vivid and interesting, rich in colors, best quality, 8K, flat design, clean and neat, children's illustration style --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

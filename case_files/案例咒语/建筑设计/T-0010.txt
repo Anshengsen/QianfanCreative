@@ -1,0 +1,5 @@
+
+CN：现代的办公室，现代，灰色木地板，灰色墙，居中构图，明亮，最高质量，32K，
+
+EN：Modern office, modern, grey wood floors, grey walls, centered composition, bright, highest quality, 32K, --q 2 --s 100 --ar 3:4 --v 5.2 --style raw --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

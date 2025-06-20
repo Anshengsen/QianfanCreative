@@ -1,0 +1,3 @@
+CN：超写实风格，动漫写实风格，游戏GC女性角色，厚涂，黑暗系，红色和黑色调，玫瑰花饰，钥匙道具，背部和侧面的构图，回头看，戏剧性的灯光，精致的细节，高品质，8K，
+EN：Hyperrealistic style, anime realistic style, game GC female character, thick painting, dark style, red and black tones, rose flower decoration, key props, back and side composition, looking back, dramatic lighting, exquisite details, high quality, 8K, --q 1 --s 100 --ar 16:9 --niji 6 --c 0 --stop 99 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

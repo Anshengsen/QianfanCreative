@@ -1,0 +1,3 @@
+CN：三维场景渲染，巨大的包装生产线，传送带上的包装盒，发光，玻璃管，卡通风格，黑色背景，等距透视，最佳品质，高角度，
+EN：3D scene rendering, huge packaging production line, box on conveyor belt, luminous, glass tube, cartoon style, black background, isometric perspective, best quality, high angle, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

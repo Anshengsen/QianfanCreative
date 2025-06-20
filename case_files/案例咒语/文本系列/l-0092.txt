@@ -1,0 +1,3 @@
+CN：3D渲染，字母“B”，橙色和黄色，白色底座，简约风格，浅蓝色背景，环境光，最佳品质，超细腻。
+EN：3D rendering, letter "B", orange and yellow, white base, minimalist style, light blue background, ambient light, best quality, ultra detailed. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

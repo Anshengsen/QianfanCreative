@@ -1,0 +1,4 @@
+﻿CN：穿着白色机甲的东方美女，亚洲面容，她有着异常美丽的容颜和五官，采用日本高达风格，全身图像，超分辨率，百万像素，抗锯齿，后期处理，色调映射，非常详细和复杂，超逼真写实，虚幻引擎，8K，最佳品质，
+EN：Oriental beautiful woman in white mech, Asian face, she has an unusually beautiful face and facial features, adopts Japanese Gundam style, full body image, super resolution, megapixels, anti-aliasing, post-processing, tone mapping, very detailed and complex, ultra-realistic, Unreal Engine, 8K, best quality, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：黄色背景上的可爱黄瓜，3d，以Cinema 4D渲染的风格，逼真的雕塑，俏皮的角色设计，全身，最佳构图，
+EN：Cute cucumber on yellow background, 3d, in Cinema 4D rendered style, realistic sculpture, playful character design, full body, best composition, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：远山，峡湾，云雾，水面，倒影，自然风光，广角镜头，冷色调，对称构图，电影级光照，高对比度，超清细节，8K。
+EN：Distant mountains, fjords, clouds, water surface, reflections, natural scenery, wide-angle lens, cold colors, symmetrical composition, cinematic lighting, high contrast, ultra-clear details, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

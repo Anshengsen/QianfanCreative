@@ -1,0 +1,3 @@
+CN：矢量九宫格表情集，卡通风格，贴纸风格，emoji，展示各种表情，如：快乐、愤怒、悲伤、惊讶、困惑、害怕、兴奋、无聊、鄙视等，白色背景，矢量，锐利的线条和卡通风格的渐变色填充，
+EN：Vector Jiugongge emoji set, cartoon style, sticker style, emoji, showing various expressions, such as: happiness, anger, sadness, surprise, confusion, fear, excitement, boredom, contempt, etc., white background, vector, sharp lines and cartoon style gradual change color filling, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：电影场景，热带海岛风光，广角远景，细腻的白色沙滩，清澈碧蓝的海水，远处是郁郁葱葱的山脉，山顶云雾缭绕，茂密的热带植物覆盖山坡，蓝天白云，阳光洒在海面，波光粼粼，电影级光照，暖色调，色彩鲜艳饱和，细节丰富，沙滩纹理清晰可见，植物叶片层次分明，8K超高清，电影胶片质感，景深效果，真实感强。
+EN：Movie scene, tropical island scenery, wide-angle view, fine white sand beach, clear blue sea, lush mountains in the distance, misty mountain tops, dense tropical plants covering the hillside, blue sky and white clouds, sunshine on the sea, sparkling, movie-level lighting, warm tones, bright and saturated colors, rich details, clearly visible beach texture, distinct plant leaves, 8K ultra-high definition, movie film texture, depth of field effect, strong sense of reality. --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

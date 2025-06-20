@@ -1,0 +1,3 @@
+CN：写实风格的数字绘画，一位身穿黑色西装外套和白色衬衫的年轻女子。她有着浓密的棕色长发，妆容精致，佩戴着金色的项链和耳环。背景为纯正的红色，与女子的深色服装形成鲜明对比。光线柔和，照亮了她的脸庞和头发，营造出一种戏剧性的氛围。画面构图简洁，居中构图，整体风格优雅而神秘，具有时尚感，
+EN：A realistic digital painting of a young woman wearing a black suit jacket and a white shirt. She has thick long brown hair, delicate makeup, and a gold necklace and earrings. The background is pure red, which contrasts sharply with the woman's dark clothing. The light is soft, illuminating her face and hair, creating a dramatic atmosphere. The composition of the picture is simple and centered, and the overall style is elegant and mysterious, with a sense of fashion. --q 2 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个矩形的卡通框架游戏元素，2D游戏艺术风格，框架上下的中间部分有绿色翡翠玉佩形状的装饰，中间镂空，框架四周是以中国龙纹为主题的设计，金色和翡翠色，使用Adobe PhotoShop绘制，色彩丰富鲜艳，白色背景，逼真的比例，采用皮克斯动画的概念艺术，8k，超级丰富的细节，
+EN：A rectangular cartoon frame game element, 2D game art style, with green jade pendant-shaped decorations in the middle of the frame, hollowed out in the middle, and a Chinese dragon-themed design around the frame, gold and jade colors, drawn using Adobe Photoshop, with rich and bright colors, white background, realistic proportions, concept art from Pixar animation, 8k, super rich details, --q 1 --s 100 --ar 3:4 --v 6.0 --no 3d --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

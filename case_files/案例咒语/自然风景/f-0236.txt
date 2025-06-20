@@ -1,0 +1,3 @@
+CN：雪山小镇，冬季，夜晚，航拍视角，暖色灯光，白雪皑皑，木屋，尖顶教堂，群山环绕，静谧，温馨，电影感，高对比度，高饱和度，广角镜头，超高清，8K
+EN：Snowy mountain town, winter, night, aerial perspective, warm lights, snow-capped mountains, wooden houses, steeple churches, surrounded by mountains, quiet, warm, cinematic, high contrast, high saturation, wide-angle lens, ultra-high definition, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

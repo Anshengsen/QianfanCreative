@@ -1,0 +1,3 @@
+CN：远山风景，雪山，山脉，红色调，暗色调，傍晚，自然光，广角镜头，对称构图，高对比度，超高清，8K。
+EN：Distant mountain scenery, snow-capped mountains, mountain ranges, red tones, dark tones, evening, natural light, wide-angle lens, symmetrical composition, high contrast, ultra high definition, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

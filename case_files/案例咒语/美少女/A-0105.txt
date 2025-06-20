@@ -1,0 +1,9 @@
+
+CN：一个有着金色长发的美少女，戴着绿色大墨镜，在热带雨林中，芭蕉叶，迷人的人物角色插图风格，工笔画，明亮，高质量，高品质，丰富的细节，
+EN：A beautiful girl with long blond hair, wearing big green sunglasses, in the tropical rainforest, plantain leaves, charming character illustration style, meticulous painting, bright, high quality, high quality, rich details, --q 1 --s 180 --ar 3:4 --niji 5 --c 0
+
+CN：一个有着金色长发的东方美少女，戴着绿色大墨镜，她有着精致的五官和妆容，绝美，肖像特写，正面视图，明亮的，令人惊叹的美貌，迷人的人物角色插图风格，工笔画，鲜艳，高质量，高品质，丰富的细节，在热带雨林中，芭蕉叶，
+EN：A beautiful girl with long blond hair, wearing big green sunglasses, she has exquisite facial features and makeup, stunning beauty, stunning beauty, charming character illustration style, meticulous painting, bright color, high quality, high quality, rich details, in the tropical rainforest, plantain leaves, --q 1 --s 180 --ar 3:4 --niji 5 --c 0
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D渲染的卡通男孩，玩具风格，浅灰色背景，一个穿着绿色帽子和棕色短裤的男孩，戴着相机，绿色的眼睛，棕色的头发，简单的表情，圆润的身体，黏土材质，光滑的表面，OC渲染，工作室照明，最佳品质，超细节
+EN：3D rendered cartoon boy, toy style, light gray background, a boy in a green hat and brown shorts, holding a camera, green eyes, brown hair, simple expression, round body, clay material, smooth surface, OC rendering, studio lighting, best quality, ultra detail --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

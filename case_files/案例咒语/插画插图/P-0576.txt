@@ -1,0 +1,3 @@
+CN：厚涂风格人物肖像，一位戴着眼镜的年轻女性，短发，身穿花衬衫，周围飘落着蓝色的羽毛，色彩温暖，光影柔和，整体风格文艺清新，具有艺术感和时尚感，细节包括女性的表情，衬衫的纹理，以及羽毛的飘落轨迹，最佳品质，8K，手绘感强，适合用于艺术作品或时尚杂志，黄色背景，
+EN：Impasto style portrait of a young woman wearing glasses, short hair, and a floral shirt, with blue feathers falling around her. Warm colors, soft light and shadows, the overall style is literary and fresh, with a sense of art and fashion. Details include the woman's expression, the texture of the shirt, and the trajectory of the feathers falling. Best quality, 8K, strong hand-painted feel, suitable for art works or fashion magazines, yellow background, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

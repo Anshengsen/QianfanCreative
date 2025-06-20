@@ -1,0 +1,3 @@
+CN：红色爆炸3D字体，易燃固体，红色和暗红色，“Midjourney”，黑色背景，独奏，
+EN：Red explosion 3D font, flammable solid, red and dark red, "Midjourney", black background, solo, --q 1 --s 100 --ar 3:2 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

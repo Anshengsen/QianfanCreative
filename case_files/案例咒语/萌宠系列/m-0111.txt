@@ -1,0 +1,3 @@
+CN：时尚摄影，全身，拟人化的法国斗牛犬，穿着毛衣、围巾和靴子，在T台上走秀，背景模糊，光线柔和，对称，写实，强调服装细节和狗狗的神态，拟人化，
+EN：Fashion photography, full body, anthropomorphic French bulldog, wearing a sweater, scarf and boots, walking on the catwalk, blurred background, soft light, symmetry, realism, emphasis on clothing details and dog's demeanor, anthropomorphism, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize vgwm6sp 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

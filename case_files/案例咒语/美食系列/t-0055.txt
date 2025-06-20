@@ -1,0 +1,3 @@
+CN：美食摄影，照片，新鲜出炉的芝麻包子，多层蒸笼，木质桌面，暖色调，柔和光线，俯视及平视视角，浅景深，突出包子的质感，细腻的纹理，诱人的色泽，温馨的厨房环境，高分辨率，8K，超精细细节。
+EN：Food photography, photo, freshly baked sesame buns, multi-layered steamer, wooden tabletop, warm tones, soft light, top-down and head-on perspectives, shallow depth of field, highlighting the texture of the buns, delicate texture, attractive color, warm kitchen environment, high resolution, 8K, ultra-fine details. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

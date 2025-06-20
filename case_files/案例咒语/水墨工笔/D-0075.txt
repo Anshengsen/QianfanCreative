@@ -1,0 +1,3 @@
+CN：吴冠中的水墨画风格，一个可爱的小和尚，被荷花和荷叶包围，水墨意境，抽象简洁的水墨线条和明暗水墨实色，毕加索，白色背景，
+EN：Wu Guanzhong's ink painting style, a cute little monk surrounded by lotus flowers and lotus leaves, ink painting artistic conception, abstract and concise ink lines and light and dark ink solid colors, Picasso, white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

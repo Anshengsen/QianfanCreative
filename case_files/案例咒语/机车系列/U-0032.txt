@@ -1,0 +1,2 @@
+CN：概念设计风格的未来机车，白色流线型车身，极简主义设计，纯黑背景，工作室灯光，Keyshot渲染，光滑的表面，8K分辨率，强调未来感和科技感，无明显纹理细节。
+EN：Conceptual design style of futuristic motorcycle, white streamlined body, minimalist design, pure black background, studio lighting, Keyshot rendering, smooth surface, 8K resolution, emphasizing the sense of future and technology, without obvious texture details. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

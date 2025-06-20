@@ -1,0 +1,4 @@
+﻿CN：概念风格的3D角色，具有休闲的外观和有趣的配饰，坐着，白色背景，计以俏皮、石灰绿色和古怪的形状为特色，淡绿色和淡橙色，强调角色的个性和幽默，高质量渲染，Behance流行风格，3D渲染，角色插图，
+EN：Concept-style 3D character with a casual look and fun accessories, seated, white background, featuring playful, lime green and quirky shapes, pale green and pale orange, emphasizing the character's personality and humor, high-quality rendering, Behance pop style, 3D rendering, character illustration, --q 1 --s 100 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

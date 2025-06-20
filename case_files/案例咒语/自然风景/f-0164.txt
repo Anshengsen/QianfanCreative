@@ -1,0 +1,3 @@
+CN：俯视视角，黑白照片，海浪，沙滩，抽象，纹理，对比，明暗，细节，高分辨率，自然，艺术
+EN：top view black and white photo ocean waves beach abstract texture contrast light and dark detail high resolution nature art --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

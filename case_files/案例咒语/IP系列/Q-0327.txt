@@ -1,0 +1,3 @@
+CN：皮克斯风格，富有表现力，一只拟人化的白猫，带着明显的恼怒微笑，皱眉，穿着西装、衬衫和领带，全身，卡通风格趋势，清晰的焦点，照片，复杂的细节，8K，最佳品质，
+EN：Pixar style, expressive, anthropomorphic white cat with a distinctly annoyed smile, frowning, wearing a suit, shirt and tie, full body, cartoon style trend, sharp focus, photo, intricate details, 8K, best quality, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

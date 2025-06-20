@@ -1,0 +1,3 @@
+CN：专业摄影，女性，白人，中长发，自然垂落，发色浅棕色，略带波浪，面部表情平静，眼神直视前方，嘴唇自然闭合，身穿纯色针织毛衣，颜色为孔雀绿，圆领，长袖，袖口和下摆收紧，宽松版型，下身搭配黑色皮质短裤，站姿，身体略微侧向镜头，双手自然下垂，背景为纯色浅灰，全身照，柔和光线，自然光，简洁风格。
+EN：Professional photography, female, Caucasian, medium-length hair, naturally falling, light brown hair color, slightly wavy, calm facial expression, eyes looking straight ahead, lips naturally closed, wearing a solid knitted sweater, the color is peacock green, round neck, long sleeves, cuffs and hem tightened, loose fit, lower body with black leather shorts, standing, body slightly sideways to the camera, hands hanging naturally, background is solid light gray, full body shot, soft light, natural light, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

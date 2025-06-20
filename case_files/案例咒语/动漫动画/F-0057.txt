@@ -1,0 +1,4 @@
+﻿CN：教室，动漫风格，阳光明媚，阳光透过玻璃照射进来，广角，全景，光线追踪，最高品质，超清画质，壁纸，
+EN：Classroom, anime style, sunny, sunlight shines through the glass, wide angle, panorama, ray tracing, highest quality, ultra-clear image quality, wallpaper, --q 1 --s 100 --ar 3:2 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

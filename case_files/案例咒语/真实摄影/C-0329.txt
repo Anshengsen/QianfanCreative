@@ -1,0 +1,3 @@
+CN：美妆写真，高光风格，一个年轻的亚洲女性，头发盘起，面部和肩部有大量高光，看向镜头，浅色背景，特写，最佳质量，8k，超细节，皮肤光泽感强
+EN：Beauty portrait, highlight style, a young Asian woman with hair up, lots of highlights on face and shoulders, looking towards the camera, light background, close-up, best quality, 8k, super details, strong skin glow --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

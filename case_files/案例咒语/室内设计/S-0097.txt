@@ -1,0 +1,3 @@
+CN：未来都市摩天大楼，科幻风格，2077年，外观像巨大的蜂巢，由无数个六边形模块组成，每个模块都闪烁着不同的灯光，营造出科技感，夜晚，灯光渲染，俯瞰视角，超写实，8K，最佳品质，超细节。
+EN：Future city skyscrapers, science fiction style, 2077, the appearance is like a huge honeycomb, composed of countless hexagonal modules, each module flashes different lights, creating a sense of technology, night, light rendering, bird's-eye view, hyper-realism, 8K, best quality, ultra-details. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：挪威风光，罗弗敦群岛，塞格拉山，航拍视角，广角镜头，高耸的山峰，陡峭的山崖，碧蓝的海水，峡湾风光，自然光，云雾缭绕，明暗对比，色彩鲜明，高饱和度，风景摄影，高质量，8K，超细节
+EN：Norway scenery, Lofoten Islands, Mount Segla, aerial view, wide angle lens, towering peaks, steep cliffs, blue water, fjord scenery, natural light, clouds and mist, light and dark contrast, bright colors, high saturation, landscape photography, high quality, 8K, ultra-detailed --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

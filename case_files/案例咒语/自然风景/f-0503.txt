@@ -1,0 +1,5 @@
+CN：盛开的莲花，粉白色花瓣，黄色花蕊，深绿色莲叶背景，特写镜头，中心构图，柔和的自然光，高饱和度，细节丰富，逼真，高清晰度，8K
+EN：Blooming lotus, pink and white petals, yellow stamens, dark green lotus leaves background, close-up, center composition, soft natural light, high saturation, rich details, realistic, high definition, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

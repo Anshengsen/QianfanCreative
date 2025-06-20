@@ -1,0 +1,3 @@
+CN：特写，2.5D动漫少女，2.5D，虚幻引擎，精致面容，水灵大眼，白发高马尾，黑色发饰，略带红晕，身穿改良武士服，深蓝色外套，金色纹饰，白色内衬，佩戴项链，手持武士刀，飘逸的蓝色丝带，动态姿势，全身像，背景黑色，光影细腻，细节丰富，色彩鲜明，8K，超精细。
+EN：close up, 2.5D anime girl, 2.5D, Unreal Engine, delicate face, big watery eyes, white hair in a high ponytail, black hair accessories, slightly blushed, wearing a modified samurai suit, a dark blue jacket, gold patterns, white lining, wearing a necklace, holding a samurai sword, a flowing blue ribbon, dynamic pose, full body portrait, black background, delicate light and shadow, rich details, bright colors, 8K, ultra-fine. --q 5 --s 50 --ar 3:5 --niji 6 --profile v21i75s 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

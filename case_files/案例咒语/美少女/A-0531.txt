@@ -1,0 +1,3 @@
+CN：一个美丽的3D卡通女孩，3D，迪士尼卡通风格，特写，正面，居中，最佳品质，8K，超分辨， 
+EN：A beautiful 3D cartoon girl, 3D, Disney cartoon style, close-up, front view, center, best quality, 8K, super resolution, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

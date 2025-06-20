@@ -1,0 +1,3 @@
+CN：专业摄影，天空中下着雨，中国古典园林景色，远景，一座两层的黑色中式亭台伫立在池塘中央，一条由石板铺成的蜿蜒小路通向亭台，两旁是茂密的绿树，池塘水面平静，倒映着亭台和树木，整体色调阴暗潮湿，营造出宁静祥和的氛围，光线柔和，自然光，构图对称，具有东方意境美感。
+EN：Professional photography, it is raining in the sky, the scenery of Chinese classical gardens, in the distance, a two-story black Chinese pavilion stands in the middle of the pond, a winding path paved with stone slabs leads to the pavilion, with lush green trees on both sides, the pond surface is calm, reflecting the pavilion and trees, the overall tone is dark and moist, creating a quiet and peaceful atmosphere, the light is soft, natural light, the composition is symmetrical, and it has an oriental artistic conception and beauty. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

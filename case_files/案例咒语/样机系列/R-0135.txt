@@ -1,0 +1,3 @@
+CN：空白效果图，室内旗帜模型，绿色，长方形，悬挂，天花板，白色墙壁，简约，现代，产品展示，广告，营销，高分辨率，细节清晰，光线充足，视角居中
+EN：Blank rendering, indoor banner mockup, green, rectangular, hanging, ceiling, white wall, simple, modern, product display, advertising, marketing, high resolution, clear details, good lighting, centered perspective --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

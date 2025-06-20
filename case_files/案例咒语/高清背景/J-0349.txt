@@ -1,0 +1,3 @@
+CN：抽象的青山绿水，白色背景，绿色色调，高角度，模糊的边缘，神秘的气氛，云雾缭绕，高清晰度，高分辨率，高细节，高品质，
+EN：Abstract green mountains and water, white background, green tones, high angle, blurred edges, mysterious atmosphere, misty clouds, high definition, high resolution, high details, high quality, --q 1 --s 250 --ar 3:4 --v 6.1 --personalize izkkm56 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

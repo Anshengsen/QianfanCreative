@@ -1,0 +1,3 @@
+CN：冬季仙境，白天，蓝色的湖面，一群白天鹅，薄雾，飘雪，结霜的树木，远山，广角镜头，自然光，冷色调，宁静的氛围，高清晰度。
+EN：Winter wonderland, daytime, blue lake, a group of white swans, mist, falling snow, frosted trees, distant mountains, wide angle lens, natural light, cold colors, tranquil atmosphere, high definition. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

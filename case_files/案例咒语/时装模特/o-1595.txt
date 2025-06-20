@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，白色皮革休闲鞋，系带，浅棕色休闲裤，裤脚微卷，站在绿色苔藓地面上，自然光，低角度拍摄，焦距集中在鞋子上，细节丰富，质感真实，环境背景虚化。
+EN：Professional photography, 8K, shoe and boot advertising shooting, no face, white leather casual shoes, lace-up, light brown casual pants, trouser legs slightly rolled up, standing on green moss ground, natural light, low angle shooting, focus on shoes, rich details, real texture, blurred environment background. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

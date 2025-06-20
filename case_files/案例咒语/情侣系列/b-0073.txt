@@ -1,0 +1,4 @@
+CN：中国动画片风格，一对情侣，微笑，亲密，恩爱，在现代房间内，肖像特写，明亮的自然光照明，极简主义，简约，明亮的调色板，
+EN：Chinese cartoon style, a couple in love, smiling, close, affectionate, in a modern room, portrait close-up, bright natural light, minimalism, simplicity, bright color palette, --q 1 --s 100 --ar 3:4 --v 6.1
+（PS：其实对它一组能跑出4种类型我也很郁闷，只能辛苦垫图了~） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

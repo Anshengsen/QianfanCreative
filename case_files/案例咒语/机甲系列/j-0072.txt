@@ -1,0 +1,3 @@
+CN：机甲战斗场景，游戏截图风格，废墟战场，爆炸和火光，强烈的明暗对比，实时渲染，高清，厚重装甲，武器装备齐全，带有明显的战斗痕迹，红色和黑色为主色调，充满力量感。
+EN：Mecha battle scene, game screenshot style, ruins battlefield, explosions and fire, strong contrast between light and dark, real-time rendering, high definition, heavy armor, complete weapons and equipment, with obvious traces of battle, red and black as the main colors, full of power. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

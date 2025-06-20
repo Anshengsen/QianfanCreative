@@ -1,0 +1,3 @@
+CN：机器人模型，全身像，灰黑色主体，金色与朱砂红色点缀，复杂机械结构，肩部有红色尖角装饰，头顶有剑状装饰，手持长剑，对称设计，科幻风格，机甲风格，高细节，光泽感，工作室打光，纯色背景，8K，超高分辨率，最佳品质
+EN：Robot model, full-body portrait, gray-black body with gold and cinnabar red embellishments, complex mechanical structure, red pointed decorations on shoulders, sword-shaped decorations on the top of the head, holding a long sword, symmetrical design, science fiction style, mecha style, high details, glossy, studio lighting, solid color background, 8K, ultra-high resolution, best quality --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

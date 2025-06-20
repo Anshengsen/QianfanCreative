@@ -1,0 +1,3 @@
+CN：粗糙漫画，现代男性角色，半身像，厚涂，水墨画风格，黑白灰为主色调，点缀一点点鲜艳的红色，神秘感，眼神锐利，面部遮挡，服装细节丰富，具有东方韵味，高光与阴影对比强烈，细节精细，高品质。
+EN：Rough comics, modern male characters, bust, thick painting, ink painting style, black and white gray as the main colors, with a little bit of bright red, mysterious, sharp eyes, face obscured, rich clothing details, oriental charm, strong contrast between highlights and shadows, fine details, high quality. --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

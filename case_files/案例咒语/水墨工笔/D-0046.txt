@@ -1,0 +1,3 @@
+CN：齐白石，水墨画，季节是冬天，内容是缠绕在梅花树的中国龙，黑灰色风格，淡红色的梅花点缀，疯狂泼墨，色彩过渡，大胆的水墨画，大雪天气，梅花树，简单，
+EN：Qi Baishi, ink painting, the season is winter, the content is a Chinese dragon wrapped around the plum blossom tree, black-gray style, light red plum blossom embellishment, crazy splashing ink, color transition, bold ink painting, heavy snow weather, plum blossom tree, simple, --q 1 --s 100 --ar 3:4 --v 6.0 --no text 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

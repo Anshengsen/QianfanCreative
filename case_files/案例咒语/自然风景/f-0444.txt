@@ -1,0 +1,3 @@
+CN：黎明时分，宁静海面，蓝色调，木质栈桥延伸入海，远处岛屿剪影，岩石，柔和光线，长曝光效果，高饱和度，电影感，超广角，细节丰富，8K，最佳画质，
+EN：At dawn, tranquil sea, blue tones, wooden pier extending into the sea, silhouette of islands in the distance, rocks, soft light, long exposure effect, high saturation, cinematic feel, ultra wide angle, rich details, 8K, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

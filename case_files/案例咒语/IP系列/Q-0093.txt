@@ -1,0 +1,4 @@
+﻿CN：皮克斯风格的3D女孩，3d，7岁，东方面容，快乐，夸张的姿势，全身，深紫色头发，明亮的灯光，柔和色彩，简单的背景，
+EN：Pixar-style 3D girl, 3d, 7 years old, oriental face, happy, exaggerated pose, full body, dark purple hair, bright lights, soft colors, simple background, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

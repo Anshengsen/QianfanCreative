@@ -1,0 +1,3 @@
+CN：一条红鲤鱼的水墨插图，水墨工笔，黑白梯度形成明暗，锐利的线条，细腻的笔触，纯白背景，毕加索，大师作品，大面积的黑白梯度和重要的红色点缀，最佳品质，
+EN：Ink illustration of a red carp, fine brushwork in ink, black and white gradients forming light and dark, sharp lines, delicate brushstrokes, pure white background, Picasso, masterpiece, large areas of black and white gradients and important red embellishments, best quality, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

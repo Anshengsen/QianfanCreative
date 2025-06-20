@@ -1,0 +1,3 @@
+CN：彩虹曲线跑道，3D，跑酷类游戏关卡设计，符合近大远小的景深，第一人称视角，近处较宽，紫色和蓝色风格，跑道的尽头是一座彩虹色的梦幻城堡，唯美，梦幻，卡哇伊，卡通卡通，最佳品质，丰富的细节，3D渲染，OC渲染，
+EN：Rainbow curve track, 3D, parkour game level design, in line with the near and far depth of field, first-person perspective, wide near, purple and blue style, the end of the track is a rainbow-colored dream castle, beautiful, dream, kawaii, cartoon cartoon, best quality, rich details, 3D rendering, OC rendering, --q 1 --s 100 --ar 1:1 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

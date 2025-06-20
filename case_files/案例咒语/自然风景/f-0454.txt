@@ -1,0 +1,3 @@
+CN：雪景道路，林荫大道，两侧高大的树木，树枝覆雪，道路尽头隐约可见房屋，冬季，清晨或傍晚，冷色调，自然光，对称构图，纵深感，宁静，空旷，高对比度，细节丰富，逼真，摄影风格，8K，超高清
+EN：Snowy road, tree-lined avenue, tall trees on both sides, snow-covered branches, houses vaguely visible at the end of the road, winter, early morning or evening, cold tones, natural light, symmetrical composition, depth, tranquility, emptiness, high contrast, rich details, realistic, photography style, 8K, ultra high definition --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

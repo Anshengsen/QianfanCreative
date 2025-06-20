@@ -1,0 +1,3 @@
+CN：一个中国少女，瓜子脸，长发，散发，彩色头发，长长的睫毛，红嘴唇，戴着耳环，穿着白色纱裙，裙子上有亮片点缀，手持一个红色灯笼，灯笼闪耀着光芒，背景是橙色，2.2D，厚涂，梦幻，柔光，最佳质量，最佳画质，8K，发光。
+EN：A Chinese girl, oval face, long hair, loose, colored hair, long eyelashes, red lips, wearing earrings, wearing a white gauze skirt with sequins on it, holding a red lantern, the lantern is shining, the background is orange, 2.2D, thick coating, dreamy, soft light, best quality, best image quality, 8K, glow. --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

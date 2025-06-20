@@ -1,0 +1,4 @@
+
+CN：一组全息风格的3D图标，用于社交媒体使用，等距视图，高质量，高细节，3D，全息，干净的背景，
+EN：A set of holographic style 3D icons for social media use, isometric view, high quality, high detail, 3D, holographic, clean background, --q 5 --s 150 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

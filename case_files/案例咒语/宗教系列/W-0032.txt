@@ -1,0 +1,3 @@
+CN：中国财神，鲜明大胆的设计，宏观视角，俏皮的雕塑，青色和粉红色，vray，高清辛烷值渲染，详细的细节，8K，
+EN：Chinese God of Wealth, bright and bold design, macro view, playful sculpture, cyan and pink, vray, high definition octane rendering, detailed, 8K, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

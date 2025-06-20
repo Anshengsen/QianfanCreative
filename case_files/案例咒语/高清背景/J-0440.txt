@@ -1,0 +1,3 @@
+CN：极简主义，淡绿色与淡粉色，对角线构图，左侧为淡绿色，右侧为淡粉色，一支桂花在图像的一角，顶视图，渲染图，简约，极简美学，
+EN：Minimalism, light green and light pink, diagonal composition, light green on the left, light pink on the right, a branch of osmanthus in the corner of the image, top view, rendering, simplicity, minimalist aesthetics, --q 1 --s 100 --ar 1:1 --v 6.0 --personalize jw4ehv7 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

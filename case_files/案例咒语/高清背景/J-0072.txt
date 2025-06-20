@@ -1,0 +1,4 @@
+
+CN：散景渲染，不稳定的重力空间波，由发光粘性凝胶制成的永恒存在，在黑洞中以比光速更快的速度传播，等距视图，高质量，
+EN：Bokeh rendering, unstable gravitational space waves, eternal presence made of luminous viscous gel, traveling faster than the speed of light in a black hole, isometric view, high quality, --q 1 --s 150 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个3岁左右的男孩，走路姿态，冒险，戴着红色的遮阳帽，穿着红色外套和黄色卫衣，穿着蓝色牛仔裤和运动鞋，背着行李，3D，简单的细节，全身，白色背景，
+EN：A boy around 3 years old, walking posture, adventurous, wearing a red visor, wearing a red coat and yellow sweater, wearing blue jeans and sneakers, carrying luggage, 3D, simple details, full body, white background, --q 1 --s 150 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

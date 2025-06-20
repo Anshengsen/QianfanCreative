@@ -1,0 +1,3 @@
+CN：3D，深绿色上的矩形对称冲击背景，3D风格，浅绿色rgb=76B900，深海军蓝rgb=004831，最佳品质，柔光，
+EN：3D, rectangular symmetric impact background on dark green, 3D style, light green rgb=76B900, dark navy rgb=004831, best quality, soft light, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

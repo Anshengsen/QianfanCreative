@@ -1,0 +1,3 @@
+CN：表情包emoji设计，4x4，角色一致性和不同的动作表情，卡通，可爱，柔和,粉嫩，浅色，白色背景，正面，小动物拟人，幼态，治愈系，黄色围兜，小耳朵,圆脸，大眼睛，静态，扁平化，儿童画风，简单线条，简笔画，
+EN：Emoji design, 4x4, character consistency and different action expressions, cartoon, cute, soft, pink, light color, white background, front view, small animal personification, baby state, healing system, yellow bib, small ears, round face, big eyes, static, flat, children's style, simple lines, stick figure, --q 1 --s 100 --ar 1:1 --niji 6 --profile w8qa511 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

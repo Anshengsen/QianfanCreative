@@ -1,0 +1,3 @@
+CN：极简线条插画，极简主义，极简主义，简单，矢量风格，白色背景，一位女士坐在咖啡厅里使用笔记本电脑，人物形象由简单线条勾勒，头发为粉色，身穿白色上衣，面前的桌子上放着一杯咖啡，头顶有两个吊灯，身后有一个粉色星星图案，整体风格简约可爱。
+EN：Minimalist line illustration, minimalism, minimalism, simple, vector style, white background, a lady sitting in a cafe using a laptop, the character image is outlined by simple lines, with pink hair, wearing a white top, a cup of coffee on the table in front of her, two chandeliers above her head, and a pink star pattern behind her. The overall style is simple and cute. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

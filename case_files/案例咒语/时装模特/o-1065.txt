@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。特写。一个男性，站立姿势，穿着蓝色格纹长袖衬衫，纽扣闭合，白色内搭，浅色长裤，衬衫下摆自然垂落，袖口未扣，背景为室内场景，有白色门框，光线柔和，整体风格休闲，日常。
+EN：Professional photography, 8K, clothing advertising shooting, no face. Close-up. A man, standing, wearing a blue plaid long-sleeved shirt, buttons closed, white inner wear, light-colored trousers, the hem of the shirt hanging naturally, cuffs unbuttoned, the background is an indoor scene, with a white door frame, soft light, the overall style is casual, daily. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

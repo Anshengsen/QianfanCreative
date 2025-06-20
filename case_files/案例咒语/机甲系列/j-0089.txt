@@ -1,0 +1,3 @@
+CN：奇幻风格的机甲，木质和金属结合，藤蔓和花卉缠绕，柔和的魔法光晕照亮，神秘森林背景，萤火虫飞舞，卡通渲染，色彩鲜艳，充满自然气息，细节刻画到木纹和金属雕花，8K，超高分辨率，梦幻，
+EN：Fantasy style mecha, wood and metal combination, vines and flowers entwined, soft magic halo illuminated, mysterious forest background, fireflies flying, cartoon rendering, bright colors, full of natural atmosphere, details depicted in wood grain and metal carvings, 8K, ultra-high resolution, dreamy, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

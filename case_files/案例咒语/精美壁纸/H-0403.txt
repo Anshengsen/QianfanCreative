@@ -1,0 +1,4 @@
+CN：2.5D，虚幻引擎5，少女，猫耳头饰，短发，刘海遮眼，黑色颈圈，黑色吊带，红唇，精致妆容，略带忧郁的表情，看向镜头，柔和光线，背景浅灰色，风格参考韩国漫画，厚涂，细节丰富，超高分辨率，8k。
+EN：2.5D, Unreal Engine 5, girl, cat ears headdress, short hair, bangs covering her eyes, black collar, black suspenders, red lips, delicate makeup, slightly melancholy expression, looking towards the camera, soft light, light gray background, style reference to Korean comics, thick painting, rich details, ultra-high resolution, 8k. --q 5 --s 50 --ar 16:9 --niji 6 --personalize nk61y71
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

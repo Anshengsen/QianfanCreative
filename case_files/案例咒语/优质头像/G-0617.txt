@@ -1,0 +1,3 @@
+CN：像素风格卡通头像，一个女孩，黑色短发，别着黄色发夹，侧脸，仰着头，表情惊讶，脸颊泛红，穿着校服，背景是白色，整体风格复古，色彩简约，具有像素质感，最佳品质，8K，适合作为社交媒体头像
+EN：Pixel style cartoon avatar of a girl with short black hair and a yellow hairpin, profile, looking up, surprised, blushing cheeks, wearing a school uniform, white background, retro style, simple colors, pixel texture, best quality, 8K, suitable as a social media avatar --q 1 --s 30 --ar 1:1 --niji 6 --profile hrqrh1e --raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

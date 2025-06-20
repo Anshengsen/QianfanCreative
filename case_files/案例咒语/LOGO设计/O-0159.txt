@@ -1,0 +1,3 @@
+CN：LOGO，霓虹灯光效果文字，“DLAB”字样，字母设计感，蓝紫色和粉红色渐变，锐利光线轨迹，黑色背景，发光效果，电子风格，艺术字设计，高对比度，最佳品质，8K。
+EN：LOGO, neon light effect text, "DLAB" lettering, letter design, blue-purple and pink gradient, sharp light trails, black background, glow effect, electronic style, artistic word design, high contrast, best quality, 8K. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

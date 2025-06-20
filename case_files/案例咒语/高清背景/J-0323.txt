@@ -1,0 +1,3 @@
+CN：电子科技背景上带有蓝色和紫色的空灵光芒，风格为深靛蓝和浅青铜色，线性，32k uhd，发光，暗角，非对称构图，
+EN：Ethereal glow with blue and purple colors on electronic tech background, styled in dark indigo and light bronze, linear, 32k uhd, glow, vignetting, asymmetric composition, --q 2 --s 150 --ar 16:9 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

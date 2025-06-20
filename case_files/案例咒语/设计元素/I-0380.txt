@@ -1,0 +1,4 @@
+CN：3D渲染模型，梦幻风格，一个游戏手柄，主体颜色为蓝紫色渐变，材质透明，具有玻璃质感，细节丰富，按键清晰可见，整体造型时尚炫酷，OC渲染，工作室照明，光线柔和，白色背景，无阴影，超细节，超品质，3D效果，适合用于游戏或科技相关的视觉呈现
+EN：3D rendering model, dream style, a game controller, the main color is blue-purple gradient, the material is transparent, with glass texture, rich details, buttons are clearly visible, the overall shape is stylish and cool, OC rendering, studio lighting, soft light, white background, no shadow, super details, super quality, 3D effect, suitable for game or technology-related visual presentation --s 100 --ar 1:1 --v 7 --profile l64u7lh  --no high saturation, high brightness, high brightness
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

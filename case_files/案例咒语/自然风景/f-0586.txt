@@ -1,0 +1,3 @@
+CN：电影摄影，日出，海面，天空，垂直构图，粉色和橙色天空，海浪，细节丰富，8K，超高清，最佳品质，自然光，大气透视，宁静氛围，太阳在地平线上，柔和色彩。
+EN：Cinematography, sunrise, sea, sky, vertical composition, pink and orange sky, ocean waves, rich details, 8K, Ultra HD, best quality, natural light, atmospheric perspective, serene atmosphere, sun over the horizon, soft colors. --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

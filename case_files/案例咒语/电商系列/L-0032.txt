@@ -1,0 +1,3 @@
+CN：赛博朋克街道，两侧是高楼大厦，低角度拍摄，蓝色和紫色，夜晚，雨后，霓虹灯照亮，用于电商产品展示，超品质，超细节，8K，辛烷值高清渲染，
+EN：Cyberpunk street, flanked by high-rise buildings, low-angle shooting, blue and purple, night, after rain, neon lighting, for e-commerce product display, super quality, super detail, 8K, octane high definition rendering, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

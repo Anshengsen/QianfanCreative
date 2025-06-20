@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲女性，站立姿势，身体略微侧向镜头，长发，深棕色，自然垂落，中分，发梢微卷，面部表情平静，眼神看向镜头外，穿着一件棕色格子衬衫，宽松版型，长袖，搭配白色长裙，裙摆飘逸，手提一个棕色编织手提包，背景是模糊的室外场景，天空晴朗，自然光，整体氛围休闲，舒适。
+EN：Professional photography, 8K, an Asian woman, standing pose, body slightly sideways to the camera, long hair, dark brown, naturally drooping, middle parting, slightly curled ends, calm facial expression, eyes looking out of the camera, wearing a brown plaid shirt, loose fit, long sleeves, paired with a white long skirt, the skirt is flowing, carrying a brown woven handbag, the background is a blurred outdoor scene, the sky is clear, natural light, the overall atmosphere is casual and comfortable. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

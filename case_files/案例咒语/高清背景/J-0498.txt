@@ -1,0 +1,3 @@
+CN：黑色沙丘，微距摄影，特写，沙子纹理，风蚀地貌，尖锐的波峰，对角线构图，明暗对比，黑白，单色，高对比度，自然抽象，极简主义，超细节，8K，高分辨率
+EN：Black sand dunes, macro photography, close-up, sand texture, wind-eroded landform, sharp crests, diagonal composition, chiaroscuro, black and white, monochrome, high contrast, natural abstraction, minimalism, ultra-detailed, 8K, high resolution --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

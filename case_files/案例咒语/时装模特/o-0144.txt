@@ -1,0 +1,3 @@
+CN：专业摄影，正面站立，亚洲女性，中长发，自然垂落，发色深棕，面部表情平静，眼神直视前方，略带忧郁，身穿深蓝色针织宽松毛衣，内搭白色条纹衬衫，下身搭配蓝色修身破洞牛仔裤，整体风格简约，休闲，日常，背景为纯白色。
+EN：Professional photography, standing frontally, Asian woman, medium-length hair, naturally falling, dark brown hair color, calm facial expression, eyes looking straight ahead, slightly melancholy, wearing a dark blue knitted loose sweater, a white striped shirt inside, and blue slim-fit ripped jeans on the bottom, the overall style is simple, casual, and everyday, and the background is pure white. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

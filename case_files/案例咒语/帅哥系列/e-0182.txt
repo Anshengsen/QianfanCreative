@@ -1,0 +1,3 @@
+CN：虚幻引擎5，现代写实风格，一个穿着西装的绝美帅哥，黑色西装白色衬衫配黑色领带，些许凌乱的头发，特写，对称构图， 面对镜头，背景是夜晚的城市街道，有景深，光滑细腻的皮肤，冷峻，高冷帅气男神，
+EN：Unreal Engine 5, modern realistic style, a beautiful handsome man in a suit, black suit, white shirt with black tie, slightly messy hair, close-up, symmetrical composition, facing the camera, the background is a city street at night, with depth of field, smooth and delicate skin, cold, handsome male god, --q 5 --s 100 --ar 16:9 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

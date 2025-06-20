@@ -1,0 +1,3 @@
+CN：空白效果图，皱巴巴的，白色纸张，纹理，特写，平铺视角，纸张模型，褶皱，阴影，高光，细节丰富，白色背景，简约风格，
+EN：Blank rendering, crumpled, white paper, texture, close-up, flat lay perspective, paper mockup, folds, shadows, highlights, rich details, white background, minimalist style, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

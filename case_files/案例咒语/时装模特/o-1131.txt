@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。特写。一个穿着米白色渐变深蓝色卫衣的男性，宽松版型，长袖，袖口收紧，站立姿势，双手自然下垂，背景模糊，室内场景，自然光，简洁风格。
+EN：Professional photography, 8K, clothing advertising shooting, no face. Close-up. A man wearing an off-white gradient dark blue sweatshirt, loose fit, long sleeves, cuffs tightened, standing posture, hands hanging naturally, blurred background, indoor scene, natural light, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

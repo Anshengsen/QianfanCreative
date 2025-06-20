@@ -1,0 +1,3 @@
+CN：日本漫画风格，可爱的女孩，绿色宝石般的眼睛，渐变色的长发，头上有一个巨大的红色蝴蝶结，完美的脸，侧脸，华丽的蕾丝公主服装，光影，超细节，超品质，厚涂，灰色背景，
+EN：Japanese manga style, cute girl, green gem-like eyes, long hair with gradual change of color, a huge red bow on the head, perfect face, side face, gorgeous lace princess costume, light and shadow, super detail, super quality, thick coating, gray background, --q 1 --s 50 --ar 1:1 --v 6.0 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

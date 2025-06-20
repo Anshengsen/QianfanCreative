@@ -1,0 +1,3 @@
+CN：空白艺术画框，3D渲染，简约黑色画框，白色背景，不同尺寸画框组合，突出画框空白区域，可用于展示艺术作品，高清，4K，产品外观细节，空白效果图，组合展示，光影效果，
+EN：Blank art picture frame, 3D rendering, simple black picture frame, white background, combination of different size frames, highlight the blank area of ​​the frame, can be used to display art works, HD, 4K, product appearance details, blank rendering, combination display, light and shadow effects, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

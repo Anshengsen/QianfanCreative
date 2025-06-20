@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格的三轮电动小货车，橙色车身，蓝色货箱，明亮的灯光，简洁的构图，等距，居中构图，3D，粘土材料，OC，
+EN：3D rendering, cartoon style three-wheeled electric pickup truck, orange body, blue cargo box, bright lights, simple composition, isometric, centered composition, 3D, clay material, OC,  --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

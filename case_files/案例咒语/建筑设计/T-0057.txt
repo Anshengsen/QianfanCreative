@@ -1,0 +1,3 @@
+CN：外星飞船博物馆，未来主义风格，23世纪，流线型金属结构，表面覆盖着闪烁的蓝色灯光，悬浮于地面之上，环境光，科幻电影渲染，鸟瞰视角，展现建筑的宏伟气势，8K，电影级画质。
+EN：Alien Spaceship Museum, futuristic style, 23rd century, streamlined metal structure, covered with flashing blue lights, suspended above the ground, ambient light, science fiction movie rendering, bird's-eye view, showing the grandeur of the building, 8K, movie-level image quality. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

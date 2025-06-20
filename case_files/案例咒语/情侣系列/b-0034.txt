@@ -1,0 +1,4 @@
+CN：水墨画，现代水墨风格，水墨简笔画风格，线条风格，现代的一对情侣，女孩害羞的把手放在男孩的肩膀上，男孩溺爱般地看着女孩，采用现代水墨工笔画风格，灰黑色与黑色梯度形成明暗，简单的细节，无实色，无填充，纯白背景，
+EN：Ink painting, modern ink style, ink simple drawing style, line style, a modern couple, the girl shyly puts her hand on the boy's shoulder, the boy looks at the girl dotingly, using modern ink painting style, gray and black gradient to form light and dark, simple details, no solid color, no filling, pure white background, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

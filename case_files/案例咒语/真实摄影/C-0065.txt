@@ -1,0 +1,6 @@
+CN：一个高透亮的玻璃杯，里面有水，有海藻，有鱼，倡导绿色环保，立在土壤上，景深，电影级照明，超高质量，超高画质，
+EN：A high translucent glass with water, seaweed, fish, advocating green environmental protection, standing on the soil, depth of field, movie-grade lighting, ultra-high quality, ultra-high image quality,  --q 5 --s 150 --ar 3:4 --v 5.2 --style raw
+
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

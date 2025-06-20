@@ -1,0 +1,3 @@
+CN：三维渲染图，一枚镶有红宝石的戒指，戒指外观设计灵感来自火焰，材质采用玫瑰金色和火焰细节，在深色背景上孤立，柔和的阴影，全局光，超级细节，光滑，火焰纹理，超精细
+EN：3D rendering of a ring with a ruby, a ring design inspired by flames, rose gold color and flame details, isolated on dark background, soft shadows, global light, super detailed, smooth, flame texture, ultra fine --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

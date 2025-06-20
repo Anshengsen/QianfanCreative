@@ -1,0 +1,3 @@
+CN：废墟中的远古庙宇，写实风格，远景，清晨光线，柔和的暖色调光线透过雾气照射在破败的建筑和周围环境上，营造出一种神秘而宁静的氛围，引导线构图，将视线引向远处的庙宇，画面细节丰富，展现了环境的破败和沧桑感，整体色调偏暖，略带灰暗， 高品质，高分辨率，逼真。
+EN：Ancient temple in ruins, realistic style, distant view, morning light, soft warm light shines through the mist onto the dilapidated buildings and surrounding environment, creating a mysterious and tranquil atmosphere. The guiding line composition draws the eyes to the temple in the distance. The picture is rich in details, showing the dilapidated and vicissitudes of the environment. The overall tone is warm and slightly gray. High quality, high resolution, and realistic. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

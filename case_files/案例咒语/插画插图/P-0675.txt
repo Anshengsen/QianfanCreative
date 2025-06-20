@@ -1,0 +1,3 @@
+CN：油画风格，一个女孩和一只大狗坐在草地上，仰望天空，整体风格温馨，色彩明快，具有童话感和艺术感，细节包括人物的表情，狗的姿态，以及草地的细节，最佳品质，8K，数字绘画，适合用于儿童绘本或艺术海报，蓝色天空
+EN：Oil painting style, a girl and a big dog sitting on the grass, looking up at the sky, the overall style is warm, the colors are bright, with a fairy tale and artistic feel, the details include the characters' expressions, the dog's posture, and the details of the grass, best quality, 8K, digital painting, suitable for children's picture books or art posters, blue sky --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

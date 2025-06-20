@@ -1,0 +1,3 @@
+CN：现代简约风格的客厅，渲染图，白色墙壁，灰色沙发，木质地板，落地窗，自然光，简洁，极简主义，明亮，舒适，8K，超高质量。
+EN：Modern minimalist style living room, rendering, white walls, gray sofa, wooden floor, floor-to-ceiling windows, natural light, simplicity, minimalism, bright, comfortable, 8K, ultra-high quality. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

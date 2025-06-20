@@ -1,0 +1,3 @@
+CN：远峰，极光，星空，薄雾，湖泊，登山者，剪影，头灯，冷色调，青绿色，深蓝色，广角，自然风光，电影级光照，超广角，史诗级构图，超高细节，8K，最佳画质
+EN：Distant peaks, Aurora, Starry sky, Mist, Lake, Climber, Silhouette, Headlight, Cold tones, Turquoise, Dark blue, Wide angle, Natural scenery, Cinematic lighting, Ultra wide angle, Epic composition, Ultra high detail, 8K, Best quality --q 1 --s 50 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

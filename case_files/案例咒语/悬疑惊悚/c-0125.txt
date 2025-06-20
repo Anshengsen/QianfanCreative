@@ -1,0 +1,3 @@
+CN：表情惊恐的一家三口，夜晚，室内背景，青色烟雾笼罩，彩色漫画风格，隐藏细节的风格，恐怖漫画，表现力漫画，流畅的粗线条，
+EN：A family of three with frightened expressions, night, indoor background, shrouded in cyan smoke, colorful comic style, style with hidden details, horror comics, expressive comics, smooth and thick lines, --q 1 --s 100 --ar 3:2 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

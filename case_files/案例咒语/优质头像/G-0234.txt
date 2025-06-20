@@ -1,0 +1,3 @@
+CN：3d卡通动画风格，一只可爱的胖乎乎的毛茸茸的猫，躺在摇椅上喝咖啡，满足的表情，闭眼，可爱，光滑，白色背景，卡通风格，极简主义，工作室灯光，居中，3d，
+EN：3d cartoon animation style, a cute chubby furry cat lying on a rocking chair drinking coffee, contented expression, eyes closed, cute, smooth, white background, cartoon style, minimalism, studio lighting, centered, 3d , --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：生物机械风格的昆虫机甲，黑暗的洞穴环境，生物发光，金属和有机组织结合，Octane渲染，湿润的质感，锋利的爪子和触角，背景是钟乳石和地下河流，8K分辨率，恐怖感，
+EN：Biomechanical style insect mech, dark cave environment, bioluminescence, metal and organic tissue combination, Octane rendering, wet texture, sharp claws and tentacles, background with stalactites and underground rivers, 8K resolution, horror feeling, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

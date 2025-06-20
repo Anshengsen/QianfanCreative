@@ -1,0 +1,3 @@
+CN：中国水墨画，竹子，带有不透明度过渡的黑色，毕加索，吴冠中风格，水墨意境，水墨，白色背景，
+EN：Chinese ink painting, bamboo, black with opacity transition, Picasso, Wu Guanzhong style, ink artistic conception, ink painting, white background, --q 5 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

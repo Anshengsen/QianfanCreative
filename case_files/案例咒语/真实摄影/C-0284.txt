@@ -1,0 +1,3 @@
+CN：戴着面具和盔甲的邪恶武士，眼睛发出诡异的红光，背景是战场上，背景模糊，特写，极高品质，昏暗，
+EN：Evil warrior in mask and armor with eerie red glow in eyes, on battlefield with blurred background, close up, very high quality, dim, --q 1 --s 180 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

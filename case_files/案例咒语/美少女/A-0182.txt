@@ -1,0 +1,4 @@
+﻿CN：一个非常美丽的东方女孩，以大胆的笔触艺术风格描绘，她的穿衣风格非常富有想象力和超现实主义，用动态笔触渲染，将2D动画美学与3D艺术元素相结合，场景是传统绘画技术和现代韩国时尚的生动结合，色彩鲜艳，
+EN：A very beautiful oriental girl, depicted in a bold brushstroke art style, her dressing style is very imaginative and surreal, rendered with dynamic brushstrokes, combining 2D animation aesthetics with 3D art elements, the scene is a vivid combination of traditional painting techniques and modern Korean fashion, with bright colors.  --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

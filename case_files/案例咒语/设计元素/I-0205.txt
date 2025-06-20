@@ -1,0 +1,3 @@
+CN：一个空白的3D风格的UI按钮，长方形，正面，用于网站页面设计的3D按钮元素，未来派，纯白背景，霓虹灯描边，3D渲染，最佳品质，镂空，
+EN：Blank 3D style UI buttons, rectangular, front view, 3D button elements for website page design, futuristic, pure white background, neon stroke, 3D rendering, best quality, cutout, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

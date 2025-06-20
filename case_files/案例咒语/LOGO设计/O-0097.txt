@@ -1,0 +1,3 @@
+CN：素描风格，建筑设计公司LOGO，建筑草图元素，灰色和黑色搭配，专业质感，高分辨率，白色背景，
+EN：Sketch style, architectural design company logo, architectural sketch elements, gray and black combination, professional texture, high resolution, white background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：详细的背景，黑色和紫色，抽象，流线型，未来感，超逼真，
+EN：Detailed backgrounds, black and purple, abstract, streamlined, futuristic, ultra-realistic, --q 1 --s 100 --ar 16:9 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

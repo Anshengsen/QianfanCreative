@@ -1,0 +1,3 @@
+CN：胖嘟嘟的、可爱的、蓬松的白猫，有趣的面部表情，夸张的动作，3D，白色背景，蓬松，细长的毛发，
+EN：Chubby, cute, fluffy white cat with funny facial expression, exaggerated movements, 3D, white background, fluffy, wispy hair, --q 1 --s 100 --ar 1:1 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

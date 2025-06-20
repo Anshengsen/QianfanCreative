@@ -1,0 +1,3 @@
+CN：精装笔记本空白效果图，封面闭合，书脊厚度适中，纯白色，放置在整洁的书桌上，旁边是一支钢笔和眼镜，高清3D渲染，适合展示封面设计和logo，书房场景，营造学习氛围，
+EN：Blank rendering of a hardcover notebook, with closed cover and moderate spine thickness, pure white, placed on a neat desk, next to a pen and glasses, high-definition 3D rendering, suitable for displaying cover design and logo, study room scene, creating a learning atmosphere, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

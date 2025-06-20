@@ -1,0 +1,4 @@
+CN：一个东方美男子，古风，东方美学，冰肌玉骨，超高分辨率，最高品质，超清画质，光影，丰富的细节，构图清晰，唯美，梦幻，写实，油画，暗色调，
+EN：An oriental man, ancient style, oriental aesthetics, ice and jade bones, ultra-high resolution, the highest quality, ultra-clear image quality, light and shadow, rich details, clear composition, beautiful, dreamy, realistic, oil painting, dark tones, --q 1 --s 100 --ar 3:4 --niji 6
+
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

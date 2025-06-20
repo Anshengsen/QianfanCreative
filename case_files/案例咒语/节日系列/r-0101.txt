@@ -1,0 +1,3 @@
+CN：吸血鬼伯爵，3D，穿着华丽的服装，尖利的牙齿，苍白的皮肤，邪魅的笑容，城堡背景，烛光，阴影，暗色调，写实风格，高精度建模，光线追踪，全局光照，4K分辨率，超写实渲染，最佳质量，高贵，神秘，恐怖。
+EN：Count Dracula, 3D, wearing gorgeous clothes, sharp teeth, pale skin, evil smile, castle background, candlelight, shadows, dark tones, realistic style, high-precision modeling, ray tracing, global illumination, 4K resolution, ultra-realistic rendering, best quality, noble, mysterious, and terrifying. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

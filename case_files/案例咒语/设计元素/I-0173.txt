@@ -1,0 +1,3 @@
+CN：3d风格的等边六边形底座，顶视图，正面，深蓝色，粘土材料，光滑，简单，任天堂风格，游戏风格，柔和的灯光，白色背景，独奏，最佳品质，超级细节，
+EN：Equilateral hexagon base in 3d style, top view, front, dark blue, clay material, smooth, simple, Nintendo style, gaming style, soft light, white background, solo, best quality, super details, --q 1 --s 100 --ar 1:1 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

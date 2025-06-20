@@ -1,0 +1,2 @@
+CN：未来主义摩托车概念设计，电动摩托车，银色主体，黑色细节，橙色与蓝色灯光点缀，流线型车身，低矮底盘，无轮毂轮胎设计，极简主义风格，工业设计，产品渲染图，侧视图，深灰色背景，摄影棚灯光，高对比度，超高清细节，8K分辨率，最佳质量
+EN：Futuristic motorcycle concept design, electric motorcycle, silver body, black details, orange and blue lighting, streamlined body, low chassis, hubless tire design, minimalist style, industrial design, product rendering, side view, dark gray background, studio lighting, high contrast, ultra high definition details, 8K resolution, best quality --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

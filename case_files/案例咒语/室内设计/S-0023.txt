@@ -1,0 +1,4 @@
+CN：阿拉伯风格的VIP病房室内渲染图，有一张病床，阿拉伯风格装饰品，现代阿拉伯风格，室内设计，渲染图，
+EN：Arabian style VIP ward interior rendering, with a bed, Arabian style decorations, modern Arabian style, interior design, rendering, --q 1 --s 100 --ar 3:2 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

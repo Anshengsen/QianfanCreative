@@ -1,0 +1,3 @@
+CN：2.2D，恬静少女，汉服，侧卧，长发，黑色，发饰，精致，耳坠，瓜子脸，闭眼，微醺，皮肤白皙，柔和光线，唯美，梦幻，细节丰富，景深效果，背景虚化，花瓣飘落，8k，超高分辨率。
+EN：2.2D, quiet girl, Hanfu, lying on side, long hair, black, hair accessories, exquisite, earrings, oval face, closed eyes, slightly tipsy, fair skin, soft light, beautiful, dreamy, rich details, depth of field effect, blurred background, petals falling, 8k, ultra-high resolution. --q 5 --s 100 --ar 16:9 --niji 6  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

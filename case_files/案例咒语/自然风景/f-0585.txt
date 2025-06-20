@@ -1,0 +1,3 @@
+CN：电影摄影，海面，山脉，天空，云彩，水平构图，平静的海面，细节丰富的山石，粉色和橙色的天空，8K，超高清，最佳品质，自然光，大气透视，宁静氛围，广阔视野，海滩。
+EN：Cinematography, sea, mountains, sky, clouds, horizontal composition, calm sea, detailed rocks, pink and orange sky, 8K, Ultra HD, best quality, natural light, atmospheric perspective, tranquil atmosphere, wide view, beach. --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

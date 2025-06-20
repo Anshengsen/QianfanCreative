@@ -1,0 +1,3 @@
+CN：2.5D矢量插图，金融主题，极简主义，简单，显示器、键盘、金币等元素，金融贷款桌面ui，最小的场景设计，干净的组件，web，等距透视，干净的背景，
+EN：2.5D vector illustration, financial theme, minimalism, simplicity, monitor, keyboard, gold coins and other elements, financial loan desktop ui, minimal scene design, clean components, web, isometric perspective, clean background, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

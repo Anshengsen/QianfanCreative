@@ -1,0 +1,3 @@
+CN：扁平几何插画风格，撞色配色，噪点肌理，蓝色水面，绿色荷叶，肤色人像，橙色嘴唇，细节包括水面的波纹，荷叶的形状，人物的表情，整体画面梦幻唯美，风格现代，最佳品质，8K，矢量图形，干净利落，人物插画风格，水彩风格
+EN：Flat geometric illustration style, contrasting colors, noise texture, blue water surface, green lotus leaves, skin-colored portrait, orange lips, details include ripples on the water surface, the shape of the lotus leaves, the expression of the characters, the overall picture is dreamy and beautiful, modern style, best quality, 8K, vector graphics, clean and neat, character illustration style, watercolor style --s 100 --ar 3:5 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

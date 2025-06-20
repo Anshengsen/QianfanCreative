@@ -1,0 +1,3 @@
+CN：纯黑背景，一个圆角方形的3D图标，图标的屏幕上写着“Ai”，散发着蓝色的光，未来科技感，3D，图标的外框为黑色，平滑有关不规则，边缘霓虹光，最佳品质，立着，顺时针60°角度，独奏，
+EN：A pure black background, a rounded square 3D icon, the screen of the icon says "Ai", emitting blue light, a sense of future technology, 3D, the icon's frame is black, smooth and irregular, the edge is neon light, the best quality, standing, clockwise 60° angle, solo, --q 1 --s 100 --ar 1:1 --v 6.0 --p 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

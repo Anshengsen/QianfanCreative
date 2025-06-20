@@ -1,0 +1,3 @@
+CN：蒸汽波风格，一位美少女，轮廓模糊，色彩失真，带有明显的故障艺术效果，置身于充满复古未来主义元素的背景中，例如古希腊雕塑、日落棕榈树、网格线等等。画面整体弥漫着迷幻、怀旧的氛围。
+EN：Vaporwave style, a beautiful girl with blurred outlines, distorted colors, and obvious glitch art effects, placed in a background full of retro-futuristic elements, such as ancient Greek sculptures, sunset palm trees, grid lines, etc. The overall picture is filled with a psychedelic and nostalgic atmosphere. --q 5 --s 100 --ar 1:1 --niji 6--personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

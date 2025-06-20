@@ -1,0 +1,3 @@
+CN：卡通风格，浅蓝色和白色，左边是“重要事件”的便签框，右边上面是“重要文件”的便签框，下面是“主要工作”的便签框，右下角有一只绿色的卡通青蛙，整体风格可爱，简约，扁平化设计，柔和的色彩，干净的线条，最佳品质，8K，
+EN：Cartoon style, light blue and white, with a note box for "Important Events" on the left, a note box for "Important Documents" on the top right, and a note box for "Main Work" below, with a green cartoon frog in the lower right corner, the overall style is cute, simple, flat design, soft colors, clean lines, best quality, 8K, --s 50 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：白色T恤空白效果图，平铺在浅灰色木纹地板上，衣领和袖口细节清晰，柔软棉质材质，自然褶皱，高清3D渲染，适合展示服装设计和logo，自然光线，营造舒适的氛围，
+EN：White T-shirt blank rendering, flat on light grey wood grain floor, collar and cuffs with clear details, soft cotton material, natural folds, high definition 3D rendering, suitable for displaying clothing design and logo, natural light, creating a comfortable atmosphere, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

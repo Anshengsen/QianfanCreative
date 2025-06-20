@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，坐姿，双腿交叠，深蓝色休闲裤，白色运动鞋，鞋面有黑色点缀，鞋带，低帮，皮革材质，简约设计，纯色背景，浅棕色，柔和的室内光线，焦点在鞋子上，浅景深，突出鞋子细节。
+EN：Professional photography, 8K, shoe and boot advertising shooting, no face, sitting, legs crossed, dark blue casual pants, white sneakers, black embellishments on the upper, shoelaces, low-top, leather material, simple design, solid color background, light brown, soft indoor light, focus on the shoes, shallow depth of field, highlighting the details of the shoes. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

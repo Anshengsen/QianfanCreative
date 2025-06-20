@@ -1,0 +1,4 @@
+﻿CN：现代的酒店前台，亨德里克·特·布鲁根风格，密集的纹理或触觉表面，凯雷姆·贝伊特，浅白色和浅棕色，，UHD，32K，
+EN：Modern hotel reception, Hendrik T. Bruggen style, dense textured or tactile surfaces, Kerem Bayt, light white and light brown, UHD, 32K, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

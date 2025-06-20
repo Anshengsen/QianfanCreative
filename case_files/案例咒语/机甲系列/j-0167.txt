@@ -1,0 +1,3 @@
+CN：赛博朋克风格，全身像，一位亚洲女性机器人，银白色金属骨骼，精致五官，棕色长发扎成高马尾，蓝色眼睛，手持黑色设备，机械感，未来感，精细打光，8K，超高细节，最佳画质
+EN：Cyberpunk style, full-body portrait, an Asian female robot, silver-white metal skeleton, delicate facial features, long brown hair tied into a high ponytail, blue eyes, holding a black device, mechanical, futuristic, fine lighting, 8K, ultra-high details, best quality --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：童话风格的图书馆，19世纪，外观像巨大的书本，书页打开形成入口，内部充满书架和阅读区，阳光透过窗户洒落在书页上，温暖舒适，水彩渲染，近景，柔和光线，梦幻，最佳品质。
+EN：Fairytale style library, 19th century, the exterior looks like a huge book, the pages open to form an entrance, the interior is full of bookshelves and reading areas, the sun shines through the windows onto the pages, warm and comfortable, watercolor rendering, close-up, soft light, dreamy, best quality. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

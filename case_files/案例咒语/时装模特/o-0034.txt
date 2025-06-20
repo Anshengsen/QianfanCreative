@@ -1,0 +1,3 @@
+CN：一位年轻的亚裔男性模特，浅棕色皮肤，清爽的短发，单眼皮，棱角分明的脸庞，身穿休闲的白色T恤和牛仔裤，坐在木质地板上，双腿自然伸展，眼神温柔地看向镜头，自然光线，胶片质感，4K，干净清爽的工作室背景，
+EN：A young Asian male model, light brown skin, clean short hair, single eyelids, angular face, wearing a casual white T-shirt and jeans, sitting on a wooden floor, legs stretched naturally, looking gently at the camera, natural light, film texture, 4K, clean and refreshing studio background, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

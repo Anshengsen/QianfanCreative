@@ -1,0 +1,5 @@
+CN：一个拿着画笔在框架画架上画画的3D卡通女孩，丸子头，侧面，纯白背景，chibi，身穿棕色小皮裙和白色T恤，迪士尼皮克斯风格，卡通风格，3D渲染，OC渲染，盲盒风格，在cinema 4d中呈现，
+EN：A 3D cartoon girl drawing on a frame easel with a paintbrush, meatball head, side, pure white background, chibi, wearing a small brown leather skirt and a white T-shirt, Disney Pixar style, cartoon style, 3D rendering, OC rendering, blind box style, presented in cinema 4d, --q 1 --s 100 --ar 3:4 --v 6.0
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

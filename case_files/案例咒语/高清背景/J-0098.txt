@@ -1,0 +1,4 @@
+﻿CN：黑色的几何形态的抽象3D合成背景，正面视图，强调几何形状的深度和体积，3D，极简主义，
+EN：Black geometric abstract 3D compositing background, front view, emphasizing the depth and volume of geometric shapes, 3D, minimalism, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

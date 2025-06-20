@@ -1,0 +1,4 @@
+
+CN：一个三岁的小女孩，黑色长发，可爱，大眼睛，脏兮兮、穿着破破烂烂带有补丁的衣服，中国古代风格，站在原地，困惑的表情，中国古代建筑，全身，全景，正视图，
+EN：A three-year-old girl, long black hair, cute, big eyes, dirty, wearing tattered patched clothes, ancient Chinese style, standing in place, confused expression, ancient Chinese architecture, full body, panorama, front view,  --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

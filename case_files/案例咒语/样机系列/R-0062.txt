@@ -1,0 +1,3 @@
+CN：空白陶瓷茶杯，3D渲染，中式古典风格，白色瓷器茶杯，精细的纹理，放置在竹制茶盘上，周围环绕着绿植和茶叶，光线柔和，细节精致，高品质渲染，4K分辨率，空白茶杯可用于展示茶叶品牌或茶文化元素。
+EN：Blank ceramic teacup, 3D rendering, classical Chinese style, white porcelain teacup, fine texture, placed on a bamboo tea tray, surrounded by green plants and tea leaves, soft light, exquisite details, high-quality rendering, 4K resolution, blank teacup can be used to display tea brands or tea culture elements. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

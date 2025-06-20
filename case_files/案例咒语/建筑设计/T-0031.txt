@@ -1,0 +1,3 @@
+CN：传统的中式园林，明朝，外观像一座精致的庭院，亭台楼阁错落有致，假山流水，花草树木，充满诗情画意，中国画风格，远景，柔和光线，古典，最佳品质，逼真，
+EN：Traditional Chinese garden, Ming Dynasty, looks like an exquisite courtyard, with pavilions and towers scattered in an orderly manner, rockery and flowing water, flowers and trees, full of poetic and picturesque beauty, Chinese painting style, distant view, soft light, classical, best quality, realistic, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

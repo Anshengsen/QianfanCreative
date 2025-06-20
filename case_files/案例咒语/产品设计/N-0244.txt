@@ -1,0 +1,3 @@
+CN：红酒广告摄影，一瓶红酒斜插在泥土中，背景是葡萄园和日落的天空，光线柔和，营造出一种自然和浪漫的氛围，产品摄影，电影级光照，超高分辨率，8K，超细节，工作室质量,
+EN：Red wine advertising photography, a bottle of red wine is inserted diagonally into the soil, with vineyards and sunset sky in the background, soft light, creating a natural and romantic atmosphere, product photography, film-level lighting, ultra-high resolution, 8K, ultra-detailed, studio quality, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

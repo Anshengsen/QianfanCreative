@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，穿着深蓝色牛仔裤的模特，裤腿卷起，白色袜子，脚穿卡其色工装靴，靴子系带，橡胶鞋底，站在金属结构上，蓝色背景，人造光源，焦点集中在鞋靴上，细节清晰，质感强烈。
+EN：Professional photography, 8K, shoes and boots advertising shoot, no face, model in dark blue jeans with legs rolled up, white socks, khaki work boots with laces, rubber soles, standing on metal structure, blue background, artificial light, focus on shoes and boots, clear details, strong texture. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

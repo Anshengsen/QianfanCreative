@@ -1,0 +1,3 @@
+CN：动画Gif风格，一只超可爱的拟人化的橘黄色的猫，抱着一个大西瓜差点摔倒，夸张的姿势，摔倒前的动作，开心，可爱，穿着蓝色牛仔背带裤，白色背景，全身，画面上方留白，
+EN：Animated Gif style, a super cute anthropomorphic orange cat, holding a big watermelon and almost falling, exaggerated posture, movements before falling, happy, cute, wearing blue denim overalls, white background, full body, white space above the screen, --q 1 --s 100 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个有着黑白头发的动漫美少女，有刘海，穿着深灰色T恤，特写，90年代动漫风格，黑色背景，锐利的线条，流畅的笔触，
+EN：A beautiful anime girl with black and white hair, bangs, wearing a dark gray T-shirt, close-up, 90s anime style, black background, sharp lines, smooth brushstrokes, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

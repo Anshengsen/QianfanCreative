@@ -1,0 +1,3 @@
+CN：梦幻森林，溪流，瀑布，岩石，青苔，阳光透过树叶，光束，明亮，清澈的水，茂密的植被，丰富的色彩，自然光，广角，高饱和度，超现实主义，虚幻引擎，8K，超高细节，最佳品质，艺术品
+EN：Fantasy forest, stream, waterfall, rocks, moss, sunlight through leaves, light beams, bright, clear water, lush vegetation, rich colors, natural light, wide angle, high saturation, hyperrealism, Unreal Engine, 8K, ultra high detail, best quality, artwork --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

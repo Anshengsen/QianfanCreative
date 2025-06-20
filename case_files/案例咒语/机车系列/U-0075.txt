@@ -1,0 +1,2 @@
+CN：未来感，超级跑车，概念车，尾部视角，停在崎岖不平的地面，夜晚，山脉背景，动态模糊，飞溅的火花，深色调，红色尾灯，流线型车身，光泽感，电影级光照，高质量，高细节，8K。
+EN：Futuristic, supercar, concept car, rear view, parked on rough ground, night, mountains in the background, motion blur, flying sparks, dark tones, red taillights, streamlined body, glossy, cinematic lighting, high quality, high details, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

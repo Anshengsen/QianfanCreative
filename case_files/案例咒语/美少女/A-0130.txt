@@ -1,0 +1,4 @@
+
+CN：中国隋朝风格，一个中国女孩，独奏，腮红、眼妆和口红，中国旧漫画风格，数字绘画，粗线条，迷人的人物，浪漫的女性气质，平面阴影，
+EN：Chinese Sui Dynasty style, a Chinese girl, solo, blush, eye makeup and lipstick, old Chinese comic style, digital painting, thick lines, charming characters, romantic femininity, flat shadows,  --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

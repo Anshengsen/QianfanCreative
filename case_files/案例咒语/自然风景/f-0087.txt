@@ -1,0 +1,3 @@
+CN：英国伦敦大本钟，白天，中景，对称构图，阳光，建筑，历史感，庄严，最佳品质，8K，超细节，超品质
+EM：Big Ben in London, England, daytime, medium shot, symmetrical composition, sunlight, architecture, sense of history, solemnity, best quality, 8K, ultra detail, ultra quality --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

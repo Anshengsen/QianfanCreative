@@ -1,0 +1,3 @@
+CN：3D模型渲染，粘土材料，一只运动鞋漂浮在半空中，灰黄色和白色的鞋身，深橙色的鞋底，黄绿色的鞋带，光滑，在cinema 4d中建模，使用octane渲染器进行渲染，柔光，最佳品质，3D，纯白背景，
+EN：3D model rendering, clay material, a sneaker floating in mid-air, gray-yellow and white shoe body, dark orange sole, yellow-green laces, smooth, modeled in cinema 4d, rendered with octane renderer, soft light, best quality, 3D, pure white background, --q 1 --s 100 --ar 1:1 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

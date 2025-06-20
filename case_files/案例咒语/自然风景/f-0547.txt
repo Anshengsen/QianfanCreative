@@ -1,0 +1,3 @@
+CN：花卉，特写，粉色和蓝色，梦幻，超现实主义，细节丰富，光泽感，柔和光线，高品质，8k，艺术感，唯美，花瓣的纹理，花蕊的细节，色彩的渐变，背景虚化，梦幻般的氛围，精致，浪漫，充满活力。
+EN：flowers, close-up, pink and blue, dreamy, surreal, rich details, glossy, soft light, high quality, 8k, artistic, beautiful, the texture of the petals, the details of the stamens, the gradient of colors, blurred background, dreamy atmosphere, exquisite, romantic, full of vitality. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

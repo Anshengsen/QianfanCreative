@@ -1,0 +1,3 @@
+CN：一只巨大的章鱼描边形状，无实色，线条，周围漂浮着几只小鱼，线条艺术，线条，特写，白色背景，单色，抽象，矢量，
+EN：A giant octopus outline shape, no solid color, lines, with several small fish floating around it, line art, lines, close-up, white background, monochrome, abstract, vector, --q 1 --s 100 --ar 1:1 --v 6.0 --tile 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

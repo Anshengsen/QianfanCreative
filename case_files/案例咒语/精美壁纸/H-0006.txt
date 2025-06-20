@@ -1,0 +1,4 @@
+﻿CN：一个穿着连帽衫的男人在全神贯注的使用笔记本电脑，正面视图，赛博朋克光照明，真实摄影，逼真又丰富的细节，半身特写镜头，超高质量，UHD，
+EN：A man in a hoodie engrossed in a laptop, front view, cyberpunk lighting, realistic photography, realistic and rich detail, half-length close-ups, super high quality, UHD, --q 1 --s 100 --ar 16:9 --v 6.0 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

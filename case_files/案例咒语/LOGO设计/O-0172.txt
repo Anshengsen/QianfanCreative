@@ -1,0 +1,3 @@
+CN：LOGO，对称图形，蝴蝶形状的红色花瓣，红色，渐变，模糊，白色背景，中心对称，抽象，艺术设计，数字艺术，
+EN：LOGO, symmetrical graphics, red petals in the shape of a butterfly, red, gradient, blur, white background, central symmetry, abstract, art design, digital art, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

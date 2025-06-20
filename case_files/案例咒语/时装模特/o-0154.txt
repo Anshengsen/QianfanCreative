@@ -1,0 +1,3 @@
+CN：专业摄影，亚洲女性，正面，半身像，略微侧身，自然放松姿态，短发，齐肩，微卷，棕色发色，自然光泽，柔和的微笑，眼神温柔，淡妆，眉形自然，细长睫毛，浅色唇妆，穿着宽松的浅蓝色格子衬衫，内搭白色印花T恤，衬衫下摆系结，蓝色牛仔裤，整体风格休闲，清新，日常，背景为纯色浅米色，柔和光线，无阴影，细节清晰，高分辨率。
+EN：Professional photography, Asian woman, front, half-length portrait, slightly sideways, natural and relaxed posture, short hair, shoulder-length, slightly curly, brown hair color, natural luster, soft smile, gentle eyes, light makeup, natural eyebrows, slender eyelashes, light lip makeup, wearing a loose light blue plaid shirt, a white printed T-shirt inside, the shirt hem is tied, blue jeans, the overall style is casual, fresh, everyday, the background is solid light beige, soft light, no shadow, clear details, high resolution. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

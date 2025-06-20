@@ -1,0 +1,3 @@
+CN：秋天，落叶，枫叶，棕色和橙色，电影感，超高分辨率，8K，超细节，自然光，大气透视，广角镜头，摄影作品，树木，落叶堆积，季节变换
+EN：autumn, falling leaves, maple leaves, brown and orange, cinematic, ultra high resolution, 8K, ultra detail, natural light, atmospheric perspective, wide angle lens, photography, trees, pile of fallen leaves, changing seasons --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

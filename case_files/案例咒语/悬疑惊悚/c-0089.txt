@@ -1,0 +1,3 @@
+CN：中国漫画，中国乡村风格，一个英俊的20岁中国男孩，在乡村胡同里奔跑，正面，第三人称视角，夜晚，8K，珀西·塔兰特，恐怖漫画风格，漫画风格，2D，锐利的线条，
+EN：Chinese comic, Chinese country style, a handsome 20-year-old Chinese boy, running in a rural alley, frontal, third-person perspective, night, 8K, Percy Tarrant, horror comic style, comic style, 2D, sharp lines, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

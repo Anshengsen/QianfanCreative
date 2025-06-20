@@ -1,0 +1,3 @@
+CN：空白效果图，两个不同大小的白色纸杯，带盖，简约风格，浅绿色背景，阴影效果，产品展示，特写，高分辨率，8K。
+EN：Blank rendering of two white paper cups of different sizes with lids, minimalist style, light green background, shadow effect, product display, close-up, high resolution, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

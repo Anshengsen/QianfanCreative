@@ -1,0 +1,3 @@
+CN：漫画风格，特写镜头，聚焦人物，锐利的线条，细腻的笔触，有光泽的头发，一个穿着原神服装盔甲的古风美男子从一座极美的岛屿上方翱翔，下方是梦幻的蓬莱仙岛，采用中国国潮漫画风格，原画，漫画，最佳品质，超级丰富的细节，
+EN：Comic style, close-up shots, focused characters, sharp lines, delicate brushstrokes, glossy hair, an ancient-style man in the armor of the original god costume soars above a beautiful island, below is the dreamy Penglai Xiandao, in the style of Chinese Guochao comics, original paintings, comics, the best quality, super rich details, --q 1 --s 100 --ar 3:2 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：矢量，一只可爱的绿青蛙玩笔记本电脑的插图，粉色背景，极简主义，居中构图，卡通可爱风格，
+EN：Vector, illustration of a cute green frog playing with a laptop, pink background, minimalism, centered composition, cartoon cute style, --q 1 --s 100 --ar 16:9 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

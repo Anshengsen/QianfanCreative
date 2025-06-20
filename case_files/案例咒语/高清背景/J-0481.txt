@@ -1,0 +1,3 @@
+CN：抽象背景，渐变，深蓝色，青色，对角线，几何形状，锐利边缘，深色背景，极简主义，高对比度，现代艺术，数字艺术，4K。
+EN：Abstract background, gradient, dark blue, cyan, diagonal lines, geometric shapes, sharp edges, dark background, minimalism, high contrast, modern art, digital art, 4K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

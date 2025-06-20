@@ -1,0 +1,3 @@
+CN：卡通风格，宠物店logo，一只快乐的腊肠犬，奔跑姿势，身体是钢琴键盘图案，黑白相间，线条简洁，配色柔和，米色和黑色为主，字母“DreamLab”，白色背景，矢量风格，最佳品质。
+EN：Cartoon style, pet shop logo, a happy dachshund, running posture, the body is a piano keyboard pattern, black and white, simple lines, soft color matching, mainly beige and black, the letters "DreamLab", white background, vector style, best quality. --q 1 --s 100 --ar 1:1 --v 6.1 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

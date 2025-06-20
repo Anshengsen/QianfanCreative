@@ -1,0 +1,3 @@
+CN：动漫风格，半身像，年轻女性，亚洲人，黑发与红色挑染，长发扎成高马尾，紫红色眼睛，略带微笑，黑色西装外套，白色衬衫，红色斜纹领带，黑白条纹内搭，右手持武士刀（刀柄金色，刀身红色），哥特风，轻微侧身，头部略微向右倾斜，眼神看向左侧，深色背景，微弱星光，精致五官，细节光影，高品质，8K，超精细
+EN：Anime style, half-length portrait, young woman, Asian, black hair with red highlights, long hair tied in a high ponytail, purple eyes, slightly smiling, black suit jacket, white shirt, red twill tie, black and white striped inner wear, holding a samurai sword in the right hand (gold handle, red blade), Gothic style, slightly sideways, head slightly tilted to the right, eyes looking to the left, dark background, faint starlight, delicate facial features, detailed light and shadow, high quality, 8K, ultra-fine --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：空白效果图，两本精装书，绿色封面，并排竖立，一张简约风格，白色背景，正面视角，产品展示，高清，8K
+EN：Blank rendering of two hardcover books with green cover standing side by side, simple style, white background, front view, product display, HD, 8K --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

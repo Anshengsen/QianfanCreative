@@ -1,0 +1,3 @@
+CN：漫画描绘的是夜晚的中国乡村街道，一排简陋的泥屋，中间是一条石板路，动漫风格，漫画风格，诡异的迷雾，树下，
+EN：The cartoon depicts a Chinese rural street at night, a row of simple mud houses, a stone road in the middle, anime style, comic style, strange fog, under the trees, --q 1 --s 100 --ar 3:2 --niji 6 --personalize 7zkr58d 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

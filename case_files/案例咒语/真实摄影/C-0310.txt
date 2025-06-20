@@ -1,0 +1,3 @@
+CN：时尚人像摄影，一位混血女性，黑色波波头，齐刘海，穿着黑色高领毛衣，皮肤光泽，妆容精致，眼神迷离，背景模糊，暖色调，最佳品质。
+EN：Fashion portrait photography of a mixed race woman with black bob and bangs, wearing a black turtleneck sweater, shiny skin, delicate makeup, blurred eyes, blurred background, warm tones, best quality. --s 50 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

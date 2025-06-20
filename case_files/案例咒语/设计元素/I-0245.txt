@@ -1,0 +1,4 @@
+CN：卡通矢量插图，白色背景孤立的樱桃和花朵图案，卡通风格，扁平风格，极简主义，
+EN：Cartoon vector illustration, cherry and flowers pattern isolated on white background, cartoon style, flat style, minimalism, --q 1 --s 100 --ar 1:1 --v 6.1
+（抱一丝，忘记加--tile参数了，记得在英文提示词最后加上“--tile”以实现无缝纹理贴图效果） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

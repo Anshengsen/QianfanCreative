@@ -1,0 +1,4 @@
+﻿CN：一个英俊的年轻剑客，男性，侧脸，中国古风，黑发，武侠风格，持刀，战斗姿势，动漫风格，细腻的发丝，细节刻画，丰富细节，最佳分辨率，
+EN：A handsome young swordsman, male, side face, ancient Chinese style, black hair, martial arts style, knife-wielding, combat posture, animation style, delicate hair, detailed portrayal, rich details, best resolution, --q 1 --s 100 --ar 3:2 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

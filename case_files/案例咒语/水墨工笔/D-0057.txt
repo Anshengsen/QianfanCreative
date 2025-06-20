@@ -1,0 +1,3 @@
+CN：吴冠中画的荷花，正视图，黑色，玫红色的花蕊，水墨意境，水墨风格，抽象简单线条，极简主义，毕加索，强烈对比，白色背景，
+EN：Lotus painting by Wu Guanzhong, front view, black, rose red stamens, ink mood, ink style, abstract simple lines, minimalism, Picasso, strong contrast, white background, --q 5 --s 200 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

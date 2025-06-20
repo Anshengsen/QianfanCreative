@@ -1,0 +1,4 @@
+﻿CN：复杂的细节，戴着安全帽的工程师穿过具有各种金属加工工艺的重工业制造工厂，逼真，真实摄影，超高清，半身特写镜头，下午，
+EN：Intricate detail, hard-hat-wearing engineers walk through heavy industrial manufacturing plants with a variety of metalworking techniques, photorealistic, realistic photography, ultra-high definition, half-body close-ups, afternoon, --q 1 --s 100 --ar 16:9 --v 6.0 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

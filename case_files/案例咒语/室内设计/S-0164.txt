@@ -1,0 +1,3 @@
+CN：室内设计，现代风格，深色调，黑色墙面，木质元素，灰色沙发，黑色茶几，地毯，蜡烛，艺术画作，灯光设计，简约，高品质，8K，超细节，电影感，摄影级光照，真实感渲染。
+EN：Interior design, modern style, dark tones, black walls, wooden elements, gray sofa, black coffee table, carpet, candles, art paintings, lighting design, simple, high quality, 8K, ultra-detailed, cinematic, photographic lighting, realistic rendering. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

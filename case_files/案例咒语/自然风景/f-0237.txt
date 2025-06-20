@@ -1,0 +1,3 @@
+CN：冬季雪景，广角镜头，明亮的蓝色天空，阳光充足，被白雪覆盖的树木，树枝上有霜，地面完全被白雪覆盖，形成平滑的雪原，远处的树木模糊，营造出景深效果，自然光，冷色调，高对比度，清晰的细节，8K，超高清。
+EN：Winter snow scene, wide angle shot, bright blue sky, full sun, snow covered trees, frost on branches, ground completely covered with snow, forming a smooth snow field, trees in the distance are blurred, creating a depth of field effect, natural light, cold tones, high contrast, crisp details, 8K, Ultra HD. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

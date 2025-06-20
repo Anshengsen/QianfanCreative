@@ -1,0 +1,3 @@
+CN：产品摄影，黑色香水瓶，木炭，石头，树枝，深色背景，自然光，8K，超高质量，细节丰富，哑光质感，粗犷，原始，
+EN：Product photography, black perfume bottle, charcoal, stones, branches, dark background, natural light, 8K, ultra high quality, rich details, matte texture, rough, raw, --s 100 --ar 1:1 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

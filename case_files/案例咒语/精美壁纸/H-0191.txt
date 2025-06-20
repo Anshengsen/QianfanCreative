@@ -1,0 +1,3 @@
+CN：写实风格的人像摄影，特写，一位亚洲女性，瓜子脸，长直发，戴着金属边框圆形眼镜，部分遮挡住眼睛，手指轻触嘴唇，眼神略带忧郁，穿着白色上衣（部分可见），背景简洁明亮，光线柔和，侧光照明，丁达尔，柔和的阴影，营造出一种朦胧唯美的氛围，高清晰度，高品质。
+EN：Portrait photography in realistic style, close-up, an Asian woman, with an oval face, long straight hair, wearing metal-rimmed round glasses, partially covering her eyes, her fingers touching her lips, her eyes slightly melancholy, wearing a white top (partially visible), the background is simple and bright, the light is soft, the side lighting, the tindal, the soft shadows create a hazy and aesthetic atmosphere, high definition, high quality, --q 1 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

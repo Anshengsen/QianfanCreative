@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个亚洲女性，站立姿势，身体略微侧倾，单手扶墙，另一只手自然下垂，长发，深棕色，身穿朱红色细带上衣，心形领口，下摆呈不规则尖角，搭配深蓝色宽松阔腿裤，裤子腰部有抽绳设计，整体风格时尚，背景为模糊的室内或室外场景，光线柔和，自然。
+EN：Professional photography, 8K, an Asian woman, standing posture, body slightly tilted to the side, one hand holding the wall, the other hand hanging naturally, long hair, dark brown, wearing a vermilion spaghetti-strap top with a heart-shaped neckline and irregular pointed hem, paired with dark blue loose wide-leg pants with a drawstring design at the waist, the overall style is fashionable, the background is a blurred indoor or outdoor scene, the light is soft and natural. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face appears
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

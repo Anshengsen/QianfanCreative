@@ -1,0 +1,3 @@
+CN：LOGO设计，彩色拼图，几何图形，渐变色，蓝色，紫色，橙色，方形，圆形，重叠，简约，白色背景，扁平设计，抽象，标志，图标，矢量，高分辨率。
+EN：Logo design, colorful puzzle, geometric shapes, gradient colors, blue, purple, orange, square, circle, overlapping, simple, white background, flat design, abstract, logo, icon, vector, high resolution. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

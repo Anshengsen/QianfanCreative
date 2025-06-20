@@ -1,0 +1,3 @@
+CN：复古肌理插画风格，噪点纹理，做旧感，冷色调，灰蓝色背景，白色宇宙之花，棕色无脸人像，极简抽象，细节包括花瓣的脉络，花蕊的质感，人物的衣着线条，整体画面安静平和，色彩淡雅，最佳品质，8K，模拟水彩笔触，颗粒感，柔和光线
+EN：Retro texture illustration style, noise texture, old feeling, cold color, gray-blue background, white cosmic flower, brown faceless portrait, minimalist abstract, details include the veins of the petals, the texture of the stamens, the lines of the characters' clothes, the overall picture is quiet and peaceful, the colors are elegant, the best quality, 8K, simulated watercolor brushstrokes, graininess, soft light --s 100 --ar 9:16 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

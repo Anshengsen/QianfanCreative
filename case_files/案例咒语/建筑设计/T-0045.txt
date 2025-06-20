@@ -1,0 +1,3 @@
+CN：树屋形状的度假别墅，自然风格，现代，依附在一棵巨大的古树上，木质结构与周围环境融为一体，暖黄色灯光，水彩渲染，清晨场景，侧面构图，4K，温馨，大自然感，
+EN：Holiday villa in the shape of a tree house, natural style, modern, attached to a huge old tree, wooden structure blends in with the surroundings, warm yellow lighting, watercolor rendering, early morning scene, side composition, 4K, warmth, sense of nature, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

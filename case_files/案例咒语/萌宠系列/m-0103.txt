@@ -1,0 +1,3 @@
+CN：3D动画风格的黑猫，可爱，天真，大大的眼睛，室内背景，温暖的自然光，最佳品质，8K，对称构图，
+EN：3D anime style black cat, cute, innocent, big eyes, indoor background, warm natural light, best quality, 8K, symmetrical composition, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

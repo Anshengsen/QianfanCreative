@@ -1,0 +1,3 @@
+CN：产品摄影，咖啡广告，雀巢咖啡瓶悬浮在空中，下方是一杯热咖啡，咖啡杯放置在绿色的草地上，周围散落着咖啡豆，背景是日落时分的山丘，光线温暖，突出咖啡的颜色和香气，细节丰富，焦点清晰，电影级质感，8K，超高分辨率，梦幻般的场景，
+EN：Product photography, coffee advertising, Nespresso bottle suspended in the air, a cup of hot coffee below, the cup placed on green grass, coffee beans scattered around, the background is the hills at sunset, the light is warm, highlighting the color and aroma of the coffee, rich details, sharp focus, film-level texture, 8K, ultra-high resolution, dreamy scene, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

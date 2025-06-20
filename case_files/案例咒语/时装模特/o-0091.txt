@@ -1,0 +1,3 @@
+CN：一件雪纺衬衫，淡粉色，印花是碎花图案，宽松飘逸，浪漫田园风，白色背景，平铺，正视图，居中，轻盈飘逸质感，碎花图案清晰，高分辨率，高清渲染。
+EN：A chiffon shirt, light pink, with a floral print, loose and flowing, romantic pastoral style, white background, flat, front view, centered, light and flowing texture, clear floral pattern, high resolution, high-definition rendering. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,5 @@
+
+CN：一个亚洲女孩，日本摄影风格，绝美的妆容，精致的五官，白皙的皮肤，精致的耳饰，明亮的环境，浅黑色额绿色，devilcore风格，新流行音乐，哑光照片，详细的服装，藏青色背景，肖像特写，最高质量，极致降噪，
+
+EN：An Asian girl, Japanese photography style, stunning makeup, exquisite facial features, fair skin, delicate earrings, bright environment, light black forehead green, devilcore style, new pop music, matte photos, detailed clothing, navy blue background, portrait close-up, highest quality, extreme noise reduction, --q 5 --s 180 --ar 3:4 --v 5.2 --style raw --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

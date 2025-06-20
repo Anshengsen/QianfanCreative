@@ -1,0 +1,4 @@
+﻿CN：为Discord做的的机器人头像，可爱的简单LOGO，LOGO设计，插图，机器人，可爱的机器人，抽象流，霓虹灯，人工智能，简单，空间背景，卡通模型，可爱，粉色，卡哇伊，坐着，
+EN：Robot avatar for Discord, cute simple LOGO, LOGO design, illustration, robot, cute robot, abstract flow, neon, artificial intelligence, simple, space background, cartoon model, cute, pink, kawaii, sitting, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

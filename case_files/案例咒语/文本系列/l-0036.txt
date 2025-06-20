@@ -1,0 +1,3 @@
+CN：使用3D油漆写着单词“AIGC”，孤立在白色背景上，
+EN：The word "AIGC" is written using 3D paint, isolated on a white background. --q 1 --s 50 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

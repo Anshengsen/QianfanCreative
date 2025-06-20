@@ -1,0 +1,4 @@
+﻿CN：一杯拿铁咖啡和美式饼干，极简主义照片，在白色大理石桌子背景上，顶视图，高品质，真实摄影，居中，
+EN：A cup of latte and American cookies, minimalist photos, on a white marble table background, top view, high quality, authentic photography, centered, --q 1 --s 100 --v 5.2 --ar 3:4 
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：设计一个抽象、简约的徽标，围绕字母M设计，由简单干净的线条构成，白色背景，
+EN：Design an abstract, minimalist logo designed around the letter M, made of simple, clean lines, on a white background, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

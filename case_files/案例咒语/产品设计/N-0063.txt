@@ -1,0 +1,3 @@
+CN：3D模型渲染，一个羽毛球拍，漂浮在半空中，PVC塑料，光滑，在cinema 4d中建模，使用octane渲染器进行渲染，柔光，最佳品质，3D，纯白背景，
+EN：3D model rendering, a badminton racket, floating in mid-air, PVC plastic, smooth, modelled in cinema 4d, rendered with octane renderer, soft light, best quality, 3D, pure white background, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

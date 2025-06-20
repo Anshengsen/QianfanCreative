@@ -1,0 +1,3 @@
+CN：线条风格图标设计，一组宠物相关的图标，颜色为蓝色、红色和黑色，线条纤细，整体风格简约可爱，具有温馨感和趣味感，细节包括图标的形状，线条的粗细，以及图案的细节，最佳品质，8K，矢量图形，白色背景，
+EN：Line style icon design, a set of pet-related icons, the colors are blue, red and black, the lines are thin, the overall style is simple and cute, with a sense of warmth and fun, the details include the shape of the icon, the thickness of the line, and the details of the pattern, best quality, 8K, vector graphics, white background, --q 1 --s 50 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

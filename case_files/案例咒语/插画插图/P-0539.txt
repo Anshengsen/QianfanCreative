@@ -1,0 +1,3 @@
+CN：现代简约插画风格，人物，亲吻场景，鲜艳配色，简约线条，矢量图形，无阴影，卡通风格，插画设计，海报风格，爱情插画，细节简洁，视觉冲击力，创意插画，时尚元素，浪漫，温馨，简约风格，创意，灵感，情感，人物肖像，细节装饰，时尚元素，简约风格，创意，灵感，情感，爱情主题，简约风格，创意，灵感，情感，
+EN：Modern minimalist illustration style, characters, kissing scene, bright colors, simple lines, vector graphics, no shadows, cartoon style, illustration design, poster style, love illustration, simple details, visual impact, creative illustration, fashion elements, romance, warmth, minimalist style, creativity, inspiration, emotion, character portrait, detail decoration, fashion elements, minimalist style, creativity, inspiration, emotion, love theme, minimalist style, creativity, inspiration, emotion, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

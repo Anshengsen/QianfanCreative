@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，一件男士夹克，基础款式，立领，拉链开襟，长袖，袖口和下摆有松紧收口设计，纯色，卡其色，涤纶材质，表面光滑，有轻微光泽感，环境光照明，焦点清晰集中于服装整体。
+EN：Professional clothing photography, 8K, front view, white background, one man's jacket, basic style, stand-up collar, zipper placket, long sleeves, elastic cuffs and hem, solid color, khaki, polyester material, smooth surface with slight sheen, ambient lighting, sharp focus on the garment as a whole. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

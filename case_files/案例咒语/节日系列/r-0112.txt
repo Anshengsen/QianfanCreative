@@ -1,0 +1,3 @@
+CN：3D渲染，万圣节南瓜灯雕刻大赛场景: 多个参赛者围绕着巨大的南瓜，手持雕刻工具，南瓜表面光滑，细节清晰可见，周围散落着各种雕刻工具和南瓜碎片，背景是木质地板和欢呼的观众，灯光温暖明亮，营造热闹的氛围，4K分辨率，超写实渲染，最佳质量，逼真的材质，精细的细节，动态效果，人物表情生动。
+EN：3D rendering, Halloween Jack-O-Lantern Carving Competition scene: multiple contestants surround a huge pumpkin, holding carving tools, the pumpkin has a smooth surface and clear details, various carving tools and pumpkin fragments are scattered around, the background is a wooden floor and cheering audiences, the lighting is warm and bright, creating a lively atmosphere, 4K resolution, hyper-realistic rendering, best quality, realistic materials, fine details, dynamic effects, and vivid expressions of characters. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

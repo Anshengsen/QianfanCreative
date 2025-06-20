@@ -1,0 +1,3 @@
+CN：专业摄影，8K，下半身像特写，女性，站立姿势，略微侧身，高腰黑色宽松长裤，银色链条腰带，白色运动鞋，棕色手提包，深色长发，自然垂落，背景为雪地和圣诞装饰，整体氛围偏向冬季时尚，简约风格。
+EN：Professional photography, 8K, close-up of lower body, woman, standing pose, slightly sideways, high-waisted black loose trousers, silver chain belt, white sneakers, brown handbag, long dark hair, naturally hanging, background is snow and Christmas decorations, the overall atmosphere tends to be winter fashion, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

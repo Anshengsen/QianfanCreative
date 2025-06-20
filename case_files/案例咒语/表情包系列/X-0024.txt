@@ -1,0 +1,3 @@
+CN：9种姿势和表情，3x3平等排列布局，如：快乐，愤怒，笑，悲伤，哭，可爱，失望，惊讶，无语，害羞，加菲猫，角色一致性，纯白背景，
+EN：9 poses and expressions, 3x3 equal arrangement layout, such as: happy, angry, laughing, sad, crying, cute, disappointed, surprised, speechless, shy, Garfield, character consistency, pure white background, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

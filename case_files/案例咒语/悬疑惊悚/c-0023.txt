@@ -1,0 +1,4 @@
+﻿CN：一群可爱的小幽灵在黑暗的环境中，浅米色和琥珀色，可爱，卡通，戏剧性的手势，充满活力，正面，
+EN：A group of cute little ghosts in a dark environment, light beige and amber, cute, cartoon, dramatic gestures, vibrant, frontal, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

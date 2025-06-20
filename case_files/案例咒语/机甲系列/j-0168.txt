@@ -1,0 +1,3 @@
+CN：赛博朋克风格，一个亚洲女性，长发，金发，精致的五官，坚毅的眼神，身穿黑色紧身机械战甲，手持未来科技武器，身后是一个巨大的机器人，城市街道背景，烟雾缭绕，花瓣飞舞，机械细节，科幻感，全身镜头，高角度拍摄，冷色调，电影级光照，超高质量，8K，超清细节
+EN：Cyberpunk style, an Asian woman, long hair, blonde hair, delicate features, determined eyes, wearing black tight mechanical armor, holding future technology weapons, behind her is a huge robot, city street background, smoke, petals flying, mechanical details, science fiction, full body shot, high angle shot, cold colors, movie-level lighting, ultra-high quality, 8K, ultra-clear details --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

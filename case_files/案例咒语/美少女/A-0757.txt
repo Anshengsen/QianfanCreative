@@ -1,0 +1,3 @@
+CN：现代摄影照片，写实，一位亚洲女性，长发披肩，发色偏棕，微笑，身穿米色短袖针织衫和棕色短裙，坐在岩石上，双手交叠放在腿上，身体微微侧向镜头，背景是模糊的绿色植物和水面，自然光，柔和的色调。
+EN：Modern photography, realistic, of an Asian woman with shoulder-length brown hair, smiling, wearing a beige short-sleeved sweater and brown skirt, sitting on a rock, with her hands folded on her legs, her body slightly turned towards the camera, with blurred green plants and water in the background, natural light, soft tones. --q 1 --s 100 --ar 3:5 --v 6.0 --profile 8q826cc --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

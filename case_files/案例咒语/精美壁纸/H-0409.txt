@@ -1,0 +1,3 @@
+CN：热带植物叶片，茂盛，深绿色调，浅绿色调，明暗对比，叶脉纹理清晰，交错叠放，俯视视角，密集构图，自然光感，高清质感，壁纸，
+EN：Tropical plant leaves, lush, dark green, light green, light and dark contrast, clear vein texture, staggered stacking, top view, dense composition, natural light, high-definition texture, wallpaper, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

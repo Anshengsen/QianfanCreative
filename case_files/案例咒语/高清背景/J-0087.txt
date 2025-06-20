@@ -1,0 +1,4 @@
+﻿CN：漫画书风格，红色和黄色超级漫画在黄色背景上呈放射性爆发，以uhd图像的风格，使用纸张，帕特里克·布朗，气圈，装饰元素，刺破的画布，异想天开的动画，
+EN：Comic book style, red and yellow super comics with radioactive bursts on yellow backgrounds, in the style of UHD images, using paper, Patrick Brown, gas circles, decorative elements, punctured canvases, whimsical animations, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

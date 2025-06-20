@@ -1,0 +1,3 @@
+CN：意大利多洛米蒂山脉风光，秋季，圣玛格达莱纳村，远景，雪山，金色的落叶松，绿色的草地，教堂，村庄，晴朗天空，清晨阳光，自然光，广角镜头，高饱和度，风景摄影，真实感，8K，超高清细节
+EN：Italian Dolomites scenery, autumn, Santa Magdalena village, distant view, snowy mountains, golden larch, green meadows, church, village, clear sky, morning sun, natural light, wide angle lens, high saturation, landscape photography, photorealistic, 8K, ultra high definition details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

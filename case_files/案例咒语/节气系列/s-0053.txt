@@ -1,0 +1,3 @@
+CN：春日公园，室外场景，商业插画，手绘风格，2024年春分时节，春分，温暖阳光，嫩绿草地，樱花盛开，湖面波光粼粼，远处山色空濛，行人漫步，宠物嬉戏，自然和谐，透视构图，细致景深，高品质画面。
+EN：Spring park, outdoor scene, commercial illustration, hand-drawn style, 2024 spring equinox, spring equinox, warm sunshine, green grass, cherry blossoms in bloom, sparkling lake, empty mountains in the distance, pedestrians walking, pets playing, natural harmony, perspective Composition, detailed depth of field, high quality picture. --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

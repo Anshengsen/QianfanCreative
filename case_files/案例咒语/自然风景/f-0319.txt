@@ -1,0 +1,3 @@
+CN：乡间小桥，木质桥面，自行车，日落，金色天空，绿色稻田，水渠，倒影，自然光，暖色调，广角，低角度，对称构图，宁静，乡村风光，摄影，真实感，高细节，8K
+EN：Countryside bridge, wooden bridge, bicycle, sunset, golden sky, green rice fields, canal, reflection, natural light, warm colors, wide angle, low angle, symmetrical composition, tranquility, rural scenery, photography, realism, high details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

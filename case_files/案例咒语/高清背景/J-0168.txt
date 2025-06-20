@@ -1,0 +1,4 @@
+﻿CN：由蓝色和紫色的发光抽象线条组成，深蓝色背景，线条相交交织形成光滑的高科技几何形态，散发出微妙的光芒，光滑的曲线风格，明亮，8k，最佳品质，
+EN：Composed of luminous abstract lines of blue and purple, with a dark blue background, the lines intersect to form a smooth high-tech geometric form, emitting a subtle glow, smooth curvilinear style, bright, 8k, the best quality, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

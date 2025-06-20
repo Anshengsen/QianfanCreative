@@ -1,0 +1,3 @@
+CN：一件印花T恤，白色底色，印有彩色热带花卉图案，圆领设计，休闲风格，鲜艳色彩，深灰色背景，平铺，正视图，图案细节清晰，高清渲染，逼真，
+EN：A printed t-shirt with colorful tropical floral print on white background, round neck design, casual style, bright colors, dark grey background, flat lay, front view, clear pattern details, HD rendering, realistic, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

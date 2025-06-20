@@ -1,0 +1,3 @@
+CN：开启状态下的圆形的飞船中的舱门，特写，红色和蓝色，对称构图，3D渲染，辛烷值渲染，超清，极致降噪，霓虹灯照明， 
+EN：The hatch in the round spacecraft in the open state, close-up, red and blue, symmetrical composition, 3D rendering, octane rendering, ultra-clear, extreme noise reduction, neon lighting, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

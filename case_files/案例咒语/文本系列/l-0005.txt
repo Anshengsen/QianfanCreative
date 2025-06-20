@@ -1,0 +1,3 @@
+CN：“Midjourney”，以霓虹绿和橙色涂鸦风格写在纯白色背景上，街头艺术风格，涂鸦元素，数字艺术，数字图像，标志设计，白色背景，矢量，
+EN："Midjourney" written in neon green and orange graffiti style on pure white background, street art style, graffiti elements, digital art, digital image, logo design, white background, vector, --q 1 --s 100 --ar 3:2 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

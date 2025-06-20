@@ -1,0 +1,3 @@
+CN：秋日景象，金黄色调，落叶满地，公园场景，广角镜头，明亮光线，树木特写，自然风光，高清画质，色彩饱和度高，层次丰富，暖色调，环境光秋日景象，金黄色调，落叶满地，公园场景，广角镜头，明亮光线，树木特写，自然风光，高清画质，色彩饱和度高，层次丰富，暖色调，环境光
+EN：Autumn scene, golden tones, fallen leaves, park scene, wide-angle lens, bright light, tree close-up, natural scenery, HD quality, high color saturation, rich layers, warm tones, ambient light --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

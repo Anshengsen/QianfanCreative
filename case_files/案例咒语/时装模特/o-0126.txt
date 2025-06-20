@@ -1,0 +1,3 @@
+CN：一位年轻女性，站立姿势，略侧身，深棕色中长发，表情略带冷淡，身穿黑色光滑材质的长款大衣，翻领款式，内搭白色的高领毛衣，浅米色简约背景，柔和均匀光线，成熟简约风格，全身，垂直构图。
+EN：A young woman, standing, slightly sideways, with medium-length dark brown hair, a slightly cold expression, wearing a long coat made of black smooth material with a lapel style, and a white turtleneck sweater inside, against a simple light beige background, soft and even light, mature and simple style, full body, vertical composition. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

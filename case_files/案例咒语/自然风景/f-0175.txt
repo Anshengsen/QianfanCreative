@@ -1,0 +1,3 @@
+CN：宁静海滩，黎明时分，蓝色调，长曝光，光滑水面，卵石滩，远山，树木剪影，冷色调，广角，自然风光，高分辨率，细节丰富，色彩渐变，反射，宁静氛围，8K，超高清
+EN：Tranquil beach, dawn, blue tones, long exposure, smooth water, pebble beach, distant mountains, tree silhouettes, cold tones, wide angle, natural scenery, high resolution, rich details, color gradient, reflections, tranquil atmosphere, 8K, UHD --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

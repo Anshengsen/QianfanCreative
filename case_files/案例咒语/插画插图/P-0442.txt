@@ -1,0 +1,3 @@
+CN：卡通风格，迷幻艺术，中心构图，笑脸，音符，磁带播放器，眼睛，鲜艳的色彩，粉色，黄色，蓝色，红色，白色，粗线条，扁平化设计，最佳品质，8K。
+EN：Cartoon style, psychedelic art, central composition, smiley face, musical notes, tape player, eyes, bright colors, pink, yellow, blue, red, white, bold lines, flat design, best quality, 8K. --q 0.5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

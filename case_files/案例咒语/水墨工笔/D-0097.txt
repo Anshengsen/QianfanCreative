@@ -1,0 +1,3 @@
+CN：在粗糙的羊皮纸上，使用水墨工笔画风格画出一支腊梅，画面下方是两张写着“福”的方形春联，春联上方压着一提篮淡橙色的柿子，采用中国水墨工笔画风格，水墨，张大千风格，毕加索，超品质，超细节，
+EN：On the rough parchment, a wintersweet is painted in the style of Chinese ink painting. Below the picture are two square spring couplets with the word "福" written on them. Above the spring couplets is a basket of light orange persimmons. It is in the style of Chinese ink painting, ink, Zhang Daqian style, Picasso, super quality, super details, --q 1 --s 500 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

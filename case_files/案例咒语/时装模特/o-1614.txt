@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，一双银色穆勒鞋，搭配白色短袜，脚踝纤细，坐姿，双腿交叠，鞋面光滑，反光材质，方形鞋头，浅棕色沙发，室内环境，柔和光线，焦距集中在鞋子上，细节清晰，质感突出，简洁背景。
+EN：Professional photography, 8K, shoe advertising shoot, no face, a pair of silver mules with white socks, slender ankles, sitting position, legs crossed, smooth uppers, reflective material, square toe, light brown sofa, indoor environment, soft light, focus on the shoes, clear details, prominent texture, simple background. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

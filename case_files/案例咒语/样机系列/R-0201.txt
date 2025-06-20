@@ -1,0 +1,3 @@
+CN：空白效果图，极简主义，商务名片，堆叠，白色，纸质，特写，俯视视角，浅灰色背景，柔和光线，阴影，高分辨率，工作室质量。
+EN：Blank rendering, minimalism, business cards, stack, white, paper, close-up, top view, light gray background, soft light, shadow, high resolution, studio quality. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,5 @@
+CN：一个彩色的3D宝箱，宝箱，明亮，光泽，光滑，图标，彩色，最高质量，丰富的细节，简单的背景，工作室照明，3D，
+EN：A colorful 3D Treasure box, Treasure box, bright, glossy, smooth, icons, color, highest quality, rich details, simple background, studio lighting, 3D, --q 5 --s 250 --ar 3:4 --niji 5
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

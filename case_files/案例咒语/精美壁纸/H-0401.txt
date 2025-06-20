@@ -1,0 +1,3 @@
+CN：夜晚海滩，少女背影，行走在发光海浪中，生物荧光，深蓝色调，渐变天空，远山轮廓，城市灯光倒影，水面倒影，日系动漫风格，新海诚，唯美，梦幻，细腻光影，高饱和度，电影感，8K，超细节，
+EN：Beach at night, girl's back, walking in the glowing waves, bioluminescence, dark blue tones, gradient sky, distant mountain outlines, city lights reflection, water reflection, Japanese anime style, Makoto Shinkai, beautiful, dreamy, delicate light and shadow, high saturation, movie feeling, 8K, ultra-detailed, --q 5 --s 50 --ar 16:9 --niji 6 --personalize nk61y71 --no close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

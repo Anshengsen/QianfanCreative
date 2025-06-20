@@ -1,0 +1,4 @@
+﻿CN：一个做出狰狞表情的男性，生气，复古，动漫风格，漫画风格，漫威漫画，
+EN：A man making a hideous expression, angry, retro, anime style, manga style, Marvel comics, --q 1 --s 100 --ar 3:2 --niji 5
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

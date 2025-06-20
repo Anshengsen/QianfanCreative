@@ -1,0 +1,3 @@
+CN：模特摄影，女性，亚洲人，棕色中长发，盘发，面部表情严肃，穿着商务衬衫，白色，短袖，深蓝色的修身西装裤，高腰，直筒，站姿，正面，全身像，棚拍，均匀照明，
+EN：Model photography, female, Asian, medium-length brown hair, bun, serious facial expression, wearing business shirt, white, short sleeves, dark blue slim-fit suit pants, high waist, straight, standing, front view, full-length portrait, studio shot, even lighting, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

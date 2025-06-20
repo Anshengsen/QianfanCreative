@@ -1,0 +1,4 @@
+﻿CN：矢量风格的卡通角色，漫画风格，三视图设计正视图、侧视图、背视图，白色背景，矢量，大胆的鲜艳渐变色彩，丰富的细节，
+EN：Vector style cartoon characters, comic style, three view design front view, side view, back view, white background, vector, bold bright gradual change of color, rich details, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

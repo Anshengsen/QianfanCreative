@@ -1,0 +1,3 @@
+CN：花卉摄影，柔和光线，粉色和白色花瓣，金色花蕊，深绿色叶子，深色背景，细节丰富，色彩鲜艳，艺术感，高分辨率，风格类似油画，
+EN：Flower photography, soft light, pink and white petals, golden stamens, dark green leaves, dark background, rich details, bright colors, artistic, high resolution, style similar to oil painting, --q 1 --s 100 --ar 3:5 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

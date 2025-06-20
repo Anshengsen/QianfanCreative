@@ -1,0 +1,3 @@
+CN：抽象，3D渲染，流体雕塑，深蓝色和紫色渐变色，柔和光线，无光源，黑暗背景，山峦形状，曲线，平滑表面，高品质，8K，超高清，
+EN：Abstract, 3D rendering, fluid sculpture, dark blue and purple gradient color, soft light, no light source, dark background, mountain shapes, curves, smooth surface, high quality, 8K, UHD, --q 1 --s 100 --ar 16:9 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

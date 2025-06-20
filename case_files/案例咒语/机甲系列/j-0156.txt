@@ -1,0 +1,3 @@
+CN：赛博朋克动漫风格，机械女孩，蓝色和黄色相间的机械身体，蓝色头发，头戴黄色机械装置，面部有蓝色涂鸦，手持画板和画笔，身体上有绿色泼墨效果，全身像，复杂机械细节，背景模糊，8K，超高画质，精细光影。
+EN：Cyberpunk anime style, mechanical girl, blue and yellow mechanical body, blue hair, wearing a yellow mechanical device on her head, blue graffiti on her face, holding a drawing board and a paintbrush, with green ink splash effect on her body, full-body portrait, complex mechanical details, blurred background, 8K, ultra-high image quality, fine light and shadow. --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

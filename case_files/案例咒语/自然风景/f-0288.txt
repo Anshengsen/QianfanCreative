@@ -1,0 +1,3 @@
+CN：傍晚时分的摩纳哥全景，鸟瞰视角，城市景观，海滨，港口停泊着众多游艇，道路蜿蜒，路灯亮起，远山轮廓，天空呈现从橙色到深蓝色的渐变，高分辨率，细节丰富，色彩鲜明，广角镜头，摄影风格。
+EN：Panoramic view of Monaco at dusk, bird's eye view, city landscape, waterfront, many yachts moored in the port, winding roads, street lights on, distant mountain outlines, sky with a gradient from orange to dark blue, high resolution, rich details, bright colors, wide angle lens, photography style. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

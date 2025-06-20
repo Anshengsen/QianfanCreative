@@ -1,0 +1,3 @@
+CN：英俊的男人，长长的睫毛，神圣的眼神，冰冷，严肃，年轻，奢华，高分辨率，灯光效果，聚焦，飘逸的头发，高品质，丰富的细节，柔和白皙的皮肤，超细腻，超光滑，
+EN：Handsome man, long eyelashes, sacred eyes, cold, serious, young, luxury, high resolution, lighting effects, focus, flowing hair, high quality, rich details, soft white skin, super delicate, super smooth, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，扩音器3D图标，独奏，全息渐变色，有高光，有高反，有光泽，超现实主义，超细节，赛博朋克，高精度，白色背景，C4D，Blender，3D，
+EN：3D rendering, cartoon style, megaphone 3D icon, solo, holographic gradient color, with highlights, with high reflection, glossy, surrealism, ultra detail, cyberpunk, high precision, white background, C4D, Blender, 3D, --q 1 --s 100 --ar 1:1 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

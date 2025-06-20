@@ -1,0 +1,3 @@
+CN：美食摄影，照片，精致的方形甜点，摆放在深色盘子上，像是覆盖了一层薄薄的雪花，点缀着红色浆果和绿色香草，营造出节日氛围，暖色调，柔和的光线，浅景深突出主体，特写镜头，展示甜点的细腻质感和诱人的外观，高分辨率，色彩鲜明。
+EN：Food photography, photo, exquisite square dessert, placed on a dark plate, like covered with a thin layer of snowflakes, dotted with red berries and green herbs, creating a festive atmosphere, warm tones, soft light, shallow depth of field highlights the subject, close-up, showing the delicate texture and tempting appearance of the dessert, high resolution, bright colors. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

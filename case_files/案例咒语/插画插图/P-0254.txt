@@ -1,0 +1,3 @@
+CN：赛博朋克配色的插画，沙漠中的大峡谷，悬崖上长有绿松，大胆的配色，对称构图，夕阳，矢量插画，朋克，
+EN：Cyberpunk color illustration, a grand canyon in the desert, green pines growing on the cliffs, bold colors, symmetrical composition, sunset, vector illustration, punk, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：摄影，纪实风格，暖色调，老旧木桌，粗陶碗，热气腾腾的腊八粥，特写镜头，粥的纹理清晰可见，红枣、花生、桂圆等食材点缀，背景虚化，昏黄灯光，营造家庭温馨氛围，真实感，高分辨率，最佳质量。
+EN：Photography, documentary style, warm colors, old wooden table, stoneware bowl, steaming Laba porridge, close-up, the texture of the porridge is clearly visible, red dates, peanuts, longan and other ingredients are embellished, the background is blurred, the dim light creates a warm family atmosphere, realism, high resolution, best quality. --q 1 --s 100 --ar 3:4 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

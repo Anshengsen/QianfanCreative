@@ -1,0 +1,9 @@
+
+CN：一只可爱的卡通熊猫，白色背景，正面，侧面，背面，顶面，IP设计四视图排列，1x4排列法，穿着中国明代的丝绸服装，全身，3D，3D模型，中国古代传统文化，电影级光照，工作室质量，3D，C4D,
+
+EN：A cute cartoon panda, white background, front, side, back, top, IP design four-view arrangement, 1x4 arrangement method, wearing Chinese Ming Dynasty silk clothing, full body, 3D, 3D model, ancient Chinese traditional culture, movie-grade lighting, studio quality, 3D, C4D, --q 1 --s 180 --ar 3:4 --niji 5 --c 0
+
+PS：【--c 0】务必不要去除
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

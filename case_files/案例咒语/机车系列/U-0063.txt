@@ -1,0 +1,2 @@
+CN：未来主义超级跑车，概念车，银色车身，蓝色装饰灯，黄色车灯，流线型设计，低角度正面视角，摄影棚灯光，深灰色背景，高光泽表面，反射，超宽画幅，高清细节，8K，超现实主义，汽车设计
+EN：Futuristic supercar, concept car, silver body, blue trim, yellow headlights, streamlined design, low angle front view, studio lighting, dark grey background, high gloss surface, reflections, ultra wide frame, HD details, 8K, hyperrealism, automotive design --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

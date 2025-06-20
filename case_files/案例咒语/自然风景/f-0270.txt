@@ -1,0 +1,3 @@
+CN：雪景，冬季日出，木栅栏，远山，枯树，暖阳，金色光芒，雪地反光，自然风光，广角镜头，电影级光照，超高质量，8K，超清细节。
+EN：Snow scene, winter sunrise, wooden fence, distant mountains, dead trees, warm sun, golden light, snow reflections, natural scenery, wide angle lens, cinematic lighting, ultra high quality, 8K, ultra clear details. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

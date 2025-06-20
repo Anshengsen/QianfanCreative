@@ -1,0 +1,3 @@
+CN：清晨/傍晚，远景，宁静的湖泊，湖面如镜，倒影清晰，对称构图，湖面薄雾，阿尔卑斯山脉/多洛米蒂山脉，山峰陡峭，岩石纹理，山体反光，冷暖对比，森林茂密，针叶林，树木颜色渐变，黄色，绿色，橙色，秋季，自然光，柔和光线，高饱和度，风景摄影，广角镜头，8K，超高分辨率，细节丰富，最佳画质
+EN：Early morning/evening, distant view, tranquil lake, mirror-like lake, clear reflections, symmetrical composition, mist on the lake, Alps/Dolomites, steep peaks, rock textures, mountain reflections, cold and warm contrast, dense forest, coniferous forest, tree color gradient, yellow, green, orange, autumn, natural light, soft light, high saturation, landscape photography, wide-angle lens, 8K, ultra-high resolution, rich details, best image quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

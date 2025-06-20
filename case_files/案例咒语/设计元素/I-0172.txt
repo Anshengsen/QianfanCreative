@@ -1,0 +1,3 @@
+CN：3d图标，半透明磨砂玻璃顶盖和方形底座，中间区域像是显卡的风扇，边缘发光，科技感，UI设计风格，白色背景，等距，全息，工业设计，鲜艳色彩，干净的背景，Redshift渲染，3D渲染，blender，c4d， 8k，丰富的细节，最佳品质，
+EN：3d icon, translucent frosted glass top cover and square base, the middle area looks like a graphics card fan, edge glow, technology sense, UI design style, white background, isometric, holographic, industrial design, bright colors, clean background, Redshift Rendering, 3D rendering, blender, c4d, 8k, rich details, best quality, --q 5 --s 150 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

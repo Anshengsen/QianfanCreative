@@ -1,0 +1,3 @@
+CN：自然光摄影，一个年轻的白人女性，金发，扎成马尾，淡绿色眼睛，穿着白色Polo衫，侧身面对镜头，表情平静，背景是灰色的墙壁，简约，干净，肖像，特写，8K，超高质量，细节丰富，皮肤纹理清晰，
+EN：Natural light photography of a young Caucasian woman with blonde hair tied in a ponytail, light green eyes, wearing a white polo shirt, facing the camera sideways, with a calm expression, against a gray wall in the background, minimalist, clean, portrait, close-up, 8K, ultra high quality, rich details, clear skin texture, --s 50 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

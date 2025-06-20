@@ -1,0 +1,3 @@
+CN：热带日落，剪影，棕榈树，橙色，紫色，渐变天空，自然风光，广角镜头，对称构图，宁静氛围，高清画质。
+EN：Tropical sunset, silhouette, palm trees, orange, purple, gradient sky, nature scenery, wide angle shot, symmetrical composition, tranquil atmosphere, HD quality. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

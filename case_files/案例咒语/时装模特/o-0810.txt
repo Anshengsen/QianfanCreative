@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部，一个女性，站立姿势，身体正面朝向镜头，穿着一件浅紫色长款羽绒服，衣领为白色毛绒材质，衣领处有系带设计，羽绒服整体呈宽松版型，有明显的绗缝线条，双手自然垂放，其中一只手插在口袋里，背景为木质墙面，室外光线，柔和，自然，整体风格简约，保暖，特写。
+EN：Professional photography, 8K, clothing advertising shooting, no face, a woman, standing posture, facing the camera, wearing a light purple long down jacket, the collar is made of white plush material, there is a lace-up design at the collar, the down jacket is loose overall, with obvious quilting lines, both hands hang naturally, one of the hands is in the pocket, the background is a wooden wall, outdoor light, soft, natural, the overall style is simple, warm, close-up. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

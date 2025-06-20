@@ -1,0 +1,4 @@
+CN：手绘风格头像，噪点，磨砂，手绘板质感，一个女孩，黑色短发，戴着黄色贝雷帽，大眼睛，红唇，表情平静，脸颊泛红，穿着蓝色外套，佩戴耳环，背景是白色，整体风格简约，色彩柔和，线条流畅，具有文艺感，最佳品质，8K，适合作为社交媒体头像
+EN：Hand-painted style avatar, noise, matte, hand-painted board texture, a girl, short black hair, wearing a yellow beret, big eyes, red lips, calm expression, flushed cheeks, wearing a blue coat, wearing earrings, the background is white, the overall style is simple, the colors are soft, the lines are smooth, and it has a sense of art. The best quality, 8K, suitable as a social media avatar --q 1 --s 30 --ar 1:1 --niji 6 --profile hrqrh1e --raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

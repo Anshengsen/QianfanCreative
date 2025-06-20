@@ -1,0 +1,3 @@
+CN：一个中国古代美女，数字绘画风格，平面插图风格，精致的五官和妆容，厚涂，写实，高质量，白色背景，
+EN：An ancient Chinese beautiful woman, digital painting style, graphic illustration style, exquisite facial features and makeup, thick painting, realistic, high quality, white background, --q 5 --s 250 --ar 3:4 --niji 5  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

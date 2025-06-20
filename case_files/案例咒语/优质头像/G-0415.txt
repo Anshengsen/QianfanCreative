@@ -1,0 +1,3 @@
+CN：哥特式风格的头像，美少女，黑色长发，哥特式洛丽塔服装，忧郁的表情，哥特式建筑背景，暗黑系色调，精致的蕾丝和饰品细节，高对比度，冷色调，神秘感十足。
+EN：Gothic style avatar, beautiful girl, long black hair, Gothic Lolita clothing, melancholy expression, Gothic architectural background, dark tones, delicate lace and jewelry details, high contrast, cold colors, full of mystery. --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

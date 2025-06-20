@@ -1,0 +1,3 @@
+CN：日式机甲，武士盔甲，刀剑，樱花树下，日落，暖色调光线，动漫渲染，细腻线条，4K，光影效果，粒子特效，最佳品质，
+EN：Japanese mecha, samurai armor, swords, cherry blossoms, sunset, warm light, anime rendering, delicate lines, 4K, light and shadow effects, particle effects, best quality, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D渲染图，特写，独奏，居中，一个淡紫色的螺旋笔记本，漂浮在半空中，呈自然下坠造型，背景为白色，柔和的灯光，3D建模，高质量，
+EN：3D rendering, close-up, solo, centered, a lavender spiral notebook floating in mid-air, in a natural falling shape, with a white background and soft lighting, 3D modeling, high quality,  --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

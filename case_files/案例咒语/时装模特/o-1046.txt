@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲男性，站立姿势，身体略微侧向镜头，双腿并拢，短发，深棕色，自然发型，面部表情平静，眼神直视前方，穿着一件深灰色长袖衬衫，衣领翻折，纽扣闭合，搭配一条蓝灰色条纹领带，灰色西裤，整体风格商务，背景是室内场景，有浅色墙面和深色扶手，光线柔和，整体氛围正式，精致。
+EN：Professional photography, 8K, an Asian male, standing pose, body slightly sideways to the camera, legs together, short hair, dark brown, natural hairstyle, calm facial expression, eyes looking straight ahead, wearing a dark gray long-sleeved shirt with folded collar and closed buttons, paired with a blue-gray striped tie, gray trousers, the overall style is business, the background is an indoor scene with light-colored walls and dark handrails, soft light, and the overall atmosphere is formal and exquisite. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

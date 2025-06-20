@@ -1,0 +1,3 @@
+CN：一张羊皮纸，纸张的边缘有不规则的撕痕，背景是有划痕的比纸张深一点点的颜色，明亮柔和的颜色，最佳品质，简单，
+EN：A piece of parchment with irregular tears on the edges of the paper, the background is scratched and a little darker than the paper, bright and soft colors, best quality, simple, --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

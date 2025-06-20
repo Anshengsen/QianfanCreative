@@ -1,0 +1,3 @@
+CN：美食摄影，照片，俯视镜头，热气腾腾的韩式火锅，丰富的食材，鲜红的汤底，大块的牛肉片，金针菇，豆腐，香菇，青菜，贝类，木质桌面，暖色调，柔和的光线，高饱和度，色彩鲜明，细节丰富，精致摆盘，日式动漫风格，高品质，8K，超高清细节。
+EN：Food photography, photo, overhead shot, steaming Korean hot pot, rich ingredients, bright red soup base, large beef slices, enoki mushrooms, tofu, shiitake mushrooms, green vegetables, shellfish, wooden tabletop, warm tones, soft light, high saturation, bright colors, rich details, exquisite plating, Japanese anime style, high quality, 8K, ultra-high definition details. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

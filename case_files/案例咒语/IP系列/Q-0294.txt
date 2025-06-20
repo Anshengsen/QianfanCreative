@@ -1,0 +1,3 @@
+CN：3D渲染，皮克斯风格，一个可爱的、毛茸茸的、巨大的白色狗狗，旁边站着一个可爱的小女孩，小女孩穿着浅色衣服，白色背景，面对镜头，正面视角，全身，
+EN：3D rendering, Pixar style, of a cute, fluffy, giant white dog standing next to a cute little girl in light-colored clothes, white background, facing the camera, front view, full body, --q 5 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

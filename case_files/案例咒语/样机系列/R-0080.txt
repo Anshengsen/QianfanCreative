@@ -1,0 +1,3 @@
+CN：个性化定制滑板，街头涂鸦墙背景，城市街头环境，空白效果图，3D渲染，独特造型，多彩外观，光影效果，涂鸦细节，高清渲染，质感逼真，
+EN：Personalized custom skateboard, street graffiti wall background, urban street environment, blank rendering, 3D rendering, unique shape, colorful appearance, light and shadow effects, graffiti details, high-definition rendering, realistic texture, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

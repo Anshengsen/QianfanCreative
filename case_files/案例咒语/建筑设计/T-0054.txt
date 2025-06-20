@@ -1,0 +1,3 @@
+CN：日式禅意，21世纪，木结构的建筑，庭院内有枯山水景观，夜晚，柔和的灯光，营造出宁静致远的氛围，远景，留白。
+EN：Japanese Zen, 21st century, wooden structure building, dry landscape in the courtyard, soft lighting at night, creating a tranquil atmosphere, distant view, blank space. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

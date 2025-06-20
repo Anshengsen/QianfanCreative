@@ -1,0 +1,4 @@
+﻿CN：3d皮克斯风格的小企鹅，白色背景，柔和的颜色，全身，超高品质，
+EN：3D Pixar-style little penguin, white background, soft colors, full body, super high quality, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

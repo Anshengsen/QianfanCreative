@@ -1,0 +1,4 @@
+﻿CN：3d模型，3d微型厨房设计，浅黄色和天蓝色的风格，照片抨击艺术，光影的逼真描绘，迪士尼动画风格，暖光，温馨，最佳品质，
+EN：3D model, 3D miniature kitchen design, light yellow and sky blue style, photo-bashing art, realistic depiction of light and shadow, Disney animation style, warm light, warm, best quality, --q 1 --s 100 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：冰岛海岸线，航拍视角，阴天，乌云密布，黑色沙滩，白色海浪，海天一线，远处的山峰，冷色调，电影感，广角镜头，高对比度，自然光，8K，超高细节
+EN：Iceland coastline, aerial perspective, cloudy sky, dark clouds, black sand beach, white waves, sea and sky, mountains in the distance, cold colors, cinematic feel, wide-angle lens, high contrast, natural light, 8K, ultra-high detail --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

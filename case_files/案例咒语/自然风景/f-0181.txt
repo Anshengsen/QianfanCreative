@@ -1,0 +1,3 @@
+CN：雪景，冬季，日落，金色阳光，雪松，积雪覆盖的山坡，远山，阴影，蓝色天空，云彩，自然风光，冷色调，暖色调对比，广角，高处俯视，宁静，光线穿透树林，细节丰富，高分辨率，8K，最佳画质
+EN：Snowy landscape, winter, sunset, golden sunlight, cedar, snow-covered hillside, distant mountains, shadows, blue sky, clouds, nature, cold tones, warm tones contrast, wide angle, high-angle view, tranquility, light penetrating the trees, rich details, high resolution, 8K, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

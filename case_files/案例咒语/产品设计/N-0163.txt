@@ -1,0 +1,3 @@
+CN：产品摄影，棕色喷雾瓶，木头，苔藓，橙色花朵，绿色背景，自然光，8K，超高质量，细节丰富，哑光质感，自然，有机，护肤品，美容，
+EN：Product photography, brown spray bottle, wood, moss, orange flowers, green background, natural light, 8K, ultra high quality, rich details, matte texture, natural, organic, skincare, beauty, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

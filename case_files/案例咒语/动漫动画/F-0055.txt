@@ -1,0 +1,4 @@
+﻿CN：一个动漫女孩坐在阳台旁边看着落叶，秋天的下午时分，枫树和掉下来的枫叶，暖色，浅红色和琥珀色，
+EN：An anime girl sits by the balcony watching the fallen leaves, maple trees and falling maple leaves in the autumn afternoon, warm colors, light red and amber, --q 1 --s 100 --ar 3:4 --niji 5
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：淡粉色调卡通头像，一个女孩，粉色短发，扎着双马尾，笑容甜美，抱着一个泰迪熊，穿着粉色连衣裙，背景是白色，整体风格可爱，色彩柔和，线条简洁，具有童趣，最佳品质，8K，适合作为社交媒体头像
+EN：A light pink cartoon avatar of a girl with short pink hair, twin ponytails, a sweet smile, holding a teddy bear, wearing a pink dress, with a white background. The overall style is cute, with soft colors, simple lines, and childlike fun. Best quality, 8K, suitable as a social media avatar --q 1 --s 30 --ar 1:1 --niji 6 --profile hrqrh1e --raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

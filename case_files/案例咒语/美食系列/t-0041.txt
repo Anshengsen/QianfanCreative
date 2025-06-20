@@ -1,0 +1,3 @@
+CN：动画风格，逼真的照片，一碗肉丸汤，七颗牛肉丸，撒有葱花，搭配筷子，旁边有香菜和辣椒圈作为配菜，浅色背景，俯视视角，暖色调，柔和光线，景深效果，高分辨率，美食摄影
+EN：Animation style, realistic photo of a bowl of meatball soup, seven beef meatballs, sprinkled with chopped green onions, served with chopsticks, with cilantro and chili rings as garnishes, light background, top view, warm tones, soft light, depth of field effect, high resolution, food photography --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

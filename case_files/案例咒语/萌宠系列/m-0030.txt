@@ -1,0 +1,3 @@
+CN：一个穿着红色蛋壳的拟人化的小黄鸡，粘土，可爱的3D角色，3D，滑稽，戴墨镜，羞涩，光滑，盲盒玩具风格，红色背景，
+EN：An anthropomorphic little yellow chicken wearing a red eggshell, clay, cute 3D character, 3D, funny, wearing sunglasses, shy, smooth, blind box toy style, red background, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

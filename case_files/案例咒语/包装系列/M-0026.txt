@@ -1,0 +1,3 @@
+CN：极简风格包装设计，一个白色瓶子，上面印有蓝色的线条图案和文字，色彩淡雅，线条简洁，整体风格现代简约，具有设计感和环保意识，细节包括瓶子的材质，线条图案的走向，以及文字的排版，最佳品质，8K，产品摄影，适合用于饮用水或环保产品，浅灰色背景，
+EN：Minimalist packaging design, a white bottle with blue line patterns and text printed on it, elegant colors, simple lines, the overall style is modern and simple, with a sense of design and environmental awareness, details include the material of the bottle, the direction of the line pattern, and the layout of the text, best quality, 8K, product photography, suitable for drinking water or environmentally friendly products, light gray background, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

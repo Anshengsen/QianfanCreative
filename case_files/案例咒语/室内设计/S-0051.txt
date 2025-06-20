@@ -1,0 +1,3 @@
+CN：地中海风格的阳台，2023年现代家装，蓝色瓷砖，藤编家具，绿植盆栽，阳光充足，自然光线，开放式构图，清新自然，细节纹理，高保真渲染，8K。
+EN：Mediterranean style balcony, modern home decoration in 2023, blue tiles, rattan furniture, green potted plants, plenty of sunshine, natural light, open composition, fresh and natural, detailed texture, high-fidelity rendering, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

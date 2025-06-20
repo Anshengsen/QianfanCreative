@@ -1,0 +1,3 @@
+CN：挪威罗弗敦群岛的冬季风光，雷讷渔村，红色木屋，平静水面，雪山倒影，黎明时分，微弱光线，冷色调，广角镜头，对称构图，静谧氛围，超高清细节，8K分辨率，摄影作品，真实感渲染
+EN：Winter scenery in the Lofoten Islands, Norway, fishing village of Reine, red wooden houses, calm water, snowy mountain reflections, dawn, weak light, cold tones, wide angle lens, symmetrical composition, tranquil atmosphere, ultra-high-definition details, 8K resolution, photography, photorealistic rendering --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

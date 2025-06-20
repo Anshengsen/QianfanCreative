@@ -1,0 +1,3 @@
+CN：航拍视角，黄昏时分的峡湾景色，远山，城镇灯光，海湾，游轮，森林，深蓝色天空，自然光，广角镜头，高对比度，细节丰富，8K
+EN：Aerial view of the fjord at dusk, distant mountains, town lights, bay, cruise ship, forest, deep blue sky, natural light, wide angle lens, high contrast, rich details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：特写，多朵白色玫瑰，水珠，花瓣，花蕊，阳光，光晕，明暗对比，高清，最佳品质，8K，超细腻，电影级光照
+EN：Close-up, many white roses, water drops, petals, stamens, sunlight, halo, chiaroscuro, HD, best quality, 8K, ultra-detailed, cinematic lighting --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

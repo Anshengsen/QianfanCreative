@@ -1,0 +1,3 @@
+CN：航拍视角，碧蓝色的海洋，专业摄影，白色浪花，海岸线，礁石，俯视，自然光，高饱和度，清晰，8K。
+EN：Aerial perspective, blue ocean, professional photography, white waves, coastline, reefs, overhead view, natural light, high saturation, clear, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一组极简主义图标，4x5，一组，蓝色，白色背景，简单的线条，单色，2D，矢量风格，包含放大镜，面条碗，小册子，钱包，手势，铅笔，扬声器，纸飞机，OK手势，香槟杯，花瓶，床，对话框，图表，礼品盒，信用卡，日历，闹钟等元素
+EN：A set of minimalist icons, 4x5, set, blue, white background, simple lines, monochrome, 2D, vector style, containing elements such as magnifying glass, noodle bowl, booklet, wallet, hand gesture, pencil, speaker, paper airplane, OK gesture, champagne glass, vase, bed, dialog box, chart, gift box, credit card, calendar, alarm clock, etc.--q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

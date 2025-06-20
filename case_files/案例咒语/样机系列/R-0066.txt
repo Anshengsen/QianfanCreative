@@ -1,0 +1,3 @@
+CN：空白名片样机，3D渲染，商务风格，白色厚实纸张，圆角设计，白色背景，名片叠放展示，展现名片造型，突出名片外观，留白空间用于展示公司logo和联系方式，高清质感，精细的细节。
+EN：Blank business card mockup, 3D rendering, business style, white thick paper, rounded corner design, white background, business cards stacked display, showing the business card shape, highlighting the appearance of the business card, leaving blank space for displaying the company logo and contact information, high-definition texture, fine details. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

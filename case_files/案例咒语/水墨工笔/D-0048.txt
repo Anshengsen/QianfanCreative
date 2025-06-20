@@ -1,0 +1,3 @@
+CN：水墨风格，一个水墨风格的美少女，简单的细节，以空白和水墨线条勾勒，水墨风格，中国明代国画，上半身，重要位置以红色墨水显示，颇有画龙点睛之意，
+EN：Ink painting style, a beautiful girl in ink painting style, simple details, outlined with blanks and ink lines, ink painting style, Chinese Ming Dynasty Chinese painting, upper body, important positions are displayed in red ink, quite the finishing touch. --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：全身，3D渲染，动画片风格，一个可爱的中国小女孩，穿着粉色的汉服，吹笛子，大眼睛，长发盘成发髻，面对镜头，正面，全身，白色背景，卡通，鲜艳的色彩，
+EN：Full body, 3D rendering, cartoon style, a cute little Chinese girl, wearing pink Hanfu, playing the flute, big eyes, long hair in a bun, facing the camera, front, full body, white background, cartoon, bright colors, --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

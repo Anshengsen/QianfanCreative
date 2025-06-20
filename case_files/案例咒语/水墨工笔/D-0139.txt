@@ -1,0 +1,3 @@
+CN：秋日海边，巨树参天，橙红树叶，深色树干，蓝色天空，水彩风格，厚涂，色彩鲜明，细节丰富，光影交错，远山如黛，海浪拍岸，礁石嶙峋，宁静祥和，艺术感强，高分辨率，最佳画质。
+EN：Autumn seaside, towering trees, orange-red leaves, dark trunks, blue sky, watercolor style, thick painting, bright colors, rich details, interlaced light and shadow, distant mountains, waves crashing on the shore, rugged reefs, tranquility and peace, strong sense of art, high resolution, and best picture quality. --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

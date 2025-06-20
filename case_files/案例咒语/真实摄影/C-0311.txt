@@ -1,0 +1,3 @@
+CN：户外人像摄影，一位白人女性，金发，蓝眼睛，脸上有很多雀斑，佩戴金色项链，穿着白色背心，表情平静，眼神看向远方，背景是模糊的建筑和灯光，暖色调，最佳品质。
+EN：Outdoor portrait of a Caucasian woman with blonde hair, blue eyes, many freckles on her face, wearing a gold necklace and a white vest, with a calm expression, looking into the distance, with blurred buildings and lights in the background, warm tones, best quality. --s 50 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

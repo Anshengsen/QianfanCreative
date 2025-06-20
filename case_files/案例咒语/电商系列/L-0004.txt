@@ -1,0 +1,4 @@
+﻿CN：购物车的3d图标，购物车里有可爱的礼品盒，圆形，详细渲染，柔和的颜色，
+EN：3D icon of the shopping cart, there are cute gift boxes in the shopping cart, round, detailed rendering, soft colors, --q 1 --s 100 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

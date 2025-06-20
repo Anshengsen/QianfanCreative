@@ -1,0 +1,3 @@
+CN：3D渲染，黄色表情符号，独奏，居中，emoji，亲吻脸，亲吻，爱心，卡通风格，柔和灯光，正面视角，特写。
+EN：3D rendering, yellow emoticon, solo, centered, emoji, kissing face, kiss, love heart, cartoon style, soft lighting, front view, close-up.  --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

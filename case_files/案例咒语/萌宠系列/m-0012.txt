@@ -1,0 +1,3 @@
+CN：3d，可爱，popmart，3D玩具，c4d，白色背景，黑色柴犬，简单的细节，柔和的色彩，光滑，
+EN：3d, cute, popmart, 3D toy, c4d, white background, black shiba inu, simple details, soft colors, smooth, --q 1 --s 100 --ar 1:1 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个亚洲女性模特，黑色齐肩直发，丹凤眼，白皙皮肤，穿着旗袍，优雅的站姿，手持折扇，干净清爽的工作室背景，柔和的光线，古典美，8K，长焦镜头，
+EN：An Asian female model, black shoulder-length straight hair, almond-shaped eyes, fair skin, wearing a cheongsam, standing elegantly, holding a folding fan, clean and refreshing studio background, soft light, classical beauty, 8K, telephoto lens, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

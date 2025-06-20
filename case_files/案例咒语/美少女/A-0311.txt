@@ -1,0 +1,4 @@
+CN：一个黑发黑耳环的动漫美少女，亚洲人，超写实的风格，厚涂，赛博朋克漫画风格，深紫色和浅粉色，穿着皮衣戴着耳钉，鲜明对比，侧面，最佳品质，超细腻，厚涂，
+EN：An anime beauty girl with black hair and black earrings, Asian, super realistic style, thick coating, cyberpunk comic style, dark purple and light pink, wearing a leather jacket and earrings, sharp contrast, side, best quality, super delicate, thick coating, --q 1 --s 100 --ar 3:4 --v 6.0
+（PS：这套咒语尽量垫图生成，纯粹文生图难以控图） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：奇幻风格，魔法森林，清晨，柔和的光线，一个由藤蔓和水晶构成的机甲，与大自然融为一体，透明材质，植物细节，梦幻，CG渲染，神秘感，4K。
+EN：Fantasy style, magic forest, early morning, soft light, a mecha made of vines and crystals, integrated with nature, transparent materials, plant details, dreamy, CG rendering, mysterious, 4K. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

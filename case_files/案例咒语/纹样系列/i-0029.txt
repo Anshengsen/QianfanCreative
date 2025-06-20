@@ -1,0 +1,3 @@
+CN：卡哇伊贴纸剪贴画，色彩鲜艳，可爱，涂鸦风格，白色背景，
+EN：Kawaii sticker clipart, colorful, cute, doodle style, white background, --q 1 --s 100 --ar 1:1 --v 6.0 --tile 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：CG，虚幻引擎5，逼真，写实，一个古装美男子，20岁，拿着一个鬼面具想要往脸上放，能看到他英俊的外表，浓眉，正面，背景是水墨古建筑和群山，柔和的红色光照耀在他脸上，他穿着华丽的明朝服饰，戴着手套，高束发，绝美的画面，昏暗的氛围，浅灰色调，戏剧性的灯光，全景，全身，
+EN：CG, Unreal Engine 5, realistic, realistic, a handsome man in ancient costume, 20 years old, holding a ghost mask and trying to put it on his face, you can see his handsome appearance, thick eyebrows, front view, the background is ink-and-wash ancient buildings and mountains, soft red light shines on his face, he is wearing gorgeous Ming Dynasty costumes, wearing gloves, high-tied hair, beautiful picture, dim atmosphere, light gray tones, dramatic lighting, panoramic view, full body, --q 1 --s 50 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

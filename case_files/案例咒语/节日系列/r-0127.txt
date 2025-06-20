@@ -1,0 +1,3 @@
+CN：3D渲染，感恩节南瓜派，金黄色的派皮，香甜的南瓜馅料，上面撒着肉桂粉，旁边摆放着勺子和叉子，温暖的灯光，诱人的食物，4K分辨率，超写实渲染，最佳质量，美味，诱人，细节丰富的派皮纹理，逼真的南瓜馅料质感，
+EN：3D rendering, Thanksgiving pumpkin pie, golden pie crust, sweet pumpkin filling, sprinkled with cinnamon powder, spoon and fork placed next to it, warm lighting, tempting food, 4K resolution, hyperrealistic rendering, best quality, delicious, tempting, detailed pie crust texture, realistic pumpkin filling texture, --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

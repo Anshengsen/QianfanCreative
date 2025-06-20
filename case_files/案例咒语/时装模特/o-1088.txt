@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲女性，站立姿势，双手轻抚头发，短发，黑色，齐耳，穿着紫色羽绒服，拉链闭合，宽松版型，面部表情平静，眼神略微向下，背景为室外街道，秋季落叶，树木，模糊建筑。
+EN：Professional photography, 8K, an Asian woman, standing pose, touching her hair with both hands, short hair, black, ear-length, wearing a purple down jacket, zipper closed, loose fit, calm facial expression, eyes slightly downward, background is outdoor street, autumn leaves, trees, blurred buildings. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

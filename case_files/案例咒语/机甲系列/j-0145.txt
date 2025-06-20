@@ -1,0 +1,3 @@
+CN：科幻多功能钳，机械钳，黄色主体，黑色钳口，金属银细节，锋利齿状，多段式结构，铰链连接，金属质感，哑光与亮面，细密机械纹理，螺丝，凹槽，产品级渲染，高光，阴影，反射，特写，对角线构图，深色背景，未来感，工业设计风，最佳品质，8K，超高细节
+EN：Sci-fi multifunctional pliers, mechanical pliers, yellow body, black jaws, metallic silver details, sharp teeth, multi-stage structure, hinged connection, metal texture, matte and glossy surface, fine mechanical texture, screws, grooves, production-level rendering, highlights, shadows, reflections, close-up, diagonal composition, dark background, futuristic, industrial design style, best quality, 8K, ultra-high details --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

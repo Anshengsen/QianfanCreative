@@ -1,0 +1,3 @@
+CN：白色背景，等距透视，3d小商店，上面带有"SUPPER”字样的标志，米色和淡橙色，居中，3d插图，4K，
+EN：White background, isometric perspective, 3d small shop, logo with the word "SUPPER" on it, beige and light orange,, centered, 3d illustration, 4K, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

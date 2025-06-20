@@ -1,0 +1,3 @@
+CN：海滩，山脉，蓝色天空，沙滩，电影感，超高分辨率，8K，超细节，自然光，大气透视，广角镜头，摄影作品，平静的海面，岩石，宁静的氛围，海岸线
+EN：beach, mountains, blue sky, sand, cinematic feel, ultra high resolution, 8K, ultra detail, natural light, atmospheric perspective, wide angle lens, photography, calm sea, rocks, tranquil atmosphere, coastline --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

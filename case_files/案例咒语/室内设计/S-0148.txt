@@ -1,0 +1,3 @@
+CN：室内设计，日式风格，简约，浅色木地板，浅绿色墙面，黑色窗框，自然光，木质家具，圆形吊灯，室内盆栽，对称构图，高天花板，宽敞明亮，细节丰富，柔和光线，温馨舒适，8k，最佳品质。
+EN：Interior design, Japanese style, simple, light wooden floor, light green walls, black window frames, natural light, wooden furniture, round chandelier, indoor potted plants, symmetrical composition, high ceiling, spacious and bright, rich details, soft light, warm and comfortable, 8k, best quality. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

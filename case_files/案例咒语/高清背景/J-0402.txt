@@ -1,0 +1,3 @@
+CN：抽象，3D，流体，层叠，蓝色渐变，纸张质感，波浪形，柔和，无焦点，平面设计，数字艺术，高清，高分辨率，
+EN：abstract, 3d, fluid, cascading, blue gradient, paper texture, wavy, soft, unfocused, graphic design, digital art, hd, high resolution, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：小雪节气，水墨画，写意风格，张大千风格，淡墨渲染，寒梅傲雪，飞雪轻舞，留白构图，高品质，8K，细节丰富，高清，
+EN：Light Snow solar term, ink painting, freehand style, Zhang Daqian style, light ink rendering, plum blossoms in the snow, snowflakes dancing, blank composition, high quality, 8K, rich details, high definition, --q 1 --s 100 --ar 3:4 --v 6.0 --personalize vgwm6sp 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

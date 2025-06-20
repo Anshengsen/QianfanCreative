@@ -1,0 +1,3 @@
+CN：卡通矢量插画风格，粗线条勾勒，鲜艳配色，高饱和度，街头朋克场景，紫色莫西干头，红色砖墙，垃圾桶，棒球棍，蜘蛛，细节包括人物的表情，墙上的涂鸦，地上的垃圾，整体画面叛逆不羁，色彩鲜明，最佳品质，8K，扁平化设计，几何图形，干净利落
+EN：Cartoon vector illustration style, bold outlines, bright colors, high saturation, street punk scene, purple mohawk, red brick wall, trash can, baseball bat, spider, details include the character's expression, graffiti on the wall, garbage on the ground, the overall picture is rebellious and uninhibited, bright colors, best quality, 8K, flat design, geometric graphics, clean and neat --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

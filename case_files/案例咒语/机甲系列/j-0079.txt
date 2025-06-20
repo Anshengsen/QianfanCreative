@@ -1,0 +1,3 @@
+CN：赛博朋克都市，夜晚，霓虹灯，一个敏捷型的机甲在高楼大厦间穿梭，正在下雨，光污染，动态模糊，线条感，CG渲染，速度感，4K，
+EN：Cyberpunk city, night, neon lights, an agile mecha shuttles between high-rise buildings, it is raining, light pollution, motion blur, sense of lines, CG rendering, sense of speed, 4K, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

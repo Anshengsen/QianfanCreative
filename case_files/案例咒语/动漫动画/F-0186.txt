@@ -1,0 +1,3 @@
+CN：3D卡通游戏场景，喜庆的新年气氛，一家5口人，爷爷，奶奶，爸爸，妈妈，小女孩，穿着喜庆的衣服，开心的围坐在桌子旁边，背景是豪华的府邸门口，3D，挂着红灯笼，高清，8K，
+EN：3D cartoon game scene, festive New Year atmosphere, a family of 5, grandpa, grandma, dad, mom, little girl, wearing festive clothes, happily sitting around the table, the background is the luxurious mansion door, 3D, hanging red lanterns, HD, 8K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize 7zkr58d 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

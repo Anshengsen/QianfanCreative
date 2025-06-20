@@ -1,0 +1,3 @@
+CN：一组手绘风格的对话气泡，卡通，色彩鲜艳，红，黄，蓝，绿，粉色，星星点缀，圆角，可爱，白色背景，矢量插画，儿童插画风格，简单线条，柔和阴影，最佳品质，无边框。
+EN：A set of hand-drawn style speech bubbles, cartoon, bright colors, red, yellow, blue, green, pink, stars, rounded corners, cute, white background, vector illustration, children's illustration style, simple lines, soft shadows, best quality, no borders. --q 2 --s 100 --ar 1:1 --niji 6 --profile v21i75s --no AI generated traces 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

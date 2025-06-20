@@ -1,0 +1,4 @@
+﻿CN：一个可爱的卡通男孩，涂鸦风格，日本动漫风格，矢量风格，穿着黄色运动装，短直发，哭泣，白色背景，矢量，最佳品质，
+EN：A cute cartoon boy, graffiti style, Japanese anime style, vector style, wearing yellow sportswear, short straight hair, crying, white background, vector, best quality, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

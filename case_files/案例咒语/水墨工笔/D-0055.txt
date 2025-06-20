@@ -1,0 +1,3 @@
+CN：中国水墨画风格，中国南宋时期，一位将军的正面特写水墨插图，正面，特写，独奏，穿戴盔甲，流畅的线条，中国古代风格，白色背景，
+EN：Chinese ink painting style, Southern Song Dynasty of China, front close-up ink illustration of a general, front, close-up, solo, wearing armor, smooth lines, ancient Chinese style, white background, --q 1 --s 50 --ar 3:4 --v 6.0 --style raw  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

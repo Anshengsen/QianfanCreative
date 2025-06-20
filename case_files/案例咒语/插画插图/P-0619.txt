@@ -1,0 +1,3 @@
+CN：极简线条插画风格，单色配色，线描风格，无实色，黑色锐利流畅的细线条，薄荷绿背景，骑自行车的人物，小狗，购物篮，细节包括自行车的结构，人物的姿态，购物篮里的物品，整体画面简洁温馨，风格现代，最佳品质，8K，
+EN：Minimalist line illustration style, monochrome color matching, line drawing style, no solid color, sharp and smooth black thin lines, mint green background, people riding bicycles, dogs, shopping baskets, details include the structure of the bicycle, the posture of the people, the items in the shopping basket, the overall picture is simple and warm, the style is modern, the best quality, 8K, --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

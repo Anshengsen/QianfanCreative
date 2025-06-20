@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。特写。一个女性，站立姿势，身体略微侧向镜头，灰色西装套装，V，长袖，收腰剪裁，腰间有同色系腰带，裙子长度至小腿，搭配同色系手提包，背景为室内场景，有浅色墙面和深色装饰线条，光线柔和，整体风格优雅，精致。
+EN：Professional photography, 8K, clothing advertising shooting, no face. Close-up. A woman, standing, body slightly sideways to the camera, gray suit, V, long sleeves, waist-hugging cut, waist with a belt of the same color, skirt length to calf, matching handbag of the same color, background is indoor scene, with light-colored walls and dark decorative lines, soft light, overall style is elegant and exquisite. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

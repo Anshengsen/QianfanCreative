@@ -1,0 +1,3 @@
+CN：中世纪风格的机甲，铁甲和木质结构，火把照亮，城堡庭院背景，石板地面，体积光渲染，做旧处理，强调金属质感和历史感，细节刻画到链甲和铆钉，8K，超高分辨率，
+EN：Medieval-style mecha, iron armor and wooden structure, torch lighting, castle courtyard background, slate floor, volumetric light rendering, distressed treatment, emphasis on metal texture and historical sense, details depicted in chain mail and rivets, 8K, ultra-high resolution, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

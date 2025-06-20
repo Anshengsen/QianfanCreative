@@ -1,0 +1,4 @@
+﻿CN：一个有粉色蝴蝶和星星的水洞，瀑布，浅黑色和浅海蓝宝石的风格，照片般逼真的风景，傍晚时分，萤火虫，日本灵感的意象，自然灵感的意象，樱花，
+EN：A water cave with pink butterflies and stars, waterfalls, light black and aquamarine styles, photo-realistic landscapes, evening hours, fireflies, Japanese-inspired imagery, nature-inspired imagery, cherry blossoms, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

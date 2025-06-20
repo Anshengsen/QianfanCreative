@@ -1,0 +1,4 @@
+CN：现代厨房，橱柜，煲汤锅，全景，30mm镜头，现代，等距，极简主义，明亮，淡粉色和淡蓝色的过渡渐变，最高质量，OC渲染，3D渲染，极致降噪，超高清，16K，
+
+EN：Modern kitchen, cabinets, soup pot, panorama, 30mm lens, modern, isometric, minimalist, bright, light pink and light blue transition gradual change, highest quality, OC rendering, 3D rendering, extreme noise reduction, ultra high definition, 16K, --q 5 --s 250 --ar 3:4 --v 5.2 --style raw --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

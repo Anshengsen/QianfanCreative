@@ -1,0 +1,3 @@
+CN：可爱的插图，一名宇航员乘坐火箭，白色背景，卡哇伊，柔和的配色，
+EN：Cute illustration of an astronaut riding a rocket, on a white background, kawaii, pastel colors, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：用于网站的2.5D矢量插图，淡紫色风格，现代风格，等距，以电脑屏幕为主设计的网站插图，白色背景，居中，超品质，超细节，
+EN：2.5D vector illustration for website, lilac style, modern, isometric, website illustration designed with computer screen in mind, white background, centered, super quality, super detail, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

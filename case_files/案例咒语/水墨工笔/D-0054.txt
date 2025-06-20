@@ -1,0 +1,3 @@
+CN：中国江南徽派建筑风格，徽派建筑群，插图，广角，简单，白色背景，吴冠中风格，水墨画风格，白色背景，江南徽派，
+EN：Chinese Jiangnan Huizhou architectural style, Huizhou architectural group, illustration, wide-angle, simple, white background, Wu Guanzhong style, ink painting style, white background, Jiangnan Huizhou style, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

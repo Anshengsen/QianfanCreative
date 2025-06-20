@@ -1,0 +1,3 @@
+CN：水墨写意风格，禅意，一只穿着中式长袍的小猴子盘腿打坐，闭目养神。画面色调柔和，以灰、白墨水过渡色为主，营造出宁静祥和的氛围，线条流畅，水墨晕染自然，展现出中国传统绘画的韵味，构图简洁，猴子居中，正面，纯白背景，
+EN：Ink and wash painting style, Zen, a little monkey in a Chinese robe sits cross-legged and closes his eyes to rest. The picture has soft tones, mainly gray and white ink transition colors, creating a peaceful and harmonious atmosphere, smooth lines, natural ink smudges, showing the charm of traditional Chinese painting, simple composition, monkey in the middle, front, pure white background, --q 2 --s 180 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

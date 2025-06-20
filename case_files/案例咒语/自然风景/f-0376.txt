@@ -1,0 +1,3 @@
+CN：秋日美景，中央公园，弓桥，暖色调，落叶，红色枫叶，湖泊倒影，石桥，路灯，花坛，自然光，柔和光线，高饱和度，风景摄影，广角镜头，对称构图，电影质感，超高清，8K。
+EN：Autumn beauty, Central Park, Bow Bridge, warm colors, fallen leaves, red maple leaves, lake reflection, stone bridge, street lights, flower beds, natural light, soft light, high saturation, landscape photography, wide-angle lens, symmetrical composition, film texture, ultra high definition, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

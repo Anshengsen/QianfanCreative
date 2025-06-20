@@ -1,0 +1,3 @@
+CN：手绘，LOGO，水墨风格，黑白，适用于中国风品牌，书法字体与山水画元素结合，留白处理，宣纸纹理背景，古典，优雅，意境，
+EN：Hand-painted, LOGO, ink style, black and white, suitable for Chinese style brands, calligraphy fonts combined with landscape painting elements, blank processing, rice paper texture background, classic, elegant, artistic conception, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

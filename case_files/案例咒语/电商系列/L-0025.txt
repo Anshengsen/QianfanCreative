@@ -1,0 +1,3 @@
+CN：3D电商场景设计，厨房灶台的台面特写，雅灰色和白色，后面是等角白墙，最佳品质，3D渲染，
+EN：3D e-commerce scene design, close-up of the countertop of the kitchen stove, elegant gray and white, with isometric white walls behind, best quality, 3D rendering, --q 1 --s 100 --ar 1:1 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

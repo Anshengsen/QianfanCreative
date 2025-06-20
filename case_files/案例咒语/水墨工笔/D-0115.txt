@@ -1,0 +1,3 @@
+CN：中国画风格，中国传统主义，小雪节气，一位穿着汉服的女子，撑着油纸伞，在积雪地中行走，寻找梅花，淡雅的色彩，水墨画风格，留白，完美构图，诗意，4K，高清，中国传统文化元素，人物神态刻画，雪景描绘，
+EN：Chinese painting style, Chinese traditionalism, Xiaoxue solar term, a woman in Hanfu, holding an oil-paper umbrella, walking in the snow, looking for plum blossoms, elegant colors, ink painting style, blank space, perfect composition, poetry, 4K, high definition, traditional Chinese cultural elements, character expression, snow scene description, --q 5 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：极简线条插画风格，单色配色，黑色线条，淡粉色背景，汉堡，可乐，遥控器，红酒瓶，细节包括汉堡的层次，可乐的文字，遥控器的按键，红酒瓶的标签，整体画面简洁有趣，风格现代，最佳品质，8K，矢量图形，干净利落，美食插画风格
+EN：Minimalist line illustration style, monochrome color, black lines, light pink background, hamburger, cola, remote control, red wine bottle, details include the layers of the hamburger, the text of the cola, the buttons of the remote control, the label of the red wine bottle, the overall picture is simple and interesting, the style is modern, the best quality, 8K, vector graphics, clean and neat, food illustration style --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

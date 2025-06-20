@@ -1,0 +1,3 @@
+CN：赛博朋克风格的机甲，霓虹灯照亮，雨夜都市街头背景，反射着五颜六色的霓虹灯光，光线追踪渲染，铬合金和发光线路构成外甲，流线型设计，充满科技感，表面有雨水流淌的痕迹，8K，超高分辨率，
+EN：Cyberpunk style mecha, illuminated by neon lights, rainy night city street background, reflecting colorful neon lights, ray tracing rendering, chrome alloy and luminous lines constitute the outer armor, streamlined design, full of technological sense, with traces of rain flowing on the surface, 8K, ultra-high resolution, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

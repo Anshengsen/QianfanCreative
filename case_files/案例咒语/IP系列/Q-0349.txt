@@ -1,0 +1,3 @@
+CN：矢量风格的卡通鹅，扁平化设计，白色背景，一只穿着棕色帽子、领结和背带裤的鹅，白色的身体，橙色的靴子，简单的线条，最佳品质
+EN：Vector style cartoon goose, flat design, white background, a goose wearing a brown hat, bow tie and overalls, white body, orange boots, simple lines, best quality  --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

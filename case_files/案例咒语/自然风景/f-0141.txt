@@ -1,0 +1,3 @@
+CN：航拍视角，海滩，悬崖，海浪，沙滩，岩石，金色光线，黄昏，自然景观，高对比度，电影感，广角镜头，高分辨率，细节丰富
+EN：Aerial perspective, beach, cliffs, waves, sand, rocks, golden light, dusk, natural landscape, high contrast, cinematic feel, wide angle lens, high resolution, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

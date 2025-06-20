@@ -1,0 +1,4 @@
+﻿CN：光线细节丰富，杰作，最高品质，8k，光线追踪，美女，超清人脸特写，精致的五官，古风，中国风，精美的汉服，发簪，手饰，柳树下，金光，光泽，细腻的发丝，细致刻画，最佳分辨率，
+EN：Rich light details, masterpiece, highest quality, 8k, ray tracing, beautiful woman, ultra-clear face close-up, exquisite facial features, ancient style, Chinese style, exquisite Hanfu, hairpin, hand jewelry, under the willow tree, golden light, luster, delicate hair, detailed portrayal, best resolution, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个胖胖的武器锻造师的3D角色，3D，全身，站立姿势，脚下有武器配件和零件，民间灵感风格，迪斯尼动画，白色背景，3D，正面，中世纪风格，
+EN：3D character of a chubby weapon blacksmith, 3D, full body, standing pose, weapon accessories and parts at your feet, folk inspired style, Disney animation, white background, 3D, front, medieval style, --q 1 --s 180 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

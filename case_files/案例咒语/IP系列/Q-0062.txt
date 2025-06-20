@@ -1,0 +1,4 @@
+﻿CN：3DQ版人物模型，全身，Q版，Q版微型人物站在白色背景上，身穿黑色西装，3D风格，正面视图，
+EN：3DQ version of the character model, full body, ChiBi, Q version of the miniature character standing on a white background, wearing a black suit, 3D style, front view, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

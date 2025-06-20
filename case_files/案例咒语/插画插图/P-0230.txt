@@ -1,0 +1,3 @@
+CN：美式矢量插图风格，简单的几何形状，一个穿着橙色短袖和黑色长裤的男士站在巨大的屏幕前的插图，用于电商平台的宣传海报插图设计，美式现代插图风格，白色背景，
+EN：American vector illustration style, simple geometric shapes, illustration of a man wearing orange short sleeves and black trousers standing in front of a huge screen, promotional poster illustration design for e-commerce platform, American modern illustration style, white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

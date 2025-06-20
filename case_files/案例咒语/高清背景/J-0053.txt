@@ -1,0 +1,5 @@
+
+CN：黑暗系壁纸设计，3D，平行四边形排列，C4D建模渲染，OC渲染，顶视图，发光，3D渲染，极致降噪，
+
+EN：Dark wallpaper design, 3D, parallelogram arrangement, C4D modeling rendering, OC rendering, top view, luminous, 3D rendering, extreme noise reduction, --q 2 --s 250 --ar 3:4 --v 5.2 --style raw --fast 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：动物摄影，老虎，雪山，雪地，母老虎，小老虎，长焦镜头，电影感，8k，超细节，超现实主义，宁静的氛围，温暖的光线
+EN：Animal photography, tigers, snowy mountains, snow, tigress, tiger cub, telephoto lens, cinematic feel, 8k, ultra-details, hyperrealism, tranquil atmosphere, warm light  --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

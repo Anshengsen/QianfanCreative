@@ -1,0 +1,4 @@
+﻿CN：一个可爱的卡通人物坐在电脑前上班，上班族，戴着帽子，快乐的表情，白色背景，，记号笔插图，粗体线条和纯色，简单的细节，极简主义，最高品质，
+EN：A cute cartoon character sitting in front of a computer at work, office worker, wearing a hat, happy expression, white background, marker illustration, bold lines and solid colors, simple details, minimalism, the highest quality, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

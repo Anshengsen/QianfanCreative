@@ -1,0 +1,3 @@
+CN：抽象艺术，黑白配色，流畅曲线，丝绸质感，光影效果，极简主义，动态美感，壁纸风格，高分辨率，细节丰富，艺术感强，无人物，无具象物体，适合作为背景，现代设计，未来主义，简洁大气。
+EN：Abstract art, black and white color scheme, smooth curves, silk texture, light and shadow effects, minimalism, dynamic beauty, wallpaper style, high resolution, rich details, strong sense of art, no characters, no concrete objects, suitable as a background, modern design, futurism, simple and elegant. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

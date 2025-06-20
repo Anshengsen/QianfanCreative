@@ -1,0 +1,4 @@
+﻿CN：LOGO，一位和蔼可亲的亚洲老奶奶的Q版卡通形象，极简主义，矢量风格，用于美食行业的LOGO设计，白色背景，
+EN：LOGO, Q version of the cartoon image of an amiable Asian grandmother, minimalist, vector style, LOGO design for the food industry, white background, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

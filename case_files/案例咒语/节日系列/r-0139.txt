@@ -1,0 +1,3 @@
+CN：万圣节，3D模型，粘土材料，可爱的南瓜、鬼魂、蝙蝠、城堡，黑色背景，深夜，微缩模型，边缘光，
+EN：Halloween, 3D model, clay material, cute pumpkin, ghost, bat, castle, black background, late night, miniature model, edge light, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

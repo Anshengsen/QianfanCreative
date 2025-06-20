@@ -1,0 +1,4 @@
+﻿CN：矢量艺术的图案，手工水彩，极简主义，高品质，艺术，独特，注重细节，8k，
+EN：Vector art patterns, handmade watercolors, minimalism, high quality, artistic, unique, attention to detail, 8k, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,6 @@
+
+CN：一个东方美少女，精致的五官，腮红，红唇，穿着黑色的衣服，戴着项链，面对镜头，上半身，居中，纯色背景，混合赛博朋克、皮克斯、泡泡玛特盲盒、Behance风格，3D渲染，Blender渲染，OC渲染，高质量，超高分辨率，
+EN：A beautiful oriental girl, exquisite facial features, blush, red lips, wearing black clothes, wearing necklaces, facing the camera, upper body, centered, solid background, mixed cyberpunk, Pixar, POP MART blind box, Behance style, 3D rendering, Blender rendering, OC rendering, high quality, super high resolution, --q 1 --s 150 --ar 3:4 --niji 5 --c 0
+（PS：风格化强度值不要超过180，不然风格不像是3D，建议数值：150-180之间）
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

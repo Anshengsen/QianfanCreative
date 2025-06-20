@@ -1,0 +1,3 @@
+CN：涨潮，退潮，海湾，滩涂，水面反光，圣米歇尔山，城堡，剪影，日落，暖色调，橙红色天空，云彩，柔和光线，自然光，戏剧性光照，史诗感，广角，远景，地平线，对称构图，引导线，纹理，细节丰富，8K，超高清，最佳画质。
+EN：High tide, low tide, bay, mudflats, water reflections, Mont Saint Michel, castle, silhouettes, sunsets, warm tones, orange-red sky, clouds, soft light, natural light, dramatic lighting, epic feel, wide angles, vistas, horizons, symmetrical compositions, leading lines, textures, rich details, 8K, ultra high definition, best quality. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

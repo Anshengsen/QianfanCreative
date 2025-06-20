@@ -1,0 +1,3 @@
+CN：海滩风光，金色日落，柔和光线，海天一线，细腻沙滩，碧蓝海水，轻柔海浪，宁静氛围，广角镜头，自然色彩，高清晰度。
+EN：Beach scenery, golden sunset, soft light, sea and sky, fine sand, blue water, gentle waves, tranquil atmosphere, wide-angle lens, natural colors, high definition. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

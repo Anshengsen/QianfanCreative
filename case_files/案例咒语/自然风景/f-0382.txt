@@ -1,0 +1,3 @@
+CN：迷雾森林, 红色树叶, 黑色树干, 幽暗小路, 强烈色彩对比, 梦幻氛围, 超现实主义, 光影效果, 纵深感, 弥散光, 电影感, 高细节, 8K, 最佳画质
+EN：Misty forest, red leaves, black tree trunks, dark path, strong color contrast, dreamy atmosphere, surrealism, light and shadow effects, depth, diffuse light, cinematic feel, high detail, 8K, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

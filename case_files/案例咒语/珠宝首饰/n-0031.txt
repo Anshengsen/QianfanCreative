@@ -1,0 +1,3 @@
+CN：三维渲染图，一枚镶有心形粉钻的戒指，戒指采用镂空设计，材质采用玫瑰金色，镶嵌细碎的钻石，放置在白色大理石台面上，周围散落着白色小花和钻石项链，柔和的阴影，全局光，超级细节，光滑，超精细
+EN：3D rendering of a ring with a heart-shaped pink diamond, the ring is hollowed out, the material is rose gold, inlaid with tiny diamonds, placed on a white marble table, surrounded by scattered white flowers and diamond necklaces, soft shadows, global light, super details, smooth, super fine --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

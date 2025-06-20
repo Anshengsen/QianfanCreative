@@ -1,0 +1,3 @@
+CN：一个戴着眼镜的女大学生，在教室里端正坐着，正面，有黑板、书桌、笔记本等元素，手绘线条风格，手绘板绘画风格，最佳品质，明亮的光照，柔和的阴影，
+EN：A female college student wearing glasses, sitting upright in the classroom, with blackboards, desks, notebooks and other elements on the front, hand-drawn line style, hand-painted board painting style, best quality, bright light, soft shadows, --q 1 --s 100 --ar 3:4 --niji 6 --personalize 1ki18px 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

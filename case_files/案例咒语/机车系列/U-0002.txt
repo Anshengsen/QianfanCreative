@@ -1,0 +1,3 @@
+CN：保时捷广告摄影图，保时捷，跑车，黑色，侧面，精细的打光，光效，超跑，黑色背景，电影级照明，工作室质量，产品摄影，真实摄影，UHD，
+EN：Porsche Advertising Photography, Porsche, Sports Car, Black, Side, Fine Lighting, Light Effects, Supercar, Black Background, Cinematic Lighting, Studio Quality, Product Photography, Real Photography, UHD, --q 5 --s 250 --ar 3:4 --v 5.2 
+

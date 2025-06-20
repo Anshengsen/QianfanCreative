@@ -1,0 +1,3 @@
+CN：3D角色，皇室战争人物风格，一名上身肌肉突出的男性战士，下身披着一件皮毛大衣，拿着斧头，侧身站立，表情凶猛，3D，全身，居中，灰色背景，丰富的细节，粘土材料，
+EN：3D character, Clash Royale character style, a male warrior with prominent upper body muscles, wearing a fur coat under his lower body, holding an axe, standing sideways, with a fierce expression, 3D, full body, centered, gray background, rich details, clay material, --q 5 --s 100 --ar 3:4 --v 6.0 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

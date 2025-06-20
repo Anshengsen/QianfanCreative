@@ -1,0 +1,4 @@
+﻿CN：肖像特写镜头，花木兰，中国元素，黑色粗线条和红色，新潮流，时尚，现代，红色背景空间，平面风格，极简主义，平面插图，鹤田一郎风格，
+EN：Portrait close-up, Mulan, Chinese elements, black thick lines and red, new trend, fashion, modern, red background space, flat style, minimalism, flat illustration, Tsuruta Ichiro style, --q 1 --s 100 --ar 3:4 --niji 5
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

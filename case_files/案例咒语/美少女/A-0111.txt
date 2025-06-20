@@ -1,0 +1,4 @@
+
+CN：一个美少女，精致的五官，腮红和红唇，上半身，侧面，居中，黑色长发，国潮耳环，淡绿色主题，忧郁的情绪，低沉，干净的背景，高质量，高品质，
+EN：A beautiful girl, exquisite facial features, blush and red lips, upper body, side, center, long black hair, Guochao earrings, light green theme, melancholy mood, low, clean background, high quality, high quality, --q 1 --s 180 --ar 3:4 --niji 5 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,5 @@
+CN：一个3D盾牌图标，渐变蓝色，磨砂玻璃，透明，简约，科技感，等距视图，极简主义，明亮的色彩，简单的背景，工业设计，丰富的细节，OC渲染，C4D，光线追踪，最高质量，工作室照明，
+EN：A 3D shield icon, gradual change of blue, frosted glass, transparent, minimalist, tech sense, isometric view, minimalism, bright colors, simple background, industrial design, rich details, OC rendering, C4D, ray tracing, highest quality, studio lighting, --q 5 --s 150 --ar 3:4 --v 5.2
+【主体：盾牌（shield）、相机（camera）、文件夹（folder）、魔方（Rubik's Cube）、麦克风（microphone）、电脑显示器（Computer monitor）、耳机（earphones）】
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：抽象光滑铝材质全息图，彩色铝箔背景，柔和，浅色调，现代风格，白平衡，32k，超分辨率，工作室照明， 流明反射，RTX，极其详细和复杂，优雅，超现实，超详细，鲜艳的色彩，
+EN：Abstract glossy aluminum material hologram, colorful foil background, pastel, light tones, modern style, white balance, 32k, super resolution, studio lighting, lumen reflection, RTX, extremely detailed and intricate, elegant, surreal, ultra-detailed, bright colors, --q 5 --s 150 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

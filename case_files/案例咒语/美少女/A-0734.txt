@@ -1,0 +1,3 @@
+CN：照片，写实，2.5D，一位亚洲女性，海边，长发，披发，精致的五官，淡妆，微笑，身穿荧光黄色的短袖上衣和同色系短裤，双手交叠放在身前，面向镜头，全身镜头，背景是模糊的海浪和沙滩，自然光。
+EN：Photo, realistic, 2.5D, an Asian woman, at the seaside, long hair, loose hair, delicate facial features, light makeup, smiling, wearing a fluorescent yellow short-sleeved top and shorts of the same color, hands folded in front of her, facing the camera, full-body shot, background is blurred waves and beach, natural light. --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

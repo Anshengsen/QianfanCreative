@@ -1,0 +1,3 @@
+CN：LOGO设计，矢量图形，字母“B”的简单形状和黑色的尖刺，图形采用黑色和绿色风格，纯白背景，左侧比较厚重，为棒球队设计的团队标志，
+EN：LOGO design, vector graphics, simple shape of the letter "B" and black spikes, graphics in black and green style, pure white background, thicker left side, team logo designed for baseball team, --q 5 --s 180 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

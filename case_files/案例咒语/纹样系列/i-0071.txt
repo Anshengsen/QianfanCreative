@@ -1,0 +1,3 @@
+CN：对称，一个巨大的花型底纹，独奏，对称构图，简约，日本传统主义，暗红色，纯白背景，单色，最佳品质，
+EN：Symmetry, a huge flower pattern, solo, symmetrical composition, simplicity, Japanese traditionalism, dark red, pure white background, monochrome, best quality, --q 1 --s 100 --ar 1:1 --v 6.0 --tile 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

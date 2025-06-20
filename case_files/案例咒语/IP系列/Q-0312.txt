@@ -1,0 +1,3 @@
+CN：3D渲染，卡通，半写实，chibi，一个可爱小女孩，双髻，两侧刘海，身穿浅粉色瑜伽服和白色鞋子，拿着2个哑铃，开心，轻松，滑稽的动作俏皮的人物角色设计，全身，白色背景，
+EN：3D rendering, cartoon, semi-realistic, chibi, a cute little girl, double bun, bangs on both sides, wearing light pink yoga clothes and white shoes, holding 2 dumbbells, happy, relaxed, funny action playful character design, full body, white background, --q 5 --s 100 --ar 3:5 --niji 6  --personalize abwlbtq --no scantily clad 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

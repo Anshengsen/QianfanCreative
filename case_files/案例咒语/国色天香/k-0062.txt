@@ -1,0 +1,3 @@
+CN：摄影，美丽的光影，一个穿着汉服的美丽女子站一堆交叠的卷轴中写诗，盘发，绝美的画面，一堆卷轴从天上垂下来，卷轴缠绕，大师意境，艺术，光影，大师级构图，逼真，全景，详细，细腻光滑的皮肤，
+EN：Photography, beautiful light and shadow, a beautiful woman in Hanfu standing among a pile of overlapping scrolls writing poetry, hair in a bun, beautiful picture, a pile of scrolls hanging from the sky, scrolls entangled, master's artistic conception, art, light and shadow, master-level composition, realistic, panoramic, detailed, delicate and smooth skin, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

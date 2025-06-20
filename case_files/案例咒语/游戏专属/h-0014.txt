@@ -1,0 +1,4 @@
+CN：打开的卷轴牛皮纸，空白，像是藏宝图，两端镶嵌宝石，游戏插图风格，平面风格，顶视图，最佳品质，白色背景，
+EN：Open scroll kraft paper, blank, like a treasure map, set with gems at both ends, game illustration style, flat style, top view, best quality, white background, --q 1 --s 100 --ar 9:16 --v 6.0 --no Creases, wrinkles
+排除：折痕，皱纹/Creases, wrinkles 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

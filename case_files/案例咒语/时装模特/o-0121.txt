@@ -1,0 +1,3 @@
+CN：亚洲人，女性，年轻，齐肩短发，自然黑发色，无刘海，面部表情自然，淡妆，穿着米白色的长袖连帽卫衣，拉链拉上，黑色运动短裤，站姿，正面，室内，白色背景，棚拍，柔和的光线，
+EN：Asian, female, young, shoulder-length hair, natural black hair color, no bangs, natural facial expression, light makeup, wearing off-white long-sleeved hooded sweatshirt, zipped up, black sports shorts, standing, front view, indoors, white background, studio shot, soft light, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

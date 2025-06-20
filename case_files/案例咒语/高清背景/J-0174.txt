@@ -1,0 +1,4 @@
+﻿CN：黑色背景，霓虹色波浪，几何波浪形状，深蓝色、紫色、黑色，赛博朋克，3D，3D渲染，最佳品质，
+EN：Black Background, Neon Waves, Geometric Wave Shapes, Dark Blue, Purple, Black, Cyberpunk, 3D, 3D Rendering, Best Quality, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

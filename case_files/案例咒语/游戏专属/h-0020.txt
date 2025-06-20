@@ -1,0 +1,3 @@
+CN：一个像素艺术游戏的精灵表，一个看起来很像梅达博特的chibi机器人，带有能量盾和一把剑，蓝色盔甲，白色背景，
+EN：A pixel art game's sprite table, a chibi robot that looks a lot like Medabot, with an energy shield and a sword, blue armor, and a white background. --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：空白效果图，产品包装盒，白色，纸盒，长方体，开口设计，顶部和侧面有折叠结构，3D模型，简约风格，纯白背景，中心构图，产品展示，细节清晰，高光与阴影，8K。
+EN：Blank rendering, product packaging box, white, paper box, cuboid, open design, folding structure on the top and sides, 3D model, simple style, pure white background, center composition, product display, clear details, highlights and shadows, 8K. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

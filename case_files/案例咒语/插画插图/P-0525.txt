@@ -1,0 +1,3 @@
+CN：现代手绘风格插画，雨天场景，人物，雨伞，蓝色色调，细节丰富，手绘感，最佳品质，插画设计，海报风格，雨天插画，细节丰富，视觉冲击力，创意插画，时尚元素，雨伞海洋，轻松愉快，简约风格，宁静氛围，清新，文艺，简约风格，创意，灵感，情感，
+EN：Modern hand-painted style illustration, rainy day scene, people, umbrella, blue tones, rich details, hand-painted feeling, best quality, illustration design, poster style, rainy day illustration, rich details, visual impact, creative illustration, fashion elements, umbrella ocean, relaxed and happy, simple style, tranquil atmosphere, fresh, literary, simple style, creativity, inspiration, emotion, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

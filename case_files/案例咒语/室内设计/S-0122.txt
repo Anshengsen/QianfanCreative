@@ -1,0 +1,3 @@
+CN：室内场景，客厅，现代简约风格，米色墙面，落地窗，白色纱帘，砖红色丝绒窗帘，砖红色沙发，绿色靠枕，圆形木质茶几，落地灯，地毯，自然光，温馨，舒适，细节丰富，8K，超高质量。
+EN：Indoor scene, living room, modern simple style, beige walls, floor-to-ceiling windows, white gauze curtains, brick-red velvet curtains, brick-red sofas, green cushions, round wooden coffee table, floor lamps, carpets, natural light, warm, comfortable, rich details, 8K, ultra-high quality. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：一个简单的卡通柯基图标，一只穿着巫师长袍的邪恶柯基，左手拿着法杖，举起右手念诵咒语，融入农场元素，用于游戏界面，简单，矢量，白色背景，居中，
+EN：A simple cartoon corgi icon, an evil corgi wearing a wizard's robe, holding a staff in his left hand, raising his right hand to chant a spell, incorporating farm elements, used in the game interface, simple, vector, white background, centered, --q 1 --s 100 --ar 1:1 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,5 @@
+CN：阿尔卑斯山脉风光，清晨，紫红色天空，雪山，山脉，茂密森林，翠绿草地，平静湖面，湖面反射，散落的木屋，广角镜头，自然光，高饱和度，风景摄影，超高清，8K，细节丰富
+EN：Alps scenery, early morning, purple sky, snow-capped mountains, mountain range, dense forest, emerald green meadow, calm lake, lake reflection, scattered wooden houses, wide angle lens, natural light, high saturation, landscape photography, ultra high definition, 8K, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

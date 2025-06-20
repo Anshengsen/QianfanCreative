@@ -1,0 +1,3 @@
+CN：空白T恤模型，3D渲染，休闲舒适风格，白色纯棉T恤，平铺在木质桌面上，自然光线照射，展现T恤的质感和细节，高清渲染，4K分辨率，空白T恤可用于展示图案设计或品牌印花。
+EN：Blank T-shirt mockup, 3D rendering, casual and comfortable style, white cotton T-shirt, laid flat on a wooden table, illuminated by natural light, showing the texture and details of the T-shirt, HD rendering, 4K resolution, blank T-shirt can be used to display pattern design or brand printing. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

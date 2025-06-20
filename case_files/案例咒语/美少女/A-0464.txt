@@ -1,0 +1,4 @@
+CN：动漫风格，彩色漫画风格，锐利流畅的线条，漫画风格，一个美少女，正面，在房间中，锐利的线条，最佳品质，彩色漫画，8k，有光泽，
+EN：Anime style, colorful comic style, sharp and smooth lines, comic style, a beautiful girl, front view, in the room, sharp lines, best quality, colorful comics, 8k, glossy, --q 5 --s 180 --ar 3:4 --v 6.0
+（PS：不稳定，建议垫图） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

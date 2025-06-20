@@ -1,0 +1,3 @@
+CN：白色背景上的金属3D齿轮单词"AIGC”，独奏，丰富的细节，高级的光影，
+EN：Metal 3D gear word "AIGC" on white background, solo, rich details, advanced light and shadow, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

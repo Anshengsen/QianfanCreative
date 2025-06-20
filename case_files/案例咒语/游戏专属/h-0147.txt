@@ -1,0 +1,3 @@
+CN：2.5风格，虚幻引擎5风格。游戏角色CG风格，2.5D渲染，中国动漫架空大陆风格，中国风美女，全身像，白色连衣裙，金色配饰，皇冠，长发，精致五官，淡妆，飘逸，动态姿势，柔和光线，梦幻，唯美，细节丰富，8K，超高分辨率。
+EN：2.5 style, Unreal Engine 5 style. Game character CG style, 2.5D rendering, Chinese anime style, Chinese style beauty, full-body portrait, white dress, gold accessories, crown, long hair, delicate features, light makeup, flowing, dynamic poses, soft light, dreamy, beautiful, rich details, 8K, ultra-high resolution. --q 5 --s 100 --ar 3:5 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

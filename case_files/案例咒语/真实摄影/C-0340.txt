@@ -1,0 +1,3 @@
+CN：日系写真，清新风格，一个年轻的亚洲女性，棕色长发，刘海，穿着白色衬衫和黑色内搭，看向镜头，室内背景，窗户光线，半身像，最佳质量，8k，超细节，皮肤光滑细腻
+EN：Japanese photo, fresh style, a young Asian woman, long brown hair, bangs, wearing a white shirt and black inner wear, looking towards the camera, indoor background, window light, half-length portrait, best quality, 8k, ultra-detailed, smooth and delicate skin --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

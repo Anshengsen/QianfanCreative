@@ -1,0 +1,3 @@
+CN：现代线条插画风格，黑白配色，蓝色点缀，白色背景，校园场景，汽车，树，人物，简约线条，矢量图形，无阴影，卡通风格，插画设计，商业插画，场景插画，最佳品质，干净利落的边缘，现代设计，扁平化设计，校园生活，简约插画，线性插画，
+EN：Modern line illustration style, black and white color scheme, blue embellishment, white background, campus scene, car, tree, character, simple lines, vector graphics, no shadow, cartoon style, illustration design, commercial illustration, scene illustration, best quality, clean edges, modern design, flat design, campus life, simple illustration, linear illustration, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

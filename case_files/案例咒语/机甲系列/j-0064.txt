@@ -1,0 +1,3 @@
+CN：变形金刚风格的汽车机甲，高速公路环境，运动模糊，金属质感强烈，火焰喷射，Arnold渲染，高反光，复杂的机械结构，背景是飞驰的车辆和城市，8K分辨率，速度感，
+EN：Transformers style car mecha, highway environment, motion blur, strong metal texture, flame jet, Arnold rendering, high reflection, complex mechanical structure, background is speeding vehicles and city, 8K resolution, sense of speed, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

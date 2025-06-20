@@ -1,0 +1,3 @@
+CN：真实人像摄影，专业摄影，黑白，一个穿着黑色长袍的亚洲美女，齐肩短发，洒脱自然的姿势，手臂自然下垂，获奖作品，背景是水墨山水画，完美的构图，写意，高品质，高细节，高清，
+EN：Real portrait photography, professional photography, black and white, an Asian beauty in a black robe, shoulder-length hair, free and natural posture, arms hanging naturally, award-winning work, the background is a landscape painting in ink, perfect composition, freehand, high quality, high detail, high definition, --q 1 --s 150 --ar 3:4 --v 6.0 --personalize ak9ezqk 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

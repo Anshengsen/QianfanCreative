@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，一个女孩正在唱歌，穿着粉红色的上衣和紫色的短裙，以及银色的靴子，她拿着一个黄色的复古麦克风，头发是紫色的，扎成一个高高的发髻，灯光柔和，构图简洁，人物居中，风格类似于3D动画或游戏角色建模，淡蓝色背景，
+EN：3D rendering, cartoon style, a girl is singing, wearing a pink top and purple skirt, and silver boots, she is holding a yellow retro microphone, her hair is purple and tied in a high bun, the lighting is soft, the composition is simple, the figure is centered, the style is similar to 3D animation or game character modeling, light blue background, --q 5 --s 250 --ar 3:5 --niji 6 --personalize abwlbtq --stop 98 --c 2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

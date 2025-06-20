@@ -1,0 +1,3 @@
+CN：3D，皮克斯动画风格的面部细节，一个优雅的女性穿着中国苗族少数民族服饰，全身，中国风，背景是山水、房屋、田园、湖泊，逼真，详细，最佳品质，高清，4K，
+EN：3D, facial details in the style of Pixar animation, an elegant woman wearing Chinese Miao ethnic minority costume, full body, Chinese style, with mountains, houses, fields, lakes in the background, realistic, detailed, best quality, HD, 4K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

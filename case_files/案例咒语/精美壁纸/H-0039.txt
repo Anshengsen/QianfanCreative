@@ -1,0 +1,4 @@
+﻿CN：中国神话，嫦娥仙子，精致的五官，腮红，红唇，柳叶眉，黑发，特写，极高品质，动漫风格，32k，
+EN：Chinese mythology, Fairy Chang'e, exquisite facial features, blush, red lips, willow eyebrows, black hair, close-up, extremely high quality, animation style, 32k, --q 1 --s 100 --ar 3:2 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

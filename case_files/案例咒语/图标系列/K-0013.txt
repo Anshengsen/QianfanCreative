@@ -1,0 +1,4 @@
+
+CN：一组矢量风格的3D图标，最佳质量，最佳画质，矢量风格，2.5D，简约，
+EN：A set of vector style 3D icons, best quality, best image quality, vector style, 2.5D, minimalist, --q 5 --s 250 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

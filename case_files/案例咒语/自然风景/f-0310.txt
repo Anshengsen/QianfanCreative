@@ -1,0 +1,3 @@
+CN：远山风景，山谷，绿色植被，岩石峭壁，日落时分，天空呈现橙红色渐变，云雾缭绕，远处的山脉呈现蓝色调，光线柔和，自然光，广角镜头，高对比度，色彩鲜艳，饱和度高，自然风光摄影，超高清画质，8K
+EN：Distant mountain scenery, valleys, green vegetation, rocky cliffs, sunset, orange-red sky, clouds and mist, distant mountains with blue tones, soft light, natural light, wide-angle lens, high contrast, bright colors, high saturation, natural scenery photography, ultra-high-definition quality, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

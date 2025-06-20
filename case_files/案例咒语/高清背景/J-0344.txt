@@ -1,0 +1,3 @@
+CN：一个矢量图形背景，使用简单而平衡的布局，紫色和薄荷色曲线，渐变曲线，深色底色，极简主义，
+EN：A vector graphic background using a simple and balanced layout, purple and mint color curves, gradient curves, dark background, minimalism, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

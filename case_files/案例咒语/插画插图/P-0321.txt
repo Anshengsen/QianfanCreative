@@ -1,0 +1,3 @@
+CN：简约平面风格插图，一位戴着眼镜穿着白衬衫和绿色长裤的中国男人坐在办公桌前，环境是一间现代化的办公室，正面，线条和简单的实色，居中，
+EN：Simple flat style illustration of a Chinese man wearing glasses, white shirt and green trousers sitting at his desk in a modern office environment, front view, lines and simple solid colors, centered, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize l4j9qoj 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

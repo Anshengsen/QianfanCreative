@@ -1,0 +1,3 @@
+CN：独奏，一个卡通风格的矢量气泡对话框，对话框，卡通，可爱，孟菲斯撞色风格，独奏，锐利的边缘，矢量，居中，白色背景，
+EN：Solo, a cartoon style vector bubble dialog box, dialog box, cartoon, cute, Memphis contrasting style, solo, sharp edges, vector, centered, white background, --q 1 --s 50 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

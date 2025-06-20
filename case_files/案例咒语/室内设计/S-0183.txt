@@ -1,0 +1,3 @@
+CN：室内设计，豪华客厅，深蓝色墙板，白色沙发，金色装饰，拱形窗户，白色窗帘，金色吊灯，抽象艺术画作，条纹地毯，现代风格，高品质，细节丰富，8K。
+EN：Interior design, luxury living room, dark blue wall panels, white sofa, gold decorations, arched windows, white curtains, gold chandelier, abstract art paintings, striped carpet, modern style, high quality, rich details, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

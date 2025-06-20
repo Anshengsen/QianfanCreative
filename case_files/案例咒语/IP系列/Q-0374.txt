@@ -1,0 +1,3 @@
+CN：卡通云朵小人，白色背景，小人身体为白色的云朵形状，头顶戴着一个黄色的笑脸太阳，脸上有红晕，眼睛为黑色，呈豆豆眼，嘴角上扬，露出微笑，身穿红色小衣服，双手抱在胸前，整体风格可爱温馨，充满童趣。
+EN：A cartoon cloud man, with a white background. His body is in the shape of a white cloud, with a yellow smiling sun on his head, a blush on his face, black, beaded eyes, the corners of his mouth are raised with a smile, he is wearing a red dress, and his hands are clasped in front of his chest. The overall style is cute, warm and full of childlike fun. --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

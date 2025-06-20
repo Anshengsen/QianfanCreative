@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，银灰色，皮革短外套，宽松版型，衬衫领，落肩袖，长袖，腰部有松紧设计，两侧有斜插口袋，皮革材质，哑光质感，光线均匀柔和，焦点清晰集中于服装，突出服装的材质和细节。
+EN：Professional clothing photography, 8K, front view, white background, silver-grey, leather short jacket, loose fit, shirt collar, dropped shoulder sleeves, long sleeves, elastic waist, slanted pockets on both sides, leather material, matte texture, even and soft light, clear focus on the clothing, highlighting the material and details of the clothing. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

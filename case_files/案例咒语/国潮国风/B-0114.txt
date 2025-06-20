@@ -1,0 +1,3 @@
+CN：在一个铺开的巨大的卷轴上，纸雕艺术，微缩景观，中国古代建筑在一副卷起的卷轴画中，金色明亮的灯光，展开的卷轴，特写，摄影，8K，超精细，梦幻，高清辛烷值渲染，
+EN：Paper sculpture art, miniature landscape, ancient Chinese architecture on a rolled-up scroll painting, golden bright light, unrolled scroll, close-up, photography, 8K, ultra-fine, dreamy, high-definition octane rendering, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

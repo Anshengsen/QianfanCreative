@@ -1,0 +1,3 @@
+CN：游戏风格的室内设计，微模型，时尚，现代，等距::2，1:1家具，卡通风格，明亮，高品质的Pvc材料，无颗粒，最佳品质，
+EN：Game style interior design, micro model, fashion, modern, isometric:: 2, 1:1 furniture, cartoon style, bright, high quality Pvc material, no particles, best quality, --q 1 --s 100 --ar 1:1 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

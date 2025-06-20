@@ -1,0 +1,3 @@
+CN：一只可爱的、快乐的中华田园犬宝宝，蓬松的毛发，体积光，红色背景，3D，眯眼笑，超级可爱，
+EN：A cute, happy Chinese rural dog baby, fluffy hair, volumetric light, red background, 3D, squinting and smiling, super cute, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

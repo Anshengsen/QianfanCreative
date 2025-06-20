@@ -1,0 +1,4 @@
+﻿CN：抽象概念，柔和艺术，对比晶洞深蓝色、浅蓝色，向右拉长向上像一朵长长的百合花裂开，顶部有柔和的金色火焰，白色背景，最高分辨率，最佳品质，
+EN：Abstract concept, soft art, contrast geodesic dark blue, light blue, elongated to the right and split like a long lily, soft golden flame at the top, white background, highest resolution, best quality, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

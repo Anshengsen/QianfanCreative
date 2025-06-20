@@ -1,0 +1,3 @@
+CN：3D风格，橙色背景，一个戴着京剧脸谱的男性的侧脸特写，蓝色的胡子，橙色的眼影，蓝色的眉毛，苍白的面部，橙色的嘴唇，3D渲染，最佳品质，
+EN：3D style, orange background, close-up of a male wearing Peking Opera mask, blue beard, orange eyeshadow, blue eyebrows, pale face, orange lips, 3D rendering, best quality, --q 1 --s 100 --ar 3:4 --niji 6 --personalize 122cw9i 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

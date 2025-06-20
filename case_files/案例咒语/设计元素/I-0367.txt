@@ -1,0 +1,4 @@
+CN：3D图标，卡通，3D渲染，一个红色的福袋，里面装满了金币，一些金币漂浮在钱袋上方，白色背景，黏土材质，OC渲染，超高品质，8k，卡通风格，儿童插画风格
+EN：3D icon, cartoon, 3D rendering, a red lucky bag filled with gold coins, some gold coins floating above the bag, white background, clay material, OC rendering, ultra-high quality, 8k, cartoon style, children's illustration style --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

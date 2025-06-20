@@ -1,0 +1,3 @@
+CN：极简主义海报设计，卡通风格，一只黑色的熊，眼睛是叉号，张着大嘴，露出锋利的牙齿，嘴里叼着一支香烟，烟雾形状，棕色背景，粗线条，高对比度，矢量图形，最佳品质，
+EN：Minimalist poster design, cartoon style, a black bear with crosses for eyes, a wide open mouth showing sharp teeth, a cigarette in his mouth, smoke shape, brown background, thick lines, high contrast, vector graphics, best quality, --s 50 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：一个可爱的女孩戴着老鼠形状的帽子，科技元素，时尚的衣服，盲盒风格，精细的光泽，干净的白色背景，3d渲染，OC渲染，最佳质量，4K，超级细节，正视图，工作室照明，正视图，
+EN：A cute girl wearing a mouse-shaped hat, tech elements, fashionable clothes, blind box style, fine gloss, clean white background, 3d rendering, OC rendering, best quality, 4K, super detail, front view, studio lighting, front view, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

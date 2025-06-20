@@ -1,0 +1,3 @@
+CN：3D渲染，动画gif，小雪节气，一碗热气腾腾的羊肉汤，配上葱花和香菜，特写镜头，逼真，细节丰富，诱人食欲，暖色调，8K，超高清，食物摄影，写实风格，中式美食，
+EN：3D rendering, animated gif, Xiaoxue solar term, a bowl of steaming mutton soup with chopped green onions and coriander, close-up, realistic, rich in details, tempting appetite, warm tones, 8K, ultra high definition, food photography, realistic style, Chinese cuisine, --q 5 --s 100 --ar 3:2 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

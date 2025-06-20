@@ -1,0 +1,3 @@
+CN：夜景，远景，一座现代化的斜拉桥，桥塔高耸，桥面灯光明亮，桥下水面反射着金色的光芒，深蓝色天空，构图稳定，光线柔和，色彩饱和，细节丰富，超广角，电影级照明，8K，超高清，最佳品质，真实感渲染。
+EN：Night scene, distant view, a modern cable-stayed bridge, tall towers, bright lights on the bridge deck, golden reflections on the water below the bridge, deep blue sky, stable composition, soft light, saturated colors, rich details, ultra-wide angle, cinematic lighting, 8K, ultra-high definition, best quality, realistic rendering. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

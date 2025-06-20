@@ -1,0 +1,3 @@
+CN：中性风格的亚洲模特，22岁的男性，银灰色短发，棱角分明的五官，穿着Oversize的西装外套，眼神冷峻，直视镜头，黑白摄影，强对比光，干净的工作室背景，时尚摄影，8K。
+EN：Neutral style Asian model, 22-year-old male, short silver-gray hair, angular features, wearing an oversized suit jacket, with cold eyes, looking directly into the camera, black and white photography, strong contrast light, clean studio background, fashion photography, 8K. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

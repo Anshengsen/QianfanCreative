@@ -1,0 +1,3 @@
+CN：森林小溪，木桥，阳光穿透树林，青苔覆盖的岩石，溪水流动，自然光，暖色调，清晨，森林步道，远景，高饱和度，细节丰富，自然摄影，电影质感，8K，超高清。
+EN：Forest creek, wooden bridge, sunlight penetrating the trees, moss covered rocks, stream flowing, natural light, warm tones, early morning, forest trail, distant view, high saturation, rich details, nature photography, film texture, 8K, ultra high definition. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

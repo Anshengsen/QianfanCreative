@@ -1,0 +1,3 @@
+CN：地中海风格的客厅，现代，白色墙面，蓝色家具，海洋元素装饰，自然光，蓝色，白色，米色配色，清新构图，手绘插画质感，4K，高清，明亮通透，
+EN：Mediterranean style living room, modern, white walls, blue furniture, marine element decoration, natural light, blue, white, beige color scheme, fresh composition, hand-painted illustration texture, 4K, high definition, bright and transparent, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

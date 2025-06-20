@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部，亚洲女性，坐姿，双腿交叉，黑色短发，中分，深色丝绸衬衫，宽松款式，长袖，深色短裙，黑色皮质踝靴，粗跟，白色现代风格椅子，浅绿色背景，室内环境，柔和光线，时尚风格，极简主义。
+EN：Professional photography, 8K, clothing advertising shoot, no face, Asian woman, sitting, legs crossed, short black hair, middle parting, dark silk shirt, loose fit, long sleeves, dark short skirt, black leather ankle boots, thick heels, white modern style chair, light green background, indoor environment, soft light, fashion style, minimalism. --q 1 --s 100 --ar 1:2 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

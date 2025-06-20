@@ -1,0 +1,3 @@
+CN：逼真的纹理，堆积的石头背景，两侧分别有发光的符文，左侧是红色的，右侧是蓝色的。  高对比度，戏剧性照明，强调符文和石头纹理的细节， 风格类似于游戏或电影概念艺术，具有强烈的视觉冲击力，对称构图，逼真的材质渲染，光影效果突出，
+EN：Realistic texture, stacked stone background with glowing runes on both sides, red on the left and blue on the right. High contrast, dramatic lighting, emphasizing the details of the runes and stone textures. The style is similar to game or movie concept art, with strong visual impact, symmetrical composition, realistic material rendering, and prominent light and shadow effects. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

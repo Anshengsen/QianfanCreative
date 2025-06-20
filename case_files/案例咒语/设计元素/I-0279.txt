@@ -1,0 +1,3 @@
+CN：3D渲染，产品展示，特写，一个红色的可乐罐，罐身上有白色的“COLA”字样和波浪形图案，金属罐盖，光滑的表面，均匀的灯光，白色背景，逼真，高质量。
+EN：3D rendering, product display, close-up, a red cola can with white "COLA" lettering and wavy pattern on the can, metal can lid, smooth surface, even lighting, white background, realistic, high quality.  --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

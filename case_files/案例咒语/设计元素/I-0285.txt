@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，白色和蓝色的飞机，浅蓝色背景，俯瞰视角，简单光照，
+EN：3D rendering, cartoon style, white and blue airplane, light blue background, top view, simple lighting,  --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

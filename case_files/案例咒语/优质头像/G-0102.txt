@@ -1,0 +1,4 @@
+﻿CN：一个动漫女孩抱着一只柯基，动漫风格，身穿黑色连帽衫，正面，厚涂，写实，精致的五官和妆容，特写，pov视角，细节刻画，清晰的发丝，最佳质量，最高分辨率，
+EN：An anime girl holding a corgi, anime style, wearing a black hoodie, front, thick coating, realistic, exquisite facial features and makeup, close-up, pov perspective, detailed portrayal, clear hair, best quality, highest resolution, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

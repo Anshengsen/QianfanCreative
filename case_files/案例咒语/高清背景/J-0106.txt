@@ -1,0 +1,4 @@
+﻿CN：黑白背景上的三维直线的复杂网络，点线链接成复杂的网格，平面，高品质，
+EN：A complex network of three-dimensional straight lines on a black and white background, dots and lines linked into complex grids, flat, high quality, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

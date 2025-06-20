@@ -1,0 +1,3 @@
+CN：矢量风格的标志设计，简单的线条，简单，矢量，一只抽象的鹰，鹰的翅膀由黑色和红色组成，鹰的身体由黑色线条构成，白色背景，正面居中，最佳品质
+EN：Vector style logo design, simple lines, simplicity, vector, an abstract eagle, the eagle's wings are made of black and red, the eagle's body is made of black lines, white background, front center, best quality --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

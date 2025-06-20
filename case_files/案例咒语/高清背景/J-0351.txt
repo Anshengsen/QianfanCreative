@@ -1,0 +1,3 @@
+CN：透明玻璃效果，现代流体设计，网页海报的背景设计，画布的右侧是一个巨大的盛开的花朵形状的透明玻璃，通过半透明的背景、模糊效果和光影效果来提升视觉美感和层次感，光影效果，流畅的形状和动效，behance风格，现代ui设计师的审美，高清，高清辛烷值渲染，
+EN：Transparent glass effect, modern fluid design, background design for web posters, the right side of the canvas is a huge transparent glass in the shape of a blooming flower, which enhances the visual beauty and layering through translucent background, blur effect and light and shadow effects, smooth shapes and dynamic effects, behance style, modern UI designer's aesthetic, high-definition, high-definition octane rendering, --q 1 --s 1000 --ar 3:2 --v 6.1 --personalize l4j9qoj 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

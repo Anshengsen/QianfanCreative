@@ -1,0 +1,3 @@
+CN：壮观的风景摄影，火山爆发，熔岩，浓烟，闪电，乌云密布的天空，火山灰，地热活动，自然灾害，力量感，强烈，炽热，风景，自然，摄影，高分辨率，4k，8k，超高清，细节丰富，逼真，电影级光照，光线追踪，全局照明，大气透视。
+EN：spectacular landscape photography, volcanic eruption, lava, smoke, lightning, cloudy sky, volcanic ash, geothermal activity, natural disaster, sense of power, intensity, heat, landscape, nature, photography, high resolution, 4k, 8k, ultra hd, detailed, realistic, cinematic lighting, ray tracing, global illumination, atmospheric perspective. --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

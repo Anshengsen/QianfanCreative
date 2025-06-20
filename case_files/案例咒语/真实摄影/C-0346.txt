@@ -1,0 +1,3 @@
+CN：哥特风格人像，一个年轻的白人女性，黑发和浅紫色挑染，黑色唇妆，戴着蕾丝项链，穿着黑色连衣裙，看向镜头，户外背景，石质栏杆，半身像，最佳质量，8k，超细节，色彩阴郁
+EN：Gothic style portrait of a young Caucasian woman with black hair and lilac highlights, black lip makeup, lace necklace, black dress, looking towards the camera, outdoor background, stone railings, half-length, best quality, 8k, ultra-detailed, gloomy colors --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

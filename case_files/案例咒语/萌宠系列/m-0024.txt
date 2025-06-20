@@ -1,0 +1,3 @@
+CN：皮克斯动画风格，粉绿色小猫，胖嘟嘟，棉花糖材质，羞涩，害羞，粉色背景，站立，全身，居中，光感，c4d，8k，高清，3D，蓬松，
+EN：Pixar animation style, pink and green kitten, chubby, marshmallow material, shy, shy, pink background, standing, full body, centered, light perception, c4d, 8k, HD, 3D, fluffy, --q 1 --s 100 --ar 1:1 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

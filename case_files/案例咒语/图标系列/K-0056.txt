@@ -1,0 +1,3 @@
+CN：扁平风格图标设计，一组金融相关的图标，颜色为深绿色和浅绿色，图标形状为圆角矩形，线条简洁，整体风格现代简约，具有科技感和专业感，细节包括图标的形状，颜色的搭配，以及线条的粗细，最佳品质，8K，矢量图形，白色背景，
+EN：Flat style icon design, a set of finance-related icons, dark green and light green colors, rounded rectangle shape, simple lines, modern and simple overall style, with a sense of technology and professionalism, details include icon shape, color matching, and line thickness, best quality, 8K, vector graphics, white background, --s 100 --ar 3:2 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

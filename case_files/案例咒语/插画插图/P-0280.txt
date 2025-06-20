@@ -1,0 +1,3 @@
+CN：手绘风格，一家人正在围绕着一张巨大的桌子开披萨派对，开心，他们的身后有披萨旗帜和派对横幅，白色背景，采用可乐风配色的插图，
+EN：Hand drawn style, a happy family having a pizza party around a huge table, with pizza flags and party banners behind them, white background, cola style color illustration, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

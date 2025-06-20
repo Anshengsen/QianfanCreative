@@ -1,0 +1,3 @@
+CN：动画gif，动画片截图，黄金时分，祥云，画面中间有一条小路，几只小动物并排站着，面相太阳，路的两侧有姜饼屋和松树，最佳构图，杰作，全景，广角，
+EN：Animated gif, screenshot of an animation, golden hour, auspicious clouds, a path in the middle of the picture, several small animals standing side by side, facing the sun, gingerbread houses and pine trees on both sides of the road, best composition, masterpiece, panorama, wide angle, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

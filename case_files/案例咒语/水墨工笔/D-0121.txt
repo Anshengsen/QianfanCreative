@@ -1,0 +1,3 @@
+CN：动漫风格，儿童画风格，草稿感，蒙太奇式构图，略显凌乱的线条，明快色彩，柔和光线，路飞（One Piece）的童稚化形象，特写，侧脸，略带伤痕，穿着蓝色上衣，戴着标志性的草帽，草帽边缘有凌乱的线条，整体风格天真烂漫，略带童趣和不羁，纯白背景，粗糙、写意，
+EN：Anime style, children's painting style, draft feeling, montage composition, slightly messy lines, bright colors, soft light, Luffy (One Piece) childish image, close-up, side face, slightly scarred, wearing a blue top, wearing a signature straw hat, the edge of the straw hat has messy lines, the overall style is innocent, slightly childish and unruly, pure white background, rough, freehand, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

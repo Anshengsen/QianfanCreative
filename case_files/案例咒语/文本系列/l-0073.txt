@@ -1,0 +1,3 @@
+CN：3D渲染，字母“L”气球，白色背景，彩色圆点图案，柔和灯光，特写，产品展示，
+EN：3D rendering, letter "L" balloon, white background, colorful dots pattern, soft lighting, close-up, product display, --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

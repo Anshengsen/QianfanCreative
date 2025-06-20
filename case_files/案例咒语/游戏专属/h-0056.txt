@@ -1,0 +1,5 @@
+CN：舒适的柔和的花园主题的游戏用户界面菜单框，卡通奇幻氛围，以朴素背景为中心，内容是画面中有一个小山坡上有棵大树，树下有只小熊，最佳品质，丰富的细节，
+EN：Comfortable and soft garden-themed game user interface menu box, cartoon fantasy atmosphere, centered on a simple background, the content is that there is a small hillside with a big tree and a bear under the tree, the best quality, rich details, --q 1 --s 100 --ar 3:2 --v 6.0
+
+【PS：生成该类案例时，前面的词请务必不要动】 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

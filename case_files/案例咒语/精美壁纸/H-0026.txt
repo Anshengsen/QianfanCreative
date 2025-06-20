@@ -1,0 +1,4 @@
+﻿CN：一个穿着红色衬衫的东方美女，照片，中发，精致的眼妆，腮红，精致的五官，橙红色背景空间，肖像，侧面，
+EN：An oriental beautiful woman in a red shirt, photo, medium hair, delicate eye makeup, blush, delicate facial features, orange-red background space, portrait, side, --q 1 --s 100 --ar 3:5 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

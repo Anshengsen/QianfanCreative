@@ -1,0 +1,3 @@
+CN：空白效果图，圆形包装盒，白色，简约，顶视图，3D渲染，产品展示，纯白背景，工作室照明，高品质，8K，超精细细节，阴影效果
+EN：Blank rendering, round packaging box, white, minimalist, top view, 3D rendering, product display, pure white background, studio lighting, high quality, 8K, ultra fine details, shadow effect --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

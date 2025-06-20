@@ -1,0 +1,3 @@
+CN：空白效果图，俯视视角，两本叠放的笔记本，白色和深色封面，木质桌面背景，一杯咖啡，一支笔，自然光，简约风格，高分辨率，细节丰富，真实感渲染。
+EN：Blank rendering, top view, two stacked notebooks, white and dark covers, wooden desktop background, a cup of coffee, a pen, natural light, minimalist style, high resolution, rich details, photorealistic rendering. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

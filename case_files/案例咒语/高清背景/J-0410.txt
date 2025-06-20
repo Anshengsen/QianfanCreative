@@ -1,0 +1,3 @@
+CN：抽象，动态，光线轨迹，渐变色，深色背景，高对比度，丝滑的线条，数字艺术，流畅的曲线，紫红色和橙色，高分辨率，
+EN：Abstract, dynamic, light trails, gradient colors, dark background, high contrast, silky lines, digital art, smooth curves, fuchsia and orange, high resolution, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

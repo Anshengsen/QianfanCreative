@@ -1,0 +1,5 @@
+CN：日本动漫风格，一个美丽的动漫美少女，黑色背景，长发，流畅的线条，锐利的五官，淡妆，白皙的皮肤，特写，穿着黑色外套，戴着流苏耳环，
+EN：Japanese anime style, a beautiful anime girl, black background, long hair, smooth lines, sharp facial features, light makeup, fair skin, close-up, wearing a black coat and fringed earrings, --q 1 --s 100 --ar 3:4 --v 6.0
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

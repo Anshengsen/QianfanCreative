@@ -1,0 +1,4 @@
+﻿CN：充满想象力的雪景，厚厚的积雪，小房子，
+EN：Imaginative snow scenes, thick snow, small houses, --q 1 --s 100 --v 5.2 --ar 16:9
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

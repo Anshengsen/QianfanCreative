@@ -1,0 +1,3 @@
+CN：广阔的海洋，蔚蓝的海水，平静的海面，微小的波浪，晴朗的天空，明媚的阳光，稀疏的白云，海天一色，自然风光，摄影，远景，高清晰度，8K，最佳质量
+EN：The vast ocean, blue water, calm sea surface, tiny waves, clear sky, bright sunshine, sparse white clouds, sea and sky are one color, natural scenery, photography, vista, high definition, 8K, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

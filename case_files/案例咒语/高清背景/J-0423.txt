@@ -1,0 +1,3 @@
+CN：抽象，旋转螺旋的金色线条，黑色背景，对称构图，光线效果，极简主义，无限循环，高分辨率，最佳品质。
+EN：Abstract, rotating spiral of golden lines, black background, symmetrical composition, light effects, minimalism, infinite loop, high resolution, best quality. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

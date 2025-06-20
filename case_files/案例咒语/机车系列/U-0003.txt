@@ -1,0 +1,4 @@
+CN：全息3D跑车，跑车，兰博基尼，黑色，高反射，高折射，光泽，全息，全息色彩，未来感，高级感，科技感，黑色高反射背景布，最佳画质，最佳质量，3D，3Dmax，OC渲染，
+EN：Holographic 3D sports car, sports car, Lamborghini, black, highly reflective, highly refractive, glossy, holographic, holographic color, futuristic, advanced, scientific and technological, black highly reflective background cloth, best picture quality, best quality, 3D, 3Dmax, OC rendering, --q 5 --ar 3:4 --s 250 --v 5.2 
+
+

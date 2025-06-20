@@ -1,0 +1,2 @@
+CN：科幻跑车渲染图，侧视图，等距视角，蓝色霓虹灯，光滑的表面，黑暗背景，反光，电影质感，高品质渲染，8K，超写实。
+EN：Sci-fi sports car rendering, side view, isometric perspective, blue neon lights, smooth surface, dark background, reflections, film texture, high quality render, 8K, hyperrealism. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6

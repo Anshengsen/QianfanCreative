@@ -1,0 +1,5 @@
+
+CN：黑色墨水喷溅的水彩画，金色描边，流动，墨水喷溅，喷溅，水墨画::，水彩画，黑色:::，金色描边，白色背景，动态流动，最高质量，极致降噪，UHD，
+
+EN：Black ink splash watercolor, gold stroke, flow, ink splash, splash, ink painting::, watercolor, black::, gold stroke, white background, dynamic flow, highest quality, extreme noise reduction, UHD, --q 5 --s 550 --ar 3:4 --v 5.2 --style raw --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

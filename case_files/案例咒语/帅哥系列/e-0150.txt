@@ -1,0 +1,3 @@
+CN：古代中国刺客，身着古代中国白色服装，帅气的青年男性，霓虹灯，机械，赛博朋克风格的街道上，赛博朋克，清晰的面部特征，边缘光，柔光，超详细，8k，高质量，高细节，超高分辨率，虚幻引擎5，写实，详细，逼真，
+EN：Ancient Chinese assassin, dressed in ancient Chinese white clothing, handsome young male, neon lights, machinery, on a cyberpunk style street, cyberpunk, clear facial features, edge light, soft light, ultra detailed, 8k, high quality, high detail, ultra high resolution, Unreal Engine 5, realistic, detailed, lifelike, --q 1 --s 100 --ar 3:4 --niji 6 --personalize 122cw9i 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

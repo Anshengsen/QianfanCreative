@@ -1,0 +1,3 @@
+CN：托斯卡纳日落，意大利乡村，连绵起伏的绿色山丘，柏树，蜿蜒的道路，金色夕阳，橙色天空，蓝色天空，薄云，广角镜头，自然光，高饱和度，电影感，风景摄影，超广角，8K，超高清细节，最佳质量
+EN：Tuscany sunset, Italian countryside, rolling green hills, cypress trees, winding road, golden sunset, orange sky, blue sky, thin clouds, wide angle lens, natural light, high saturation, cinematic feel, landscape photography, ultra wide angle, 8K, ultra high definition details, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,5 @@
+
+CN：星系，螺旋状的星云，星云，星系，星球，特写，真实感，边缘发光，黑色背景，平面风格，3D，光晕，最高质量，虚幻引擎，辛烷值渲染，高细节，
+
+EN：Galaxies, Spiral Nebulae, Nebulae, Galaxies, Planets, Close-up, Photorealistic, Edge Glow, Black Background, Flat Style, 3D, Halo, Highest Quality, Unreal Engine, Octane Rendering, High Detail, --q 5 --s 250 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

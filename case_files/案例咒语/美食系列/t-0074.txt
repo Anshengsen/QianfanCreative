@@ -1,0 +1,3 @@
+CN：美食摄影，照片，传统中式糕点，月饼，多种口味，不同颜色，精致花纹，圆形，方形，木质托盘，陶瓷小碟，酱油，筷子，俯视视角，暖色调，柔和光线，中心构图，细节丰富，高分辨率，质感逼真
+EN：Food photography, photos, traditional Chinese pastries, moon cakes, various flavors, different colors, delicate patterns, round, square, wooden tray, small ceramic dish, soy sauce, chopsticks, top view, warm colors, soft light, center composition, rich details, high resolution, realistic texture --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

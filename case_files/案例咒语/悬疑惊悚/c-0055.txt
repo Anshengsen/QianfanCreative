@@ -1,0 +1,3 @@
+CN：穿着蓝色外套的女孩动漫图像，风格为复古、中国朋克，深紫色和浅米色，正面，夜晚，肖像，细致刻画，
+EN：Anime image of a girl in a blue coat, retro, Chinese punk, dark purple and light beige, front, night, portrait, meticulously depicted, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

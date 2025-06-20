@@ -1,0 +1,3 @@
+CN：卡通线条插画风格，淡色配色，紫色冰箱，蓝色格子衫，橙色桌子，雪人，细节包括人物的表情，冰箱里的雪景，桌上的咖啡，整体画面温馨有趣，风格现代，最佳品质，8K，矢量图形，干净利落，生活插画风格
+EN：Cartoon line illustration style, light color matching, purple refrigerator, blue plaid shirt, orange table, snowman, details include the character's expression, snow scene in the refrigerator, coffee on the table, the overall picture is warm and interesting, modern style, best quality, 8K, vector graphics, clean and neat, life illustration style --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

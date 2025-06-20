@@ -1,0 +1,2 @@
+﻿CN：黑色的老式轿车，3D风格，未来主义，赛博朋克光照明，赛博朋克，黑色背景，光泽，
+EN：Black vintage sedan, 3D style, futurism, cyberpunk light lighting, cyberpunk, black background, gloss, --q 1 --s 100 --ar 16:9 --v 5.2

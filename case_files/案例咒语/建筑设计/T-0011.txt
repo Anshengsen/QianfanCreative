@@ -1,0 +1,4 @@
+﻿CN：屋顶上有太阳能电池板的房子，现代风，32K，UHD，
+EN：A house with solar panels on the roof, modern wind, 32K, UHD, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

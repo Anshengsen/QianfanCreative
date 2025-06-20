@@ -1,0 +1,3 @@
+CN：现代风格，动漫风格，一个穿着黑色西装梳着大背头的青年帅哥坐在车里的驾驶位头伸出窗外与镜头打招呼，手臂搭在车窗上，镜头从车外面拍摄，第三人称视角，现代风格，超写实的动漫风格，超清，超品质，超细节，特写，
+EN：Modern style, anime style, a handsome young man in a black suit with a big back is sitting in the driver's seat of the car with his head sticking out of the window to greet the camera, his arm is on the window, the camera is shot from the outside of the car, third-person perspective, modern style, ultra-realistic anime style, ultra-clear, ultra-quality, ultra-detail, close-up, --q 1 --s 200 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

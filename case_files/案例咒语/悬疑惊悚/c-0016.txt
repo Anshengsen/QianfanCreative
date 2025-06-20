@@ -1,0 +1,4 @@
+
+CN：悬疑，一个女孩在荒废的医院走廊中，特写，诡异的笑，诡异的灯光照明，昏暗的环境，悬疑感，惊悚感，对称构图，高清，日本漫画风格，密室逃脱，
+EN：Suspense, a girl in a deserted hospital corridor, close-up, weird laugh, weird lighting, dim environment, suspense, horror, symmetric composition, high definition, Japanese manga style, secret room escape, --q 1 --s 180 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

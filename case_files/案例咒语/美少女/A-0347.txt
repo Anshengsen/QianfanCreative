@@ -1,0 +1,4 @@
+CN：动漫风格，油画风格，红色背景，一个美少女，上半身，短发，穿着黑色T恤，精致的五官，淡妆，
+EN：Animation style, oil painting style, red background, a beautiful girl, upper body, short hair, wearing a black T-shirt, exquisite facial features, light makeup, --q 1 --s 100 --ar 1:1 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

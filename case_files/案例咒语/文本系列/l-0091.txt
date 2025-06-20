@@ -1,0 +1,3 @@
+CN：数字“2025”，2025，年份，艺术字，霓虹灯风格，渐变，立体感，青色，绿色，深蓝色背景，连续线条设计，迷宫纹理，电路板纹理，发光效果，辉光效果，从上到下颜色渐变。
+EN：Number "2025", 2025, year, word art, neon style, gradient, three-dimensional effect, cyan, green, dark blue background, continuous line design, maze texture, circuit board texture, glow effect, glow effect, color gradient from top to bottom. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

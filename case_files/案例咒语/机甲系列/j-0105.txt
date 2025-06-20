@@ -1,0 +1,3 @@
+CN：日式机甲，美少女战士，金属质感，锋利的刀刃，红色的装饰，站在樱花树下，飘落的樱花，CG渲染，8K，超高清，日式，武士，机甲，
+EN：Japanese mecha, Sailor Moon, metal texture, sharp blade, red decoration, standing under the cherry tree, falling cherry blossoms, CG rendering, 8K, ultra-high definition, Japanese, samurai, mecha, --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：生物机械风格机甲，金属和生物组织融合，脉冲光照亮，黑暗的实验室背景，充满科技感和生物感，光线追踪渲染，金属部分光滑，生物组织部分湿润，细节刻画到肌肉纤维和血管，8K，超高分辨率，
+EN：Biomechanical style mecha, fusion of metal and biological tissue, illuminated by pulse light, dark laboratory background, full of technological and biological sense, ray tracing rendering, smooth metal parts, moist biological tissue parts, details depicted to muscle fibers and blood vessels, 8K, ultra-high resolution, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

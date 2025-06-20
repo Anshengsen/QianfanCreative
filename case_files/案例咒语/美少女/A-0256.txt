@@ -1,0 +1,3 @@
+CN：水墨肖像，东方气质，活泼热情的中国女孩，双眼皮，深绿色的眼睛，身穿黑色高领毛衣，酒红色的口红，戴着耳环，明星剧团风格，深蓝黑风格，浅调色板，正面，肖像，最佳品质，
+EN：Ink portrait, oriental temperament, lively and enthusiastic Chinese girl, double eyelids, dark green eyes, wearing a black turtleneck sweater, burgundy lipstick, wearing earrings, star troupe style, dark blue and black style, light palette, front, portrait, best quality, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

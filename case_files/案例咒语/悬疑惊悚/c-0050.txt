@@ -1,0 +1,3 @@
+CN：一名中国男性身穿深蓝色衣服，背着一名中国老妇人，在树林中行走，背景是乡村院子，夜晚，正视图，中景，恐怖漫画书风格，靛蓝和黑色，珀西·塔兰特，2D游戏艺术，表现主义漫画，干净的线条，月黑风高夜，
+EM：A Chinese male dressed in dark blue, carrying an elderly Chinese woman on his back, walks through the woods with a rural yard in the background, night, front view, medium shot, horror comic book style, indigo and black, Percy Tarrant, 2D game art, expressionist comics, clean lines, dark and windy night, --q 1 --s 100 --ar 3:4 --v 6.0 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

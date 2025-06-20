@@ -1,0 +1,3 @@
+CN：3d模型，滑稽，卡通人，对称正面肖像视图，说唱歌手，大金链子，白色鸭舌帽，金耳环，米黄色帽衫，3D渲染，黄色背景，居中，最佳品质，
+EN：3d model, funny, cartoon man, symmetrical frontal portrait view, rapper, big gold chain, white peaked cap, gold earrings, beige hoodie, 3D rendering, yellow background, centered, best quality, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

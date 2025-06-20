@@ -1,0 +1,4 @@
+﻿CN：3D图标，一杯卡布奇诺咖啡放在白色的小盘子中，正面视图，白色背景，3D，光滑，柔和的渐变，任天堂，时尚，潮流，丰富的细节，最高品质，最高分辨率，柔光，居中构图，
+EN：3D icon, a cup of cappuccino on a small white plate, front view, white background, 3D, smooth, soft gradual change, Nintendo, fashion, trend, rich details, highest quality, highest resolution, soft light, centered composition, --q 1 --s 100 --ar 3:4 --niji 5
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

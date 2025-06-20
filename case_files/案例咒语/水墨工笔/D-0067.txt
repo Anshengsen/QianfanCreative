@@ -1,0 +1,3 @@
+CN：水墨工笔风格的中国江南民居插图，江南徽派建筑，一颗杏树，主色调为杏色，黑白梯度过渡形成明暗，中国风，工笔风，山水画，层次分明，笔触细腻，锐利的水墨线条，最佳品质，
+EN：Illustration of Chinese Jiangnan folk houses in the style of ink and brushwork, Jiangnan Hui-style architecture, an apricot tree, the main color is apricot, black and white gradient transition forms light and dark, Chinese style, fine brushwork, landscape painting, clear layers, delicate brushstrokes, sharp ink lines, best quality, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

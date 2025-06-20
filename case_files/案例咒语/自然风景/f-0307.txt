@@ -1,0 +1,3 @@
+CN：海滩，岩石海岸，洞穴入口，鹅卵石滩，平静海面，长曝光，水雾效果，星空，银河，微弱天光，深蓝色调，冷色调，自然风光，摄影，广角，低角度，对称构图，高细节，8K，超高清，真实感渲染
+EN：Beach, rocky coast, cave entrance, pebble beach, calm sea, long exposure, mist effect, starry sky, Milky Way, faint sky light, dark blue tones, cold tones, natural scenery, photography, wide angle, low angle, symmetrical composition, high detail, 8K, ultra high definition, photorealistic rendering --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

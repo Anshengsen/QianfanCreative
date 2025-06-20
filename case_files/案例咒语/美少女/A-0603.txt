@@ -1,0 +1,3 @@
+CN：浮世绘风格，一个吃柿子的日本女孩，黑发，双长法式辫子，侧分刘海，穿着校服，戴着精美的发饰，一手拎着一竹篮柿子，高质量，高分辨率，高细节，8K，白色背景，
+EN：Ukiyo-e style, a Japanese girl eating persimmons, black hair, double long French braids, side bangs, wearing a school uniform, wearing exquisite hair accessories, holding a bamboo basket of persimmons in one hand, high quality, high resolution, high details, 8K, white background, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

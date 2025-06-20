@@ -1,0 +1,4 @@
+CN：专业摄影，8K，亚洲女性，站立姿势，身体略微侧向镜头，左手自然下垂，右手抬起略微伸向前方，长发，深棕色，中分，自然垂落，面带微笑，眼神柔和，瓜子脸，眉毛自然，鼻梁挺直，嘴唇饱满，穿着浅卡其色拉链夹克，内搭黑色上衣，下身搭配灰色长裙，背景为动物园场景，有栅栏和长颈鹿，自然光，柔和，整体氛围温馨。
+EN：Professional photography, 8K, Asian female, standing posture, body slightly sideways to the camera, left hand hanging naturally, right hand raised and slightly stretched forward, long hair, dark brown, middle parted, hanging naturally, smiling, soft eyes, oval face, natural eyebrows, straight nose, full lips, wearing a light khaki zipper jacket, a black top, and a gray long skirt. The background is a zoo scene with fences and giraffes. The light is natural and soft, and the overall atmosphere is warm. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D渲染，写实，一个穿着浅蓝色卫衣和牛仔裤的可爱女孩，6岁，戴着圆形太阳镜，扎着高马尾，手持一杯饮料，正面站立，全身，chibi，白色背景，柔和灯光，写实风格的卡通渲染，高清，最佳品质。
+EN：3D rendering, realistic, a cute girl in a light blue sweatshirt and jeans, 6 years old, wearing round sunglasses, with a high ponytail, holding a drink, standing frontally, full body, chibi, white background, soft lighting, realistic style cartoon rendering, HD, best quality. --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

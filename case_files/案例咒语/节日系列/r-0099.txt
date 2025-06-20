@@ -1,0 +1,3 @@
+CN：可爱的南瓜IP形象，卡通风格，圆滚滚的身材，大大的眼睛，咧嘴笑，戴着巫师帽，穿着小斗篷，橙色为主色调，明亮的色彩，简单的背景，线条流畅，细节精致，高清，最佳画质，萌系，治愈，万圣节元素。
+EN：Cute pumpkin IP image, cartoon style, round body, big eyes, grinning, wearing a wizard hat, wearing a small cloak, orange as the main color, bright colors, simple background, smooth lines, exquisite details, high definition, best picture quality, cute, healing, and Halloween elements. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

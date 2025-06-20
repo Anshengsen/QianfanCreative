@@ -1,0 +1,3 @@
+CN：无缝图案设计，黑色背景，随机飘落的不同大小的白色雪花和金色渐变色的雪花元素，平面风格，黑色背景，图案设计，
+EN：Seamless pattern design, black background, random falling white snowflakes of different sizes and gold gradient snowflake elements, flat style, black background, pattern design, --q 1 --s 100 --ar 1:1 --v 6.0 --tile 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

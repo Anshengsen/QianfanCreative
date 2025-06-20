@@ -1,0 +1,3 @@
+CN：空白效果图，一位年轻白人男性，坐在户外木桌前，双手正在操作一台 MacBook 笔记本电脑，电脑屏幕空白，身穿绿色长袖衫，棕色短发，从侧后方拍摄，视角略微俯视，户外自然光线，木质桌面纹理清晰，背景虚化处理。
+EN：Blank rendering of a young white male sitting at a wooden table outdoors, operating a MacBook laptop with both hands. The computer screen is blank. He is wearing a green long-sleeved shirt and has short brown hair. It is shot from the side and back, with a slightly downward angle of view. The outdoor natural light has a clear texture on the wooden table and a blurred background. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

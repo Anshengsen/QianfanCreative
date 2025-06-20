@@ -1,0 +1,5 @@
+CN：抽象的彩色背景，各种颜色的波浪流体，充满活力的形态，抽象，虚幻引擎渲染，大胆的色彩，
+EN：Abstract colored backgrounds, wavy fluids of various colors, vibrant forms, abstractions, Unreal Engine rendering, bold colors, --q 5 --s 250 --ar 3:4 --v 5.2
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：动漫美少男，古风，书生，黑色头发，白色长袍，剑眉星目，白色背景，动漫风格，肖像，写实，厚涂，
+EN：Animation beautiful boy, ancient style, scholar, black hair, white robe, sword eyebrows and star eyes, white background, animation style, portrait, realistic, thick coating, --q 1 --s 100 --ar 3:4 --niji 6
+
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

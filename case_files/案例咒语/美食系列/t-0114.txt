@@ -1,0 +1,3 @@
+CN：美食摄影，照片，红烧肉，中式菜肴，方形肉块，浓稠酱汁，葱花点缀，青菜搭配，暖色调，俯视角度，浅色餐盘，两份小料碟，柔和光线，高对比度，细节丰富
+EN：Food photography, photo, braised pork, Chinese cuisine, square meat, thick sauce, chopped green onion, green vegetable combination, warm colors, top view, light-colored plate, two small saucers, soft light, high contrast, rich details --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：现代商业插画风格，办公室场景，人物，电脑，植物，鲜艳色彩，扁平化设计，矢量图形，最佳品质，插画设计，海报风格，商业插画，现代生活，细节丰富，视觉冲击力，创意插画，时尚元素，团队合作，轻松愉快，工作氛围，创新思维，头脑风暴，
+EN：Modern business illustration style, office scene, characters, computers, plants, bright colors, flat design, vector graphics, best quality, illustration design, poster style, business illustration, modern life, rich details, visual impact, creative illustration, fashion elements, teamwork, relaxed and happy, working atmosphere, innovative thinking, brainstorming, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

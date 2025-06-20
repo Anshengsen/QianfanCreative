@@ -1,0 +1,5 @@
+CN：壁纸，画面的上方和下方是紧闭的门，中间是一个圆形的太空舱门，从舱门处可以看到太空中的星系，对称构图，全息，左边是红色的，右边是蓝色的，对称，用Adobe illustrator制作，明暗对比，超品质，
+EN：Wallpaper, the top and bottom of the screen are closed doors, the middle is a circular space capsule door, from the cabin door you can see the galaxies in space, symmetrical composition, holographic, red on the left, blue on the right, symmetrical, made with Adobe illustrator, chiaroscuro, super quality, --q 1 --s 100 --ar 3:4 --v 6.0
+
+（PS：我所希望出现的效果是上下均有留空的背景，所以我先用的3:4比例，出图后再用pan工具进行上下拓展，最终出图如示意图） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

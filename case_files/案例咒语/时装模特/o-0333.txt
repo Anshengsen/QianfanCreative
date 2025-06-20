@@ -1,0 +1,4 @@
+CN：专业摄影，8K，全身像，亚洲女性，直立姿势，双手自然下垂，长直发，自然垂落，面部表情平静，眼神柔和，浅色内搭，灰色长款大衣，翻领设计，白色腰带，简约风格，柔和光线，纯色背景。
+EN：Professional photography, 8K, full-body portrait, Asian woman, upright pose, hands hanging naturally, long straight hair, naturally falling, calm facial expression, soft eyes, light-colored inner wear, gray long coat, lapel design, white belt, simple style, soft light, solid color background. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

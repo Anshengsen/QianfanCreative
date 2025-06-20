@@ -1,0 +1,4 @@
+CN：动漫风格，插画，海边日落，金色草地，鲜花点缀，远山，海面波光粼粼，绚丽晚霞，多层云彩，蓝紫色天空，粉色云朵，光线柔和，色彩丰富，高饱和度，广角，远景，最佳画质，超高细节，8K
+EN：Anime style, illustration, sunset by the sea, golden grass, flowers, distant mountains, sparkling sea, gorgeous sunset, multi-layered clouds, blue-purple sky, pink clouds, soft light, rich colors, high saturation, wide angle, distant view, best quality, ultra-high details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

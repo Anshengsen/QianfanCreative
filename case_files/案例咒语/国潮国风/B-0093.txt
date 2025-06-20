@@ -1,0 +1,3 @@
+CN：由几何形状组成的商周神兽，绿松石色，印刷品质，卡通，白色背景，4K，几何图形，最佳品质，高清，
+EN：Mythical beasts of the Shang and Zhou dynasties composed of geometric shapes, turquoise color, print quality, cartoon, white background, 4K, geometric graphics, best quality, HD, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

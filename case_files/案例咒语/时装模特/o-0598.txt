@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个男性，站立姿势，服装广告，无面部，修身，穿着浅米色菱格纹夹克，黑色高领内搭，黑色长裤，双手插在夹克口袋里，背景为模糊的室内环境，浅色墙面，木质家具，整体风格简约，光线柔和。
+EN：Professional photography, 8K, a male, standing pose, clothing advertisement, no face, slim fit, wearing a light beige diamond-patterned jacket, a black turtleneck, black trousers, his hands in his jacket pockets, the background is a blurred indoor environment, light-colored walls, wooden furniture, the overall style is simple, and the light is soft.  --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

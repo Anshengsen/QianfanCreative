@@ -1,0 +1,3 @@
+CN：一件羽绒服，黑色，轻薄保暖，休闲百搭风，白色背景，平铺，居中，正视图，羽绒填充蓬松，拉链细节清晰，高品质渲染。
+EN：A down jacket, black, light and warm, casual and versatile, white background, flat, centered, front view, fluffy down filling, clear zipper details, high-quality rendering. --q 1 --s 100 --ar 3:5 --v 6.0 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

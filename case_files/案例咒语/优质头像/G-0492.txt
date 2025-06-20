@@ -1,0 +1,3 @@
+CN：一个美丽的动漫女孩，动漫风格，半写实，侧脸，长发，蓝色调，柔和光线，浅色系，高清，8K，最佳品质，细腻的头发细节，有高光，克莱因蓝色背景，
+EN：A beautiful anime girl, anime style, semi-realistic, profile, long hair, blue tones, soft light, light colors, HD, 8K, best quality, delicate hair details, with highlights, Klein blue background, --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

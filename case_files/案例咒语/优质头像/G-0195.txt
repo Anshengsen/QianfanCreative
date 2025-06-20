@@ -1,0 +1,6 @@
+CN：一个戴着眼镜的3d美女，照片，写实，细腻的面部，16岁，满头银发，穿着黑白色连帽衫，极简主义，迪士尼风格，纯白背景，正面居中，
+EN：A 3d beautiful woman wearing glasses, photo, realistic, delicate face, 16 years old, full of silver hair, wearing a black and white hoodie, minimalism, Disney style, pure white background, front centered, --q 1 --s 100 --ar 3:4 --niji 6 --sref https://s.mj.run/afvUyz5mYkc 
+
+（此处使用sref新参数控制，直接复制粘贴即可）
+sref与--sw <0-1000>参数兼容，且仅适用于v6及niji6模型，数值越小图片权重越低，数值越大图片权重越高。 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

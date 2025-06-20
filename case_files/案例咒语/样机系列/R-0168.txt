@@ -1,0 +1,3 @@
+CN：空白效果图，极简主义风格，白色背景，黑色iMac Pro样机，屏幕空白可替换内容，桌面场景，黑色办公桌，黑色办公椅，iMac Pro两侧各有一个白色灯罩、金色支架的台灯，左侧有一个黑色音箱，简约现代风格，高对比度光照，正面视角，超高清细节，8K分辨率
+EN：Blank rendering, minimalist style, white background, black iMac Pro mockup, screen blank for replaceable content, desktop scene, black desk, black office chair, a desk lamp with a white lampshade and gold stand on each side of the iMac Pro, a black speaker on the left, simple modern style, high contrast lighting, front view, ultra high definition details, 8K resolution --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

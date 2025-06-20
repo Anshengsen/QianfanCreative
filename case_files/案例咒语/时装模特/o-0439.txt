@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个女性，站立姿势，身体略微侧向镜头，无面部，颈部以下，穿着米白色高领无袖针织衫，针织衫有明显的麻花纹理，服装简洁，背景模糊，整体光线柔和，突出人物和服装质感。
+EN：Professional photography, 8K, a woman, standing, body slightly sideways to the camera, no face, below the neck, wearing an off-white high-necked sleeveless sweater with a distinct twisted texture, simple clothing, blurred background, overall soft light, highlighting the texture of the person and clothing. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face, scantily clad
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

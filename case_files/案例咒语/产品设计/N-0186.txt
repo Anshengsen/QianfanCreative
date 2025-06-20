@@ -1,0 +1,3 @@
+CN：产品摄影，透明香水瓶，金色瓶盖，悬浮在沙滩上，旁边有岩石，背景有水珠飞溅，蓝色和金色光照，电影级光照，细节丰富，高分辨率，8K，
+EN：Product photography, transparent perfume bottle with gold cap suspended on the beach with rocks next to it and water splashing in the background, blue and gold lighting, cinematic lighting, rich details, high resolution, 8K, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

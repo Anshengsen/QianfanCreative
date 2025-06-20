@@ -1,0 +1,3 @@
+CN：空白效果图，一个空白的吧唧圆形徽章，在一个逼真的深灰色木桌面上，顶视图，特写，逼真的专业摄影，最佳品质，8K，
+EN：Blank rendering, a blank round badge on a realistic dark grey wooden tabletop, top view, close up, realistic professional photography, best quality, 8K, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

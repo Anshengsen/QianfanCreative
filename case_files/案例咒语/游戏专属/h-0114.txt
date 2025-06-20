@@ -1,0 +1,3 @@
+CN：一组游戏徽章，游戏资产，徽章设计，徽章元素，徽章按钮，纯白背景，青绿色渐变和金色线条描边，明亮，现代网游，对称，正圆角矩形，最佳品质，8K，
+EN：A set of game badges, game assets, badge design, badge elements, badge buttons, pure white background, turquoise gradient and gold line strokes, bright, modern online games, symmetrical, rounded rectangle, best quality, 8K, --q 5 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

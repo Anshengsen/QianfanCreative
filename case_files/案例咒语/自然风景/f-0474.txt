@@ -1,0 +1,3 @@
+CN：远山风景，湖泊，倒影，雪山，对称构图，蓝色调，清晨，薄雾，广角镜头，自然光，高清，8K，最佳画质
+EN：Distant mountain scenery, lake, reflection, snow-capped mountains, symmetrical composition, blue tones, morning, mist, wide-angle lens, natural light, HD, 8K, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

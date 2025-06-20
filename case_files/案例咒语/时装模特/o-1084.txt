@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个年轻男性，站立姿势，身体略微侧向镜头，短发，棕色，蓬松，自然，面部表情平静，眼神直视前方，穿着一件白色宽松T恤，短袖，纯色，背景是蓝色木质墙面，黑色门框，红色门框，室外，自然光，整体氛围休闲，随意。
+EN：Professional photography, 8K, a young male, standing pose, body slightly sideways to the camera, short hair, brown, fluffy, natural, calm facial expression, eyes looking straight ahead, wearing a white loose T-shirt, short sleeves, solid color, the background is a blue wooden wall, black door frame, red door frame, outdoors, natural light, the overall atmosphere is casual and casual. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

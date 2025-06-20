@@ -1,0 +1,3 @@
+CN：鲁班榫卯结构的木质房屋，古代，外观像一个巨大的木制拼图，由各种形状的木块拼接而成，充满传统文化韵味，中国画风格，近景，柔和光线，古典，最佳品质。
+EN：The wooden house with Luban mortise and tenon structure, in ancient times, looks like a huge wooden puzzle, made up of wooden blocks of various shapes, full of traditional cultural charm, Chinese painting style, close-up, soft light, classic, best quality. --q 1 --s 100 --ar 3:4 --v 6.0 --personalize srak4m6 --no close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

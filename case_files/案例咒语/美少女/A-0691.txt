@@ -1,0 +1,4 @@
+CN：动漫风格，一个绝美的女性，蓝色眼睑，写意肖像，潦草的画风，特写，半张脸的特写，蓝色和金色的调色板，光滑的笔触，戏剧性的灯光，神秘感，亚洲风格，高品质，8K，深蓝色背景，
+EN：Anime style, a gorgeous woman, blue eyelids, freehand portrait, scribbled style, close-up, close-up of half of the face, blue and gold palette, smooth brushstrokes, dramatic lighting, mysterious, Asian style, high quality, 8K, dark blue background, --q 1 --s 100 --ar 3:4 --v 6.0 --personalize e1tb3jm
+【PS：套组风格不统一，请垫图】 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

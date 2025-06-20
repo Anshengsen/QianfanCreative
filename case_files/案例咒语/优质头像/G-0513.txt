@@ -1,0 +1,3 @@
+CN：美丽的亚洲女孩，穿着粉色的紧身衣和高腰褶皱晚礼服，栗色的长波浪发，绿色眼睛，站在食品储藏室的桌子前，眼神深邃，轻启嘴唇，动漫风格，梦幻光效，柔和色调，
+EN：Beautiful Asian girl in pink tights and high waist pleated evening dress, long wavy chestnut hair, green eyes, standing at the pantry table with deep eyes and slightly parted lips, anime style, fantasy light effects, soft tones, --q 5 --s 100 --ar 1:1 --niji 6 --personalize bav2ism --sref https://s.mj.run/3t_6tmPsRgE 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

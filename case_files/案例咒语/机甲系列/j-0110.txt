@@ -1,0 +1,3 @@
+CN：3D渲染，动漫风格，一个穿着蓝色和橙色机甲的女孩，兔子耳朵头饰，耳机，长发，棕色头发，精致的五官，半身像，未来科技感，细节光照，最佳画质，8K，超高分辨率
+EN：3D rendering, anime style, a girl in a blue and orange mecha, bunny ears headdress, headphones, long hair, brown hair, delicate facial features, half-length portrait, futuristic technology, detailed lighting, best quality, 8K, ultra-high resolution --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

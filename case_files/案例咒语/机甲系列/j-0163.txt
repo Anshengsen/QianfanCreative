@@ -1,0 +1,3 @@
+CN：未来风格，半机械人，女性，亚洲人，精致五官，蓝色眼睛，红润嘴唇，白色短发，复杂头饰，白色、黑色与橙色相间机械装甲，细节丰富，身体姿态挺拔，面向镜头，半身像，黑色背景，科幻感，电影级光照，工作室质量，超高细节，8K
+EN：Futuristic, cyborg, female, Asian, delicate features, blue eyes, red lips, short white hair, complex headdress, white, black and orange mechanical armor, rich details, upright posture, facing the camera, half-length portrait, black background, sci-fi, cinematic lighting, studio quality, very high detail, 8K --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：动漫风格，中景，厚涂，一个动漫女孩，蓝色长发双麻花辫，蓝色眼睛，黑色衣服，纹身，暗色调，背景为贴满文件的墙面，写实，侧光，最佳品质，8K，超高清，
+EN：Anime style, medium shot, thick painting, an anime girl, long blue hair with two pigtails, blue eyes, black clothes, tattoos, dark tones, background of a wall covered with documents, realistic, side light, best quality, 8K, ultra high definition, --q 5 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

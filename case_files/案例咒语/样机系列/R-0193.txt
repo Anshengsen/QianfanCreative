@@ -1,0 +1,3 @@
+CN：空白效果图，俯视视角，白色桌面，双手打开空白笔记本，准备书写，左手握黑色笔，右手轻抚纸张，旁边有绿植和一杯饮料，简约风格，自然光，高清晰度，8K。
+EN：Blank rendering, top view, white desktop, both hands open a blank notebook, ready to write, left hand holding a black pen, right hand gently stroking the paper, with green plants and a drink next to it, simple style, natural light, high definition, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

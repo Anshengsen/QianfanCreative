@@ -1,0 +1,4 @@
+CN：乡间小路，清晨，日出，薄雾，橙色调，树木，栅栏，田野，电影感光照，自然光，广角镜头，高细节，8K，艺术摄影，风景摄影
+EN：Country road, morning, sunrise, mist, orange tones, trees, fence, field, film-like lighting, natural light, wide angle lens, high details, 8K, art photography, landscape photography --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

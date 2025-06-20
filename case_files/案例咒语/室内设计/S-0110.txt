@@ -1,0 +1,3 @@
+CN：现代简约风格的厨房，黑色橱柜搭配橙色背光，2个橙色的吧台凳，黑色岛台，照片，室内设计，高清，写实，逼真，
+EN：Modern minimalist style kitchen, black cabinets with orange backlight, 2 orange bar stools, black island, photo, interior design, HD, realistic, photorealistic, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

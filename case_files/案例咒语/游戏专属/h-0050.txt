@@ -1,0 +1,3 @@
+CN：卡通人物角色，国王，皇冠，在有金色边框的背景上隔离，中世纪游戏风格，角色插图，正面，丰富的细节，
+EN：Cartoon character, king, crown, isolated on a background with a gold border, medieval game style, character illustration, front, rich details, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

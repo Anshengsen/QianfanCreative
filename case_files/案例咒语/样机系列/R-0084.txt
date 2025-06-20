@@ -1,0 +1,3 @@
+CN：精致的首饰盒，丝绒内衬，化妆台环境，空白效果图，3D渲染，复古造型，木质与金属外观，柔和灯光，质感细腻，细节刻画，高清渲染，
+EN：Exquisite jewelry box, velvet lining, dressing table environment, blank rendering, 3D rendering, retro styling, wood and metal appearance, soft lighting, delicate texture, detailed depiction, high-definition rendering, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

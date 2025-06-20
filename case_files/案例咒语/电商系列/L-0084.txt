@@ -1,0 +1,3 @@
+CN：最小的舞台设计，3D风格，黑色风格，地面上有一个圆形台子，边缘发光，未来感，科技感，背景是黑色的方形的对角线3D凸面，最佳品质，极简主义，简单，电影级光照，
+EN：Minimal stage design, 3D style, black style, with a round platform on the ground, glowing edges, futuristic, technological, background is black square diagonal 3D convex, best quality, minimalism, simple, cinematic lighting, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

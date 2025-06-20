@@ -1,0 +1,4 @@
+﻿CN：3d雪花，独奏，白色背景，正面，使用Cinema 4D呈现，
+EN：3D snowflake, solo, white background, front, rendered using Cinema 4D, --q 1 --s 100 --ar 1:1 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

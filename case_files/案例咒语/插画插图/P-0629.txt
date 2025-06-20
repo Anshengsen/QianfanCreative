@@ -1,0 +1,3 @@
+CN：低多边形风格，冷色调，冬季雪景，A字型木屋，树木，桥梁，灯串，月亮，细节包括木屋的结构，树木的形状，桥梁的纹理，灯串的光芒，整体画面宁静祥和，风格简约，最佳品质，8K，几何图形，低多边形渲染，风景插画，水彩风格
+EN：Low polygon style, cold colors, winter snow scene, A-frame cabin, trees, bridge, string lights, moon, details include the structure of the cabin, the shape of the trees, the texture of the bridge, the light of the string lights, the overall picture is peaceful and serene, the style is simple, the best quality, 8K, geometric graphics, low polygon rendering, landscape illustration, watercolor style --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

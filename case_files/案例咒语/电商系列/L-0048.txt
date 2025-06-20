@@ -1,0 +1,3 @@
+CN：用于Instagram的视频背景，冲浪海滩、热带花朵和树叶、冲浪板等元素环绕画布四周，中间留空，卡通风格，米色背景，高分辨率，高细节，柔和的阴影，干净的焦点，柔和的灯光，超级细节，3D，c4d，blender，
+EN：Video background for Instagram, surfing beach, tropical flowers and leaves, surfboard and other elements surround the canvas with blank space in the middle, cartoon style, beige background, high resolution, high detail, soft shadows, clean focus, soft lighting, super detail, 3D, c4d, blender, --q 5 --s 150 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

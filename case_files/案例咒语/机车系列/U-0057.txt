@@ -1,0 +1,2 @@
+CN：未来主义摩托车，概念设计，流线型车身，黑色主体，蓝色与粉色霓虹灯光点缀，低角度侧面视图，悬浮感，高科技质感，光滑表面，复杂机械结构，宽轮胎，工作室灯光，高对比度，超细节，8K，高清渲染
+EN：Futuristic motorcycle, concept design, streamlined body, black body, blue and pink neon light, low angle side view, suspension, high-tech texture, smooth surface, complex mechanical structure, wide tires, studio lighting, high contrast, ultra-detailed, 8K, HD rendering --q 1 --s 50 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

@@ -1,0 +1,3 @@
+CN：冬季雪景，河流，河岸两侧覆盖着积雪的树木，远景，对称构图，冷色调，蓝色调，高清，最佳画质，8K
+EN：Winter snowy landscape, river, snow-covered trees on both sides of the riverbank, distant view, symmetrical composition, cold colors, blue tones, HD, best quality, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

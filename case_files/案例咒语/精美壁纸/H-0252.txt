@@ -1,0 +1,3 @@
+CN：抽象艺术，透过纹理玻璃看到的日落景象，模糊效果，橙色，黑色，浅蓝色，自然光，垂直构图，朦胧美学，色彩对比，细节纹理，艺术摄影
+EN：Abstract art, sunset scene seen through textured glass, blur effect, orange, black, light blue, natural light, vertical composition, hazy aesthetic, color contrast, detail texture, artistic photography --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

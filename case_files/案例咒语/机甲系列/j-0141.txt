@@ -1,0 +1,3 @@
+CN：未来感，机器人少女，半人半机械，银白色头发，马尾辫，精致五官，蓝色瞳孔，淡粉色腮红，光泽感嘴唇，头部特写，复杂机械结构，蓝色发光细节，耳机，赛博朋克风格，高科技感，冷色调，精细光影，超高细节，8K，最佳画质，电影级渲染，艺术感
+EN：Futuristic, robot girl, half human, half machine, silver hair, ponytail, delicate features, blue pupils, light pink blush, glossy lips, head close-up, complex mechanical structure, blue luminous details, headphones, cyberpunk style, high-tech, cold colors, fine light and shadow, ultra-high details, 8K, best image quality, movie-level rendering, artistic --q 5 --s 100 --ar 3:2 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：平面手绘插画，晴朗的天空，夏天，森林，简单可爱的平面插画，一个女人正沿着一条小路走，穿过一片绿树成荫的空地， 柔和的色调，明亮的调色板，中景，
+EN： Flat hand-drawn illustration, clear sky, summer, forest, simple and lovely flat illustration, a woman is walking along a path through a leafy clearing, pastel tones, bright palette, medium shot, --q 1 --s 150 --ar 3:4 --v 6.0 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

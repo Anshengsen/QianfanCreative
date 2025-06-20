@@ -1,0 +1,3 @@
+CN：冬季雪景，广角镜头，明亮的阳光，深蓝色天空，稀疏的云彩，地平线上金色的阳光，白雪皑皑的地面，远处茂密的森林，雪地上的车辙痕迹，冷暖色调对比，自然风光摄影，高清晰度，8K。
+EN：Winter snow scene, wide angle shot, bright sunlight, deep blue sky, sparse clouds, golden sunlight on the horizon, snowy ground, dense forest in the distance, ruts on the snow, contrast of warm and cold tones, nature photography, high definition, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

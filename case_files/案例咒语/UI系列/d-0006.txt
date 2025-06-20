@@ -1,0 +1,4 @@
+
+CN：用于移动端的屏幕主题设计，轻主题，拟物控制，简约、优雅，ios主题设计，正面视图，简单的背景，高质量，
+EN：Screen theme design for mobile, light theme, quasi-object control, simplicity, elegance, ios theme design, front view, simple background, high quality, --q 1 --s 180 --ar 3:4 --v 5.2 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

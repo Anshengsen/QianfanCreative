@@ -1,0 +1,4 @@
+﻿CN：咖啡万花筒：AR功能，将标签变成迷人的万花筒,咖啡标签套装，简单，白色固体bg，花卉民间，清晰时尚的调色板，
+EN：Coffee Kaleidoscope: AR feature that turns labels into glamorous kaleidoscope, coffee label set, simple, white solid bg, floral folk, clear and stylish color palette, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：冬季雪景，树木剪影，阳光穿透树林，长长的阴影，雪地，冷色调，蓝色调，广角镜头，自然光，高对比度，电影感，高质量，8K
+EN：Winter snow scene, tree silhouettes, sunlight through the woods, long shadows, snow, cold tones, blue tint, wide angle lens, natural light, high contrast, cinematic feel, high quality, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：黄昏，湖泊，海湾，森林，山脉剪影，深蓝色调，宁静，倒影，自然风光，广角，低饱和度，电影感，光线柔和，细节丰富，高分辨率，8K，最佳画质，大师作品。
+EN：Dusk, lake, bay, forest, mountain silhouette, dark blue tones, tranquility, reflection, natural scenery, wide angle, low saturation, cinematic, soft light, rich details, high resolution, 8K, best picture quality, masterpiece. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

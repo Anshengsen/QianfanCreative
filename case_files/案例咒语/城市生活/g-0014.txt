@@ -1,0 +1,3 @@
+CN：公司中有两排桌子，45度对角线构图，四个年轻的中国员工在办公室里面对面并排工作，看着电脑认真工作，桌子中间用隔板隔开，摄影，逼真，4K，细节，
+EN：There are two rows of desks in the company, 45 degree diagonal composition, four young Chinese employees working side by side facing each other in the office, looking at the computer and working seriously, the desks are separated by a partition, photography, realistic, 4K, details, --q 1 --s 100 --ar 3:2 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

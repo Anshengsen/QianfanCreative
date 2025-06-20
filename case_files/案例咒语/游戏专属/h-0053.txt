@@ -1,0 +1,3 @@
+CN：2D游戏艺术风格，炉石风格，游戏图标，一根横躺着的巨大的圆柱型粗木隔离在白色背景上，横躺着，居中，最佳品质，超细节，
+EN：2D game art style, Hearthstone style, game icon, a huge cylindrical thick wood lying horizontally isolated on a white background, lying horizontally, centered, best quality, super detail, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

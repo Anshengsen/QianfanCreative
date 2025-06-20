@@ -1,0 +1,3 @@
+CN：傍晚时分的城堡，威尔士康威城堡，夜景，水面反光，暖黄色灯光，远山，深蓝色天空，桥梁，广角镜头，摄影，真实感，高质量，8K
+EN：Castle at dusk, Conwy Castle, Wales, night scene, water reflection, warm yellow light, distant mountains, dark blue sky, bridge, wide angle lens, photography, realism, high quality, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

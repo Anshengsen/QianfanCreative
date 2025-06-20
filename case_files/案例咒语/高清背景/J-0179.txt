@@ -1,0 +1,4 @@
+﻿CN：海洋动植物群的矢量图形插图，各种鱼类组成的插图背景，矢量平面风格，scandinavian风格，白色背景，最佳品质，细致刻画，完美的细节，
+EN：Vector graphics illustration of marine flora and fauna, illustration background composed of various fish, vector flat style, scandinavian style, white background, best quality, meticulous portrayal, perfect detail, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

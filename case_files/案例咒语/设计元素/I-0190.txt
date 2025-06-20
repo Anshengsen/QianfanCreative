@@ -1,0 +1,3 @@
+CN：白色背景上的3D风格随机形状，蓝色和紫色，漂浮，白色背景，光泽，平滑，3D渲染，
+EN：3D style random shapes on white background, blue and purple, floating, white background, glossy, smooth, 3D rendering, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：盛开的莲花，粉红色花瓣，渐变色，翠绿色荷叶，深色背景，强烈的明暗对比，花朵发光效果，中心构图，超现实主义，艺术摄影，微距镜头，高细节，8K，高质量，最佳品质，
+EN：Blooming lotus, pink petals, gradient colors, emerald green lotus leaves, dark background, strong contrast between light and dark, flower glow effect, center composition, surrealism, art photography, macro lens, high details, 8K, high quality, best quality, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

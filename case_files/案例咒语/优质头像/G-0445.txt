@@ -1,0 +1,3 @@
+CN：抽象风格，美少女，头发和服装由各种色彩斑斓的抽象形状构成，表情神秘莫测，背景是充满动感的抽象线条和色彩块。色彩大胆，线条流畅，富有艺术感，充满想象力和创造力，展现出独特的艺术风格。
+EN：Abstract style, beautiful girl, hair and clothing are made of various colorful abstract shapes, mysterious expression, the background is full of dynamic abstract lines and color blocks. Bold colors, smooth lines, artistic sense, full of imagination and creativity, showing a unique artistic style. --q 1 --s 100 --ar 1:1 --niji 6--personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

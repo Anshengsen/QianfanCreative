@@ -1,0 +1,3 @@
+CN：LOGO，涂鸦，手绘，草图，蓝色，不规则线条，字体“グルメ”，白色背景，简单，粗略笔触，不完整，
+EN：LOGO, graffiti, hand-drawn, sketch, blue, irregular lines, font "グルメ", white background, simple, rough strokes, incomplete, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

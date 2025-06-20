@@ -1,0 +1,3 @@
+CN：专业摄影，8K，全身像，亚洲女性，浅棕色的发色，丸子头，自然妆容，略带忧郁的表情，白色长袖衬衫，米色系花纹针织开衫，棕色高腰阔腿裤，白色运动鞋，站姿，正面视角，自然光，米色背景，简约风格，全身，柔和光线，真实感，细节丰富。
+EN：Professional photography, 8K, full-body portrait, Asian woman, light brown hair color, bun, natural makeup, slightly melancholy expression, white long-sleeved shirt, beige patterned knitted cardigan, brown high-waisted wide-leg pants, white sneakers, standing posture, front view, natural light, beige background, simple style, full body, soft light, realism, rich details. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

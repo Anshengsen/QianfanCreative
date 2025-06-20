@@ -1,0 +1,3 @@
+CN：杰作，8K，3D渲染，虚幻引擎5，超现实主义，电影灯光效果，逼真，一个美丽的女孩，手持长剑，长发，穿着淡绿色汉服，汉服外包裹着黄金色护甲，精致的面部细节，淡妆，五官精致，细腻光滑逼真吹弹可破的皮肤，
+EN：Masterpiece, 8K, 3D rendering, Unreal Engine 5, surrealism, cinematic lighting effects, realistic, a beautiful girl holding a long sword, long hair, wearing a light green Hanfu, with golden armor wrapped around the Hanfu, exquisite facial details, light makeup, delicate features, delicate and smooth realistic and bouncy skin, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

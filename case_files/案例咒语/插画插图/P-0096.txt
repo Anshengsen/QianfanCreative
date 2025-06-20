@@ -1,0 +1,4 @@
+﻿CN：戴着麦克风和耳机的播音主持正在对着话筒讲话，卡通风格，侧面，
+EN：The announcer with the microphone and headphones is talking into the microphone, cartoon style, side, --q 1 --s 100 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

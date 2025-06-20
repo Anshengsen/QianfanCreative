@@ -1,0 +1,3 @@
+CN：3D卡通渲染，一堆堆叠的金币，旁边立着一个红色电商红包，黏土材质，光泽感，卡通风格，白色背景，3D渲染，OC渲染，超细节，超品质，8K
+EN：3D cartoon rendering, a pile of gold coins, next to a red e-commerce red envelope, clay material, glossy, cartoon style, white background, 3D rendering, OC rendering, super details, super quality, 8K --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

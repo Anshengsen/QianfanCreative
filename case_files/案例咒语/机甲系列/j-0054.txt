@@ -1,0 +1,3 @@
+CN：水墨风格的机甲，水墨美学，水墨画笔触，中国风元素，山川河流，朦胧光线，水墨渲染，写意风格，4K，晕染效果，虚实结合，
+EN：Ink-style mecha, ink aesthetics, ink painting brushstrokes, Chinese style elements, mountains and rivers, hazy light, ink rendering, freehand style, 4K, smudge effect, combination of virtual and real, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

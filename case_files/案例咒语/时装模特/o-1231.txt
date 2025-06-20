@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲女性，坐姿，单肩连衣裙，米白色，腰部系带，裙长过膝，白色平底凉拖，休闲风格，室外场景，浅紫色建筑背景，灰色路面，自然光，柔和光线，焦距适中，焦点在人物身上。
+EN：Professional photography, 8K, an Asian woman, sitting, one-shoulder dress, off-white, tied at the waist, skirt length above the knee, white flat sandals, casual style, outdoor scene, light purple building background, gray road surface, natural light, soft light, moderate focus, focus on the person. --q 1 --s 100 --ar 1:2 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

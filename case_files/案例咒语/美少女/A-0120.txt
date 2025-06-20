@@ -1,0 +1,4 @@
+
+CN：中国古代的红衣少女，手持长剑劈向观众，美丽精致的汉服，肖像特写，史诗级墨水弯曲镜头，面对镜头，长袖，红唇，精致的五官和妆容，武术动作特写，超细节渲染风格，辛烷值渲染，光线追踪，
+EN：Ancient Chinese girl in red, slashing at the audience with a long sword, beautiful and exquisite Hanfu, portrait close-up, epic ink bending lens, facing the camera, long sleeves, red lips, exquisite facial features and makeup, martial arts action close-up, hyperdetail rendering style, octane rendering, ray tracing, --q 1 --s 100 --ar 3:4 --niji 5 --style expressive 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

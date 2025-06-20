@@ -1,0 +1,3 @@
+CN：手绘风格头像，一个女孩，黑色长发，抱着一束粉色玫瑰，遮住脸，穿着粉色毛衣，背景是白色，整体风格简约，色彩柔和，线条流畅，具有文艺感，最佳品质，8K，适合作为社交媒体头像
+EN：Hand-painted style portrait of a girl with long black hair, holding a bouquet of pink roses, covering her face, wearing a pink sweater, with a white background, the overall style is simple, the colors are soft, the lines are smooth, and it has a sense of art. The best quality, 8K, is suitable as a social media avatar --q 1 --s 30 --ar 1:1 --niji 6 --profile hrqrh1e --raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

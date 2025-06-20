@@ -1,0 +1,4 @@
+CN：商务人像，正式风格，一个年轻的亚洲男子，短发，穿着黑色西装和白色衬衫，系着白色领带，看向镜头，浅色背景，自然光，半身像，最佳质量，8k，超细节，皮肤质感真实
+EN：Business portrait, formal style, a young Asian man with short hair, wearing a black suit and white shirt with a white tie, looking towards the camera, light background, natural light, half-length, best quality, 8k, ultra detailed, real skin texture --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

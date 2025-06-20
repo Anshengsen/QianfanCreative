@@ -1,0 +1,3 @@
+CN：秋日风光，乡村景色，石拱桥，小溪流水，河岸小屋，暖色调，落叶，自然光，长曝光，平滑水面，广角镜头，高饱和度，风景摄影，精细细节，8K
+EN：Autumn scenery, rural landscape, stone arch bridge, stream, riverside cottage, warm colors, fallen leaves, natural light, long exposure, smooth water surface, wide angle lens, high saturation, landscape photography, fine details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

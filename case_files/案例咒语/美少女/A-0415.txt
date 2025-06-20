@@ -1,0 +1,3 @@
+CN：赛博朋克矢量角色插图，一个银色头发的女性戴着VR眼镜，侧面，玫红色的光，矢量，明暗对比，黑色背景，赛博朋克，半身，
+EN：Cyberpunk vector character illustration, a silver-haired woman wearing VR glasses, side, rose-red light, vector, chiaroscuro, black background, cyberpunk, bust, --q 5 --s 180 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

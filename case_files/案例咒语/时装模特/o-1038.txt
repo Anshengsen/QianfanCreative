@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。一个男性，站立姿势，黑色长款羽绒服，连帽设计，高领内搭，黑色长裤，整体造型保暖，背景为室内场景，有黑色线条装饰的墙面，右侧有服装陈列架，光线柔和，整体氛围时尚。
+EN：Professional photography, 8K, clothing advertising shooting, no face. A man, standing, wearing a black long down jacket with a hood, a high collar, and black trousers. The overall look is warm. The background is an indoor scene with a wall decorated with black lines. There is a clothing display rack on the right. The light is soft and the overall atmosphere is fashionable. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

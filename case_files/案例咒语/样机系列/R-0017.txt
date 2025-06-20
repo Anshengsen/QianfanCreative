@@ -1,0 +1,3 @@
+CN：正面，干净简洁的3D展台，一个空白的木制相框立在圆形台子上，用于展示授权书，简约的色彩，柔和的调色板，巧妙的设计，最高品质，在Cinema 4D和OC中渲染，8K，超级降噪，
+EN：Front view, clean and simple 3D exhibition stand, a blank wooden picture frame stands on a round stand for displaying authorization letters, minimalistic colors, soft palette, clever design, highest quality, rendered in cinema 4d and OC, 8K, super denoising, --q 1 --s 150 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

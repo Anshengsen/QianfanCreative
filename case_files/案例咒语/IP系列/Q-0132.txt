@@ -1,0 +1,3 @@
+CN：孟菲斯撞色配色方案，一个骑士，身穿盔甲手持宝剑和盾牌，全身，层次感，纯色和粗线条，矢量，可用于转换矢量图，最佳品质，居中，纯白背景，
+EN：Memphis contrasting color scheme, a knight, wearing armor and holding swords and shields, full body, layering, solid colors and thick lines, vector, can be used to convert vector graphics, best quality, centered, pure white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：水墨风格，工笔风格，人物肖像特写，女性角色，浓妆艳抹，红色为主色调，金色点缀，眼神深邃，部分面部被红色扇子遮挡，光影对比强烈，具有东方古典美学韵味，细节精致，画风细腻，风格类似于中国风插画或数字绘画。
+EN：Ink style, meticulous style, close-up portrait, female character, heavy makeup, red as the main color, gold embellishment, deep eyes, part of the face is blocked by a red fan, strong contrast between light and shadow, with oriental classical aesthetic charm, exquisite details, delicate painting style, style similar to Chinese-style illustrations or digital paintings. --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

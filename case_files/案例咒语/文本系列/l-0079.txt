@@ -1,0 +1,3 @@
+CN：3D渲染，字母“A”，字体加粗，霓虹灯风格，白色主体搭配橙色霓虹灯边框，PVC质感边框，白色背景，特写，产品展示，高质量，8K，逼真。
+EN：3D rendering, letter "A", bold font, neon style, white body with orange neon border, PVC texture frame, white background, close-up, product display, high quality, 8K, realistic. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

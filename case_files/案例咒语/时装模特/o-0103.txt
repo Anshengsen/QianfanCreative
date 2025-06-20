@@ -1,0 +1,3 @@
+CN：一件米白色羊绒衫，高领设计，简约风格，柔软质感，细密针织纹理，白色背景，平铺，正视图，居中，光泽感，立体感，高清渲染，逼真，
+EN：An off-white cashmere sweater, high collar design, simple style, soft texture, fine knitted texture, white background, flat lay, front view, centered, glossy, three-dimensional, high-definition rendering, realistic, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

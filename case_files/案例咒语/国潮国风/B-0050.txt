@@ -1,0 +1,4 @@
+﻿CN：一个东方美人，朱砂红，东方美学，国风，精致的发簪和耳饰，泪痣，精致的五官和妆容，腮红，动漫风格，写实，楚楚可怜，可怜的动作，袖子遮口，雪景背景，冷色，唯美，最佳品质，最高质量，高分辨率，
+EN：An oriental beauty, cinnabar red, oriental aesthetics, national style, exquisite hairpin and earrings, tear mole, exquisite facial features and makeup, blush, animation style, realism, pitiful, pitiful action, sleeve cover, snow background, cool color, beautiful, best quality, highest quality, high resolution, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

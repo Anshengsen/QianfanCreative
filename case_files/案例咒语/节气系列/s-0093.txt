@@ -1,0 +1,3 @@
+CN：清明时节，全景，超广角，超远景，水墨工笔风，墨水绘制的深浅构成明暗，一个4岁的牧童骑着一头牛，戴着草帽，画面的右上方是柳树枝，柳叶，毕加索，飘着雨，隐约可见远处的山脉，超品质，超细节，超高清，8K，
+EN：Qingming Festival, panoramic view, ultra-wide angle, ultra-long-range view, ink painting style, the depth of ink painting constitutes light and dark, a 4-year-old shepherd boy riding a cow, wearing a straw hat, the upper right side of the picture is willow branches, willow leaves, Picasso, rain is falling, and mountains in the distance are vaguely visible, super quality, super details, ultra high definition, 8K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

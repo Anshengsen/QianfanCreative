@@ -1,0 +1,3 @@
+CN：高清壁纸，蓝色调，模糊背景，焦点在前景的蓝色草叶上，叶尖有水珠，风格清新淡雅，具有中国传统诗意美感，灯光柔和，营造出朦胧梦幻的氛围，构图简洁，寒露，节气，壁纸，逼真，写实，
+EN：HD wallpaper, blue tone, blurred background, focus on the blue grass leaves in the foreground, with water droplets on the leaf tips, fresh and elegant style, with traditional Chinese poetic beauty, soft lighting, creating a hazy and dreamy atmosphere, simple composition, cold dew, solar term, wallpaper, realistic, realistic, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

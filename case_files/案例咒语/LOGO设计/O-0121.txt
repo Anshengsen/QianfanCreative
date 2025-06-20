@@ -1,0 +1,3 @@
+CN：写实风格，一家摄影工作室的LOGO，照片质感，相机镜头和胶卷元素，深棕色和金色搭配，复古质感，高分辨率，深灰色背景，
+EN：Realistic style, a photography studio logo, photo texture, camera lens and film elements, dark brown and gold combination, retro texture, high resolution, dark gray background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

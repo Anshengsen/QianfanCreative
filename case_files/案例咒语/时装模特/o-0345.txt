@@ -1,0 +1,4 @@
+CN：专业摄影，8K，亚洲女性，侧身，微侧头，长发，自然散落，深棕色，圆框眼镜，黑色，淡妆，自然眉形，红润嘴唇，浅色皮肤，蓝色格子衬衫，宽松版型，袖子挽起，手部动作，轻抚耳边，表情平静，眼神柔和，室内，自然光，背景简洁，浅色墙面，木质家具，整体氛围，清新，文艺。
+EN：Professional photography, 8K, Asian woman, sideways, slightly tilted head, long hair, naturally scattered, dark brown, round-frame glasses, black, light makeup, natural eyebrows, rosy lips, light skin, blue plaid shirt, loose fit, sleeves rolled up, hand movements, gently touching the ear, calm expression, soft eyes, indoors, natural light, simple background, light-colored walls, wooden furniture, overall atmosphere, fresh, literary. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

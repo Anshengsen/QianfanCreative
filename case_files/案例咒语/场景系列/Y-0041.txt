@@ -1,0 +1,3 @@
+CN：一辆房车停在原始森林中的3D小场景，3D，卡通风格，特写，梦幻般的视觉效果，柔软哑光，明亮的颜色，捕捉瞬间，辛烷值高清渲染，3D渲染，OC渲染，4K，最佳品质，
+EN：3D small scene of an RV parked in the primeval forest, 3D, cartoon style, close-up, fantastic visual effects, soft matte, bright colors, capture moments, octane high definition rendering, 3D rendering, OC rendering, 4K, best quality, --q 1 --s 100 --ar 1:1 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

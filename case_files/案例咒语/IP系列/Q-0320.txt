@@ -1,0 +1,3 @@
+CN：矢量，全身，色彩鲜艳，简单，一个戴着墨镜的可爱小女孩，卡通人物设计，chibi，简单的线条，白色背景，白色和红色，长长的黑色头发，头部两侧有两个发髻，俏皮地吐舌头，双手插兜，穿着蓝色破洞牛仔裤、红白条纹帆布鞋、红色内衬，
+EN：Vector, full body, colorful, simple, a cute little girl wearing sunglasses, cartoon character design, chibi, simple lines, white background, white and red, long black hair, two buns on both sides of the head, playfully sticking out her tongue, hands in her pockets, wearing blue ripped jeans, red and white striped canvas shoes, red lining, --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --sref https://cdn.midjourney.com/u/1159512d-70a3-43e3-8f4d-d56eb9eb4be7/912a5507b05cd9610f014d1c5f0b1f16fb94cd51c1e478e8e85f05af37f279ca.png 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

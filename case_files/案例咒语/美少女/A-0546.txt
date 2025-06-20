@@ -1,0 +1,3 @@
+CN：二次元角色设计，国风，古风，CG，黑色长发束发，五官精致，穿着淡绿色的汉服，有高光，回头看，流畅干净的线条，平面风格，2D，
+EN：Two-dimensional character design, Chinese style, ancient style, CG, long black hair tied up, delicate facial features, wearing light green Hanfu, with highlights, looking back, smooth and clean lines, flat style, 2D, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

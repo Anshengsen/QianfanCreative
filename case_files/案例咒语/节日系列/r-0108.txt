@@ -1,0 +1,3 @@
+CN：3D南瓜灯，3D建模，精细雕刻的南瓜灯，内部点燃蜡烛，发出温暖的光芒，南瓜表面纹理清晰可见，光影效果逼真，背景是深色木质桌面，材质渲染细腻，光线追踪，全局光照，4K分辨率，超写实渲染，最佳质量，温暖的光线，逼真的材质，精细的雕刻细节。
+EN：3D Jack-O'-Lantern, 3D modeling, finely carved Jack-O'-Lantern, candles lit inside, emitting warm light, the surface texture of the pumpkin is clearly visible, the light and shadow effects are realistic, the background is a dark wooden desktop, the material rendering is delicate, ray tracing, global illumination, 4K resolution, hyper-realistic rendering, best quality, warm light, realistic materials, and fine carving details. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

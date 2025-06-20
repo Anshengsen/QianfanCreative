@@ -1,0 +1,3 @@
+CN：群山环绕的湖泊，清澈见底，倒影清晰，雪山，森林，对称构图，自然风光，摄影，广角镜头，明亮，高饱和度，高清，8K，最佳画质，细节丰富
+EN：Lake surrounded by mountains, crystal clear, clear reflections, snow-capped mountains, forests, symmetrical composition, natural scenery, photography, wide-angle lens, bright, high saturation, HD, 8K, best quality, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

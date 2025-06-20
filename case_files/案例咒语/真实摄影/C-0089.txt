@@ -1,0 +1,5 @@
+
+CN：一只快乐的狗狗头部特写，居中构图，极简主义，16K，渐变背景，高质量，最高级降噪处理，
+
+EN：A happy dog headshot, centered composition, minimalism, 16K, gradual change of background, high quality, superlative noise reduction, --q 2 --s 180 --ar 3:4 --v 5.2 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

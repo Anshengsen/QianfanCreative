@@ -1,0 +1,3 @@
+CN：菠萝形状的未来主义图书馆，赛博朋克风格，22世纪，建筑主体由金色金属网格构成，顶部是巨大的发光水晶，模拟菠萝叶，霓虹灯光，体积光渲染，仰视构图，超高清，8K，细节丰富。
+EN：Pineapple-shaped futuristic library, cyberpunk style, 22nd century, the main body of the building is made of golden metal grid, topped by a huge glowing crystal, simulating pineapple leaves, neon lights, volumetric light rendering, upward-looking composition, ultra-high definition, 8K, rich details. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

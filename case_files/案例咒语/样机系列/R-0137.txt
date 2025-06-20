@@ -1,0 +1,3 @@
+CN：空白效果图，黑色T恤，服装展示，纯色背景，悬挂展示，衣架，卷边短袖，极简风格，正面视角，柔和光线，高清晰度，产品摄影，服装设计，棉质，8K
+EN：Blank rendering, black t-shirt, clothing display, solid color background, hanging display, hanger, rolled short sleeves, minimalist style, front view, soft light, high definition, product photography, clothing design, cotton, 8K --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

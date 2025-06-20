@@ -1,0 +1,3 @@
+CN：冬季雪景，公路，雪地，薄雾，森林，雪松，粉色天空，黎明，自然风光，广角镜头，低角度拍摄，冷色调，高对比度，电影级光照，超清细节，8K
+EN：Winter snow scene, road, snow, mist, forest, cedar, pink sky, dawn, nature, wide-angle lens, low-angle shot, cold tones, high contrast, cinematic lighting, ultra-clear details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：简单的中世纪3D市场建筑，独奏，等距视图，简单，3d渲染，减面，白色背景，
+EN：Simple medieval 3D market building, solo, isometric view, simple, 3d rendering, reduced surface, white background, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

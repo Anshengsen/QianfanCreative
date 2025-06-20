@@ -1,0 +1,3 @@
+CN：一个中国女孩，银发，采用深色浪漫插图的风格，金光，特写，深蓝绿色和深琥珀色的风格，海洋画家的风格，8k分辨率，超品质，超细节，最佳质量，
+EN：A Chinese girl, silver hair, in the style of dark romantic illustrations, golden light, close-up, dark blue-green and dark amber, in the style of a marine painter, 8k resolution, super quality, super detail, best quality, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

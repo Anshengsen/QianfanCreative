@@ -1,0 +1,3 @@
+CN：全身，面对镜头，全景，一个手拿茶杯的女孩，18岁，穿着时尚的红色旗袍，旗袍上是牡丹花的图案印花，短发，戴着蝴蝶结耳坠，大眼睛，苗条的身材，完美的身材曲线，IP，极简主义，3D渲染，高清辛烷值渲染，迪士尼动画风格，电影灯光效果，高清，8K，新年主题，背景是中国古代的房间内，
+EN：Full body, facing the camera, full view, a girl holding a teacup, 18 years old, wearing a fashionable red cheongsam with a peony pattern, short hair, bow earrings, big eyes, slim figure, perfect body curves, IP, minimalism, 3D rendering, HD octane rendering, Disney animation style, movie lighting effects, HD, 8K, New Year theme, background is in an ancient Chinese room, --q 1 --s 50 --ar 9:20 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

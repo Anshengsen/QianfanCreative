@@ -1,0 +1,3 @@
+CN：广阔的沙漠景观，白色沙丘，蜿蜒的蓝绿色湖泊，清澈的湖水，细腻的沙子纹理，沙丘上的脚印，延伸至远方，蓝天白云，明媚的阳光，柔和的光线，高对比度，广角镜头，航拍视角，自然风光摄影，逼真细节，8K分辨率，超高质量，色彩鲜明。
+EN：Vast desert landscape, white sand dunes, winding blue-green lake, clear lake water, fine sand texture, footprints on the dunes, extending into the distance, blue sky and white clouds, bright sunshine, soft light, high contrast, wide-angle lens, aerial perspective, natural scenery photography, realistic details, 8K resolution, ultra-high quality, and vivid colors. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

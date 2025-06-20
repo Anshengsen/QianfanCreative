@@ -1,0 +1,3 @@
+CN：标题边框，青色与黄色，拱形，左右两侧有切面，矢量，扁平风格，白色背景，独奏，居中构图，
+EN：Title border, cyan and yellow, arched, with cutouts on the left and right sides, vector, flat style, white background, solo, centered composition, --q 1 --s 100 --ar 2:1 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

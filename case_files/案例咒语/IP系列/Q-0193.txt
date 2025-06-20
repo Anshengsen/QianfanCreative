@@ -1,0 +1,3 @@
+CN：一个胖胖的可爱的中国古代男性角色，3D，中国古代男士发髻，以中国诗人李白的形象为设计，手握毛笔，唐代衣服，popmart盲盒，3D渲染，高分辨率，简单的细节，光滑，最佳品质，全身，白色背景，全身，
+EN：A fat cute ancient Chinese male character, 3D, ancient Chinese men's bun, designed in the image of Chinese poet Li Bai, holding a brush, Tang Dynasty clothes, popmart blind box, 3D rendering, high resolution, simple details, smooth, best quality, full body, white background, full body, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

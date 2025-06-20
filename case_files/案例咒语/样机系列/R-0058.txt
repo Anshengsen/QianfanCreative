@@ -1,0 +1,3 @@
+CN：空白手机模型，3D渲染，科技感十足，银灰色金属机身，纤薄设计，放置在黑色大理石底座上，周围环绕着柔和的蓝色灯光，高清细节，逼真材质，8K分辨率，空白屏幕可用于展示APP界面或UI设计。
+EN：Blank mobile phone mockup, 3D rendering, full of technological sense, silver-gray metal body, slim design, placed on a black marble base, surrounded by soft blue lights, high-definition details, realistic materials, 8K resolution, blank screen can be used to display APP interface or UI design. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

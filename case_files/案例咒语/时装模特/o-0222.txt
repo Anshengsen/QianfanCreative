@@ -1,0 +1,3 @@
+CN：专业摄影，8K，下半身像特写，女性，站立姿势，微侧身，浅灰色短款上衣，黑色亮片及膝裙，银色手提包，浅色皮肤，室内场景，木质楼梯背景，柔和光线，时尚穿搭，简约风格。
+EN：Professional photography, 8K, close-up of lower body portrait, female, standing pose, slightly sideways, light gray cropped top, black sequined knee-length skirt, silver handbag, light skin, indoor scene, wooden stairs background, soft light, fashionable outfit, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

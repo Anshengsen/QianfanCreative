@@ -1,0 +1,3 @@
+CN：日本漫画风格，可爱的女孩，绿色宝石般的眼睛，渐变棕长发，头上戴着巨大的红色蝴蝶结，简单的头像，完美的脸，侧脸，卡通，2d平面艺术，微微抬头，纯白背景，脸红，大眼睛，最佳品质，
+EN：Japanese manga style, cute girl, green gem-like eyes, gradual change of long brown hair, wearing a huge red bow on the head, simple avatar, perfect face, side face, cartoon, 2d graphic art, slightly head up, pure white background, blush, big eyes, best quality, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

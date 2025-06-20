@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个中国女性，25岁，瓜子脸，长发，棕色，自然散落，微卷，淡妆，眼神平静，略带忧郁，身穿蓝色长款羽绒服，宽松版型，衣领立领，纽扣未系，内搭浅色阔腿裤，双手插兜，站立姿势，身体略微侧向镜头，背景为城市街道，斑马线，建筑，模糊背景，柔和光线，自然光。
+EN：Professional photography, 8K, a Chinese woman, 25 years old, oval face, long hair, brown, naturally scattered, slightly curly, light makeup, calm eyes, slightly melancholy, wearing a long blue down jacket, loose version, stand-up collar, buttons unbuttoned, light-colored wide-leg pants, hands in pockets, standing posture, body slightly sideways to the camera, background is a city street, zebra crossing, buildings, blurred background, soft light, natural light. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

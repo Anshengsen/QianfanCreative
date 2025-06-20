@@ -1,0 +1,3 @@
+CN：一幅纸插艺术作品，一条红鲤鱼在一朵荷花周围游动，白色的波浪形，浅金色和白色和红色，纸插艺术，大师杰作，
+EN：A paper art work, a red carp swimming around a lotus flower, white waves, light gold and white and red, paper art, a masterpiece of a master, --q 1 --s 100 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

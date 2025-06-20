@@ -1,0 +1,3 @@
+CN：LOGO，抽象标志，字母P，左侧像素化处理，右侧平滑，渐变色，橙色到紫色，动感，科技感，深蓝色背景，黑色背景，数字艺术，最佳品质，8K，极简主义，超高清。
+EN：LOGO, abstract logo, letter P, pixelated on the left, smooth on the right, gradient color, orange to purple, dynamic, technological, dark blue background, black background, digital art, best quality, 8K, minimalism, ultra high definition. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

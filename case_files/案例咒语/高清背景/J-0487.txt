@@ -1,0 +1,3 @@
+CN：渐变色背景，色彩混合，平滑过渡，鲜艳，明亮，从红色到蓝色，从洋红色到青色，色彩丰富，饱和度高，无特定主题，抽象艺术，数字绘画，高分辨率。
+EN：Gradient background, color blending, smooth transition, vivid, bright, from red to blue, from magenta to cyan, rich colors, high saturation, no specific theme, abstract art, digital painting, high resolution. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

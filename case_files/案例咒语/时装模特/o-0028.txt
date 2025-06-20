@@ -1,0 +1,3 @@
+CN：一位气质优雅的韩国女播音员，身穿鲜艳的橙色西装，散发着优雅气质，干净的证件照背景，
+EN：An elegant Korean female announcer, wearing a bright orange suit, exudes elegance, with a clean ID photo background, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

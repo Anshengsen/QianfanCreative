@@ -1,0 +1,3 @@
+CN：赛博朋克风格，动漫女孩，蓝色头发，蓝色眼睛，精致五官，侧面，头部特写，佩戴耳机，未来感服饰，蓝色光效，机械细节，厚涂，2.5D，高品质，8K，超细节，光线追踪
+EN：Cyberpunk style, anime girl, blue hair, blue eyes, delicate features, side profile, head close-up, wearing headphones, futuristic clothing, blue light effects, mechanical details, thick coating, 2.5D, high quality, 8K, ultra-detailed, ray tracing --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：棒球帽空白效果图，正面视角，纯白色，弯檐细节，放置在一个展示架上，背景是模糊的商店场景，高清3D渲染，适合展示logo和刺绣设计，突出帽子质感，
+EN：Baseball cap blank rendering, front view, pure white, curved brim details, placed on a display stand, with a blurred store scene in the background, high-definition 3D rendering, suitable for displaying logos and embroidery designs, highlighting the texture of the hat, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

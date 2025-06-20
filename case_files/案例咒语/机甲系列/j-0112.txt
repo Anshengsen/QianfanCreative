@@ -1,0 +1,3 @@
+CN：亚洲女性，机器人，粉色机甲，黑色长发，精致五官，坚定眼神，全身像，未来科幻风格，背景为废墟城市，战斗场景，动态姿势，精细机械细节，光泽感机甲材质，电影级光照，高对比度，8K，超高细节，最佳品质
+EN：Asian woman, robot, pink mech, long black hair, delicate features, determined eyes, full body, futuristic sci-fi style, ruined city background, battle scene, dynamic pose, fine mechanical details, glossy mech material, movie-level lighting, high contrast, 8K, ultra-high details, best quality --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

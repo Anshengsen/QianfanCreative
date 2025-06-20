@@ -1,0 +1,3 @@
+CN：一个美丽且精致的女孩，面部聚焦，虚幻引擎5风格，15岁，超现实主义，动漫死亡笔记中的角色，红眼睛，穿着现代哥特式吊带裙，近距离，POV视角，光线跟踪，逼真，柔和，柔光，高清，
+EN：A beautiful and delicate girl, face in focus, Unreal Engine 5 style, 15 years old, surrealism, character from the anime Death Note, red eyes, wearing a modern gothic suspender skirt, close up, POV perspective, ray tracing, realistic, soft, soft light, HD, --q 1 --s 100 --ar 3:4 --niji 6 --personalize xgqkw96 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

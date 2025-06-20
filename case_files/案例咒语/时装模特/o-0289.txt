@@ -1,0 +1,4 @@
+CN：专业摄影，8k，亚洲女性，坐姿，上半身特写，黑色紧身背心，浅蓝色高腰牛仔短裤，自然散落中长发，发色深棕，淡妆，红唇，皮肤白皙，手臂纤细，佩戴银色手链，室内，柔和光线。
+EN：Professional photography, 8k, Asian woman, sitting, upper body close-up, black tight vest, light blue high-waisted denim shorts, naturally scattered medium-length hair, dark brown hair color, light makeup, red lips, fair skin, slender arms, wearing a silver bracelet, indoors, soft light. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 --no Scantily clad
+【PS：不加排除词容易出现NSFW内容，加上的话会直接换成羽绒服】 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

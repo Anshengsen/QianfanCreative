@@ -1,0 +1,2 @@
+CN：蒸汽朋克风格机车，黄铜和铜制部件，复杂的齿轮和管道暴露在外，昏暗的工厂环境，体积光穿透屋顶的缝隙，照亮机车上的灰尘颗粒，Octane渲染，高度细节，8K分辨率，电影级质感，强调金属光泽和纹理。
+EN：Steampunk style locomotive, brass and copper parts, complex gears and pipes exposed, dim factory environment, volumetric light penetrates the gaps in the roof, illuminating the dust particles on the locomotive, Octane rendering, high detail, 8K resolution, movie-level texture, emphasizing metal gloss and texture. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no close up

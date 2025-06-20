@@ -1,0 +1,3 @@
+CN：照片写实，NBA队员——贾马尔·穆雷，穿着印有“Denver”和“27”的蓝色球衣，在赛场上，明亮的赛场灯光照明，有光泽，最佳品质，全身，有景深，8K摄影，
+EN：The photo is realistic, NBA player - Jamal Murray, wearing a blue jersey with "Denver" and "27" printed on it, on the field, bright field lighting, shiny, best quality, full body, depth of field, 8K photography, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

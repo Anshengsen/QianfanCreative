@@ -1,0 +1,3 @@
+CN：卡通猫，身穿白色的机甲，搞笑的表情和姿势，可爱又搞笑，搞怪，超详细，白色背景，4k，无阴影，3d渲染，路径追踪，泡泡玛特风格，全身，
+EN：Cartoon cat, wearing white mecha, funny expressions and poses, cute and funny, funny, super detailed, white background, 4k, no shadows, 3d rendering, path tracking, POP MART style, full body, --q 1 --s 100 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

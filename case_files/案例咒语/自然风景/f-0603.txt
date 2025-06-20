@@ -1,0 +1,3 @@
+CN：电影摄影，日落时分的海面，太阳位于中心，海面波光粼粼，天空云彩丰富，橙色和蓝色色调，长焦镜头，电影级照明，超高分辨率，8k，超细节，真实感，电影质感，色彩鲜艳，动态范围，光线追踪，全局照明
+EN：Cinematography, sea at sunset, sun in the center, sparkling sea, cloud-filled sky, orange and blue tones, telephoto lens, cinematic lighting, ultra high resolution, 8k, ultra detail, photorealism, film texture, vivid colors, dynamic range, ray tracing, global illumination --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

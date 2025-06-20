@@ -1,0 +1,3 @@
+CN：插画风格，超广角，对称构图，黑白森林，一个穿着红色斗篷的女孩站在森林中央，整体风格神秘，具有童话感和艺术感，细节包括树木的细节，人物的姿态，以及光影效果，最佳品质，8K，数字绘画，适合用于儿童绘本或艺术海报，黑白背景
+EN：Illustration style, ultra wide angle, symmetrical composition, black and white forest, a girl in a red cloak standing in the middle of the forest, the overall style is mysterious, with a fairy tale and artistic feel, details include the details of the trees, the posture of the characters, and the light and shadow effects, best quality, 8K, digital painting, suitable for children's picture books or art posters, black and white background --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

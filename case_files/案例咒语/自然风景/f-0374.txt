@@ -1,0 +1,3 @@
+CN：秋日落叶大道，林荫路，两旁种满高大的树木，树叶呈金黄色，地面铺满落叶，形成金黄色的地毯，道路尽头及左侧有长椅，纵深感，对称构图，自然光，暖色调，秋季氛围，风景摄影，高清晰度
+EN：Autumn leaves avenue, tree-lined road, tall trees on both sides, golden leaves, the ground is covered with fallen leaves, forming a golden carpet, there are benches at the end of the road and on the left side, depth, symmetrical composition, natural light, warm colors, autumn atmosphere, landscape photography, high definition --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

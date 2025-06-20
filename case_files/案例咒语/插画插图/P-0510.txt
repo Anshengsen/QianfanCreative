@@ -1,0 +1,3 @@
+CN：现代漫画风格插画，薄荷绿背景，排球运动员，运动场景，粉色和蓝色色调，细节线条，矢量图形，最佳品质，插画设计，漫画插画，人物肖像，细节丰富，视觉冲击力，创意插画，时尚元素，运动主题，活力四射，青春气息，力量感，
+EN：Modern comic style illustration, mint green background, volleyball player, sports scene, pink and blue tones, detailed lines, vector graphics, best quality, illustration design, comic illustration, character portrait, rich details, visual impact, creative illustration, fashion elements, sports theme, vitality, youthfulness, power, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

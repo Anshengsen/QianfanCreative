@@ -1,0 +1,2 @@
+CN：未来复古风格摩托车，融合了复古和未来的元素，独特的造型，未来都市背景，复古未来主义渲染，强调复古和未来的结合，4K分辨率，细节丰富的复古和未来元素。
+EN：Futuristic retro style motorcycle, a fusion of retro and future elements, unique styling, future urban background, retro futuristic rendering, emphasizing the combination of retro and future, 4K resolution, detailed retro and future elements. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

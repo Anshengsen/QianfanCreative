@@ -1,0 +1,4 @@
+﻿CN：一只正在疯狂吃面的狂暴兔子，纯色、活泼的颜色和清晰的矢量轮廓在白色背景下，可爱的兔子，俏皮的姿势，固体填充，清晰的矢量线，白色背景，
+EN：A raging rabbit eating noodles like crazy, solid colors, lively colors and clear vector outlines on a white background, cute rabbit, playful pose, solid filling, clear vector lines, white background, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

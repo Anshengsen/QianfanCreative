@@ -1,0 +1,3 @@
+CN：半透明的莲花，白色、橙色和蓝色，美丽、新颖、空灵，多层次，3D渲染，特写，详细的花蕊和花瓣纹理，极其细腻，白色背景，发光，抽象，
+EN：Translucent lotus flower in white, orange and blue, beautiful, original, ethereal, multi-layered, 3D rendering, close-up, detailed stamen and petal texture, extremely delicate, white background, glowing, abstract, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

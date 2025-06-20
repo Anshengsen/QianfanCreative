@@ -1,0 +1,4 @@
+CN：专业摄影，8K，服装，无面部。一个女性，V，紫色针织开衫，长袖，修身，胸前有褶皱细节，纽扣闭合，搭配蓝色牛仔裤，背景为室内，浅色调，光线柔和，真实感，细节丰富，最佳品质。
+EN：Professional photography, 8K, clothing, no face. A woman, V, purple knitted cardigan, long sleeves, slim fit, pleated details on the chest, button closure, paired with blue jeans, indoor background, light tones, soft lighting, photorealistic, rich details, best quality. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face, scantily clad
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

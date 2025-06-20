@@ -1,0 +1,3 @@
+CN：铅笔素描风格，花卉，印象派，纯白背景，自然主义的植物描绘插图，铅笔素描::2，超细节，超品质，细腻，
+EN：Pencil sketch style, floral, impressionist, pure white background, naturalistic botanical depiction illustration, pencil sketch:: 2, super detail, super quality, delicate, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

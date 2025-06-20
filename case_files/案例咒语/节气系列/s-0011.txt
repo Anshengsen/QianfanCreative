@@ -1,0 +1,3 @@
+CN：中国端午节海报设计，一个可爱的8岁小女孩坐在龙舟船上划桨，水墨风格，水墨画，毕加索，张大千，荷叶，莲花，全景，广角，最佳品质，4K，
+EN：Chinese Dragon Boat Festival poster design, a cute 8-year-old girl sitting on a dragon boat and paddling, ink style, ink painting, Picasso, Zhang Daqian, lotus leaf, lotus, panorama, wide angle, best quality, 4K, --q 1 --s 250 --ar 3:4 --niji 6 --personalize vqg1oua --no text 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：盛开的大丽花，粉红色，三朵，花瓣渐变，中心黄色，绿色叶子，自然光，柔和阴影，特写，高饱和度，细节丰富，花园背景，真实感，高清晰度，8K。
+EN：Blooming dahlias, pink, three flowers, petals gradient, yellow center, green leaves, natural light, soft shadows, close-up, high saturation, rich details, garden background, photorealistic, high definition, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

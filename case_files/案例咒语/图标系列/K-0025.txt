@@ -1,0 +1,3 @@
+CN：一组3D图标，微软玻璃风格，4x4排列，电子商务主题的图标设计，电子商务图标，微软玻璃风，卡通风格，16个图标，现代，半透明玻璃和塑料材质，详细，8k，白色背景，3D渲染，3D，
+EN：A set of 3D icons, Microsoft Glass style, 4x4 arrangement, e-commerce themed icon design, e-commerce icons, Microsoft Glass style, cartoon style, 16 icons, modern, translucent glass and plastic material, detailed, 8k, white background, 3D rendering, 3D, --q 5 --s 180 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

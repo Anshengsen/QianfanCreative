@@ -1,0 +1,3 @@
+CN：中式古典风格的室内场景渲染图，两层，正面，客厅和二层，夜晚，红黑配色（红色沙发和黑色实木家具），写实，细节丰富，对称构图，氛围神秘而奢华，逼真的照片，
+EN：Rendering of an interior scene in the Chinese classical style, two floors, front view, living room and second floor, night, red and black color scheme (red sofa and black solid wood furniture), realistic, rich in details, symmetrical composition, the atmosphere is mysterious and luxurious, realistic photo, --q 1 --s 100 --ar 1:2 --v 6.0 --personalize e1tb3jm 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：拳击手，撞击的时刻，摄影，电影摄影，电影色彩分级，电影灯光风格，特写，高清，
+EN：Boxer, moment of impact, photography, cinematography, film color grading, film lighting style, close-up, high definition, --q 1 --s 100 --v 5.2 --ar 16:9 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

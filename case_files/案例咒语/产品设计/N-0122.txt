@@ -1,0 +1,3 @@
+CN：室内产品摄影，白色空气净化器，放置在客厅地板上，背景是白色沙发、绿植和墙上的装饰画，阳光透过窗户照射进来，暖色调，简约风格，细节丰富，高分辨率
+EN：Indoor product photography, white air purifier placed on the living room floor, with white sofa, green plants and decorative paintings on the wall in the background, sunlight shining through the window, warm colors, simple style, rich details, high resolution --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：远山，雾气缭绕，云海，松树林，山脊线，清晨，冷色调，蓝色，朦胧美，航拍视角，广角镜头，高动态范围(HDR)，光线穿透云层，细节丰富，层次分明，超现实主义，8K，超高分辨率，最佳画质
+EN：distant mountains, mist, sea of ​​clouds, pine forest, ridgeline, early morning, cold tones, blue, hazy beauty, aerial perspective, wide-angle lens, high dynamic range (HDR), light penetrating clouds, rich details, distinct layers, surrealism, 8K, ultra-high resolution, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：虚幻引擎5，写实，逼真，一个美丽的16岁女孩，穿着中国苗族少数民族服饰，配以银饰头饰，背景是山水、房屋、田园、湖泊，逼真，详细，最佳品质，高清，4K，
+EN：Unreal Engine 5, Realistic, Photorealistic, A beautiful 16-year-old girl in Chinese Miao ethnic minority costume with a silver headdress, with a background of mountains, houses, fields, lakes, realistic, detailed, best quality, HD, 4K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

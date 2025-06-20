@@ -1,0 +1,3 @@
+CN：秋日景象，乡村小屋，木质结构，长满青苔的屋顶，门廊，落叶乔木，红色叶子，橙色叶子，黄色叶子，绿色草地，蜿蜒小路，阳光明媚，自然光，暖色调，高饱和度，远景，广角镜头，对称构图，宁静氛围，风景摄影，逼真渲染，超高细节，8K，高清画质
+EN：Autumn scene, country cottage, wooden structure, mossy roof, porch, deciduous trees, red leaves, orange leaves, yellow leaves, green grass, winding path, sunny, natural light, warm colors, high saturation, distant view, wide angle lens, symmetrical composition, tranquil atmosphere, landscape photography, realistic rendering, ultra-high detail, 8K, HD quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：蒸汽朋克风格的巨型机甲，黄铜和钢铁材质，复杂的齿轮和管道结构，背光，阴暗的工厂环境，雾气弥漫，Octane渲染，高细节，金属质感强烈，锈迹斑斑，铆钉细节清晰可见，背景是燃烧的火焰和浓烟，8K分辨率，史诗感，
+EN：Steampunk-style giant mecha, brass and steel materials, complex gear and pipe structure, backlight, dark factory environment, foggy, Octane rendering, high details, strong metal texture, rust, rivet details are clearly visible, the background is burning flames and smoke, 8K resolution, epic feeling, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

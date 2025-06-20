@@ -1,0 +1,3 @@
+CN：极简主义，3D，拟人化的、可爱的、快乐的小斑马，柔光，白色背景，搞怪的表情，翻白眼瞪鼻孔，皮克斯风格，
+EN：Minimalism, 3D, anthropomorphic, cute, happy little zebra, soft light, white background, funny expression, rolling eyes and glaring nostrils, Pixar style, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

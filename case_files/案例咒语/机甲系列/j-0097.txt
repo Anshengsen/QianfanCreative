@@ -1,0 +1,3 @@
+CN：赛博朋克都市夜景，雨后街道，霓虹灯光反射在潮湿的地面上，一个女性机甲战士，站立在街道中央，高大的身躯，白色和黑色的装甲，红色能量指示灯闪烁，细节刻画，8K，超高清，CG渲染，写实风格，赛博朋克，科幻，东方机甲风格，
+EN：Cyberpunk city night scene, streets after rain, neon lights reflected on the wet ground, a female mecha warrior, standing in the middle of the street, tall body, white and black armor, red energy indicator flashing, detailed depiction, 8K, ultra-high definition, CG rendering, realistic style, cyberpunk, science fiction, oriental mecha style, --q 1 --s 100 --ar 3:5 --v 6.0 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

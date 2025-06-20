@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，棕色短靴，麂皮材质，圆头，低跟，靴筒高度适中，黑色裤子，束脚设计，宽松版型，坐在车辆后方踏板上，腿部自然弯曲，背景为户外地面，光线明亮，略带阴影。
+EN：Professional photography, 8K, shoe and boot advertising shooting, no face, brown boots, suede material, round toe, low heels, moderate boot height, black pants, cuff design, loose fit, sitting on the rear pedal of the vehicle, legs naturally bent, background is outdoor ground, bright light, slight shadow. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

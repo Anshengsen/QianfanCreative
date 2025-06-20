@@ -1,0 +1,3 @@
+CN：中国古代风格，中国古典主义，深色的牛皮纸色调，正面::2，日本浮世绘风格，暗色::2，一位绝美的穿着淡红色汉服的中国古代美女面对镜头，大眼，红唇，穿着红色汉服，头戴牡丹花发簪，唐代发髻盘头，背景是牛皮纸色的背景上面有中国花卉，优雅的姿态，牛皮纸色和红色，中景，超品质，中国古代画风，牛皮纸深色调，
+EN：Ancient Chinese style, Chinese classicism, dark brown paper tones, front:: 2, Japanese ukiyo-e style, dark:: 2, a beautiful ancient Chinese beautiful woman in light red Hanfu faces the camera, big eyes, red lips, wearing red Hanfu, wearing a peony hairpin, Tang Dynasty bun head, the background is brown paper background with Chinese flowers, elegant gesture, kraft paper and red, medium shot, super quality, ancient Chinese painting style, dark brown paper tones, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

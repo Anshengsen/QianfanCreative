@@ -1,0 +1,3 @@
+CN： 3D渲染，一个穿着破烂衣衫的僵尸新娘，她面容惨白，眼窝深陷，手里拿着一束枯萎的鲜花，背景是一座阴森的教堂，昏暗的光线，营造恐怖氛围，高精度建模，4K分辨率，超写实渲染，最佳质量，恐怖，诡异，细节丰富的服装纹理，苍白且逼真的皮肤质感，
+EN：3D rendering, a zombie bride in tattered clothes, her face is pale, her eye sockets are deep, she is holding a bunch of withered flowers, the background is a gloomy church, the dim light creates a horror atmosphere, high-precision modeling, 4K resolution, ultra-realistic rendering, best quality, horror, weird, detailed clothing texture, pale and realistic skin texture, --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

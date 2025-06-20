@@ -1,0 +1,3 @@
+CN：航拍，海滩，海岸线，海浪，沙滩，垂直视角，左侧是深色沙滩，右侧是碧绿的海水，海浪拍打海岸，形成白色浪花，光线从左侧照射，沙滩呈现暖色调，海水呈现冷色调，色彩对比鲜明，细节丰富，8K，超高清，最佳品质，电影质感。
+EN：Aerial photography, beach, coastline, waves, sand, vertical perspective, dark sand on the left, turquoise water on the right, waves hitting the coast, forming white waves, light shining from the left, the beach presents warm tones, the sea water presents cold tones, the color contrast is sharp, the details are rich, 8K, ultra high definition, best quality, movie texture. --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

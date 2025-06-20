@@ -1,0 +1,3 @@
+CN：产品摄影，透明香水瓶，金色瓶盖，放置在透明玻璃底座上，周围有白色花朵和绿叶，浅绿色背景，清新风格，柔和光线，细节丰富，高分辨率，花朵纹理细腻，玻璃瓶身质感通透
+EN：Product photography, transparent perfume bottle with gold cap placed on a clear glass base, surrounded by white flowers and green leaves, light green background, fresh style, soft light, rich details, high resolution, delicate texture of flowers, transparent texture of glass bottle --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

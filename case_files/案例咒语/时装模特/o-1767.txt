@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，卫衣，插肩袖，宽松版型，圆领，长袖，罗纹袖口和下摆，炭灰色，纯色设计，棉质面料，柔软质感，休闲风格，无图案，自然光，焦点清晰，主体突出，细节丰富
+EN：Professional fashion photography, 8K, front view, white background, sweatshirt, raglan sleeves, loose fit, crew neck, long sleeves, ribbed cuffs and hem, charcoal grey, solid color, cotton fabric, soft texture, casual style, no pattern, natural light, sharp focus, prominent subject, rich details --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

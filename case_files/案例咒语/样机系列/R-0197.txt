@@ -1,0 +1,3 @@
+CN：空白效果图，极简主义，海报模型，白色矩形海报，金色细边框，混凝土墙面背景，纹理细节，裂缝，浅灰色桌面，笔记本电脑，耳机，自然光，柔和阴影，透视角度，高分辨率，逼真渲染
+EN：Blank rendering, minimalism, poster mockup, white rectangle poster, thin gold border, concrete wall background, texture details, cracks, light grey desktop, laptop, headphones, natural light, soft shadows, perspective angle, high resolution, realistic rendering --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

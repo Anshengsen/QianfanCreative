@@ -1,0 +1,3 @@
+CN：饼形图标，顶视图，居中，分散为5块，按照10=3:2:2:2:1的比例分配大小，任天堂风格，半透明，柔和的渐变颜色，白色背景，最佳品质，
+EN：Pie icon, top view, centered, divided into 5 pieces, size distribution according to the ratio of 10=3:2:2:2:1, Nintendo style, semi-transparent, soft gradient color, white background, best quality, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

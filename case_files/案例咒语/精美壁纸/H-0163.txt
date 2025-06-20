@@ -1,0 +1,3 @@
+CN：中景，幻想艺术，数字绘画，一个美丽的亚洲女性角色，动态姿势，在船上，黑暗系服装，光影效果，黄蝴蝶，奇幻背景，超现实主义，高细节，高分辨率，最佳品质，油画质感，
+EN：Medium shot, fantasy art, digital painting, a beautiful Asian female character in a dynamic pose, on a boat, dark clothing, light and shadow effects, yellow butterflies, fantasy background, surrealism, high detail, high resolution, best quality, oil painting texture, --q 2 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

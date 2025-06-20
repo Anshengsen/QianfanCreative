@@ -1,0 +1,2 @@
+CN：概念跑车的广角照片，精致美感，浅灰色和深黑色风格，陈真，柔和的灯光，简单的背景，广角，全景，后侧面拍摄，最佳品质，
+EN：Wide-angle photo of the concept sports car, exquisite beauty, light gray and dark black style, Chen Zhen, soft lighting, simple background, wide-angle, panoramic, rear side shot, best quality, --q 1 --s 180 --ar 3:2 --v 6.0

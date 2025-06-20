@@ -1,0 +1,3 @@
+CN：一条被茂盛树木环绕的公路，对称构图，阳光明媚，绿色，自然景观，道路，树木隧道，长镜头，电影感，高饱和度，最佳品质，8K，超高清细节
+EN：A road surrounded by lush trees, symmetrical composition, sunny, green, natural landscape, road, tree tunnel, long shot, cinematic feel, high saturation, best quality, 8K, ultra high definition details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

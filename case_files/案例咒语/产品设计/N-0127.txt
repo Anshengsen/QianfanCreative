@@ -1,0 +1,3 @@
+CN：产品摄影，黑色渐变蓝色洗发水瓶，黑色按压泵，放置在黑色岩石上，深色背景，电影级光照，细节丰富，高分辨率，
+EN：Product photography of a black gradient blue shampoo bottle with a black push pump placed on a black rock with a dark background, cinematic lighting, rich details, high resolution, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：现代线条插画风格，白色背景，汽车维修场景，汽车，人物，工具，简约线条，矢量图形，无阴影，卡通风格，插画设计，商业插画，场景插画，最佳品质，干净利落的边缘，现代设计，扁平化设计，汽车维修，简约插画，线性插画，黑白配色，蓝色点缀，汽车服务，技术，专业，
+EN：Modern line illustration style, white background, car repair scene, car, people, tools, simple lines, vector graphics, no shadows, cartoon style, illustration design, commercial illustration, scene illustration, best quality, clean edges, modern design, flat design, car repair, simple illustration, linear illustration, black and white color scheme, blue embellishment, car service, technology, professional, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

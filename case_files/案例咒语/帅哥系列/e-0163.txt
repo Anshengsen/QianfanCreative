@@ -1,0 +1,3 @@
+CN：插画，太阳光，一个可爱的男孩身穿汉服，手捧书籍，坐在中国古代庭院中，雪后的自然光，黄金时分，逆光，发髻，大眼睛，高清，pov，第三人称，
+EN：Illustration, sunlight, a cute boy wearing Hanfu, holding a book, sitting in an ancient Chinese courtyard, natural light after snow, golden hour, backlight, bun, big eyes, HD, pov, third person, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

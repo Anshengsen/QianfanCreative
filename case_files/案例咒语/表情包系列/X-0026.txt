@@ -1,0 +1,3 @@
+CN：一组矢量表情符号插图，3x3排列布局，一只戴着墨镜的可爱的仓鼠摆出多种姿势和表情（快乐、喝酒、跑步、发呆、哭、思考、害羞、唱歌），白色背景，矢量，多色，最佳品质，
+EN：A set of vector emoji illustrations, arranged in a 3x3 arrangement, a cute hamster wearing sunglasses poses in multiple poses and expressions (happy, drinking, running, staring, crying, thinking, shy, singing), white background, vector, multi-color, best quality, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

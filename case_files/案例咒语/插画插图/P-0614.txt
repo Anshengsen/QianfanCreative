@@ -1,0 +1,3 @@
+CN：扁平几何插画风格，撞色配色，橙色背景，棕色头发，肤色人像，蓝色服装，黑色墨镜，细节包括墨镜上的文字，服装的图案，人物的表情，整体画面时尚个性，风格现代，最佳品质，8K，矢量图形，干净利落，海报设计风格，复古纹理
+EN：Flat geometric illustration style, contrasting colors, orange background, brown hair, skin-colored portrait, blue clothing, black sunglasses, details include the text on the sunglasses, the pattern of the clothing, the expression of the character, the overall picture is fashionable and personalized, the style is modern, the best quality, 8K, vector graphics, clean and neat, poster design style, retro texture --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

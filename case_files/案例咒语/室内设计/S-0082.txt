@@ -1,0 +1,3 @@
+CN：日式侘寂风格，江户时代，榻榻米，木质推拉门，枯山水摆件，柔和的自然光，米色，原木色，灰色，留白构图，渲染图，8K，超高清，宁静感，
+EN：Japanese wabi-sabi style, Edo period, tatami, wooden sliding door, dry landscape ornaments, soft natural light, beige, wood color, gray, blank composition, rendering, 8K, ultra-high definition, sense of tranquility, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

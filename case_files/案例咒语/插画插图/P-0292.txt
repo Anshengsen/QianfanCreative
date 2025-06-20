@@ -1,0 +1,3 @@
+CN：用于员工登陆页面的UI插图，矢量艺术，优雅，时尚，渐变，现代，柔和的阴影，超品质，
+EN：UI illustration for employee login page, vector art, elegant, stylish, gradient, modern, soft shadow, ultra quality, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

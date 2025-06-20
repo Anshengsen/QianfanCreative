@@ -1,0 +1,3 @@
+CN：3D模型渲染，粘土材料，深灰色，无屏幕的手机模型，漂浮在半空中，光滑，在cinema 4d中建模，使用octane渲染器进行渲染，柔光，最佳品质，3D，纯白背景，
+EN：3D model rendering, clay material, dark gray, screenless phone model, floating in mid-air, smooth, modeling in cinema 4d, rendering with octane renderer, soft light, best quality, 3D, pure white background, --q 1 --s 50 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

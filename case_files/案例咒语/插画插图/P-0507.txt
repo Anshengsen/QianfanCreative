@@ -1,0 +1,3 @@
+CN：现代线条插画风格，白色背景，未来城市场景，汽车，人物，简约线条，矢量图形，无阴影，卡通风格，插画设计，商业插画，场景插画，最佳品质，干净利落的边缘，现代设计，扁平化设计，未来科技，简约插画，线性插画，蓝色和橙色主题，科技感，创新，
+EN：Modern line illustration style, white background, future city scene, cars, characters, simple lines, vector graphics, no shadows, cartoon style, illustration design, commercial illustration, scene illustration, best quality, clean edges, modern design, flat design, future technology, simple illustration, linear illustration, blue and orange theme, sense of technology, innovation, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

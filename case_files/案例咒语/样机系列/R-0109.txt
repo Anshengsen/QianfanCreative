@@ -1,0 +1,3 @@
+CN：一个复古的木质相框，内部留白，摆放在一张略带划痕的复古木质书桌上，旁边散落着一些泛黄的老照片，一朵干枯的玫瑰压在相框下，营造出怀旧的氛围，空白效果图，3D渲染，Blender，细节刻画，等待珍贵照片，光线透过百叶窗形成的硬阴影。
+EN：A vintage wooden photo frame, with a blank interior, is placed on a slightly scratched vintage wooden desk, with some yellowed old photos scattered around, and a dried rose pressed under the photo frame, creating a nostalgic atmosphere, blank rendering, 3D rendering, Blender, detailed depiction, waiting for precious photos, hard shadows formed by light passing through the blinds. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：水彩风格，古代少女，水彩美学，中国风，一个穿着黑纱裙和白飘带的美少女，白色背景，蝴蝶围着飞，工笔，毕加索，8K，
+EN：Watercolor style, ancient girl, watercolor aesthetics, Chinese style, a beautiful girl wearing a black gauze skirt and white ribbon, white background, butterflies flying around, fine brushwork, Picasso, 8K, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

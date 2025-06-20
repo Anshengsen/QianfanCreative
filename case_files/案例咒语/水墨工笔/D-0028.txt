@@ -1,0 +1,3 @@
+CN：水墨画，黑色和红色，树枝上的喜鹊，中国水墨风，水墨艺术，吴冠中，大师作品，极高品质，
+EN：Ink painting, black and red, magpie on a branch, Chinese ink painting style, ink painting art, Wu Guanzhong, master work, very high quality, --q 1 --s 100 --ar 3:4 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

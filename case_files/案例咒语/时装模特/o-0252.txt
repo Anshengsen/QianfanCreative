@@ -1,0 +1,3 @@
+CN：专业摄影，8K，下半身像特写，女性，放松姿态，站立，宽松牛仔裤，深蓝色，水洗做旧感，裤腿挽起，裤腰抽绳，白色短袖上衣，白色运动鞋，休闲风格，自然光，背景模糊，室内环境。
+EN：Professional photography, 8K, close-up of lower body, woman, relaxed posture, standing, loose jeans, dark blue, washed and distressed, rolled up trouser legs, drawstring waistband, white short-sleeved top, white sneakers, casual style, natural light, blurred background, indoor environment. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

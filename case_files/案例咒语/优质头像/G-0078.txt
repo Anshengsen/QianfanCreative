@@ -1,0 +1,4 @@
+
+CN：一个可爱的动画风格的中国男孩，可爱，微笑，白发，戴耳环，红色背景，正视图，面向观者，明亮大胆的彩色肖像，极简主义，平面插图风格，几何形态，高质量，丰富的细节，
+EN：A cute animated Chinese boy, cute, smiling, white hair, wearing earrings, red background, front view, facing the viewer, bright and bold color portrait, minimalism, graphic illustration style, geometric form, high quality, rich details, --q 1 --s 100 --ar 3:4 --niji 5  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

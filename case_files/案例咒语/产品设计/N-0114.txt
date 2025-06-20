@@ -1,0 +1,3 @@
+CN：3D，手办，chibi人物，拟人动物，狐狸娘，兽耳，橘色/桃色皮毛，大狐狸耳朵，粉色内耳，蓬松的尾巴，黄色刘海头发，琥珀色大眼睛，围着黄色围巾，手持一朵大粉花，站立姿势，站在绿色草地上，有白色小花，背景是模糊的绿色树林，可爱风格，萌系，治愈系，浅景深效果，柔和光线，最佳品质，超细腻。
+EN：3D, figure, chibi character, anthropomorphic animal, fox girl, animal ears, orange/peach fur, big fox ears, pink inner ears, fluffy tail, yellow bangs hair, big amber eyes, wearing a yellow scarf, holding a big pink flower, standing pose, standing on green grass with small white flowers, the background is blurred green woods, cute style, cute, healing, shallow depth of field effect, soft light, best quality, super delicate. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

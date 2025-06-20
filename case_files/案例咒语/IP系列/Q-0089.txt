@@ -1,0 +1,4 @@
+﻿CN：卡通3D人物，大雁形象，简单，微笑，白色和棕色的身体，头上戴着飞行护目镜，Q版，可爱，干净的背景，3D，OC渲染，盲盒风格，粘土材料，
+EN：Cartoon 3D character, wild goose image, simple, smiling, white and brown body, flying goggles on head, Q version, cute, clean background, 3D, OC rendering, blind box style, clay material, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

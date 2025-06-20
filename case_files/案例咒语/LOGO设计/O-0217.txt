@@ -1,0 +1,3 @@
+CN：矢量风格的卡通标志设计，简单的线条，简单，矢量，一只灰色的卡通驴，背上驮着两个棕色的篮子，白色背景，正面居中，最佳品质
+EN：Vector style cartoon logo design, simple lines, simplicity, vector, a gray cartoon donkey with two brown baskets on its back, white background, front center, best quality --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：云朵形状的酒店，梦幻风格，未来主义，漂浮在空中，半透明的材质，内部可见柔和的光芒，散发着彩虹色的光晕，体积光渲染，黄昏场景，广角构图，8K，超现实，梦幻般的色彩。
+EN：Cloud-shaped hotel, dreamy style, futuristic, floating in the air, translucent material, soft light visible inside, emitting a rainbow-colored halo, volumetric light rendering, dusk scene, wide-angle composition, 8K, surreal, dreamy colors. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

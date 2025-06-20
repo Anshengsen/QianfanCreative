@@ -1,0 +1,3 @@
+CN：草稿，LOGO，铅笔素描效果，黑白灰，适用于艺术工作室或设计公司，人物头像轮廓，粗犷的线条，纹理纸张背景，复古，艺术感，非常有个性，
+EN：Draft, LOGO, pencil sketch effect, black and white gray, suitable for art studio or design company, character head profile, rough lines, textured paper background, retro, artistic, very individual, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

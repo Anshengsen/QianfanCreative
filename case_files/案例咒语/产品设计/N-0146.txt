@@ -1,0 +1,3 @@
+CN：产品摄影，红色口红，红玫瑰，金钥匙，玫瑰花瓣，白色背景，自然光，8K，超高质量，细节丰富，天鹅绒质感，金属光泽，
+EN：Product photography, red lipstick, red rose, golden key, rose petals, white background, natural light, 8K, ultra high quality, rich details, velvet texture, metallic luster, --s 100 --ar 1:1 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

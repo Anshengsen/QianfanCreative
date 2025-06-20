@@ -1,0 +1,3 @@
+CN：为“Steam”设计一款徽标，矢量，机械朋克风格，孤立，柔和的阴影，高品质，高细节，
+EN：Design a logo for "Steam", vector, mecha-punk style, isolated, soft shadow, high quality, high details, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

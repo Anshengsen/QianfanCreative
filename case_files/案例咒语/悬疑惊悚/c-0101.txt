@@ -1,0 +1,4 @@
+CN：一个美丽的现代亚洲美少女躺在床上玩手机，黑色长发，漫画风格，流畅的线条，深夜，昏暗，细腻，逼真，有光泽，
+EN：A beautiful modern Asian girl is lying on the bed playing with her mobile phone, with long black hair, comic style, smooth lines, late at night, dark, delicate, realistic, and shiny. --q 1 --s 100 --ar 3:4 --v 6.0
+（PS：这个尺度可能会有点点大，建议加上排除 衣着暴露/--no scantily clad） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

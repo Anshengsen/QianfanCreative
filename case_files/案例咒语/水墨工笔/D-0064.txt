@@ -1,0 +1,3 @@
+CN：吴冠中画的动漫风格的中国龙，可爱的中国龙，卡通，搞笑的动作，正视图，黑色，头部特写，水墨意境，抽象的简约线条，简约，插画，毕加索，高级配色，白色背景，8k，
+EN：Anime-style Chinese dragon painted by Wu Guanzhong, cute Chinese dragon, cartoon, funny movements, front view, black, head close-up, ink artistic conception, abstract simple lines, simplicity, illustration, Picasso, advanced color matching, white background, 8k , --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

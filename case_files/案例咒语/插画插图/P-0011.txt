@@ -1,0 +1,15 @@
+
+CN：T恤印花，矢量插画，玫瑰花，玫瑰，彩色，渐变，矢量图，黑色背景，最佳画质，最佳质量，
+EN：Keywords T-shirt printing, vector illustration, rose, rose, color, gradient, vector diagram, black background, best picture quality, best quality, --q 5 --ar 3:4 --s 250 --v 5.2 --seed 3057434887
+
+
+
+
+CN：T恤印花，矢量插画，草，绿叶，叶子，彩色，渐变，矢量图，黑色背景，最佳画质，最佳质量，
+EN： Keywords t-shirt printing, vector illustration, grass, green leaves, leaves, color, gradient, vector diagram, black background, best picture quality, best quality, --q 5 --ar 3:4 --s 250 --v 5.2 --seed 3057434887
+
+
+
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

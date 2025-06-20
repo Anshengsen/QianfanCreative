@@ -1,0 +1,5 @@
+
+CN：轮廓线艺术，运动鞋剪贴画，黑色和白色，粗线条，矢量，白色背景，
+
+EN：Contour art, sneaker clip art, black and white, thick lines, vectors, white backgrounds, --q 5 --s 180 --ar 3:4 --v 5.2 --style raw --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

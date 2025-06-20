@@ -1,0 +1,3 @@
+CN：chibi，全身，一个可爱的动漫风格的小女孩，一头黑色的头发，双辫子，捧着花束，开心，穿着浅绿色衣服，白色背景，简单的绘画风格，简单的线条，平面插图，高清，最佳质量，高分辨率，淡雅清新的配色，
+EN：chibi, full body, a cute anime style little girl, black hair, double braids, holding a bouquet, happy, wearing light green clothes, white background, simple drawing style, simple lines, flat illustration, HD, best quality, high resolution, elegant and fresh color matching, --q 5 --s 100 --ar 3:5 --niji 6  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

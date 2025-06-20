@@ -1,0 +1,4 @@
+CN：专业摄影，8K，女性，无面部，自然站立，身体略微侧向镜头，上身穿浅米色V褶皱宽松上衣，七分袖，下身穿浅粉色阔腿长裤，脚穿浅色平底鞋，手提浅棕色手提包，背景为室内，白色墙面，浅色窗帘，简约风格，整体光线柔和，自然光。
+EN：Professional photography, 8K, female, no face, standing naturally, body slightly sideways to the camera, wearing light beige V-pleated loose top with three-quarter sleeves, light pink wide-leg trousers, light-colored flat shoes, carrying a light brown handbag, the background is indoors, white walls, light-colored curtains, simple style, the overall light is soft, natural light. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

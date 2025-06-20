@@ -1,0 +1,4 @@
+
+CN：一个韩国少女，20岁，非常美丽，穿着红色衬裙，白色背景，细致的肌肤，正视图，上身，高质量，面对镜头，
+EN：A Korean girl, 20 years old, very beautiful, wearing a red petticoat, white background, detailed skin, front view, upper body, high quality, facing the camera, --q 1 --s 100 --ar 3:4 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

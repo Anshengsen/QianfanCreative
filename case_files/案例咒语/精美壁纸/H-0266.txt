@@ -1,0 +1,3 @@
+CN：动漫风格，女孩，侧面，黑色长发，遮住一只眼睛，金色瞳孔，金色牙齿，黑色背景，深色调，沉思表情，手托下巴，黑色上衣，细颈链，哥特风格，情绪化，高对比度，细节丰富，超清画质，8K
+EN：Anime style, girl, side profile, long black hair, covering one eye, golden pupil, golden teeth, black background, dark tones, pensive expression, hand on chin, black top, thin necklace, Gothic style, emotional, high contrast, rich details, ultra-clear quality, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个打开的白色礼品盒，盒盖微微翘起，内部空空如也，白色背景，空白效果图，3D渲染，V-Ray渲染，丝带细节，适合展示礼物或产品，
+EN：An open white gift box with the lid slightly tilted up and empty inside, white background, blank rendering, 3D rendering, V-Ray rendering, ribbon details, suitable for displaying gifts or products, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

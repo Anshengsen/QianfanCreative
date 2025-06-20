@@ -1,0 +1,3 @@
+CN：远景，地平线，山峰剪影，日出或日落，渐变天空，深蓝色，橙色，黑色，微弱星光，对称构图，极简主义，自然风光，宁静，大气，电影感，高对比度，宽画幅，超广角，8K，超高清。
+EN：Distant views, horizon lines, mountain silhouettes, sunrise or sunset, gradient skies, dark blue, orange, black, faint starlight, symmetrical compositions, minimalism, natural scenery, tranquility, atmosphere, cinematic feel, high contrast, wide format, ultra wide angle, 8K, ultra high definition. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

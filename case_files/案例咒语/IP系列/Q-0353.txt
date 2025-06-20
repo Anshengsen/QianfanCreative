@@ -1,0 +1,3 @@
+CN：矢量风格的卡通人物，极简主义，简约，卡通，扁平化设计，白色背景，一个黄色的花朵头和绿色的身体的卡通人物，简单的眼睛，可爱的表情，简单的线条，最佳品质
+EN：Vector style cartoon character, minimalism, simplicity, cartoon, flat design, white background, a cartoon character with a yellow flower head and a green body, simple eyes, cute expression, simple lines, best quality --q 1 --s 50 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

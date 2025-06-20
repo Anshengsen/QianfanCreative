@@ -1,0 +1,3 @@
+CN：海边度假酒店，现代风格，2022年，外观像巨大的贝壳，白色外墙，蓝色玻璃窗，内部设有游泳池，餐厅，酒吧，充满度假氛围，水彩渲染，远景，阳光明媚，清新，最佳品质。
+EN：Seaside resort hotel, modern style, 2022, looks like a giant shell, white exterior walls, blue glass windows, with swimming pool, restaurant, bar inside, full of holiday atmosphere, watercolor rendering, distant view, sunny, fresh, best quality. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

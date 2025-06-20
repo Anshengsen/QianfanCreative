@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个女性，服装广告，无面部，站立姿势，略微侧身，身穿米白色菱格纹长款羽绒服，内搭米色连帽卫衣，袖口有卫衣的罗纹袖口，羽绒服敞开，有抽绳细节，整体服装风格休闲舒适，背景为室内，光线柔和。
+EN：Professional photography, 8K, a woman, clothing advertisement, no face, standing pose, slightly sideways, wearing an off-white diamond-patterned long down jacket with a beige hooded sweatshirt underneath, the cuffs have ribbed cuffs of the sweatshirt, the down jacket is open with drawstring details, the overall clothing style is casual and comfortable, the background is indoors, and the light is soft. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

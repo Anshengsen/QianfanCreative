@@ -1,0 +1,3 @@
+CN：以2D风格写着“Midjourney”，孤立在白色背景上，居中，
+EN：The word "Midjourney" written in 2D style, isolated on white background, centered, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

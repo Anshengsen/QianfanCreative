@@ -1,0 +1,3 @@
+CN：风景摄影，海面，日落，天空，粉色云彩，橙色光芒，海面波光粼粼，平静，广角镜头，电影感，8k，超细节，超现实主义
+EN：Landscape photography, sea, sunset, sky, pink clouds, orange light, sparkling sea, calm, wide angle lens, cinematic feel, 8k, ultra detail, surrealism --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

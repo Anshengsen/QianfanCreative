@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个中国少女，瓜子脸，黑色短发，发梢微卷，双手举起至头顶，略微低头，眼神向下，红唇，表情放松，身穿红色条纹运动背心，红色短裤，阳光直射，阴影清晰，沥青路面背景，自然光，最佳品质，超细节，超写实，高视角，俯拍，
+EN：Professional photography, 8K, a Chinese girl, oval face, short black hair, slightly curled ends, hands raised to the top of the head, slightly lowered head, eyes looking down, red lips, relaxed expression, wearing a red striped sports vest, red shorts, direct sunlight, clear shadows, asphalt road background, natural light, best quality, ultra-detailed, ultra-realistic, high angle of view, overhead shot, --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

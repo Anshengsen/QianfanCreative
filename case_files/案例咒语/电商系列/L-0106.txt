@@ -1,0 +1,3 @@
+CN：最小的舞台设计，一个白色的发着光的圆形台子，抽象的淡蓝色的有层次感的布料幕布，高品质，抽象，8K，
+EN：The smallest stage design, a white glowing round stage, abstract light blue layered cloth curtain, high quality, abstract, 8K, --q 1 --s 50 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：动漫少女，日本漫画风格，黑白灰底色红色高光，汗水，兔女郎服装，仰视视角，特写，光影对比强烈，高细节，高品质，
+EN：Anime girl, Japanese manga style, black and white gray background with red highlights, sweat, bunny girl costume, looking up, close-up,strong contrast between light and shadow, high details, high quality, --q 2 --s 100 --ar 3:4 --niji 6 --p 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

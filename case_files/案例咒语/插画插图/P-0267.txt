@@ -1,0 +1,3 @@
+CN：插画，飞船的内部，正面，一只可爱的拟人化的小黄鸡在操作台上认真的工作，面对镜头，对称构图，画面顶部有一个巨大的罩子，上面写着“AI”，非常丰富的细节，发光，科技感，未来感，卡通，最佳品质，超细节，
+EN：Illustration, the interior of the spaceship, front view, a cute anthropomorphic little yellow chicken working hard on the operating table, facing the camera, symmetrical composition, there is a huge cover at the top of the picture with "AI" written on it, very rich details, glowing, sense of technology, futuristic, cartoon, best qu ality, super details, --q 1 --s 150 --ar 3:4 --v 6.0 --personalize df2apxr 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

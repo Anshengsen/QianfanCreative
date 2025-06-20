@@ -1,0 +1,3 @@
+CN：扁平风格图标设计，一组（12个）文件相关的图标，4x6，颜色为白色，形状为圆角矩形，线条简洁，整体风格现代简约，具有科技感和专业感，细节包括图标的形状，线条的粗细，以及图案的细节，最佳品质，8K，矢量图形，黑色背景，
+EN：Flat style icon design, a set of (12) file-related icons, 4x6, white in color, rounded rectangle in shape, clean lines, modern and simple overall style, with a sense of technology and professionalism, details include the shape of the icon, the thickness of the lines, and the details of the pattern, best quality, 8K, vector graphics, black background, --q 1 --s 50 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

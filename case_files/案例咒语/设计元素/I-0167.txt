@@ -1,0 +1,3 @@
+CN：标志，矢量风格的灰色墓碑标志，上面有白色十字架，部分插在泥土中，卡通风格的简单设计，二维游戏艺术，简单的形状，简单的平面图标，无阴影，白色背景，居中，
+EN：Logo, vector style grey tombstone logo with white cross, partially inserted in the dirt, cartoon style simple design, 2D game art, simple shapes, simple flat icons, no shadows, white background, centered, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

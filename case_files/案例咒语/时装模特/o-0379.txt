@@ -1,0 +1,4 @@
+CN：专业摄影，8K，亚洲女性，侧身站立，略微低头，手持杯子，高领米白色针织衫，棕色菱格纹绗缝羽绒外套，外套采用披肩式外翻设计，领口带有流苏装饰，腰间系有同色腰带，整体造型时尚，温暖，背景模糊，城市街道。
+EN：Professional photography, 8K, Asian woman, standing sideways, slightly lowering her head, holding a cup, wearing a high-necked off-white sweater, a brown diamond-patterned quilted down jacket, the jacket has a shawl-style turned-out design, tassel decoration on the neckline, and a belt of the same color tied around the waist, the overall look is fashionable and warm, with a blurred background, a city street. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

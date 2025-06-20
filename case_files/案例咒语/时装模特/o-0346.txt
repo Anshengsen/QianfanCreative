@@ -1,0 +1,4 @@
+CN：专业摄影，全身像，女性，较为肥胖的身材，浅棕色头发，扎低马尾，自然发际线，圆脸，浅色皮肤，淡妆，自然眉形，黑色圆领短袖T恤，白宽松版型，浅蓝色牛仔裤，自然站姿，正面视角，微侧头，微笑，柔和光线，纯色背景，简洁风格。
+EN：Professional photography, full-body portrait, female, relatively fat figure, light brown hair, low ponytail, natural hairline, round face, light skin, light makeup, natural eyebrow shape, black round neck short-sleeved T-shirt, white loose fit, light blue jeans, natural standing posture, front view, slightly tilted head, smiling, soft light, solid color background, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

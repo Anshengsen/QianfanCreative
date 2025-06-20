@@ -1,0 +1,3 @@
+CN：产品摄影，香水瓶，放置在黑色石头上，黑色反光表面，粉色背景，光线从上方照射，形成阴影，细节丰富，高分辨率，8K。
+EN：Product photography of perfume bottle placed on black stone, black reflective surface, pink background, light shining from above creating shadows, rich details, high resolution, 8K. --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

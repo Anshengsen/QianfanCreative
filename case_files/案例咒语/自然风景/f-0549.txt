@@ -1,0 +1,3 @@
+CN：三朵红色玫瑰，特写，花瓣细节丰富，层次感强，花朵饱满，叶片翠绿，光影自然，景深效果，浪漫氛围，唯美，高分辨率，摄影作品，最佳品质。
+EN：Three red roses, close-up, rich details on the petals, strong layering, full flowers, emerald green leaves, natural light and shadow, depth of field effect, romantic atmosphere, beautiful, high resolution, photography, best quality. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

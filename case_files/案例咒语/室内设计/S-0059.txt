@@ -1,0 +1,3 @@
+CN：美式乡村风格的餐厅，19世纪复古家装，原木餐桌，乡村风格的吊灯，壁橱，暖黄色灯光，自然光线补充，温馨舒适，细节刻画，高分辨率渲染，8K，
+EN：American country-style restaurant, 19th-century retro home decoration, log dining table, country-style chandelier, closet, warm yellow light, natural light supplement, warm and comfortable, detailed depiction, high-resolution rendering, 8K, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

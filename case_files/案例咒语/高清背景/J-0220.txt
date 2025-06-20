@@ -1,0 +1,3 @@
+CN：流体扭曲背景，全息，3D抽象风格的背景，虹彩，柔软，柔光，明暗对比，
+EN：Fluid distorted background, holographic, 3D abstract style background, iridescent, soft, soft light, chiaroscuro, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

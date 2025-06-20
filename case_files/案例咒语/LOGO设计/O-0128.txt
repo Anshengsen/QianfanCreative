@@ -1,0 +1,3 @@
+CN：抽象风格，一家艺术画廊的LOGO，油画质感，色彩斑斓，抽象图案，艺术气息浓厚，高分辨率，黑色背景，
+EN：Abstract style, an art gallery logo, oil painting texture, colorful, abstract pattern, artistic atmosphere, high resolution, black background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

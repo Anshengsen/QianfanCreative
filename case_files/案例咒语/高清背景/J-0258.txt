@@ -1,0 +1,3 @@
+CN：白色背景上一团复古渐变形状相互混合，微软壁纸风格，非常柔和的焦点，不对称构图，居中，未来派迷幻的风格，流行的颜色，windows壁纸，
+EN：A bunch of retro gradient shapes blending into each other on a white background, Microsoft wallpaper style, very soft focus, asymmetrical composition, centered, futuristic psychedelic style, pop of color, windows wallpaper, --q 5 --s 150 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

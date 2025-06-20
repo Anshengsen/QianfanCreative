@@ -1,0 +1,3 @@
+CN：等距，一座两层的3D小商店，中国宋代建筑设计风格，橙色和深灰色的风格，塑料材质，光滑，迷人的3D插图，超细节，白色背景，极简主义，最佳品质，3D渲染，
+EN：Isometric, a two-story 3D store, Chinese Song Dynasty architectural design style, orange and dark gray style, plastic material, smooth, charming 3D illustrations, hyperdetail, white background, minimalism, best quality, 3D rendering, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

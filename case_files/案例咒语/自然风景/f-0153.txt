@@ -1,0 +1,3 @@
+CN：公路，延伸至远方，两侧是棕色草地，背景是黑色山脉，天空是粉色和灰色，自然光，长镜头，对称构图，风景摄影，真实感，高清，8K
+EN：Road stretching into the distance with brown grass on both sides, black mountains in the background, pink and grey sky, natural light, long shot, symmetrical composition, landscape photography, photorealistic, HD, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

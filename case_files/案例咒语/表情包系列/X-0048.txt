@@ -1,0 +1,3 @@
+CN：一组3D黄脸emoji，3D，emoji，各种表情，3x3，白色背景，3D渲染，OC渲染，卡通，
+EN：A set of 3D yellow face emoji, 3D, emoji, various expressions, 3x3, white background, 3D rendering, OC rendering, cartoon, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,2 @@
+CN：兰博基尼跑车，银灰色金属漆面，黑色轮毂，橙色刹车卡钳，流线型车身，低角度拍摄，摄影棚灯光，冷色调，反光地面，超跑，细节丰富，高清质感，8K，电影级渲染
+EN：Lamborghini sports car, silver-gray metallic paint, black wheels, orange brake calipers, streamlined body, low-angle shot, studio lighting, cold colors, reflective ground, supercar, rich details, high-definition texture, 8K, movie-level rendering --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

@@ -1,0 +1,3 @@
+CN：卡通插画风格，一个年轻的女孩，红色头发，披肩发，微笑，穿着蓝色衬衫和黄色内搭，粉红色背景，点缀着白色星星和曲线，手绘风格，温暖的色调，柔和的光线，正面视角，半身像，可爱，活泼。
+EN：Cartoon illustration style, a young girl, red hair, shoulder-length hair, smiling, wearing a blue shirt and yellow inner wear, pink background, dotted with white stars and curves, hand-drawn style, warm tones, soft light, front perspective, half-length portrait, cute, lively. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

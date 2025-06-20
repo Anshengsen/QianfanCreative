@@ -1,0 +1,4 @@
+﻿CN：3D图标，一杯波波奶茶上面盖着白色盖子，插着牛皮纸吸管，正面视图，白色背景，3D，光滑，任天堂，时尚，潮流，丰富的细节，最高品质，最高分辨率，柔光，居中构图，
+EN：3D icon, a cup of Bobo milk tea with a white lid on it and a kraft paper straw inserted, front view, white background, 3D, smooth, Nintendo, fashion, trend, rich details, highest quality, highest resolution, soft light, centered composition, --q 1 --s 100 --ar 3:4 --niji 5
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

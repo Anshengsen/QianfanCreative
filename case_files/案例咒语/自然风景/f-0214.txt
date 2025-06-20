@@ -1,0 +1,3 @@
+CN：意大利海滨小镇，塞斯特里莱万特，寂静之湾，日出时分，平静水面，倒影清晰，色彩鲜艳的房屋，环绕海湾，山坡背景，几艘小船，停泊在港口，暖色调，金色阳光，蓝色渐变天空，长曝光效果，风光摄影，广角镜头，高动态范围(HDR)，超细节，8K，最佳画质
+EN：Italian seaside town, Sestri Levante, Bay of Silence, sunrise, calm water, clear reflections, colorful houses surrounding the bay, hillside background, several small boats anchored in the port, warm tones, golden sunlight, blue gradient sky, long exposure effect, landscape photography, wide angle lens, high dynamic range (HDR), ultra details, 8K, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

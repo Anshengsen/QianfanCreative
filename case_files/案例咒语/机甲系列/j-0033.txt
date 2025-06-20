@@ -1,0 +1,3 @@
+CN：机甲宠物，卡通风格，毛茸茸，可爱，暖色调灯光，温馨的房间背景，柔软的毛毯，高清，细节丰富，UHD，高品质，高细节，
+EN：Mecha pets, cartoon style, furry, cute, warm lighting, cozy room background, soft blanket, HD, rich details, UHD, high quality, high details, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

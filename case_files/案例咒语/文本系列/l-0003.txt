@@ -1,0 +1,3 @@
+CN：文字标志，上面写着“Midjourney”，银色、淡蓝色和海蓝色，黑色背景，冰雪效果的文字标志，干净，
+EN：Text logo with the word Midjourney in silver, light blue and ocean blue on a black background, ice and snow effect text logo, clean, --q 1 --s 50 --ar 3:2 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

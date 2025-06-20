@@ -1,0 +1,3 @@
+CN：动漫风格，一个亚洲女孩，黑色短发，猫耳头饰，紫色眼睛，红色嘴唇，黑色颈圈，黑色背心，深色背景，报纸背景，蓝色三角形霓虹灯，粉色光点，尾巴，上半身，面向镜头，柔光，最佳质量，8K，高细节
+EN：Anime style, an Asian girl, short black hair, cat ears headdress, purple eyes, red lips, black collar, black vest, dark background, newspaper background, blue triangle neon lights, pink light spots, tail, upper body, facing the camera, soft light, best quality, 8K, high details --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

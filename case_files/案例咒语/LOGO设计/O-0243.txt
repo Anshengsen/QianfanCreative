@@ -1,0 +1,3 @@
+CN：矢量风格的标志设计，字母P，行星，星空，白色行星，星空剪影入P中，白色背景，居中构图，简洁现代，最佳品质，高分辨率
+EN：Vector style logo design, letter P, planet, starry sky, white planet, starry sky silhouette into P, white background, centered composition, simple and modern, best quality, high resolution --s 100 --ar 1:1 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

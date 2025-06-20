@@ -1,0 +1,3 @@
+CN：白色背景，左右不对称各有一片不规则的淡紫色的圆形，粗糙的边缘，极简主义，平面风格，
+EN：White background, with an irregular lavender circle on each side, asymmetrical, with rough edges, minimalism, flat style, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

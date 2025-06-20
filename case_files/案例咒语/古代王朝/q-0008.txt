@@ -1,0 +1,3 @@
+CN：来自中国古代的皇帝和他的爱妃，威震九天的皇帝和母仪天下的皇后，皇帝穿着华丽的征战盔甲、皇后穿着白色镶金边的凤纹华服，中国文化元素，全景，面对镜头，微笑，背景是中国古代皇宫，有景深，虚幻引擎5风格，光滑细腻逼真的皮肤，淡妆，中国传统主义，
+EN ：An emperor and his concubine from ancient China, a powerful emperor and a queen who is the mother of the country, the emperor is wearing gorgeous battle armor, the queen is wearing a white dress with phoenix pattern and gold edges, Chinese cultural elements, panoramic view, facing the camera, smiling, the background is the ancient Chinese palace, with depth of field, Unreal Engine 5 style, smooth and realistic skin, light makeup, Chinese traditionalism, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：东亚人，男性，黑色短发，飞机头，单眼皮，高鼻梁，薄嘴唇，穿着黑色皮衣，站姿，身体微微前倾，眼神坚定，看向镜头，正面镜头，强烈的对比光，干净清爽的工作室背景，4K，超高分辨率。
+EN：East Asian, male, short black hair, crew cut, single eyelids, high nose bridge, thin lips, wearing black leather jacket, standing, body slightly leaning forward, firm eyes, looking towards the camera, front shot, strong contrast light, clean and refreshing studio background, 4K, ultra-high resolution. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

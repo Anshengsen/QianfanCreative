@@ -1,0 +1,3 @@
+CN：矢量风格的卡通标志，扁平化设计，一个圆形标志，里面有三个卡通人物，分别是兔子、鸭子和狐狸，兔子穿着蓝色衣服，鸭子穿着橙色衣服，狐狸拿着一个礼物，下方有一个红色的横幅，简单的线条，最佳品质，
+EN：Vector style cartoon logo, flat design, a circular logo with three cartoon characters, a rabbit, a duck and a fox, the rabbit is wearing blue clothes, the duck is wearing orange clothes, the fox is holding a gift, and there is a red banner below, simple lines, best quality, --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

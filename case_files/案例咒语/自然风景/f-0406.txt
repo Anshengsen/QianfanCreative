@@ -1,0 +1,3 @@
+CN：金色麦田，广角镜头，日落时分，阳光洒满大地，田间小路，延伸至远方，一棵孤树，剪影效果，天空云彩，层次丰富，暖色调，自然光，高饱和度，电影质感，4K，超广角，黄金比例构图，自然风光摄影，
+EN：Golden wheat field, wide-angle lens, sunset, sunlight filling the earth, field path, extending into the distance, a lone tree, silhouette effect, sky and clouds, rich layers, warm tones, natural light, high saturation, film texture, 4K, ultra-wide angle, golden ratio composition, natural scenery photography, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

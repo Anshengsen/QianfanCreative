@@ -1,0 +1,4 @@
+CN：3D渲染图标，卡通风格，一组粉色爱心，大小不一，层次，每个爱心都有不同的可爱表情，黑色线条勾勒五官，黏土材质，表面光滑有光泽，梦幻色彩，整体风格温馨，OC渲染，工作室照明，光线柔和，白色背景，无阴影，超细节，超品质，3D效果，适合作为情人节主题的APP图标或网页元素
+EN：3D rendering icon, cartoon style, a group of pink hearts, different sizes, layers, each heart has a different cute expression, black lines outline the facial features, clay material, smooth and shiny surface, dreamy colors, the overall style is warm, OC rendering, studio lighting, soft light, white background, no shadow, super details, super quality, 3D effect, suitable as a Valentine's Day theme APP icon or web element --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

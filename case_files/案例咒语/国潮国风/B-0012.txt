@@ -1,0 +1,3 @@
+CN：一个非常漂亮的小女孩，腮红，闭眼，樱桃嘴，唐代，戏曲，上身特写，工笔画，中国古典主义人物插画，平面插画风格，极简主义，人物肖像，简约，简单的背景，
+EN：A very beautiful little girl, blush, eyes closed, cherry mouth, Tang Dynasty, opera, upper body close-up, gongbi painting, Chinese classicist figure illustration, graphic illustration style, minimalism, portrait, simplicity, simple background, --q 5 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

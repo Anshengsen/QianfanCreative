@@ -1,0 +1,3 @@
+CN：空白效果图，MacBook Pro，笔记本电脑，正面视角，银色机身，黑色边框，屏幕纯白，浅灰色背景，极简主义，产品展示，数码设备，高分辨率，清晰细节，无阴影，居中构图，Apple风格，设计素材，PSD模板
+EN：Blank rendering, MacBook Pro, laptop, front view, silver body, black border, pure white screen, light gray background, minimalism, product display, digital equipment, high resolution, clear details, no shadows, centered composition, Apple style, design material, PSD template --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

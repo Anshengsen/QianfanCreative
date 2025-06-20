@@ -1,0 +1,10 @@
+
+
+申猴
+CN：一只卡通猴子，人脸，卡通，小女孩，可爱的猴子，生肖猴，开心的笑，可爱，调皮，漂亮，亚洲脸，符合中国人的审美，戴着猴帽子，IP，POP MART，3D，C4D，OC渲染，彩虹色，穿七彩衣服，黑色背景，全身照，最佳质量，全身镜头，全身像，面对镜头，全景，
+EN：A cartoon monkey, face, cartoon, little girl, cute monkey, zodiac monkey, happy smile, cute, naughty, beautiful, Asian face, in line with China people's aesthetics, wearing a monkey hat, IP, POP MART, 3D, C4D, OC rendering, rainbow color, colorful clothes, black background, full-length photo, best quality, full-length lens, full-length portrait, --q 5 --s 250 --ar 9:16 --v 5.2 --style raw --seed 2802536496
+
+
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

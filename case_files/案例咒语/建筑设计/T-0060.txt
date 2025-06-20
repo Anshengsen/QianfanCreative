@@ -1,0 +1,3 @@
+CN：蘑菇状的图书馆，童话风格，21世纪，彩色陶瓷外墙，点缀着大小不一的圆形窗户，白天，柔和的自然光线，卡通渲染，平视视角，营造梦幻般的氛围，8K，
+EN：Mushroom-shaped library, fairytale style, 21st century, colorful ceramic exterior, dotted with round windows of different sizes, daytime, soft natural light, cartoon rendering, horizontal perspective, creating a dreamy atmosphere, 8K, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

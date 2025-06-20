@@ -1,0 +1,3 @@
+CN：金色皮革手提包，包身呈半圆形，配有圆形手柄和皮革挂饰，放置在金色反光桌面上，背景是模糊的室内环境，阳光透过窗户照射进来，营造出奢华高贵的气氛，产品摄影，超高分辨率，细节丰富，展现皮革的质感和金属的光泽
+EN：Gold leather handbag, with a semicircular body, round handles and leather charms, placed on a gold reflective tabletop, with a blurred interior background, sunlight shining through the window, creating a luxurious and noble atmosphere, product photography, ultra-high resolution, rich details, showing the texture of the leather and the luster of the metal --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

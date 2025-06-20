@@ -1,0 +1,3 @@
+CN：广阔的绿色草地，连绵起伏的山丘，鲜艳的绿色，蓬松的白色云朵，湛蓝的天空，明媚的阳光，自然光，明亮，充满活力，宁静，广角镜头，风景摄影，超高清，8K，超细节，最佳品质，自然风光
+EN：Wide open green meadows, rolling hills, vivid green, fluffy white clouds, clear blue sky, bright sunshine, natural light, bright, vibrant, tranquil, wide angle lens, landscape photography, ultra high definition, 8K, ultra detail, best quality, natural scenery --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

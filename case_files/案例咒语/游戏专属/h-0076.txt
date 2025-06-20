@@ -1,0 +1,3 @@
+CN：海盗角色卡通风格的人物设计，不同动作，角色面部和服装一致性，棕色头发的年轻女孩，卡通风格，纯白背景，2x3，
+EN：Pirate character cartoon style character design, different actions, character face and clothing consistency, young girl with brown hair, cartoon style, pure white background, 2x3, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

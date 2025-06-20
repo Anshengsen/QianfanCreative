@@ -1,0 +1,3 @@
+CN：秋日风景，落叶乔木，金黄色树叶，成排的树木，白色树干，草地，雾气，远处的森林，晴朗的天空，明媚的阳光，自然的色彩，写实风格，广角镜头，自然光照，高饱和度，8K，超高清细节
+ENN：Autumn landscape, deciduous trees, golden leaves, rows of trees, white trunks, grass, fog, forest in the distance, clear sky, bright sun, natural colors, realistic style, wide angle lens, natural lighting, high saturation, 8K, ultra high definition details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

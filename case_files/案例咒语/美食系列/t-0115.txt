@@ -1,0 +1,3 @@
+CN：美食摄影，照片，热气腾腾的，小笼包，竹制蒸笼，特写，暖色调，柔和的光线，景深，高细节，8K，美食摄影
+EN：food photography, photo, steaming, xiao long bao, bamboo steamer, close-up, warm tones, soft light, depth of field, high details, 8K, food photography --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

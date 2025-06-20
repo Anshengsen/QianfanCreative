@@ -1,0 +1,3 @@
+CN：变形金刚风格的机甲，金属质感强烈，复杂的机械结构，爆炸和火光照亮，城市废墟背景，建筑物倒塌，光线追踪渲染，变形过程中，零件分离和组合，动态感十足，8K，超高分辨率，
+EN：Transformers style mecha, strong metal texture, complex mechanical structure, explosion and fire lighting, city ruins background, building collapse, ray tracing rendering, parts separation and combination during deformation, full of dynamics, 8K, ultra-high resolution, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

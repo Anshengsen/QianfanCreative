@@ -1,0 +1,3 @@
+CN：秋日风光，远景，山脉，蓝天，阳光，树木，绿草地，落叶，明亮色调，自然光，广角镜头，高饱和度，瑞士阿尔卑斯山风光，摄影，真实感，高清晰度，8K
+EN：Autumn scenery, distant view, mountains, blue sky, sunlight, trees, green grass, fallen leaves, bright tones, natural light, wide angle lens, high saturation, Swiss Alps scenery, photography, realistic, high definition, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

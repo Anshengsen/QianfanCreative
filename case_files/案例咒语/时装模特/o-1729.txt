@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，石墨灰色，圆领T恤，短袖，基础款，合身剪裁，袖口平整，衣领罗纹设计，面料质感细腻，整体风格简约，无图案，无装饰，光线均匀，无明显阴影，焦点集中于服装整体。
+EN：Professional clothing photography, 8K, front view, white background, graphite grey, crew neck T-shirt, short sleeves, basic style, fitted cut, flat cuffs, ribbed collar, fine texture of fabric, simple overall style, no patterns, no decorations, even lighting, no obvious shadows, focus on the garment as a whole. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

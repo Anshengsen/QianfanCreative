@@ -1,0 +1,4 @@
+CN：黑暗奇幻动漫风格，暗黑系，红色高光，红色光影，哥特式，白发少女，恶魔角，细节包括人物的表情，头饰的纹路，颈部的图案，整体画面诡异神秘，风格独特，最佳品质，8K，厚涂，动漫风格，黑暗插画
+EN：Dark fantasy anime style, dark series, red highlights, red light and shadow, gothic, white-haired girl, devil horns, details include the character's expression, the texture of the headdress, the pattern of the neck, the overall picture is weird and mysterious, unique style, best quality, 8K, thick coating, anime style, dark illustration --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

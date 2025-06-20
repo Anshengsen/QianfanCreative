@@ -1,0 +1,3 @@
+CN：粉色莲花，含苞待放，盛开，花瓣质感细腻，晶莹剔透，水面反光，倒影清晰，光线柔和，暖色调，背景虚化，光斑，梦幻，唯美，高饱和度，超清细节，8K
+EN：Pink lotus, budding, blooming, delicate petals, crystal clear, water reflection, clear reflection, soft light, warm tones, blurred background, light spots, dreamy, beautiful, high saturation, ultra-clear details, 8K --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

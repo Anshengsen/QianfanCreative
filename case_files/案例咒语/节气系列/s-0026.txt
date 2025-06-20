@@ -1,0 +1,3 @@
+CN：大雪天气，地上厚厚的积雪，一个3岁的小剑客在冰湖上行走，背着剑，背影，戴着草帽，披着黑色的披风，逼真，详细，飘雪，鹅毛大雪，广角，全景，4K，
+EN：Snowy weather, thick snow on the ground, a 3-year-old swordsman walking on the ice lake, carrying a sword, back view, wearing a straw hat and a black cloak, realistic, detailed, snow, heavy snow, wide angle, panoramic, 4K, --q 1 --s 250 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

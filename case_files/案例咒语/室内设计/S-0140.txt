@@ -1,0 +1,3 @@
+CN：室内设计，波西米亚风格，米色墙面，棕色皮革沙发，编织吊灯，圆形地毯，木质家具，绿植，民族风抱枕，自然光，温暖色调，细节丰富，高分辨率，8k。
+EN：Interior design, bohemian style, beige walls, brown leather sofa, woven chandelier, round rug, wooden furniture, green plants, ethnic style pillows, natural light, warm tones, rich details, high resolution, 8k. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

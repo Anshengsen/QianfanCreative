@@ -1,0 +1,3 @@
+CN：室内房间，粉色墙壁，极简主义风格，黑色地板，浅色地毯，黑色电视，现代沙发椅，圆形脚凳，艺术墙绘，自然光，阴影，简洁线条，干净，高品质，8k，细节丰富，室内设计，家居装饰，现代，舒适，温馨，平静，
+EN：Interior room, pink walls, minimalist style, black floor, light carpet, black tv, modern sofa chair, round footstool, wall art, natural light, shadows, simple lines, clean, high quality, 8k, rich details, interior design, home decor, modern, comfortable, warm, calm, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,17 @@
+
+CN：T恤印花，矢量插画，彩色渐变，狮子，草丛，最佳画质，最佳质量，
+EN：Keywords T-shirt printing, vector illustration, color gradient, lion, grass, best picture quality, best quality, --q 5 --ar 3:4 --s 250 --v 5.2
+
+
+
+CN：T恤印花，矢量插画，彩色渐变，老虎，草丛，最佳画质，最佳质量，矢量，
+EN： Keywords T-shirt printing, vector illustration, color gradient, tiger, grass, best picture quality, best quality, vector, --q 5 --ar 3:4 --s 250 --v 5.2
+
+
+
+CN：T恤印花，矢量插画，彩色渐变，兔子，草丛，最佳画质，最佳质量，矢量，
+EN： Keywords t-shirt printing, vector illustration, color gradient, rabbit, grass, best picture quality, best quality, vector, --q 5 --ar 3:4 --s 250 --v 5.2
+
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

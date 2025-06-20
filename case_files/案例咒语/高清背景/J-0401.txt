@@ -1,0 +1,3 @@
+CN：ios壁纸风格，抽象渐变背景，模糊，色彩过渡，蓝色、紫色、橙色，黑暗背景，柔和灯光，无焦点，无特定风格，无特定大师，无特定构图。
+EN：ios wallpaper style, abstract gradient background, blur, color transition, blue, purple, orange, dark background, soft lighting, no focus, no specific style, no specific master, no specific composition. --q 5 --s 100 --ar 16:9 --v 5.2  --no iphone 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：美食摄影，照片，烤鸡翅和鸡腿，深色托盘，多种蘸酱，欧芹点缀，青柠块，俯视视角，暖色调，焦糖色泽，烧烤纹理，柔和光线，食物摆盘艺术，细节丰富，高分辨率，质感清晰
+EN：Food photography, photo, grilled chicken wings and drumsticks, dark tray, various dips, parsley garnish, lime wedges, top view, warm tones, caramel color, grilled texture, soft light, food plating art, rich details, high resolution, clear texture --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

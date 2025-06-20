@@ -1,0 +1,3 @@
+CN：马克笔手绘风格，美少女，棕色短发，穿着休闲的服装，表情轻松愉快，背景是手绘风格的涂鸦图案。手绘的笔触，色彩鲜艳，线条流畅，充满活力，展现出青春和自由的氛围。
+EN：Mark pen hand-painted style, a beautiful girl with short brown hair, wearing casual clothes, with a relaxed and happy expression, and the background is a hand-painted graffiti pattern. The hand-painted strokes are brightly colored, smooth and full of vitality, showing a youthful and free atmosphere. --q 1 --s 100 --ar 1:1 --niji 6--personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

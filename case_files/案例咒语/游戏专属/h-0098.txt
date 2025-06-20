@@ -1,0 +1,3 @@
+CN：微观3D场景，微观视角，主题是银白色沙丘上的中国古代阁楼建筑、画面中央有一个正在步行的中国古代书生，高质量，高细节，8K，高清，在cinema 4d中渲染，3D、OC、zbrush，黑色背景，满月，绝美的画面，
+EN：Microscopic 3D scene, microscopic perspective, the theme is the ancient Chinese attic building on the silver-white sand dunes, there is an ancient Chinese scholar walking in the center of the picture, high quality, high detail, 8K, HD, rendered in cinema 4d, 3D, OC, zbrush, black background, full moon, beautiful picture, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

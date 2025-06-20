@@ -1,0 +1,3 @@
+CN：空白效果图，杂志模型，白色封面，灰色背景，简约风格，俯视视角，柔和光照，高分辨率，产品展示
+EN：Blank rendering, magazine mockup, white cover, gray background, simple style, top view, soft lighting, high resolution, product display --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

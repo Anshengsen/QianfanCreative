@@ -1,0 +1,3 @@
+CN：为名为“Hey AIGC”的电影公司设计字体标志，采用迪士尼电影的风格，孤立在白色背景上，
+EN：Typography logo design for a film company called "Hey AIGC" in the style of Disney movies, isolated on white background, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

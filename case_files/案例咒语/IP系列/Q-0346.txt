@@ -1,0 +1,3 @@
+CN：矢量风格的卡通狗，扁平化设计，白色背景，一只穿着黄色连帽衫和绿色短裤的狗，戴着帽子，脸上有红晕，简单的线条，最佳品质
+EN：Vector style cartoon dog, flat design, white background, a dog in a yellow hoodie and green shorts, a hat, with a blush on his face, simple lines, best quality --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

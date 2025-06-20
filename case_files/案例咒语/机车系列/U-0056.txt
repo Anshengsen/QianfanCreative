@@ -1,0 +1,2 @@
+CN：冰蓝色兰博基尼，金色轮毂，停在雪地上，背景是极光，侧面视角，低角度拍摄，超跑，精致的打光，光效，电影级照明，工作室质量，产品摄影，真实摄影，UHD，超高细节，8K，最佳画质
+EN：Ice blue Lamborghini with gold wheels parked on the snow with the Aurora Borealis in the background, side view, low angle shot, supercar, sophisticated lighting, light effects, cinematic lighting, studio quality, product photography, real photography, UHD, ultra high detail, 8K, best quality  --q 1 --s 50 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

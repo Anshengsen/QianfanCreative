@@ -1,0 +1,3 @@
+CN：简单的3d等距透视插图，干净的现代卧室，淡绿色的风格，干净的绿色背景，在cinema 4d中呈现，3D，OC渲染，粘土材料，
+EN：Simple 3d isometric perspective illustration, clean modern bedroom, pale green style, clean green background, presented in cinema 4d, 3D, OC rendering, clay material, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

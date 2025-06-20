@@ -1,0 +1,5 @@
+CN：一个卡通人物，唐朝美女，学术风格，完美的妆容，柔和的调色板，丹凤眼，发钗，青蓝色服装，干净的背景，细腻，光滑，最高品质，超细节，超写实，
+EN：A cartoon character, a beauty from the Tang Dynasty, academic style, perfect makeup, soft color palette, phoenix eyes, hairpin, cyan blue clothing, clean background, delicate, smooth, highest quality, super detailed, super realistic, --q 1 --s 100 --ar 3:4 --niji 6
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：像素风格，8bit，复古游戏LOGO，像素点阵图，怀旧游戏元素，复古色彩，高分辨率，黑色背景，
+EN：Pixel style, 8bit, retro game LOGO, pixel dot map, nostalgic game elements, retro colors, high resolution, black background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

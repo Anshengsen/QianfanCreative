@@ -1,0 +1,3 @@
+CN：鸟瞰视角，顶视图，一个可爱的5岁小女孩悠然的躺在小船里，翘着二郎腿，嘴里叼着一根草，两只手放在头下，悠哉悠哉，采用现代中国插画师风格，插画，24节气主题插图设计，夏至，荷叶，莲花，莲蓬，最佳品质，4K，
+EN：Bird's-eye view, top view, a cute 5-year-old girl lying in a boat, legs crossed, holding a piece of grass in her mouth, hands under her head, leisurely, modern Chinese illustrator style, illustration, 24 solar terms theme illustration design, summer solstice, lotus leaves, lotus, lotus pods, best quality, 4K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua --no text 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：日系动漫风格插画，一位年轻女性，戴着装饰着贝壳的帽子，手捧着一个海螺，色彩清新淡雅，线条流畅，整体风格梦幻唯美，具有少女感和浪漫气息，细节包括女性的表情，贝壳的纹理，以及背景中的海洋元素，最佳品质，8K，手绘感强，适合用于动漫周边或艺术作品，
+EN：Japanese anime style illustration, a young woman wearing a hat decorated with shells, holding a conch in her hand, fresh and elegant colors, smooth lines, the overall style is dreamy and beautiful, with a girlish and romantic atmosphere, details include the woman's expression, the texture of the shells, and the marine elements in the background, best quality, 8K, strong hand-painted feel, suitable for anime peripherals or art works, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

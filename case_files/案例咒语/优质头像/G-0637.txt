@@ -1,0 +1,3 @@
+CN：手绘风格卡通头像，一个女孩，黑色长发，刘海齐眉，表情平静，穿着白色外套，背景是绿色树林，整体风格简约，色彩柔和，线条流畅，具有文艺感，最佳品质，8K，适合作为社交媒体头像
+EN：Hand-painted cartoon avatar of a girl with long black hair, bangs and eyebrows, a calm expression, wearing a white coat, with a green forest in the background. The overall style is simple, with soft colors, smooth lines, and a sense of art. Best quality, 8K, suitable as a social media avatar --q 1 --s 30 --ar 1:1 --niji 6 --profile hrqrh1e --raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

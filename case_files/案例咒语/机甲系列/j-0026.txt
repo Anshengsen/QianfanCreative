@@ -1,0 +1,3 @@
+CN：赛博朋克风格机甲，霓虹灯，蓝色和粉色，高饱和度，雨夜，拥挤的城市街道，飞车，反光，光影效果，超写实，8K，电影级渲染。
+EN：Cyberpunk mecha, neon lights, blue and pink, high saturation, rainy night, crowded city streets, flying cars, reflections, light and shadow effects, hyperrealism, 8K, movie-level rendering. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

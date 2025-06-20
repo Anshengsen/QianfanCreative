@@ -1,0 +1,3 @@
+CN：中国漫画，矢量，一个中国动漫美少女，16岁，(两个包子发型)::3，正面，戴墨镜，做出一只手把墨镜向下拉的动作，瓜子脸，柳叶眉，暗红色的口红色号，穿着红绿相间的泡泡袖，另一只手拿着红色的扇子，锐利的线条，白皙的皮肤，国潮配色，红色背景，复杂的细节，最佳品质，
+EN：Chinese manga, vector, a Chinese anime beautiful girl, 16 years old, (two bun hairstyles):: 3, front, wearing sunglasses, making a hand to pull the sunglasses down, melon seed face, willow eyebrows, dark red lipstick color number, wearing red and green bubble sleeves, the other hand holding a red fan, sharp lines, fair skin, Guochao color scheme, red background, complex details, best quality, --q 5 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

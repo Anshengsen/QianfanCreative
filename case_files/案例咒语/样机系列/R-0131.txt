@@ -1,0 +1,3 @@
+CN：女性的纤纤玉手，细长光滑白皙，圆形的比较小的空白徽章，徽章的直径为58毫米，明确标准且绝对的比例，靠近一只手指轻触，背景是现代简约风格的工作桌，带有键盘和笔记本，徽章突出展示，光滑光泽感，高清渲染，极致细节，4K，
+EN：Female hand, slender, smooth and white, holding a relatively small blank badge of round shape, the badge has a diameter of 58 mm, clear standard and absolute proportions, close up with a finger touching, the background is a modern minimalist work desk with keyboard and notebook, the badge is prominently displayed, smooth and glossy, high-definition rendering, extreme details, 4K, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

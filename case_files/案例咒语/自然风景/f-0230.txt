@@ -1,0 +1,3 @@
+CN：傍晚时分，英国伦敦，泰晤士河，河面平静，威斯敏斯特宫，国会大厦，大本钟，威斯敏斯特桥，暖黄色灯光，建筑照明，深蓝色天空，少量云彩，长曝光，广角镜头，对称构图，摄影，电影质感，超高清，8K，细节丰富
+EN：London, England, evening, Thames River, calm river, Palace of Westminster, Houses of Parliament, Big Ben, Westminster Bridge, warm yellow lights, architectural lighting, dark blue sky, few clouds, long exposure, wide angle lens, symmetrical composition, photography, film texture, ultra high definition, 8K, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：红色花朵特写，花瓣呈星状放射，绿色花蕊，焦外虚化背景，叶片油亮，色彩鲜艳，细节丰富，光影柔和，艺术绘画风格，高分辨率，最佳质量。
+EN：Close-up of red flower with star-shaped petals, green stamens, out-of-focus background, shiny leaves, bright colors, rich details, soft light and shadows, artistic painting style, high resolution, best quality. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

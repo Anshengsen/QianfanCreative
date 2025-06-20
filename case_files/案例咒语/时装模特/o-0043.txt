@@ -1,0 +1,3 @@
+CN：一个东南亚女性模型，棕色马尾辫，杏仁眼，樱桃小嘴，穿着泰国传统服饰，双手合十姿势，微笑，干净清爽的工作室背景，柔和的暖光，展现异域风情，8K，
+EN：A Southeast Asian female model, brown ponytail, almond eyes, cherry mouth, wearing traditional Thai clothes, posing with hands together, smiling, clean and refreshing studio background, soft warm light, showing exotic style, 8K, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

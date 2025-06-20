@@ -1,0 +1,3 @@
+CN：一件丝绸连衣裙，朱砂红色，印有金色牡丹花纹，复古宫廷风，白色背景，平铺，正视图，精细褶皱质感，高饱和度，8K分辨率，细节清晰。
+EN：A silk dress, cinnabar red, printed with golden peony pattern, retro palace style, white background, flat lay, front view, fine pleated texture, high saturation, 8K resolution, clear details. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

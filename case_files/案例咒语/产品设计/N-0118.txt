@@ -1,0 +1,3 @@
+CN：产品摄影，黑色多门冰箱，白色背景，极简风格，侧面光照，细节丰富，高分辨率，工作室拍摄
+EN：Product photography, black multi-door refrigerator, white background, minimalist style, side lighting, rich details, high resolution, studio shot --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

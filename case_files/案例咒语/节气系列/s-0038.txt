@@ -1,0 +1,3 @@
+CN：一个胖嘟嘟的小男孩坐在一个巨大的荷叶上，他抱着一个端午节粽子，用麻绳和竹叶缠绕的三角形粽子，在西湖，远处隐约可见雷峰塔，荷花荷叶，鲜艳的色彩，3D动画风格，高清辛烷值渲染，高品质，高细节，4K，
+EN：A chubby little boy sits on a huge lotus leaf, he is holding a Dragon Boat Festival Zongzi, a triangular Zongzi wrapped with hemp rope and bamboo leaves, in the West Lake, Leifeng Pagoda is faintly visible in the distance, lotus flowers and lotus leaves, bright colors, 3D animation style, high-definition octane rendering, high quality, high details, 4K, --q 1 --s 500 --ar 3:2 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

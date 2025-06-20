@@ -1,0 +1,3 @@
+CN：茂密森林，阳光穿透，树木阴影，绿色地表，自然光，纵深感，高对比度，广角镜头，自然摄影，逼真细节，8K画质，超高分辨率
+EN：Dense forest, sunlight penetrating, tree shadows, green ground, natural light, depth perception, high contrast, wide-angle lens, nature photography, realistic details, 8K quality, ultra-high resolution --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

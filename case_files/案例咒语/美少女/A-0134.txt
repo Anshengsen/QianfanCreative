@@ -1,0 +1,4 @@
+
+CN：电影镜头，逼真，特写，一个穿着白色汉服的中国美女正在射箭，黑色长发，唐朝时期，写实，丰富的细节，电影照明，超高清，3D艺术，超细节，
+EN：Movie footage, realistic, close-up, a beautiful Chinese woman in white Hanfu is archery, long black hair, Tang Dynasty period, realistic, rich details, movie lighting, super high definition, 3D art, super detail, --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

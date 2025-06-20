@@ -1,0 +1,3 @@
+CN：产品摄影，白色身体乳瓶，石头，雏菊花，水波纹，绿色植物，自然光，8K，超高质量，细节丰富，水面反射，清新，自然，
+EN：Product photography, white body lotion bottle, stones, daisy flowers, water ripples, green plants, natural light, 8K, ultra high quality, rich details, water surface reflection, fresh, natural, --s 100 --ar 1:1 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

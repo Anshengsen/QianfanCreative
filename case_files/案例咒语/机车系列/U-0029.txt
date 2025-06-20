@@ -1,0 +1,2 @@
+CN：摩托车全景图，俯瞰视角，环境为山间公路，自然光照，写实渲染，车身颜色为深蓝色，轮胎泥土痕迹清晰，背景虚化，8K分辨率，超高清。
+EN：Panoramic view of a motorcycle, from a bird's-eye view, the environment is a mountain road, natural lighting, realistic rendering, the body color is dark blue, the tire dirt marks are clear, the background is blurred, 8K resolution, ultra-high definition. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

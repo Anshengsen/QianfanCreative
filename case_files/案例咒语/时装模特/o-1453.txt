@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部，一个男性，站立姿势，倚靠在一辆白色老式汽车上，浅蓝色西装套装，内搭浅蓝色针织衫，黑色袜子，黑色亮面切尔西靴，户外环境，背景为山丘和植被，自然光，焦距适中，焦点在人物和汽车上。
+EN：Professional photography, 8K, clothing advertising shoot, no face, a man, standing pose, leaning on a white vintage car, light blue suit, light blue sweater, black socks, black shiny Chelsea boots, outdoor environment, hills and vegetation in the background, natural light, medium focus, focus on the man and the car. --q 1 --s 100 --ar 1:2 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一只柴犬、旁边是一只企鹅，卡通风格，白色背景，全身，可爱的表情，
+EN：A Shiba Inu, next to a penguin, cartoon style, white background, full body, cute expression, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

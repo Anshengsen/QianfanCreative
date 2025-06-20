@@ -1,0 +1,3 @@
+CN：秋日森林小径，薄雾弥漫，暖色调，橙红色落叶，参天大树，弯曲小路，纵深感，电影级光照，自然光，高饱和度，超广角，8K，超高清细节，最佳画质
+EN：Autumn forest trail, mist, warm colors, orange-red leaves, towering trees, winding path, depth, cinematic lighting, natural light, high saturation, ultra-wide angle, 8K, ultra-high-definition details, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

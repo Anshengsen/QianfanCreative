@@ -1,0 +1,3 @@
+CN：悬崖上的日出，朦胧的晕染，水墨工笔画，毕加索，柔和色彩晕染，青绿色，渐变，自然过渡，柔和，悬崖，写意，极简主义，晕染，
+EN：Sunrise on the cliff, hazy smudge, ink painting, Picasso, soft color smudge, turquoise, gradient, natural transition, soft, cliff, freehand, minimalism, smudge, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

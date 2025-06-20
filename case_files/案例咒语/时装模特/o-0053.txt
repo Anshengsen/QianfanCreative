@@ -1,0 +1,3 @@
+CN：混血儿人，成年女性，18岁，棕色长直发，偏分，绿色眼睛，小巧的鼻子，薄嘴唇，穿着蓝色牛仔外套和白色T恤，站姿，双手插兜，眼神迷离，看向远方，侧身镜头，自然光线，干净清爽的工作室背景，8K，超精细。
+EN：Mixed race person, adult woman, 18 years old, long straight brown hair, side parting, green eyes, small nose, thin lips, wearing blue denim jacket and white T-shirt, standing, hands in pockets, blurred eyes, looking into the distance, side view, natural light, clean and refreshing studio background, 8K, ultra-fine. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

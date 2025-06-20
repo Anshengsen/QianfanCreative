@@ -1,0 +1,35 @@
+关于IP形象三视图控制的延伸：
+CN：三视图，可爱的老虎穿着工作服，挥手，泡泡玛特风格，干净简约的设计，IP形象，高档的自然配色，明亮和谐，可爱多彩，详细的角色设计，behance上流行的风格，有机雕塑，C4D风格，3D动画风格角色设计，卡通，可爱，全身，黄色背景空间，极高的品质，
+EN：Three views, cute tiger in overalls, waving, POP MART style, clean and simple design, IP image, high-end natural color scheme, bright and harmonious, cute and colorful, detailed character design, behance on popular style, organic sculpture, C4D style, 3D animation style character design, cartoon, cute, full body, yellow background space, extremely high quality, --q 1 --s 100 --ar 3:2 --v 5.2
+（PS：三视图无法精准匹配，该套咒语使用了2次局部重绘生成修改视图，最终得出三视图）
+
+
+
+第一次使用：
+CN：三视图，可爱的老虎穿着工作服，挥手，泡泡玛特风格，干净简约的设计，IP形象，高档的自然配色，明亮和谐，可爱多彩，详细的角色设计，behance上流行的风格，有机雕塑，C4D风格，3D动画风格角色设计，卡通，可爱，全身，黄色背景空间，极高的品质，
+EN：Three views, cute tiger in overalls, waving, POP MART style, clean and simple design, IP image, high-end natural color scheme, bright and harmonious, cute and colorful, detailed character design, behance on popular style, organic sculpture, C4D style, 3D animation style character design, cartoon, cute, full body, yellow background space, extremely high quality, --q 1 --s 100 --ar 3:2 --v 5.2
+
+第二次使用：
+出图后选择一张进行放大，然后使用局部重绘功能的框选工具选择其中一个视图，然后修改关键词如下：
+【如果背面无法被识别，就加个背影拍摄/Back shot给它加权重，比如我这里就加了权重】
+CN：背影拍摄，背面，后视图，可爱的老虎穿着工作服，挥手，泡泡玛特风格，干净简约的设计，IP形象，高档的自然配色，明亮和谐，可爱多彩，详细的角色设计，behance上流行的风格，有机雕塑，C4D风格，3D动画风格角色设计，卡通，可爱，全身，黄色背景空间，极高的品质，
+EN：Back shot, Back, rear view, cute tiger in overalls, waving, POP MART style, clean and simple design, IP image, high-end natural color scheme, bright and harmonious, cute and colorful, detailed character design, behance on popular style, organic sculpture, C4D style, 3D animation style character design, cartoon, cute, full body, yellow background space, extremely high quality, --q 1 --s 100 --ar 3:2 --v 5.2
+
+第三次使用：
+第一次重绘出图后选择一张进行放大，然后再次使用局部重绘功能的框选工具选择其中一个视图，然后修改关键词如下：
+CN：侧身照，侧视图，可爱的老虎穿着工作服，挥手，泡泡玛特风格，干净简约的设计，IP形象，高档的自然配色，明亮和谐，可爱多彩，详细的角色设计，behance上流行的风格，有机雕塑，C4D风格，3D动画风格角色设计，卡通，可爱，全身，黄色背景空间，极高的品质，
+EN：Side photo, side view, cute tiger in overalls, waving, POP MART style, clean and simple design, IP image, high-end natural color scheme, bright and harmonious, cute and colorful, detailed character design, popular style on behance, organic sculpture, C4D style, 3D animation style character design, cartoon, cute, full body, yellow background space, extremely high quality, --q 1 --s 100 --ar 3:2 --v 5.2
+
+
+特别提示：
+有几个重要的点主要注意：
+0）首次出图务必使用三视图/three views；
+1）三视图需要多次使用局部重绘转换视图，MJ会识别姿态和外观进行重绘，会直接锁定我们选择的IP外观；
+2）默认视图（正面，正视图/front, Front view）；
+3）重绘视图（背面，后视图/Back, rear view）；
+4）再次重绘（侧身照，侧视图/Side photo, side view）；
+5）在重绘时，必须要框选其中一个视图，除了视图以外的词和参数保持不变；
+6）在生图三视图时，图片纵横比务必要选择横版，推荐使用3:2；
+7）出图模型请使用v 5.2，其他模型无法识别匹配；
+8）关于IP形象的其他控图问题可联系我们技术支持：403438119@qq.com； 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

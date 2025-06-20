@@ -1,0 +1,3 @@
+CN：现代简约客厅设计，浅色木质饰面，电视背景墙，嵌入式电视，线性灯带，灰色沙发，几何茶几，开放式布局，餐厅，简约吊灯，自然光，落地窗，浅色地毯，室内绿植，极简主义，干净线条，舒适氛围，高品质，8K。
+EN：Modern minimalist living room design, light wood finish, TV background wall, embedded TV, linear light strip, gray sofa, geometric coffee table, open layout, dining room, simple chandelier, natural light, floor-to-ceiling windows, light carpet, indoor green plants, minimalism, clean lines, comfortable atmosphere, high quality, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

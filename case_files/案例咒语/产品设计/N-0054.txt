@@ -1,0 +1,4 @@
+﻿CN：皮克斯风格，矢量风格，人工智能机器人，正在做不同事情的4帧，白色背景，
+EN：Pixar style, vector style, artificial intelligence robot, doing different 4 frames, white background, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,5 @@
+
+CN：可爱的仓鼠IP形象设计，矿工主题，穿着工作服，戴着矿工帽，自然的，丰满的，可爱的，卡通的，IP形象设计，极其详细的人物角色设计，Behance风格，3D，C4D，Blender，OC渲染，路径追踪级别照明效果，柔光，干净的背景，最高质量，极致降噪，
+
+EN：Cute hamster IP image design, miner theme, wearing work clothes, wearing miner hat, natural, plump, cute, cartoon, IP image design, extremely detailed character design, Behance style, 3D, C4D, Blender, OC rendering, path tracing level lighting effect, soft light, clean background, highest quality, extreme noise reduction, --q 2 --s 180 --ar 3:4 --v 5.2 --style raw --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

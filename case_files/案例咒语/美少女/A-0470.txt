@@ -1,0 +1,3 @@
+CN：攻壳机动队女孩，3D脸，脸上佩戴透明发光科技玻璃眼镜，肖像，上半身，未来科技感，人工智能，全息，荧光，赛博朋克，超未来主义，写实，干净的白色背景，辛烷值渲染，虚幻引擎，超级细节，正面，
+EN：Ghost in the Shell girl, 3D face, wearing transparent glowing tech glasses on her face, portrait, upper body, futuristic technology, artificial intelligence, holographic, fluorescent, cyberpunk, ultra-futurism, realistic, clean white background, octane rendering, Unreal Engine, super details, front view, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

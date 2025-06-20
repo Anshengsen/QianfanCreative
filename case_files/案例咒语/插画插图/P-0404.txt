@@ -1,0 +1,3 @@
+CN：红包封面设计，2D卡通风格，一个可爱的中国娃娃背着一筐金元宝正在砖墙上顺着台阶上向上爬，暖色调，喜庆的氛围，构图饱满，线条流畅，色彩鲜艳，类似中国年画的风格，印刷品质，最佳品质，2D，中国风，民俗，传统，春节，新年，招财进宝，
+EN：Red envelope cover design, 2D cartoon style, a cute Chinese doll carrying a basket of gold ingots is climbing up the steps on the brick wall, warm colors, festive atmosphere, full composition, smooth lines, bright colors, similar to the style of Chinese New Year paintings, printing quality, best quality, 2D, Chinese style, folklore, tradition, Spring Festival, New Year, attracting wealth and treasure, --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

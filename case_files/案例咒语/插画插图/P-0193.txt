@@ -1,0 +1,3 @@
+CN：中国龙，流畅的深棕色线条和朱砂红色，简单的细节，手绘风格，中国新年元素，纯白背景，
+EN：Chinese dragon, smooth dark brown lines and cinnabar red, simple details, hand-drawn style, Chinese New Year elements, pure white background, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：现代简约客厅，宽敞明亮，落地窗，自然光，浅灰色地毯，橙色真皮沙发，圆形木质茶几，蓝色陶瓷花瓶，白色墙面，内置书架，室内绿植，极简主义风格，温馨舒适，细节丰富，高品质材质，摄影级渲染，8K分辨率。
+EN：Modern and simple living room, spacious and bright, floor-to-ceiling windows, natural light, light gray carpet, orange leather sofa, round wooden coffee table, blue ceramic vase, white walls, built-in bookshelves, indoor green plants, minimalist style, warm and comfortable, rich details, high-quality materials, photographic rendering, 8K resolution. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

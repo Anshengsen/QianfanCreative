@@ -1,0 +1,4 @@
+CN：专业摄影，8K，女性，无面部，服饰，身穿深蓝色格纹羊毛大衣，宽松版型，长度过膝，单排纽扣，两个方形贴袋，内搭白色高领针织衫，下身黑色长裤，站立姿势，双手自然下垂，背景为模糊的室内场景，光线柔和，整体风格简约，优雅，大气。
+EN：Professional photography, 8K, female, no face, clothing, wearing a dark blue plaid wool coat, loose fit, above the knee length, single row of buttons, two square patch pockets, a white turtleneck sweater inside, black trousers below, standing posture, hands hanging naturally, the background is a blurred indoor scene, the light is soft, the overall style is simple, elegant and atmospheric. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

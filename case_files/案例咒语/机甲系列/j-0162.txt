@@ -1,0 +1,3 @@
+CN：赛博朋克风格，一位中国女性，机械手臂，长发高马尾，精致妆容，红色耳饰，身穿红白相间改良旗袍，传统纹样，站姿，全身像，背景中有机器人，未来科技感，精细的机械细节，电影级光照，高对比度，8K，超高画质，最佳品质
+EN：Cyberpunk style, a Chinese woman, mechanical arms, long hair in a high ponytail, delicate makeup, red earrings, wearing a red and white modified cheongsam, traditional patterns, standing, full-body portrait, robots in the background, futuristic technology, fine mechanical details, movie-level lighting, high contrast, 8K, ultra-high quality, best quality --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

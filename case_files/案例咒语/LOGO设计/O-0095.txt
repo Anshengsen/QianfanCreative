@@ -1,0 +1,3 @@
+CN：剪纸风格，传统节日LOGO，剪纸图案，喜庆色彩，传统文化元素，高分辨率，红色背景，
+EN：Paper-cut style, traditional festival LOGO, paper-cut pattern, festive colors, traditional cultural elements, high resolution, red background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

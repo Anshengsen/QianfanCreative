@@ -1,0 +1,3 @@
+CN：3D几何方形抽象背景，正面视图，凹凸方形几何形状，有规则，最佳品质，暗角，3D，
+EN：3D geometric square abstract background, front view, convex and concave square geometric shapes, regular, best quality, vignetting, 3D, --q 1 --s 100 --ar 16:9 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

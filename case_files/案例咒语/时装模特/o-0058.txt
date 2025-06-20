@@ -1,0 +1,3 @@
+CN：混血儿，男性，20岁，棕色卷发，短发，灰色眼睛，高挺的鼻梁，薄嘴唇，穿着灰色卫衣，坐姿，双腿伸直，双手放在大腿上，眼神深邃，看向镜头，正面镜头，自然光线，干净清爽的工作室背景，4K，超精细画质。
+EN：Mixed race, male, 20 years old, brown curly hair, short hair, grey eyes, high nose bridge, thin lips, wearing grey sweatshirt, sitting with legs straight, hands on thighs, deep eyes, looking towards the camera, front shot, natural light, clean and refreshing studio background, 4K, ultra-fine image quality. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：空白效果图，俯视视角，iPhone X 场景，搭配耳机，白色 iPhone X，黑色耳机，白色背景，简约风格，产品展示，高分辨率，清晰细节，8K。
+EN：Blank rendering, top view, iPhone X scene, with headphones, white iPhone X, black headphones, white background, simple style, product display, high resolution, clear details, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

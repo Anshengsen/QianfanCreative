@@ -1,0 +1,3 @@
+CN：新中式风格的客厅，明代的红木家具，雕花屏风，陶瓷摆件，暖黄色灯光，红棕色和金色，对称构图，工笔画风格，8K，超高清，细节刻画，渲染图，逼真，
+EN：New Chinese style living room, Ming Dynasty mahogany furniture, carved screens, ceramic ornaments, warm yellow lighting, reddish brown and gold, symmetrical composition, meticulous painting style, 8K, ultra-high definition, detailed depiction, rendering, realistic, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

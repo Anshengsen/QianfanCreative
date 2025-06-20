@@ -1,0 +1,3 @@
+CN：现代线条插画风格，白色背景，两个人物，骑自行车，简约线条，矢量图形，无阴影，卡通风格，插画设计，商业插画，场景插画，最佳品质，干净利落的边缘，现代设计，扁平化设计，自行车，简约插画，线性插画，鲜艳配色，创意设计，友谊，轻松愉快，时尚，简约风格，幽默，创意，灵感，
+EN：Modern line illustration style, white background, two people, riding bicycles, simple lines, vector graphics, no shadows, cartoon style, illustration design, commercial illustration, scene illustration, best quality, clean edges, modern design, flat design, bicycle, simple illustration, linear illustration, bright colors, creative design, friendship, lightheartedness, fashion, minimalist style, humor, creativity, inspiration, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

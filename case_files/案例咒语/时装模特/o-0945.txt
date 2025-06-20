@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。特写，一个女性，站立姿势，短袖针织衫，红棕色为主色调，搭配深橄榄绿色横条纹，条纹呈不规则几何图案，短袖袖口为深橄榄绿色，整体宽松舒适，背景为浅色木质墙面，室内光线，简洁风格，质感细腻。
+EN：Professional photography, 8K, clothing advertising shooting, no face. Close-up, a woman, standing pose, short-sleeved sweater, reddish brown as the main color, with dark olive green horizontal stripes, the stripes are irregular geometric patterns, the cuffs of the short sleeves are dark olive green, the overall loose and comfortable, the background is a light wooden wall, indoor light, simple style, delicate texture. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

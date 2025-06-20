@@ -1,0 +1,3 @@
+CN：未来科技感隧道，3D，循环结构，黑色与蓝色，对称构图，纵深感，光影对比，科幻风格，C4D渲染，OC渲染，高细节，8K
+EN：Future technology tunnel, 3D, loop structure, black and blue, symmetrical composition, sense of depth, light and shadow contrast, sci-fi style, C4D rendering, OC rendering, high details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

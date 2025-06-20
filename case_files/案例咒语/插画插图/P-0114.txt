@@ -1,0 +1,4 @@
+﻿CN：一组蹒跚学步的孩子，快乐、沮丧、失望等等不同的形态，每个都是单独的插图，极简主义，涂鸦风格，矢量风格，动漫风格，卡哇伊，柔和的颜色，白色背景，矢量，最佳品质，
+EN：A group of toddlers, happy, frustrated, disappointed and so on in different forms, each is a separate illustration, minimalism, graffiti style, vector style, anime style, kawaii, soft colors, white background, vector, best quality, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

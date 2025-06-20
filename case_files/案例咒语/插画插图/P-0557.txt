@@ -1,0 +1,3 @@
+CN：吉卜力工作室风格，人物肖像，宫崎骏，白色头发和胡须，戴着眼镜，穿着蓝色条纹衬衫，周围环绕着吉卜力动画角色，如煤炭球和无脸男，鲜艳的色彩，简单的线条，扁平风格，手绘感，蓝色背景，最佳品质，8K，
+EN：Studio Ghibli style, portrait of a man, Hayao Miyazaki, with white hair and beard, wearing glasses, wearing a blue striped shirt, surrounded by Ghibli animation characters such as Coal Ball and No-Face Man, bright colors, simple lines, flat style, hand-drawn feel, blue background, best quality, 8K, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

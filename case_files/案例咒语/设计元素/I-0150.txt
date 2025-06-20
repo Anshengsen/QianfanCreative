@@ -1,0 +1,3 @@
+CN：一组3D风格的音乐播放键，2x3，正面，用于网站页面设计的3D按钮元素，未来派，纯白背景，霓虹灯描边，3D渲染，最佳品质，
+EN：A set of 3D-style music playback keys, 2x3, front, 3D button elements for website page design, futuristic, pure white background, neon strokes, 3D rendering, best quality, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

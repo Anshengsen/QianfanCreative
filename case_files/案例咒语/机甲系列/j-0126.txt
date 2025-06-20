@@ -1,0 +1,3 @@
+CN：未来主义机器人，全身镜头，白色与黑色机甲，蓝色与橙色点缀，细节丰富，机械结构清晰，动态姿势，环境光，赛博朋克风格，3D渲染，C4D，OC渲染，高对比度，8K，超高质量，精细细节
+EN：Futuristic robot, full body shot, white and black mecha, blue and orange accents, rich details, clear mechanical structure, dynamic pose, ambient light, cyberpunk style, 3D rendering, C4D, OC rendering, high contrast, 8K, ultra high quality, fine details --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

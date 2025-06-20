@@ -1,0 +1,3 @@
+CN：热带海滩，天堂，清澈海水，碧蓝天空，白色沙滩，棕榈树，茂盛植被，地平线，小岛，阳光明媚，明亮，充满活力，宁静，放松，广角，高分辨率，逼真，自然摄影，风光摄影，度假氛围，夏季氛围，无人
+EN：Tropical beach, paradise, clear water, blue sky, white sand, palm trees, lush vegetation, horizon, island, sunny, bright, vibrant, tranquil, relaxing, wide angle, high resolution, realistic, nature photography, landscape photography, vacation atmosphere, summer vibe, nobody --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

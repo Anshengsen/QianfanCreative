@@ -1,0 +1,3 @@
+CN：动漫风格，厚涂，有光泽的棕色长发，粉色和白色的风格，闪亮的粉色眼睛，夜光调色板，半身，最佳品质，超细腻，一个动漫女孩，穿着白色上衣，戴着粉色蝴蝶结，在樱花树下，微笑，环境光。
+EN：Anime style, thick paint, shiny long brown hair, pink and white style, shiny pink eyes, luminous palette, half-length, best quality, super detailed, an anime girl in a white top and a pink bow under a cherry blossom tree, smiling, ambient light. --q 5 --s 50 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

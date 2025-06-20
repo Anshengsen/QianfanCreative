@@ -1,0 +1,1 @@
+--ar 3:4 --s 1000 --niji 6 --p c3btxrf

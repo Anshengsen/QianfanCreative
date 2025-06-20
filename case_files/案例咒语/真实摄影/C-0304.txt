@@ -1,0 +1,3 @@
+CN：冬季人像摄影，一位白人女性，金色长发，戴着灰色针织帽，围着浅粉色围巾，穿着米色羽绒服，脸上有些雀斑，表情温柔，眼神迷离，背景是模糊的雪景和树木，光线柔和温暖，最佳品质。
+EN：Winter portrait photography of a Caucasian woman with long blond hair, wearing a grey knitted hat, a light pink scarf, and a beige down jacket, with some freckles on her face, a gentle expression, and blurred eyes, with a blurred background of snow and trees, soft and warm light, best quality. --s 50 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

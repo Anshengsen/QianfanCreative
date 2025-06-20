@@ -1,0 +1,3 @@
+CN：矢量风格的卡通人物，简约，极简主义，扁平化设计，白色背景，一个穿着绿色蔬菜（白菜主题）服装的卡通人物，白色的脸，蓝色的眼睛，红色的嘴巴，可爱的表情，简单的线条，最佳品质
+EN：Vector style cartoon character, simple, minimalist, flat design, white background, a cartoon character wearing green vegetable (cabbage theme) clothing, white face, blue eyes, red mouth, cute expression, simple lines, best quality --q 1 --s 50 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

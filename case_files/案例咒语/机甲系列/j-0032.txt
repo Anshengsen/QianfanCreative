@@ -1,0 +1,3 @@
+CN：巨型机甲，科幻风格，深蓝色，金属质感，强烈的光影对比，城市废墟背景，压迫感，宏大场面，8K，超高清，
+EN：Giant mecha, sci-fi style, dark blue, metal texture, strong contrast between light and shadow, city ruins background, sense of oppression, grand scene, 8K, ultra-high definition --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

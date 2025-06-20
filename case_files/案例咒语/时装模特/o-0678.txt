@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个女性，站立，特写，服装特写，修身，完美的身材特写，无面部，服装广告，服装为灰色修身连衣裙，长袖，裙身有褶皱设计，不对称裙摆，手持黑色手提包，背景为室内，简约风格。
+EN：Professional photography, 8K, a woman, standing, close-up, clothing close-up, slim fit, perfect body close-up, no face, clothing advertisement, the clothing is a gray slim dress with long sleeves, pleated design on the skirt, asymmetrical hem, holding a black handbag, the background is indoors, minimalist style. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：空白效果图，长方体包装盒，白色，正面视角，简约风格，用于展示设计效果，顶部有悬挂孔设计，阴影效果，纸质材质，管式盒，背面打开，3D模型展示，
+EN：Blank rendering, cuboid packaging box, white, front view, simple style, for display design effect, hanging hole design on the top, shadow effect, paper material, tube box, back open, 3D model display, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：有机建筑，22世纪，建筑群像生长在一起的巨型葡萄，每个葡萄都是独立的生活空间，藤蔓连接交通，白天，阳光透过半透明外壳，梦幻，柔和的光线，Vray渲染，鸟瞰视角，8K，
+EN：Organic architecture, 22nd century, the buildings are like giant grapes growing together, each grape is an independent living space, the vines connect the traffic, during the day, the sun shines through the translucent shell, dreamy, soft light, Vray rendering, bird's eye view, 8K, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：扁平风格图标设计，一组生活相关的图标，颜色为白色和浅蓝色，图标形状为圆角矩形，线条简洁，整体风格现代简约，具有科技感和趣味感，细节包括图标的形状，颜色的搭配，以及线条的粗细，最佳品质，8K，矢量图形，深蓝色背景，
+EN：Flat style icon design, a set of life-related icons, the colors are white and light blue, the icon shape is a rounded rectangle, the lines are simple, the overall style is modern and simple, with a sense of technology and fun, the details include the shape of the icon, the color combination, and the thickness of the line, the best quality, 8K, vector graphics, dark blue background, --s 100 --ar 3:2 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：抽象的青山绿水，仿照中国风插画风格，白色背景，高分辨率，抽象，倒影，
+EN：Abstract green mountains and green waters, in the style of Chinese illustration, white background, high resolution, abstract, reflection, --q 1 --s 750 --ar 3:4 --v 6.1 --personalize izkkm56 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

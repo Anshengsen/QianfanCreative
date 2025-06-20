@@ -1,0 +1,3 @@
+CN：专业摄影，年轻女性，直视镜头，中等肤色，自然光泽，略带微笑，放松表情，浅棕色眉毛，棕色眼睛，自然眼妆，淡粉色唇色，中长发，浅棕色，自然波浪，中分，黑色圆领短袖T恤，胸前白色字母印花，浅米色高腰牛仔裤，简洁，日常，休闲，上半身特写，柔和光线，背景简洁。
+EN：Professional photography, young woman, looking straight at the camera, medium skin tone, natural glow, slightly smiling, relaxed expression, light brown eyebrows, brown eyes, natural eye makeup, light pink lip color, medium-length hair, light brown, natural waves, middle parting, black round-neck short-sleeved T-shirt, white letter print on the chest, light beige high-waisted jeans, simple, everyday, casual, upper body close-up, soft light, simple background. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：手绘线稿风格，音乐工作室的LOGO，手绘乐器元素，黑色和白色搭配，粗犷风格，高分辨率，米黄色背景，
+EN：Hand-drawn line drawing style, music studio LOGO, hand-drawn musical instrument elements, black and white combination, rough style, high resolution, beige background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

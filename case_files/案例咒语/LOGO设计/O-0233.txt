@@ -1,0 +1,3 @@
+CN：矢量风格的标志设计，抽象，三角形，白色，橙色背景，居中构图，简洁现代，最佳品质，高分辨率
+EN：Vector style logo design, abstract, triangle, white, orange background, centered composition, simple and modern, best quality, high resolution --s 100 --ar 1:1 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

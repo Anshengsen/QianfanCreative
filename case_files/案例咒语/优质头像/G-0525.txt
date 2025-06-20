@@ -1,0 +1,3 @@
+CN：白色背景，独奏，冷漠，略显疲惫，目光斜向一边，头发有些凌乱，穿着短袖高腰连衣裙，黑色腰带点缀，双手插兜，居高临下的镜头视角，粗糙漫画风格。
+EN：White background, solo, indifferent, slightly tired, eyes tilted to one side, hair a little messy, wearing a short-sleeved high-waist dress, embellished with a black belt, hands in pockets, condescending camera perspective, rough comic style. --q 1 --s 100 --ar 1:1 --niji 6 --personalize jzlnj3z --sref https://s.mj.run/Da7mHSJFl3A 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

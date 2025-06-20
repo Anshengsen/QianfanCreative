@@ -1,0 +1,3 @@
+CN：一家三口郊游，其乐融融，商业插画，手绘风格，父母与孩子，户外野餐布上欢聚，绿树成荫，鲜花环绕，温馨笑容，互动瞬间，自然风景为背景，欢乐气氛，宽幅构图，生动细节，高分辨率插图。
+EN：A family of three is having a great time on an outing, commercial illustration, hand-drawn style, parents and children, gathering together on a picnic blanket outdoors, shaded by green trees, surrounded by flowers, warm smiles, interactive moments, natural scenery as the background, joyful atmosphere, wide composition, vivid details, high-resolution illustration. --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

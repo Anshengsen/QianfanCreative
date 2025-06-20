@@ -1,0 +1,3 @@
+CN：一辆梅赛德斯跑车在夜色城市中快速行驶，充满活力的插图风格，，超现实主义，赛博朋克，夜晚，镜头聚焦，景深，全景，超清晰，超级降噪，
+EN：A Mercedes sports car speeding through the night city, vibrant illustration style, surrealism, cyberpunk, night, lens focus, depth of field, panorama, super clear, super noise reduction, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

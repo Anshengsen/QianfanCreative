@@ -1,0 +1,3 @@
+CN：摄影，忧郁，远景，广角，全景，画面中央有一个人戴着耳机在听歌，穿着外套和休闲裤和运动鞋，狂风把他的外套吹的漂起来，身体向后仰，背景是阴郁的草地，乌云密布，第三人称视角，
+EN：Photography, melancholy, long-range, wide-angle, panoramic, in the center of the picture there is a person wearing headphones and listening to music, wearing a coat, casual pants and sneakers, the wind blows his coat up, his body leans back, the background is a gloomy grassland, dark clouds, third-person perspective, --q 1 --s 180 --ar 1:1 --v 6.0 --personalize df2apxr 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

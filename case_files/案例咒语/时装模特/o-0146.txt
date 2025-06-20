@@ -1,0 +1,3 @@
+CN：专业摄影，全身照，年轻女性，亚洲人，长发，深棕色，自然垂落，中分，面带微笑，自然放松，穿着格子睡衣套装，短袖上衣，娃娃领，荷叶边，宽松版型，胸前有口袋，长裤，宽松直筒，红蓝格子图案，赤脚，站立姿势，双手自然下垂，白色背景，柔和光线，正面视角，全身，细节清晰。
+EN：Professional photography, full body shot, young woman, Asian, long hair, dark brown, naturally hanging, middle parting, smiling, naturally relaxed, wearing plaid pajama set, short-sleeved top, baby doll collar, ruffles, loose fit, pockets on the chest, long pants, loose straight leg, red and blue plaid pattern, barefoot, standing pose, hands hanging naturally, white background, soft light, front view, full body, clear details. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

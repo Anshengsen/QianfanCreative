@@ -1,0 +1,3 @@
+CN：卡通风格，清真寺，蓝色，绿色小山丘，棕榈树，粉色和紫色条纹背景，白色圆点，儿童插画风格，明亮色彩，可爱，简单线条，粗轮廓线，平面设计，正面视角，中心构图
+EN：Cartoon style, mosque, blue, green hills, palm trees, pink and purple striped background, white dots, children's illustration style, bright colors, cute, simple lines, thick outlines, flat design, front view, center composition --q 0.5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

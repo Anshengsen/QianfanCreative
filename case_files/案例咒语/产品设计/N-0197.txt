@@ -1,0 +1,3 @@
+CN：产品摄影，黑色手表，金属表带，放置在浅色枕头上，周围是岩石，光线昏暗，细节丰富，高分辨率，8K。
+EN：Product photography of a black watch with a metal strap, placed on a light-colored pillow, surrounded by rocks, in dim lighting, with rich details, in high resolution, 8K. --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

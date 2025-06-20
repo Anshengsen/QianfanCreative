@@ -1,0 +1,3 @@
+CN：巨大的金字塔形的购物中心，后现代主义风格，20世纪80年代，黑色玻璃外墙，顶部有一个巨大的三角形天窗，夜晚，霓虹灯点缀建筑轮廓，冷色调灯光，赛博朋克渲染，低角度仰视，强调建筑的几何形状，4K。
+EN：Huge pyramid-shaped shopping mall, postmodern style, 1980s, black glass exterior, with a huge triangular skylight on top, neon lights adorning the building outline at night, cold lighting, cyberpunk rendering, low angle view upwards, emphasizing the building's geometric shape, 4K. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

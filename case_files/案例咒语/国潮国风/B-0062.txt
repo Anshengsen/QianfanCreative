@@ -1,0 +1,3 @@
+CN：中国插画风格，土地庙的插图，正面，游戏风格，鹤顶红色墙壁，黄色窗户，房檐，牌楼等，明亮的调色板，最佳品质，超级丰富的细节，4K，
+EN：Chinese illustration style, illustrations of the earth temple, facade, game style, crane top red walls, yellow windows, eaves, archways, etc., bright color palette, best quality, super rich details, 4K, --q 5 --s 100 --ar 3:2 --v 6.0  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

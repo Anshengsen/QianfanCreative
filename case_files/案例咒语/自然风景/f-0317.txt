@@ -1,0 +1,3 @@
+CN：远山，层叠的云雾，蓝调，冷色调，松树林，航拍视角，广角镜头，薄雾弥漫，山脊线，自然风光，宁静，空灵，超广角，高分辨率，细节丰富，8K，最佳画质，真实感渲染，光线追踪，体积雾，环境光遮蔽
+EN：distant mountains, cascading clouds, blues, cold colors, pine forests, aerial perspective, wide-angle lens, mist, ridgeline, natural scenery, tranquil, ethereal, ultra-wide angle, high resolution, rich details, 8K, best image quality, photorealistic rendering, ray tracing, volumetric fog, ambient occlusion --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

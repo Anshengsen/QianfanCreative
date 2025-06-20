@@ -1,0 +1,3 @@
+CN：卡通风格头像，一个女孩，黑色长发，扎着高马尾，别着黄色发夹，吹着泡泡糖，脸颊泛红，戴着眼镜，正在看书，书上画着卡通胡萝卜，背景是白色，整体风格可爱，色彩明快，线条简洁，具有学生气，最佳品质，8K，适合作为社交媒体头像
+EN：Cartoon style avatar of a girl with long black hair, a high ponytail, a yellow hairpin, blowing bubble gum, blushing cheeks, wearing glasses, reading a book with a cartoon carrot on it, white background, cute overall style, bright colors, simple lines, student-like, best quality, 8K, suitable as a social media avatar --q 1 --s 30 --ar 1:1 --niji 6 --profile hrqrh1e --raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

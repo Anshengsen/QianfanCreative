@@ -1,0 +1,3 @@
+CN：抽象标志，几何，渐变色，紫色，粉色，黄色，现代，简约，3D渲染，干净，深色背景，最佳质量，高分辨率。
+EN：Abstract logo, geometric, gradient colors, purple, pink, yellow, modern, simple, 3D rendering, clean, dark background, best quality, high resolution. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

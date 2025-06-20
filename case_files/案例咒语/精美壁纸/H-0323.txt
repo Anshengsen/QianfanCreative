@@ -1,0 +1,3 @@
+CN：动漫风格，梦幻场景，星空，银河，粉紫色渐变天空，高架列车，单人剪影，水面反射，倒影，广角，低角度，超现实主义，唯美，光效绚丽，色彩鲜艳，超高细节，8K，最佳画质，高分辨率
+EN：Anime style, dreamy scene, starry sky, Milky Way, pink and purple gradient sky, elevated train, single person silhouette, water reflection, reflection, wide angle, low angle, surrealism, aesthetic, brilliant light effects, bright colors, ultra-high details, 8K, best picture quality, high resolution --q 2 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

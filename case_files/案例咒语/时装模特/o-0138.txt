@@ -1,0 +1,3 @@
+CN：专业摄影，全身像，女性，欧美，中长发，深棕色，自然垂落，面无表情，放松姿态，黑色宽松短袖T恤，胸前有浅色图案，灰色工装裤，七分裤长，黑色厚底凉鞋，白色背景，全身居中，自然光，简约风格。
+EN：Professional photography, full-body portrait, female, European and American, medium-length hair, dark brown, naturally drooping, expressionless, relaxed posture, black loose short-sleeved T-shirt, light pattern on the chest, gray overalls, cropped length, black thick-soled sandals, white background, full body centered, natural light, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

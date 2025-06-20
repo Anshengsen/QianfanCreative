@@ -1,0 +1,3 @@
+CN：美食摄影，照片，青椒炒肉片，鲜艳的绿色辣椒，橙色胡萝卜片，棕色肉块，丰富的食材，热气腾腾，暖色调，俯视视角，近景特写，高饱和度，明亮的光线，食物纹理清晰，色彩鲜明对比。
+EN：Food photography, photo, stir-fried pork with green peppers, bright green peppers, orange carrot slices, brown meat chunks, rich ingredients, steaming, warm tones, overhead perspective, close-up, high saturation, bright light, clear food texture, and sharp color contrast. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

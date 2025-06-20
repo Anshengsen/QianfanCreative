@@ -1,0 +1,3 @@
+CN：花田日落摄影，多种颜色的花朵，橙色，紫色，白色，蓝色，天空，云彩，太阳，山丘，风景，自然，户外，旅行，冒险，探索，摄影，高清，4k，8k，超高清，细节丰富，色彩鲜艳，光线追踪，全局照明，大气透视
+EN：flower field sunset photography, flowers in many colors, orange, purple, white, blue, sky, clouds, sun, hills, landscape, nature, outdoors, travel, adventure, exploration, photography, hd, 4k, 8k, ultra hd, rich details, vivid colors, ray tracing, global illumination, atmospheric perspective --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

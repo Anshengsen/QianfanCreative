@@ -1,0 +1,3 @@
+CN：蔚蓝湖泊，高山湖泊，清澈见底，碧蓝如洗，远山环绕，雪山，晴空万里，白云朵朵，蓝天白云，湖岸线，绿色植被，针叶林，岩石峭壁，倒影，自然风光，广角镜头，高角度俯视，明亮光线，色彩鲜艳，饱和度高，对比度强，风景摄影，超高清，8K，细节丰富，最佳画质
+EN：azure lake, alpine lake, crystal clear, clear blue, mountains in the distance, snow-capped mountains, clear sky, white clouds, blue sky and white clouds, lake shoreline, green vegetation, coniferous forest, rocky cliffs, reflections, natural scenery, wide-angle lens, high-angle view, bright light, vivid colors, high saturation, high contrast, landscape photography, ultra high definition, 8K, rich details, best quality --q 2 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

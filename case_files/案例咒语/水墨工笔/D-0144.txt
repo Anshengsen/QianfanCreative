@@ -1,0 +1,3 @@
+CN：中国传统山水画，青绿山水，工笔画，群山，云雾缭绕，寺庙建筑，古树，明月，金色祥云，暖色调，米黄色背景，细腻笔触，高饱和度，最佳品质，高分辨率
+EN：Traditional Chinese landscape painting, green landscape, meticulous painting, mountains, mist, temple buildings, ancient trees, bright moon, golden clouds, warm tones, beige background, delicate brushwork, high saturation, best quality, high resolution --q 5 --s 100 --ar 3:2 --niji 6 --personalize abwlbtq  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

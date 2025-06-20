@@ -1,0 +1,3 @@
+CN：充气水滑梯的等距3D图标，配有热带派对装饰、气球和旗帜，水上公园，简单，低聚风格，3D卡通风格，明亮的调色板，等距，干净的背景，工作室灯光，
+EN：Isometric 3D icon of inflatable water slide with tropical party decorations, balloons and flags, water park, simple, low poly style, 3D cartoon style, bright color palette, isometric, clean background, studio lights, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

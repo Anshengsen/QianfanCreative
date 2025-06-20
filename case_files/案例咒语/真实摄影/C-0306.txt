@@ -1,0 +1,3 @@
+CN：室内人像摄影，一位亚洲女性，棕色长发，穿着白色衬衫，皮肤白皙，妆容淡雅，眼神温柔，背景是柔和的粉色和蓝色，自然光线，清新风格，最佳品质。
+EN：Indoor portrait photography of an Asian woman with long brown hair, wearing a white shirt, fair skin, light makeup, gentle eyes, the background is soft pink and blue, natural light, fresh style, best quality. --s 50 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：2.5D，虚幻引擎5，照片，少女，长发，浅金色头发，大眼睛，精致五官，红润脸颊，粉色嘴唇，略带忧郁的表情，手托腮，蓝色光影，霓虹光，边缘光，柔和光线，梦幻，甜美，高品质，8K，室内背景。
+EN：2.5D, Unreal Engine 5, photo, girl, long hair, light blonde hair, big eyes, delicate features, rosy cheeks, pink lips, slightly melancholy expression, hand on chin, blue light and shadow, neon light, edge light, soft light, dreamy, sweet, high quality, 8K, indoor background. --q 5 --s 150 --ar 16:9 --niji 6 --personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

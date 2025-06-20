@@ -1,0 +1,3 @@
+CN：一个女刺客，精致的眼妆，油画，喷溅，赛博朋克配色，上身特写，肖像，速涂，平面插图风格，大胆的色彩渐变，UHD，丙烯画风格，鲜艳的颜色，最高质量，丰富的细节，面对镜头，光泽，明亮质感，
+EN：A female assassin, exquisite eye makeup, oil painting, splash, cyberpunk color scheme, upper body close-up, portrait, quick painting, graphic illustration style, bold color gradual change, UHD, acrylic painting style, bright colors, highest quality, rich details, face lens, gloss, bright texture, --q 5 --s 250 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个正在努力工作的亚洲实习生，环境是室内，自然光和室内光照明，质感，摄影，高清，细节，
+EN：An Asian intern working hard, the environment is indoors, natural light and indoor light lighting, texture, photography, high definition, details, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

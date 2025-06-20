@@ -1,0 +1,4 @@
+
+CN：一个帅气的京剧小子，16岁，极致的面部特写镜头，害羞，正视图，POV视图，第一人称，中国京剧元素，数字艺术，角色概念艺术，超写实、超厚涂、超质量、超细节，动漫风格，红色、金色、橙色，中国风格，
+EN：A handsome Peking Opera kid, 16 years old, extreme facial close-up, shy, front view, POV view, first person, Chinese Peking Opera elements, digital art, character concept art, super realistic, super thick painting, super quality, super detail, animation style, red, gold, orange, Chinese style, --q 1 --s 100 --ar 3:4 --niji 5 --style expressive 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

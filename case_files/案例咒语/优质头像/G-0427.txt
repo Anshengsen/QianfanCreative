@@ -1,0 +1,3 @@
+CN：8-bit像素风格头像，美少女，粉红色短发，像素风格的学院制服，右手比耶，左手拿着像素风格的便当盒，表情俏皮可爱，背景是像素风格的校园场景，低分辨率，像素点清晰可见，怀旧色调，像素艺术风格，充满复古气息。
+EN：8-bit pixel style avatar, a beautiful girl, short pink hair, pixel style college uniform, making a "V" sign with her right hand, holding a pixel style lunch box in her left hand, with a playful and cute expression, the background is a pixel style campus scene, low resolution, clearly visible pixels, nostalgic tones, pixel art style, full of retro atmosphere. --q 5 --s 150 --ar 1:1 --niji 6--personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

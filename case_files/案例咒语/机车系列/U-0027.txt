@@ -1,0 +1,2 @@
+CN：摩托车局部特写，排气管特写，居中构图，侧光，黑色背景，金属质感渲染，排气管纹理清晰可见，4K分辨率，高品质。
+EN：Close-up of a motorcycle, close-up of the exhaust pipe, centered composition, side light, black background, metal texture rendering, the exhaust pipe texture is clearly visible, 4K resolution, high quality. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

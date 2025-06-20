@@ -1,0 +1,4 @@
+CN：冬季，雪景，湖心岛，教堂，尖顶，薄雾，远山，黎明，冷色调，静谧，航拍视角，对称构图，高细节，电影级光照，真实感渲染，8K，超高分辨率，最佳画质
+EN：Winter, snow, lake island, church, spire, mist, distant mountains, dawn, cold colors, tranquility, aerial perspective, symmetrical composition, high details, movie-level lighting, realistic rendering, 8K, ultra-high resolution, best image quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：一只非常漂亮的蓝色和黄色和橙色蝴蝶，黑色背景，居中，
+EN：A very beautiful blue and yellow and orange butterfly with a black background, centered, --q 1 --s 100 --v 5.2 --ar 1:1
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

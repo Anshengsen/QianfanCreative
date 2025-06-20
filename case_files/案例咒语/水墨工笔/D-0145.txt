@@ -1,0 +1,3 @@
+CN：水墨画风格的山水画，远山，层叠，云雾缭绕，近景山石，青绿色，水墨晕染，左侧桃花盛开，粉色花瓣，棕色枝干，留白，意境，中国风，传统绘画，水彩，淡雅，朦胧美，细节丰富，质感细腻，8K，最佳品质
+EN：Landscape painting in the style of ink painting, distant mountains, overlapping, clouds and mist, near-scene rocks, turquoise, ink smudges, peach blossoms in full bloom on the left, pink petals, brown branches, blank space, artistic conception, Chinese style, traditional painting, watercolor, elegant, hazy beauty, rich details, delicate texture, 8K, best quality --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

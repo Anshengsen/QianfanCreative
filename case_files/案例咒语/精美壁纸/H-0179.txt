@@ -1,0 +1,3 @@
+CN：扁平化卡通风格，黄色背景，一个简单的卡通表情，包含两个黑色大眼睛和一个伸出舌头的红色小舌头，简洁，可爱，没有阴影或复杂的细节，色彩鲜艳，高对比度，类似于表情包或贴纸的设计风格，极简主义，对称和居中构图，
+EN：Flat cartoon style, yellow background, a simple cartoon emoticon, containing two big black eyes and a small red tongue sticking out, simplicity, cuteness, no shadows or complex details, bright colors, high contrast, similar to the design style of emoticons or stickers, minimalism, symmetry and centering composition, --q 1 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

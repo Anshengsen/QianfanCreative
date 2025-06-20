@@ -1,0 +1,3 @@
+CN：中国工笔画，国风，深灰色与浅灰色的山脉，瀑布，日出，浅色调，柔和的配色，最佳品质，8K，
+EN：Chinese painting, Chinese style, dark grey and light grey mountains, waterfalls, sunrise, light tones, soft colors, best quality, 8K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

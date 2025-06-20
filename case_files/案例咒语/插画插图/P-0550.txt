@@ -1,0 +1,3 @@
+CN：动漫插画风格，一个扎着双马尾的卡通少女，黑色头发，彩色眼睛，穿着黑色衣服，戴着耳环，粉色和黄色的背景，色彩鲜艳，细节丰富，最佳品质，8k，超细腻，半身像
+EN：Anime illustration style, a cartoon girl with twin ponytails, black hair, colored eyes, wearing black clothes and earrings, pink and yellow background, bright colors, rich details, best quality, 8k, ultra-detailed, half-length portrait --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

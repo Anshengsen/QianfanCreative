@@ -1,0 +1,3 @@
+CN：3D渲染图，两个盾牌的图标，一个蓝色盾牌带有黄色的对勾，另一个是灰色的，放置在一个蓝色的圆形底座上。风格简洁现代，灯光柔和，背景为浅紫色。构图简洁，重点突出盾牌图标。整体感觉安全可靠，适合用于安全软件或网络安全的宣传素材。
+EN：3D rendering of two shield icons, one blue with a yellow checkmark and the other gray, placed on a blue circular base. The style is simple and modern, with soft lighting and a light purple background. The composition is simple, with the shield icon highlighted. The overall feeling is safe and reliable, suitable for promotional materials for security software or network security.  --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

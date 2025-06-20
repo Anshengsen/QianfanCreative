@@ -1,0 +1,3 @@
+CN：产品摄影，两副玳瑁纹眼镜，一副放在较高的蓝色立方体上，另一副放在较低的蓝色立方体上，背景是纯蓝色，有阴影投射，简约风格，干净的线条，焦点集中在眼镜上，细节丰富，高分辨率，工作室质量，真实摄影。
+EN：Product photography, two pairs of tortoise shell glasses, one on a higher blue cube, the other on a lower blue cube, on a solid blue background with shadows cast, minimalist style, clean lines, focus on the glasses, rich details, high resolution, studio quality, real photography. --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

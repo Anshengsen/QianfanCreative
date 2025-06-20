@@ -1,0 +1,3 @@
+CN：卡罗牌背面设计，以十二星座为主题，矢量，卡牌的底色为黑灰色，画布的颜色是白色，居中，最佳品质，
+EN：Carlo card back design, with twelve constellations as the theme, vector, the base color of the card is black and gray, the color of the canvas is white, centered, the best quality, --q 1 --s 100 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

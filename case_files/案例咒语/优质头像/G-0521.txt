@@ -1,0 +1,3 @@
+CN：手绘风格，一个非常可爱的女孩，戴着花瓣形状的墨镜，双包子发型，墨镜上有🌈符号象征幸运，旁边两只小猫咪在摆出搞怪表情，女孩手持一支棒棒糖，站在白色背景前，清新，搞怪，
+EN：Hand-painted style, a very cute girl, wearing petal-shaped sunglasses, double bun hairstyle, with 🌈 symbol on the sunglasses to symbolize luck, two kittens next to her are making funny expressions, the girl is holding a lollipop, standing in front of a white background, fresh, funny, --q 5 --s 100 --ar 1:1 --niji 6 --personalize bav2ism --sref https://s.mj.run/jIsI1qpVljk 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

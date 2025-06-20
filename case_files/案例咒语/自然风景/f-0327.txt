@@ -1,0 +1,3 @@
+CN：傍晚时分，意大利多洛米蒂山脉风光，远景，山峰被夕阳染成金红色，山脚下是茂密的森林和翠绿的草地，村庄坐落在山谷中，教堂的尖顶显眼，房屋错落有致，道路蜿蜒，色彩浓郁，光影对比强烈，自然风光摄影，广角镜头，高饱和度，电影级光照，超高清，8K，最佳画质。
+EN：In the evening, the scenery of the Dolomites Mountains in Italy, the distant view, the peaks are dyed golden red by the setting sun, at the foot of the mountain are dense forests and verdant meadows, the village is located in the valley, the church spire is conspicuous, the houses are scattered, the road is winding, the colors are rich, the light and shadow contrast is strong, natural scenery photography, wide-angle lens, high saturation, movie-level lighting, ultra-high definition, 8K, best picture quality. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

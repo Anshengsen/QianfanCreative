@@ -1,0 +1,4 @@
+
+CN：一个时尚美少女，3D，精致的五官和妆容，粘土材质，Behance风格，泡泡玛特风格，上半身，居中，面对镜头，简约的背景，闪亮有光泽，3D渲染，3D，Blender渲染，OC渲染，高质量，高品质，
+EN：A fashionable beautiful girl, 3D, exquisite facial features and makeup, clay material, Behance style, POP MART style, upper body, centered, facing the camera, simple background, shiny and shiny, 3D rendering, 3D, Blender rendering, OC rendering, high quality, high quality, --q 1 --s 120 --ar 3:4 --niji 5 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

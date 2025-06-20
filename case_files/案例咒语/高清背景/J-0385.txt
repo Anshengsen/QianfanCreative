@@ -1,0 +1,3 @@
+CN：3D流体海报，柔和的色彩，曲线，流体，渐变背景，高分辨率，高度详细，8K，
+EN：3D fluid poster, soft colors, curves, fluid, gradient background, high resolution, highly detailed, 8K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

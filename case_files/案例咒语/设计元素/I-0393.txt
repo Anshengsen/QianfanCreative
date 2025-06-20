@@ -1,0 +1,3 @@
+CN：3D渲染模型，卡通风格，一个日历，主体颜色为粉色和白色，黏土材质，表面光滑有光泽，梦幻色彩，OC渲染，工作室照明，光线明亮，白色背景，无阴影，超细节，超品质，3D效果
+EN：3D rendering model, cartoon style, a calendar, main color is pink and white, clay material, smooth and shiny surface, dreamy colors, OC rendering, studio lighting, bright light, white background, no shadows, super details, super quality, 3D effect --s 100 --ar 1:1 --v 7 --profile l64u7lh  --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

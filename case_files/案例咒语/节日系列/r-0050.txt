@@ -1,0 +1,3 @@
+CN：一个可爱的小女孩，上半身，3d，迪士尼动画风格，长发，穿着华丽的唐代服装，大眼睛，甜美的笑容，长安不夜城，花灯节，夜晚，新年氛围，最佳品质，高清，8K，
+EN：A cute little girl, upper body, 3d, Disney animation style, long hair, wearing gorgeous Tang Dynasty costumes, big eyes, sweet smile, Chang'an Never Sleeps City, Lantern Festival, night, New Year atmosphere, best quality, HD, 8K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

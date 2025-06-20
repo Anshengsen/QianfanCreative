@@ -1,0 +1,3 @@
+CN：矢量风格的卡通标志设计，鸟，船，雨，红色帽子，蓝色背景，居中构图，简洁可爱，最佳品质，高分辨率
+EN：Vector style cartoon logo design, bird, boat, rain, red hat, blue background, centered composition, simple and cute, best quality, high resolution --s 100 --ar 1:1 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

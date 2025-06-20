@@ -1,0 +1,3 @@
+CN：3D渲染图，一个蓝色的铅笔和一个白色的尺子交叉在一起，白色背景，风格简洁，明快，光线柔和，没有明显的阴影，构图简洁，重点突出，适合作为图标或UI元素使用，
+EN：3D rendering, a blue pencil and a white ruler crossed together, white background, simple and bright style, soft light, no obvious shadows, simple composition, highlight the key points, suitable for use as an icon or UI element,  --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

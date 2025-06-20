@@ -1,0 +1,3 @@
+CN：森林小径，阳光穿透，薄雾弥漫，幽暗森林，参天大树，绿色植被，泥土小路，纵深感，自然光，电影感，高对比度，广角镜头，超高质量，8K，细节丰富
+EN：Forest trail, sunlight through, mist, dark forest, tall trees, green vegetation, dirt path, depth, natural light, cinematic, high contrast, wide angle lens, ultra high quality, 8K, rich details --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

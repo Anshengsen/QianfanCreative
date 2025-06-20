@@ -1,0 +1,6 @@
+CN：漫画风格，插图，20岁，男性，黑发，时尚套装，赛博朋克，单手着地另一只手举起，超人的姿势，耍酷，在街道上，锐利的线条，8K，
+EN：Comic style, illustration, 20 years old, male, black hair, stylish outfit, cyberpunk, one hand on the ground and the other hand raised, superman pose, cool, on the street, sharp lines, 8K, --s 800 --ar 3:2 --v 6.0 --p df2apxr 
+
+（PS：该咒语使用我自己的个性化代码生成，也就是--p 后面的“df2apxr”，每个人都有自己独特的代码，大家也可以使用我的代码生成其他案例试一下~个性化也可以说是MJ按照一个人的审美进行填补空白的扩散，很有趣~）
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

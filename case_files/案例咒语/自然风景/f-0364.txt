@@ -1,0 +1,3 @@
+CN：雪山倒影，清澈湖泊，对称构图，广角，远景，湛蓝天空，雪山，山脉，湖面如镜，倒影清晰，自然风光，宁静，空旷，冷色调，高饱和度，超高清，8K，最佳画质，细节丰富，光线柔和，清晨，日出
+EN：Snow-capped mountains reflection, clear lake, symmetrical composition, wide angle, distant view, blue sky, snow-capped mountains, mountain range, mirror-like lake, clear reflection, natural scenery, tranquility, open space, cold tones, high saturation, ultra high definition, 8K, best quality, rich details, soft light, early morning, sunrise --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

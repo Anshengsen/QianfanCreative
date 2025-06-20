@@ -1,0 +1,3 @@
+CN：3D效果，多维荧光颜色的几何多色线条和圆形形成的背景，3D，霓虹色，无噪点，光滑，
+EN：3D effect, multi-dimensional fluorescent color geometric multi-colored lines and circular background, 3D, neon color, no noise, smooth, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

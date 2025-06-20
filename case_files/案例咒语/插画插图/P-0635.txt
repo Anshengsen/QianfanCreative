@@ -1,0 +1,3 @@
+CN：扁平几何插画风格，冷暖配色，蓝色天空，米色雪山，棕色山地，细节包括雪山的纹理，山地的轮廓，帐篷的形状，整体画面宁静壮丽，风格现代，最佳品质，8K，矢量图形，干净利落，山景插画，复古纹理
+EN：Flat geometric illustration style, warm and cold colors, blue sky, beige snow-capped mountains, brown mountains, details include the texture of the snow-capped mountains, the outline of the mountains, the shape of the tent, the overall picture is serene and magnificent, modern style, best quality, 8K, vector graphics, clean and neat, mountain scenery illustration, retro texture --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

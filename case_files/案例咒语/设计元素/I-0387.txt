@@ -1,0 +1,4 @@
+CN：3D渲染，卡通风格，一把紫粉色渐变色的吉他，琴头、琴颈和琴身颜色过渡自然，线条简洁流畅，整体造型梦幻清新，白色背景，无阴影，适合用于音乐相关的海报设计或网页元素
+EN：3D rendering, cartoon style, a purple and pink gradient guitar, the head, neck and body have a natural color transition, simple and smooth lines, the overall shape is dreamy and fresh, white background, no shadow, suitable for music-related poster design or web elements --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

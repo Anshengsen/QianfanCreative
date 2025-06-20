@@ -1,0 +1,3 @@
+CN：白色背景上可爱的卡通万圣节元素，南瓜、鬼魂、墓碑、蝙蝠等，矢量，使用简单的线条艺术，具有扁平化的设计和可爱的风格，高分辨率，高细节，锐利的焦点，明亮的光线，
+EN：Cute cartoon Halloween elements on a white background, pumpkins, ghosts, tombstones, bats, etc., vector, using simple line art, with flat design and cute style, high resolution, high detail, sharp focus, bright light, --q 1 --s 100 --ar 1:1 --v 6.0 --tile 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

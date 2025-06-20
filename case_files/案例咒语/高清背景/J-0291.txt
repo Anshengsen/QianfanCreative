@@ -1,0 +1,3 @@
+CN：抽象背景，霓虹色，Glen Keane风格，浅粉色和柔和的色彩，波浪形状，光滑的布料，最佳品质，
+EN：Abstract background, neon colors, Glen Keane style, light pink and pastel colors, wavy shapes, smooth fabric, best quality, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

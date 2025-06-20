@@ -1,0 +1,3 @@
+CN：平面插图风格，采用美式插画配色方案，简单的细节，一位母亲和她的儿子一起烹饪披萨，温暖快乐的气氛，明亮，最佳品质，可转换为矢量图的插图设计，
+EN：Flat illustration style, using American illustration color scheme, simple details, a mother and her son cooking pizza together, warm and happy atmosphere, bright, the best quality, can be converted into vector illustration design, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：海滩风景，热带风情，碧海蓝天，白色云朵，倾斜的棕榈树，绿叶，远处的小岛，清澈的海水，细腻的沙滩，广角镜头，明亮的光线，鲜艳的色彩，高饱和度，自然风光，壁纸，超高清，8K
+EN：Beach scenery, tropical style, blue sea and sky, white clouds, leaning palm trees, green leaves, small island in the distance, clear water, fine sand, wide-angle lens, bright light, vivid colors, high saturation, natural scenery, wallpaper, ultra high definition, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

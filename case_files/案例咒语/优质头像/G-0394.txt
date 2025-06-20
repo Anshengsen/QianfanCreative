@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，OK手势，蓝色袖口，居中，独奏，在画面中央，白色背景，正面视角，柔和光线。
+EN：3D rendering, cartoon style, OK hand sign, blue cuffs, centered, solo, in the center of the frame, white background, front view, soft light.  --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

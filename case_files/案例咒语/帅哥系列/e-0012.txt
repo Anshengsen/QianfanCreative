@@ -1,0 +1,4 @@
+CN：一个超级酷的男孩，平面插画，短发，俏皮的笑容，穿着时尚个性的服装，全身，夸张的姿势，大胆的色彩，渐变，白色背景，
+EN：A super cool boy, graphic illustration, short hair, playful smile, wearing fashionable personality clothing, full body, exaggerated posture, bold colors, gradual changes, white background, --q 1 --s 100 --ar 3:4 --niji 6
+
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

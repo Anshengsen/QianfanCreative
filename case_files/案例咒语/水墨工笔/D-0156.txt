@@ -1,0 +1,3 @@
+CN：水墨画风格，江南水乡，雪景，红色梅花，石拱桥，小船，行人，房屋，远山，雾气，淡雅色调，中国风，传统绘画，细节丰富，构图均衡，意境悠远，最佳品质，8K，超高清细节
+EN：Ink painting style, Jiangnan water town, snow scene, red plum blossoms, stone arch bridge, boats, pedestrians, houses, distant mountains, fog, elegant colors, Chinese style, traditional painting, rich details, balanced composition, profound artistic conception, best quality, 8K, ultra-high-definition details --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

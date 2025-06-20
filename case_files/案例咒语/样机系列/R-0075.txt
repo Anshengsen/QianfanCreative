@@ -1,0 +1,3 @@
+CN：前景是简约风陶瓷茶具套装，木质托盘，日式禅意庭院背景，空白效果图，3D渲染，素雅造型，哑光外观，柔和光线，产品场景图，高保真渲染，质感还原，
+EN：The foreground is a simple ceramic tea set, a wooden tray, a Japanese Zen courtyard background, a blank rendering, a 3D rendering, a simple and elegant shape, a matte appearance, soft light, a product scene, a high-fidelity rendering, and a texture restoration. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

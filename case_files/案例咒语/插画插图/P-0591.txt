@@ -1,0 +1,3 @@
+CN：卡通风格人物插画，一位女性，走在雨中的森林里，色彩清新，线条简洁，整体风格轻松愉快，具有自然气息和童趣，细节包括人物的表情，雨滴的造型，以及背景中的树木和植物，最佳品质，8K，矢量图形，干净利落，适合用于儿童读物或自然科普，
+EN：Cartoon style character illustration of a woman walking in a forest in the rain. Fresh colors, simple lines, and a relaxed and cheerful overall style with a natural and childlike feel. Details include the character's expression, the shape of the raindrops, and the trees and plants in the background. Best quality, 8K, vector graphics, clean and neat, suitable for children's books or natural science popularization. --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

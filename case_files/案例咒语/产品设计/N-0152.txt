@@ -1,0 +1,3 @@
+CN：产品摄影，金色手表，黑色表盘，黑色天鹅绒背景，自然光，8K，超高质量，细节丰富，金属质感，光线反射，奢华，高贵，
+EN：Product photography, gold watch, black dial, black velvet background, natural light, 8K, ultra high quality, rich details, metal texture, light reflection, luxury, noble, --s 100 --ar 3:2 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

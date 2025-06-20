@@ -1,0 +1,3 @@
+CN：时尚摄影，一位白人女性，金发，穿着复古风格的拼色夹克，红色、蓝色和黄色，拉着拉链，背景是涂鸦墙，自然光线，真实，最佳品质。
+EN：Fashion photography of a Caucasian woman with blonde hair wearing a vintage style color block jacket in red, blue and yellow with zipper, with graffiti wall in the background, natural light, authentic, best quality. --s 50 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

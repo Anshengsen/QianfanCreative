@@ -1,0 +1,3 @@
+CN：现代商业插画风格，城市街道场景，礼品店，人物，社交媒体元素，鲜艳色彩，扁平化设计，矢量图形，最佳品质，插画设计，海报风格，商业插画，现代生活，细节丰富，视觉冲击力，创意插画，时尚元素，信息丰富，都市氛围，
+EN：Modern business illustration style, city street scene, gift shop, people, social media elements, bright colors, flat design, vector graphics, best quality, illustration design, poster style, business illustration, modern life, rich details, visual impact, creative illustration, fashion elements, rich information, urban atmosphere, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

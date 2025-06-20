@@ -1,0 +1,4 @@
+﻿CN：机器人吉祥物，现代机器人，3D，白色，干净的背景，正视图，
+EN：Robot mascot, modern robot, 3D, white, clean background, front view, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

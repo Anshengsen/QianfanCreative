@@ -1,0 +1,3 @@
+CN：扁平风格插画，一个女人坐在椅子上，抱着一只狗，旁边有一盆植物，整体风格温馨，色彩明快，具有生活气息，细节包括人物的表情，狗的姿态，以及植物的细节，最佳品质，8K，矢量图形，干净利落，适合用于网页设计或UI设计，白色背景
+EN：Flat style illustration, a woman sitting on a chair, hugging a dog, with a pot of plants next to her, the overall style is warm, the colors are bright, and it has a breath of life, the details include the character's expression, the dog's posture, and the details of the plant, the best quality, 8K, vector graphics, clean and neat, suitable for web design or UI design, white background --s 100 --ar 3:2 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：中国古风美女，绝美的灯光，虚幻引擎5，在明亮的背景中，,正面，面带微笑，身着光滑的丝绸服装、肩膀处有盔甲，发冠，详细，光滑细腻的皮肤，淡妆，手持中国长枪，
+EN：Chinese ancient beauty, beautiful lighting, Unreal Engine 5, on a bright background, front view, smiling, wearing smooth silk clothing, armor on shoulders, hair crown, detailed, smooth and delicate skin, light makeup, holding a Chinese spear, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

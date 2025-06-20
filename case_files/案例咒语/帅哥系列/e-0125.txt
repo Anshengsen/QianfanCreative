@@ -1,0 +1,3 @@
+CN：帅哥，20岁，独奏，黑色头发，黑色盔甲，正面，站立，背景是宫殿中，最佳质量，高细节，精致的五官，完美的脸庞，菱角分明，华丽，景深，
+EN：Handsome man, 20 years old, solo, black hair, black armor, front view, standing, palace in the background, best quality, high detail, delicate features, perfect face, sharp features, gorgeous, depth of field, --q 1 --s 100 --ar 3:4 --niji 6 --personalize ks5bkwd 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

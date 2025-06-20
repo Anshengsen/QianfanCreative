@@ -1,0 +1,4 @@
+CN：湖边小屋，傍晚，暖色调，木屋，码头，小船，倒影，湖泊，日落，晚霞，树木，草地，灯光，静谧，温馨，自然，风景画，高细节，高品质，8K
+EN：lakeside cottage, evening, warm colors, wooden house, pier, boat, reflection, lake, sunset, sunset glow, trees, grass, lights, quiet, warm, nature, landscape, high details, high quality, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

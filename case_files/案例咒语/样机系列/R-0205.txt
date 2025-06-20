@@ -1,0 +1,3 @@
+CN：空白效果图，瓦楞纸鞋盒，上下盖分离，长方体，棕色纸板材质，简约风格，产品展示，3D渲染，白色背景，俯视角度，细节丰富，8K，超高分辨率
+EN：Blank rendering, corrugated shoe box, upper and lower covers separated, cuboid, brown cardboard material, simple style, product display, 3D rendering, white background, top view, rich details, 8K, ultra high resolution --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

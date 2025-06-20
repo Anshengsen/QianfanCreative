@@ -1,0 +1,3 @@
+CN：翠绿色草坪，茂盛，阳光明媚，清晨，光线穿过树林，长长的阴影，树木繁茂，公园场景，广角镜头，自然光，高饱和度，生机勃勃，细节丰富，8K，超高清。
+EN：Emerald green lawn, lush, sunny, early morning, light shining through trees, long shadows, densely wooded, park scene, wide angle lens, natural light, high saturation, vibrant, rich details, 8K, UHD. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

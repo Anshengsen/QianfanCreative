@@ -1,0 +1,3 @@
+CN：空白手机模型，3D渲染，科技感十足，蓝色渐变背景，金属边框，高清屏幕，简洁外观，突出屏幕空白区域，高清，8K，产品细节，空白效果图，单品展示，光线追踪，
+EN：Blank mobile phone mockup, 3D rendering, full of technology, blue gradient background, metal frame, HD screen, simple appearance, highlighting the blank area of ​​the screen, HD, 8K, product details, blank rendering, single product display, ray tracing, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

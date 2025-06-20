@@ -1,0 +1,3 @@
+CN：空白效果图，城市户外广告牌，大型，白色，空白，矩形，矗立在现代城市建筑背景前，下方有金属支撑结构，视角从下往上，广角，高对比度，商业用途，展示模板，高清，8K
+EN：Blank rendering, urban outdoor billboard, large, white, empty, rectangular, standing in front of modern city building background with metal support structure underneath, bottom-up view, wide angle, high contrast, commercial use, presentation template, HD, 8K --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

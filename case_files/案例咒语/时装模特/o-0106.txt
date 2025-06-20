@@ -1,0 +1,3 @@
+CN：一件酒红色的丝绸衬衫，宽松版型，飘逸风格，光滑质感，丝绸光泽，白色背景，平铺，居中，正视图，褶皱细节，精细纹理，高清渲染，逼真，
+EN：A burgundy silk shirt, loose fit, flowing style, smooth texture, silk sheen, white background, flat lay, centered, front view, fold details, fine texture, HD rendering, realistic, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：吐司，白色背景，照片，32k，
+EN：Toast, white background, photo, 32k, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

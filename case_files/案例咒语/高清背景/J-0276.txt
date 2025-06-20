@@ -1,0 +1,3 @@
+CN：3D旋涡状流体空间，橙色和黄色和绿色，3D流体状，旋涡空间，明亮的调色板，柔光，最佳品质，3D渲染，
+EN：3D swirling fluid space, orange and yellow and green, 3D fluid shape, swirling space, bright palette, soft light, best quality, 3D rendering, --q 5 --s 180 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

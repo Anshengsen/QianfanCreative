@@ -1,0 +1,4 @@
+﻿CN：一个美少女，身穿水手服，黑色波浪发，照片，最佳分辨率，肖像，精致的五官，粉嫩的樱桃小嘴唇，腮红，
+EN：A beautiful girl in a sailor suit, black wavy hair, photo, best resolution, portrait, delicate facial features, pink cherry lips, blush, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：清晨，湖面，平静如镜，倒影清晰，金黄色树木，独立生长，树叶稀疏，远山，云雾缭绕，山峰隐约可见，天空，蓝色，少量云彩，自然光，广角镜头，对称构图，色彩柔和，宁静氛围，高清，8K，风景摄影。
+EN：Early morning, lake, calm as a mirror, clear reflections, golden trees, growing independently, sparse leaves, distant mountains, shrouded in mist, peaks vaguely visible, sky, blue, a few clouds, natural light, wide-angle lens, symmetrical composition, soft colors, tranquil atmosphere, HD, 8K, landscape photography. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

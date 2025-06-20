@@ -1,0 +1,3 @@
+CN：抽象艺术，红色、黄色和灰色几何形状的特写，黑色轮廓，空间感，大胆的色彩，现代风格，高分辨率，最佳品质，8K。
+EN：Abstract art, close-up of red, yellow and grey geometric shapes with black outlines, sense of space, bold colors, modern style, high resolution, best quality, 8K. --s 50 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

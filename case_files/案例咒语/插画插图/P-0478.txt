@@ -1,0 +1,3 @@
+CN：概念艺术，儿童插画风格，一个穿着深色连衣裙的亚洲小女孩，短发，站在森林中，背对观众，仰望天空，森林的树木高耸，阳光穿过树叶，照亮天空，暖色调，柔和的光线，数字绘画，最佳品质，超细节，
+EN：Concept art, children's illustration style, a little Asian girl in a dark dress, with short hair, standing in the forest, with her back to the viewer, looking up at the sky, the trees of the forest are tall, the sun shines through the leaves, lighting up the sky, warm tones, soft light, digital painting, best quality, ultra details, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

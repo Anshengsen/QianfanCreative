@@ -1,0 +1,3 @@
+CN： 巴洛克风格，一位美少女，光影对比强烈，画面富有戏剧性，服装华丽而厚重，表情庄重，背景是宏大的建筑或宗教场景，整体画面呈现出庄严、神圣、充满力量的氛围。
+EN：Baroque style, a beautiful girl, strong contrast of light and shadow, dramatic picture, gorgeous and heavy clothes, solemn expression, the background is a grand building or religious scene, the overall picture presents a solemn, sacred and powerful atmosphere. --q 5 --s 100 --ar 1:1 --niji 6--personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

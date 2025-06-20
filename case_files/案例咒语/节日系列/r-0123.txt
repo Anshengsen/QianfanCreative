@@ -1,0 +1,3 @@
+CN： 3D渲染，一个被困在巨大蜘蛛网中的小女孩，她惊恐地挣扎着，蜘蛛网粘稠而富有弹性，一只巨大的蜘蛛正缓缓靠近，背景是阴暗的森林，营造紧张恐怖的氛围，高精度建模，4K分辨率，超写实渲染，最佳质量，恐怖，悬念，细节丰富的蜘蛛网纹理，逼真的蜘蛛形态，
+EN：3D rendering, a little girl trapped in a huge spider web, she struggles in fear, the spider web is sticky and elastic, a huge spider is slowly approaching, the background is a dark forest, creating a tense and terrifying atmosphere, high-precision modeling, 4K resolution, hyper-realistic rendering, best quality, horror, suspense, detailed spider web texture, realistic spider morphology, --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

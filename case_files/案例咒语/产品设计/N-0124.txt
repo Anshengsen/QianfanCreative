@@ -1,0 +1,3 @@
+CN：产品摄影，透明香水瓶，银色喷头，浅蓝色背景，周围有柠檬、青柠和雏菊花，阳光照射，清新风格，细节丰富，高分辨率，
+EN：Product photography, transparent perfume bottle with silver spray nozzle, on light blue background, surrounded by lemon, lime and daisy flowers, sunlight, fresh style, rich details, high resolution, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

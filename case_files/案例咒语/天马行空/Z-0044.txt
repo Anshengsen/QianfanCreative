@@ -1,0 +1,3 @@
+CN：画面中央有一个玩偶躺在一片云层中，薄薄柔软的云层，被云层包围，浅蓝色和浅粉色，夹杂着雪和云，雾，俯视图，圣光，冰雪，发光粒子效果，淡黄色和淡粉色，极简主义，超现实主义，
+EN：In the center of the frame there is a doll lying in a cloud, thin soft clouds, surrounded by clouds, light blue and light pink, mixed with snow and clouds, fog, top view, holy light, ice and snow, luminous particle effects, light yellow and light pink, minimalism, surrealism, --q 1 --s 250 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

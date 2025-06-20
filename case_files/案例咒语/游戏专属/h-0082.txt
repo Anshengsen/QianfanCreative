@@ -1,0 +1,3 @@
+CN：手绘插图，在一个中国古代庭院中，兵器架，上面立着不同的兵器，在比武台上，动漫插图风格，2D游戏艺术，琥珀色和暗红色，流畅的线条，
+EN：Hand drawn illustration of a weapon rack in an ancient Chinese courtyard with different weapons on it, on a jousting stage, anime illustration style, 2D game art, amber and dark red, smooth lines, --q 1 --s 100 --ar 3:2 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

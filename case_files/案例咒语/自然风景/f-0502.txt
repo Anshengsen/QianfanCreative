@@ -1,0 +1,3 @@
+CN：盛开的莲花，粉红色花瓣，白色花蕊，翠绿色荷叶，舒展，水生植物，特写，柔和的自然光，浅景深，高饱和度，色彩鲜明，宁静，禅意，东方韵味，高清晰度，8K，超细节，最佳画质
+EN：Blooming lotus, pink petals, white stamens, emerald green lotus leaves, stretching, aquatic plants, close-up, soft natural light, shallow depth of field, high saturation, vivid colors, tranquility, Zen, oriental charm, high definition, 8K, ultra-detailed, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

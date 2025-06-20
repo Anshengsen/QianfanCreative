@@ -1,0 +1,3 @@
+CN：一个简单的线描图画，一只穿着粉色芭蕾舞短裙的白天鹅的LOGO，展翅独立，矢量风格，纯白背景，线条清晰，简单的形状，没有阴影， 
+EN：A simple line drawing, the LOGO of a white swan wearing a pink tutu, independent wings, vector style, pure white background, clear lines, simple shapes, no shadows, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：水墨工笔画风格，纯白背景，黑色墨水，深浅墨水痕迹，中国财神，财神，笑眯眯，全身，面对镜头，站着，中国财神手捧金元宝，居中构图，淡橙色和黑色和明黄色的配色方案，毕加索，中国水墨风，高品质，8K，
+EN：Ink painting style, pure white background, black ink, light and dark ink traces, Chinese God of Wealth, God of Fortune, smiling, full body, facing the camera, standing, Chinese God of Wealth holding a gold ingot, centered composition, light orange and black and bright yellow color scheme, Picasso, Chinese ink painting style, high quality, 8K, --q 5 --s 50 --ar 3:4 --niji 6 --personalize mtd2w9f --style raw --no text 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

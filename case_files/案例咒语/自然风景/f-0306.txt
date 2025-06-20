@@ -1,0 +1,3 @@
+CN：意大利五渔村韦尔纳扎，夜景，航拍视角，长曝光，海岸线，彩色房屋，灯火通明，暖色调灯光，深蓝色天空，星空，日落余晖，平静海面，反光，悬崖，植被，高饱和度，电影感，超广角，8K，超高分辨率，细节丰富，最佳品质，大师作品
+EN：Vernazza, Cinque Terre, Italy, night view, aerial perspective, long exposure, coastline, colorful houses, brightly lit, warm lighting, deep blue sky, starry sky, sunset, calm sea, reflections, cliffs, vegetation, high saturation, cinematic feel, ultra wide angle, 8K, ultra high resolution, rich details, best quality, masterpiece --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

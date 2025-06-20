@@ -1,0 +1,4 @@
+CN：产品摄影，一张金色的银行卡，卡上印有“VISA”字样，悬浮在黑色和金色抽象背景中，光滑的表面，反射光线，焦点集中在银行卡上，细节丰富，高分辨率，工作室质量，3D渲染。
+EN：Product photography of a gold bank card with the word "VISA" printed on it, suspended on a black and gold abstract background, glossy surface, reflecting light, focus on the bank card, rich details, high resolution, studio quality, 3D rendering. --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

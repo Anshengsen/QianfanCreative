@@ -1,0 +1,3 @@
+CN：日本校园动漫风格，一个穿着JK制服的少女，站在学校的走廊里，阳光透过窗户照射进来，形成丁达尔效应，她回过头来，对着镜头微笑，清新自然，真实感，胶片质感，浅景深，50mm镜头，8K分辨率，超高清画质。
+EN：Japanese campus anime style, a girl in a JK uniform, standing in the school corridor, the sunlight shines in through the window, forming a Tyndall effect, she turns her head and smiles at the camera, fresh and natural, realistic, film texture, shallow depth of field, 50mm lens, 8K resolution, ultra-high-definition picture quality. --q 2 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

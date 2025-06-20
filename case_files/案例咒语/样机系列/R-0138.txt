@@ -1,0 +1,3 @@
+CN：空白效果图，手提袋模型，室外场景，自然光，中景，休闲风格，人物背影，红色外套，米色双肩包，白色手提袋，纯色设计，棉质材料，简约风格，日常穿搭，绿色背景虚化。
+EN：Blank rendering, tote bag mockup, outdoor scene, natural light, mid shot, casual style, person’s back, red jacket, beige backpack, white tote bag, solid color design, cotton material, simple style, daily wear, green background blur. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

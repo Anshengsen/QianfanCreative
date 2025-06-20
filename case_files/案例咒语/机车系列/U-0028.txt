@@ -1,0 +1,2 @@
+CN：摩托车车轮特写，轮胎纹理清晰可见，居中构图，侧光，黑色背景，写实渲染，轮胎材质质感真实，4K分辨率，高品质。
+EN：Close-up of a motorcycle wheel, with the tire texture clearly visible, centered composition, side light, black background, realistic rendering, the tire material feels real, 4K resolution, high quality. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

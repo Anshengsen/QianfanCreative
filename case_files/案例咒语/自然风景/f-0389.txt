@@ -1,0 +1,3 @@
+CN：金门大桥，雾气缭绕，夜景，长曝光，航拍视角，蜿蜒公路，山坡，远处的城市灯光，深蓝色调，橙色灯光，高对比度，戏剧性光线，史诗感，超广角，超高清细节，8K，最佳质量，电影级摄影
+EN：Golden Gate Bridge, foggy, night scene, long exposure, aerial perspective, winding road, hillside, city lights in the distance, dark blue tones, orange lights, high contrast, dramatic light, epic feel, ultra wide angle, ultra high definition details, 8K, best quality, cinematic photography --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

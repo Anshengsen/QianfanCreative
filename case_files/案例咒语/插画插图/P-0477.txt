@@ -1,0 +1,3 @@
+CN：复古插画风格，一个穿着盔甲的骑士，手持长剑，一只狼陪伴在侧，站在山坡上，远景是一座城堡，夜空，一轮满月，深蓝色和浅红色色调，版画风格，粗线条，高对比度，最佳品质，
+EN：Vintage illustration style, a knight in armor, holding a long sword, accompanied by a wolf, standing on a hillside, with a castle in the distance, night sky, a full moon, dark blue and light red tones, print style, thick lines, high contrast, best quality, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

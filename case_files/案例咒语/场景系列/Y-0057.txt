@@ -1,0 +1,4 @@
+CN：纯蓝背景，等距透视，平板电脑上面的许多商店建筑，卡通风格，多层，居中构图，最佳品质，3D，
+EN：Pure blue background, isometric perspective, many store buildings on tablets, cartoon style, multiple layers, centered composition, best quality, 3D, --q 5 --s 100 --ar 1:1 --v 6.0
+（PS：这个可能会出现多个主体，使用的时候可以考虑加上独奏/solo） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

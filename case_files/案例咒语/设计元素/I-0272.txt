@@ -1,0 +1,3 @@
+CN：3D渲染，一枚金币，正面，金色，光滑材质，柔和灯光，白色背景，独奏，居中，
+EN：3D rendering, one gold coin, front side, gold color, smooth texture, soft lighting, white background, solo, centered, --q 1 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

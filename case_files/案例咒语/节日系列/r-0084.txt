@@ -1,0 +1,3 @@
+CN：高质量，高品质，高细节，32K，对称构图，手绘，锐利流畅的线条，鲜艳明亮的调色板，天坛，以国庆为主题的红色插画海报设计，充满国风韵味，牡丹花朵绽放。淡蓝色天空，呈现抽象插画风格。中国现代插画师审美，
+EN：High quality, high quality, high details, 32K, symmetrical composition, hand-painted, sharp and smooth lines, bright and vivid color palette, Temple of Heaven, red illustration poster design with the theme of National Day, full of national style, peony flowers blooming. Light blue sky, presenting an abstract illustration style. Aesthetics of modern Chinese illustrators, --q 5 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

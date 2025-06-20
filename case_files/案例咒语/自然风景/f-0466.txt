@@ -1,0 +1,3 @@
+CN：远山剪影，山顶有稀疏树木，浓厚云雾缭绕，云雾流动感，山体深蓝色，地平线处有渐变暖色调光线，天空深蓝色到浅蓝色渐变，冷暖对比，高对比度，自然风光，广角镜头，史诗感，电影感，超广角，8K，超高分辨率，细节丰富
+EN：Silhouette of distant mountains, sparse trees on the top of the mountain, thick clouds and mist, flowing clouds and mist, dark blue mountains, gradient warm light at the horizon, dark blue to light blue sky, cold and warm contrast, high contrast, natural scenery, wide-angle lens, epic feeling, cinematic feeling, ultra-wide angle, 8K, ultra-high resolution, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

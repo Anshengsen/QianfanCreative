@@ -1,0 +1,5 @@
+CN：3D风格，3D渲染，高清辛烷值渲染，唐代长安城的街道上，深夜，一个小女孩牵着一个可爱的小兔子一起向前走，背影，小女孩穿着时尚潮流的红配绿汉服，小兔子穿着短短的红色小马甲和小短裤，可爱，两侧是喧闹的小摊，画面中间有一轮巨大的明月，暖色调，高品质，高细节，
+EN：3D style, 3D rendering, high-definition octane rendering, on the streets of Chang'an City in the Tang Dynasty, late at night, a little girl is walking forward with a cute little rabbit, back view, the little girl is wearing a fashionable red and green Hanfu, the little rabbit is wearing a short red vest and shorts, cute, on both sides are noisy stalls, there is a huge bright moon in the middle of the picture, warm colors, high quality, high details, --q 1 --s 100 --ar 3:4 --niji 6 --personalize rcwjofc
+
+(PS：这个没有出现我想要的场景，但是这个也还不错，等我再调整一下） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

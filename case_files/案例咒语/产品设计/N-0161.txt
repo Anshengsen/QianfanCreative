@@ -1,0 +1,3 @@
+CN：产品摄影，MAC口红，红色，银色，黑色，樱桃，天鹅绒背景，自然光，8K，超高质量，细节丰富，光泽，奢华，美妆，时尚，
+EN：product photography, MAC lipstick, red, silver, black, cherry, velvet background, natural light, 8K, ultra high quality, rich details, gloss, luxury, beauty, fashion, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

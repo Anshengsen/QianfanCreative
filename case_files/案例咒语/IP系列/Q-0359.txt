@@ -1,0 +1,3 @@
+CN：矢量风格的卡通怪物，扁平化设计，透明背景，一个蓝色的独眼怪物，戴着红色的帽子，可爱的表情，简单的线条，最佳品质
+EN：Vector style cartoon monster, flat design, transparent background, a blue one-eyed monster wearing a red hat, cute expression, simple lines, best quality --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

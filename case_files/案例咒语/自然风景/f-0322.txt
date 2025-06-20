@@ -1,0 +1,3 @@
+CN：雪景，冬季，山间小屋，木屋，围栏，远山，日落时分，暖色调，冷暖对比，自然光，广角镜头，风景摄影，高细节，8K，超高清。
+EN：Snowy landscape, winter, mountain hut, cabin, fence, distant mountains, sunset, warm tones, contrast between warm and cold, natural light, wide-angle lens, landscape photography, high details, 8K, ultra high definition. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：矢量轮廓风格的线稿，内容是各种水果的轮廓组成的底纹，黑色线条，无实色填充，白色背景，流畅的线条，
+EN：Vector outline style line draft, the content is the shading composed of the outlines of various fruits, black lines, no solid color filling, white background, smooth lines, --q 1 --s 100 --ar 1:1 --v 6.0 --tile 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

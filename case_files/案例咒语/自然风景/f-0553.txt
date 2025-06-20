@@ -1,0 +1,3 @@
+CN：花朵特写，柔和光线，梦幻，粉蓝色花瓣，金色花蕊，逆光，朦胧背景，唯美，艺术感，高分辨率，细节丰富，油画质感，柔和色彩，自然光，花瓣纹理清晰，背景虚化，浪漫氛围，宁静，清新，摄影，最佳品质。
+EN：Flower close-up, soft light, dreamy, pink-blue petals, golden stamens, backlighting, hazy background, beautiful, artistic, high resolution, rich details, oil painting texture, soft colors, natural light, clear petal texture, blurred background, romantic atmosphere, tranquility, freshness, photography, best quality. --q 1 --s 100 --ar 3:5 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

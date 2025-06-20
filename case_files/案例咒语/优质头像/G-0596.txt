@@ -1,0 +1,3 @@
+CN：真实风格头像，照片，一个年轻女性，棕色长发，闭着眼睛，笑容甜美，脸颊泛红，戴着彩色小花发夹，穿着碎花上衣，背景是白色，整体风格清新，色彩柔和，具有少女感，最佳品质，8K，适合作为社交媒体头像
+EN：Realistic style portrait, photo of a young woman with long brown hair, closed eyes, sweet smile, rosy cheeks, wearing colorful flower hairpins, wearing a floral top, the background is white, the overall style is fresh, the colors are soft, and it has a girlish feel. Best quality, 8K, suitable as a social media portrait --q 5 --s 50 --ar 1:1 --niji 6 --profile hrqrh1e 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

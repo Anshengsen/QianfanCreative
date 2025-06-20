@@ -1,0 +1,3 @@
+CN：一只凤凰在翩翩起舞，皮克斯风格，3D风格，盲盒玩具，粘土材料，光滑，白色背景，光线追踪，正面，最佳品质，体积光，
+EN：A phoenix is ​​dancing, Pixar style, 3D style, blind box toy, clay material, smooth, white background, ray tracing, front view, best quality, volumetric light, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

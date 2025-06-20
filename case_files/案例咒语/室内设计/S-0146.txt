@@ -1,0 +1,3 @@
+CN：室内卧室，现代简约风格，米色和白色为主色调，落地窗，浅色木地板，线条装饰天花板，艺术装饰墙面，橙色点缀，双人床，白色床品，黑色艺术椅，地毯，极简主义，干净，温馨，自然光，高品质，8K。
+EN：Interior bedroom, modern simple style, beige and white as the main colors, floor-to-ceiling windows, light wooden floors, line-decorated ceilings, art-decorative walls, orange embellishments, double bed, white bedding, black art chair, carpet, minimalism, clean, warm, natural light, high quality, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

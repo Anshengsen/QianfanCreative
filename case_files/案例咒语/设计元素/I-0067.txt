@@ -1,0 +1,4 @@
+﻿CN：矢量人物头像的3d渲染，以充满活力的卡通风格、费尔南多·阿莫索罗、雷纳·泰格迈尔，高品质，3D，白色背景，
+EN：3D rendering of vector character avatars in vibrant cartoon style, Fernando Amosolo, Rena Tigmeier, high quality, 3D, white background, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

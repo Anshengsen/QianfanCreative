@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个女性，服装，无面部，正面，站姿，微侧身，V，长袖，紫色针织衫，修身，纽扣，胸前褶皱设计，项链，牛仔裤，浅蓝色，背景模糊，室内，柔和光线，自然光。
+EN：Professional photography, 8K, one woman, clothing, no face, front, standing, slightly sideways, V, long sleeves, purple sweater, slim fit, buttons, pleated design on chest, necklace, jeans, light blue, blurred background, indoors, soft light, natural light. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

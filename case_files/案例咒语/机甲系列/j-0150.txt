@@ -1,0 +1,3 @@
+CN：赛博朋克风格，机械少女，精灵，白色机械身体，浅蓝色头发，绿色眼睛，精致面容，头饰，机械翅膀，全身像，复杂细节，科幻感，冷色调，高光，最佳画质，8K，超高分辨率
+EN：Cyberpunk style, mechanical girl, elf, white mechanical body, light blue hair, green eyes, delicate face, headdress, mechanical wings, full-body portrait, complex details, sci-fi feeling, cold colors, high light, best image quality, 8K, ultra-high resolution --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

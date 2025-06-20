@@ -1,0 +1,3 @@
+CN：3D渲染图，一个黄色的小推车装载着两个纸箱，推车带有把手，类似于手推车或小型货运工具。风格简洁，卡通，色彩明快，光线柔和，背景为浅绿色。画面构图简洁，焦点集中在推车上，3D，粘土材料，
+EN：3D rendering of a yellow cart with two cartons, with a handle, similar to a trolley or small freight tool. The style is simple, cartoon, bright colors, soft light, and the background is light green. The composition of the picture is simple, the focus is on the cart, 3D, clay material,  --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

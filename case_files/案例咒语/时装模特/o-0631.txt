@@ -1,0 +1,4 @@
+CN：专业摄影，8K，女性，服装广告，无面部，圆领长袖T恤，米白色，胸前印花，棕色线条，心形图案，格子图案，字母图案，宽松版型，休闲风格，浅蓝色牛仔裤，站姿，双手自然下垂，自然光，室内场景，白色墙面背景，木质家具，简约风格。
+EN：Professional photography, 8K, female, clothing advertisement, no face, round neck long sleeve T-shirt, off-white, chest print, brown lines, heart pattern, plaid pattern, letter pattern, loose fit, casual style, light blue jeans, standing posture, hands hanging naturally, natural light, indoor scene, white wall background, wooden furniture, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

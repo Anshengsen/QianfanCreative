@@ -1,0 +1,3 @@
+CN：扁平风格图标设计，一组万圣节相关的图标，9个，颜色为黑色、橙色和紫色，形状为圆形和矩形，线条简洁，整体风格现代简约，具有节日气氛和趣味感，细节包括图标的形状，线条的粗细，以及图案的细节，最佳品质，8K，矢量图形，白色背景，
+EN：Flat style icon design, a set of Halloween related icons, 9 in black, orange and purple colors, circular and rectangular in shape, with clean lines, the overall style is modern and simple, with a festive atmosphere and a sense of fun, details include the shape of the icon, the thickness of the line, and the details of the pattern, best quality, 8K, vector graphics, white background, --s 100 --ar 1:1 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

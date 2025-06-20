@@ -1,0 +1,3 @@
+CN：一个帅气的拉丁美洲男性模特，黑色短发，浓眉，古铜色皮肤，穿着牛仔外套和牛仔裤，倚靠墙壁姿势，眼神迷离，干净清爽的工作室背景，暖色调灯光，胶片质感，4K，
+EN：A handsome Latin American male model, with short black hair, thick eyebrows, bronze skin, wearing a denim jacket and jeans, posing against a wall, with a blurred look, clean and refreshing studio background, warm lighting, film texture, 4K, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 --no scantily clad 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

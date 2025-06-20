@@ -1,0 +1,4 @@
+﻿CN：万圣节创意场景，由城堡、坟墓、南瓜灯、蝙蝠、墓碑、幽灵组成的场景，用于万圣节，高品质，最佳构图，
+EN：Halloween creative scene, a scene composed of castles, tombs, jack-o-lanterns, bats, tombstones, ghosts, for Halloween, high quality, the best composition, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：美食摄影，照片，日式烤肉串，特写镜头，木质烤串，深色石板托盘，肉块上的酱汁和芝麻，点缀绿色植物和辣椒，烟雾缭绕，暖色调灯光，背景虚化，高对比度，精致细节，商业级美食摄影。
+EN：Food photography, photo, Japanese kebab, close-up, wooden skewers, dark slate tray, sauce and sesame seeds on the meat, garnished with green plants and chili peppers, smoke, warm lighting, blurred background, high contrast, fine details, commercial food photography. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

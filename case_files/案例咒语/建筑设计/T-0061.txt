@@ -1,0 +1,3 @@
+CN：海浪状体育馆，参数化设计风格，21世纪，流线型金属屋顶，模仿海浪的起伏形态，白天，阳光照射在金属表面，反射出耀眼的光芒，写实渲染，航拍视角，展现建筑的动态美感，4K，
+EN：Wave-shaped gymnasium, parametric design style, 21st century, streamlined metal roof, imitating the undulating shape of waves, during the day, the sun shines on the metal surface, reflecting dazzling light, realistic rendering, aerial perspective, showing the dynamic beauty of the building, 4K, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

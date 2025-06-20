@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个中国女性，服装广告，无面部，身穿浅蓝色长袖衬衫，丝绸质感，纽扣半开，袖口挽起，搭配白色长裤，站姿，特写，柔和光线，背景为模糊的绿色植物，自然光，最佳品质，超细腻，无瑕疵。
+EN：Professional photography, 8K, a Chinese woman, clothing advertisement, no face, wearing a light blue long-sleeved shirt, silk texture, buttons half-open, cuffs rolled up, paired with white trousers, standing, close-up, soft light, blurred green plants in the background, natural light, best quality, super detailed, no flaws. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

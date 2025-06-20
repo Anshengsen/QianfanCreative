@@ -1,0 +1,4 @@
+CN：3D渲染模型，卡通风格，一个麦克风，主体颜色为蓝紫色渐变，网状结构清晰可见，整体造型时尚梦幻，黏土材质，表面光滑有光泽，梦幻色彩，OC渲染，工作室照明，光线明亮，白色背景，无阴影，超细节，超品质，3D效果，适合用于音乐或娱乐相关的视觉呈现
+EN：3D rendering model, cartoon style, a microphone, the main color is blue-purple gradient, the mesh structure is clearly visible, the overall shape is fashionable and dreamy, clay material, smooth and shiny surface, dreamy colors, OC rendering, studio lighting, bright light, white background, no shadows, super details, super quality, 3D effect, suitable for visual presentation related to music or entertainment --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

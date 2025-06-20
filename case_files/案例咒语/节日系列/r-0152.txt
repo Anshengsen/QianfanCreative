@@ -1,0 +1,4 @@
+CN：油画，印象派风格，笔触粗犷，色彩厚重，一碗腊八粥在阳光下，光影效果强烈，周围是模糊的背景，营造一种朦胧感，温暖，怀旧，艺术感，最佳质量。
+EN：Oil painting, impressionist style, rough brushstrokes, heavy colors, a bowl of Laba porridge in the sun, strong light and shadow effects, surrounded by blurred background, creating a sense of haziness, warmth, nostalgia, artistic sense, best quality. --q 1 --s 100 --ar 3:4 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

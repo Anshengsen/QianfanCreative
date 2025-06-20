@@ -1,0 +1,7 @@
+
+CN：一张风景插画，山区，公路，渐变，插画，大胆的线条和配色，高细节，极简主义，最佳质量，最佳画质，
+EN：A landscape illustration, mountain area, highway, gradient, illustration, bold lines and color matching, high detail, minimalism, best quality, best picture quality, --q 5 --ar 3:4 --v 5.2 --s 250 --style raw
+
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

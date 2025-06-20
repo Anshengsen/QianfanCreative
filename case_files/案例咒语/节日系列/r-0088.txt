@@ -1,0 +1,3 @@
+CN： 万圣节插图，哥特式风格，一个戴着骷髅面具的人站在古堡前，阴沉的天空，冷色调灯光，哥特式建筑细节清晰可见，恐怖氛围浓厚，高清，高细节，黑暗系，
+EN：Halloween illustration, Gothic style, a man wearing a skull mask standing in front of an old castle, gloomy sky, cold lighting, Gothic architectural details are clearly visible, strong horror atmosphere, HD, high details, dark style, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

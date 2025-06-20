@@ -1,0 +1,3 @@
+CN：一个动漫风格的女孩肖像，鲜艳的蓝色头发，穿着红色的高领毛衣，戴着红色的半透明太阳镜，嘴上叼着一根香烟，烟雾从她嘴里飘出来。克莱因蓝色背景，特写，现代，数字艺术，略带赛博朋克的感觉，强调鲜艳的色彩和光滑的线条。
+EN：Anime style portrait of a girl with bright blue hair, wearing a red turtleneck, red translucent sunglasses, with a cigarette between her lips and smoke coming out of her mouth. Klein blue background, close-up, modern, digital art, with a slightly cyberpunk feel, emphasizing bright colors and smooth lines. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

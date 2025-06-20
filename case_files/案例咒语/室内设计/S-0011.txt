@@ -1,0 +1,4 @@
+﻿CN：优雅的厨房有白色台面和绿色橱柜，条纹和形状的风格，vray，工业，柔和，大气的照明，浅蓝色和浅琥珀色，纹理阴影，精细的工艺，
+EN：The elegant kitchen has white countertops and green cabinets, striped and shaped style, vray, industrial, soft, atmospheric lighting, light blue and light amber, textured shadows, fine craftsmanship, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

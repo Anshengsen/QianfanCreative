@@ -1,0 +1,3 @@
+CN：挪威罗弗敦群岛，哈姆诺伊渔村风光，雪山，清澈海水，木屋，小岛，宁静，清晨，冷暖色调对比，广角镜头，航拍视角，自然风光摄影，高饱和度，高清晰度，8K，最佳品质
+EN：Lofoten Islands, Norway, Hamnoy fishing village scenery, snow-capped mountains, clear sea water, wooden houses, small islands, tranquility, early morning, contrast between cold and warm tones, wide-angle lens, aerial perspective, natural scenery photography, high saturation, high definition, 8K, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

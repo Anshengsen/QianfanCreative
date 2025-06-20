@@ -1,0 +1,3 @@
+CN：一件牛仔外套，浅蓝色，磨白做旧效果，宽松廓形，休闲街头风，白色背景，平铺，正视图，居中构图，渲染图，清晰的线迹，磨损细节，高分辨率。
+EN：A denim jacket, light blue, distressed effect, loose silhouette, casual street style, white background, flat lay, front view, centered composition, rendering, clear seams, worn details, high resolution. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

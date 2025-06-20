@@ -1,0 +1,3 @@
+CN：专业摄影，8K，亚洲女性，坐姿，上半身特写，黑色紧身背心，修身，浅蓝色高腰牛仔短裤，自然光，室内，柔和光线，微卷长发，自然发色，淡妆，红唇，放松表情，手腕佩戴银色手链，背景模糊，简洁，真实感，8K。
+EN: Professional photography, 8K, Asian woman, sitting, upper body close-up, black tight vest, slim fit, light blue high-waist denim shorts, natural light, indoors, soft light, slightly curly long hair, natural hair color, light makeup, red lips, relaxed expression, wearing a silver bracelet on her wrist, blurred background, simple, realistic, 8K. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 --no Scantily clad 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

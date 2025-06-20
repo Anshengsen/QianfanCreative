@@ -1,0 +1,3 @@
+CN：香水产品摄影，一瓶蓝色的香水，瓶颈处系着黑色蝴蝶结，旁边有一朵白色兰花，背景是蓝色的海面和柠檬树，光线明亮，营造出一种清新和浪漫的氛围，产品摄影，电影级光照，超高分辨率，8K，超细节，工作室质量,
+EN：Perfume product photography, a blue bottle of perfume with a black bow tied around the neck, a white orchid next to it, the background is the blue sea and lemon trees, the light is bright, creating a fresh and romantic atmosphere, product photography, cinematic lighting, ultra-high resolution, 8K, ultra-detailed, studio quality, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：一个小男孩坐在农园中与小猪开心的玩耍，漫画风格，复古，旧漫画，中国古典主义，传统主义，
+EN：A little boy is sitting in a farm playing happily with little pigs, comic style, retro, old comic, Chinese classicism, traditionalism, --q 1 --s 100 --ar 3:2 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

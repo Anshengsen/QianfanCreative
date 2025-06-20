@@ -1,0 +1,3 @@
+CN：现代工厂建筑的三维插图，橙色、白色、黑色，纯白背景上隔离，三维渲染，等距，
+EN ：3D illustration of modern factory building in orange, white and black colors isolated on pure white background, 3D rendering, isometric, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

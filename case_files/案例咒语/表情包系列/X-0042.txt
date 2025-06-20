@@ -1,0 +1,4 @@
+CN：九宫格表情集，可爱的企鹅角色，展示各种表情，如：快乐、愤怒、悲伤、惊讶、困惑、害怕、兴奋、无聊、鄙视等，白色背景，矢量，锐利的线条和卡通风格的配色方案，
+EN：Jiugongge emoji set, cute penguin character, showing various expressions, such as: happy, angry, sad, surprised, confused, afraid, excited, bored, despised, etc., white background, vector, sharp lines and cartoon style color scheme, --q 1 --s 100 --ar 3:4 --v 6.0
+（PS：该咒语出的套图都好好看，所以都保留了~） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

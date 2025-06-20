@@ -1,0 +1,3 @@
+CN：王子与公主并肩而立，3D，皮克斯风格，卡通，布里杰顿家的孩子，穿着皇室服装，背景是王宫内部，最佳品质，全身，
+EN：Prince and princess standing side by side, 3D, Pixar style, cartoon, Bridgerton children, in royal costumes, palace interior in the background, best quality, full body, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

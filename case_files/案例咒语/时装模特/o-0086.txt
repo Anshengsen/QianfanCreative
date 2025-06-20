@@ -1,0 +1,3 @@
+CN：一件羊绒大衣，居中构图，渲染图，驼色，质感柔软，高级简约风，白色背景，平铺，正视图，绒毛质感细腻，光影柔和，高分辨率。 
+EN：A cashmere coat, centered composition, rendering, camel color, soft texture, high-end minimalist style, white background, flat lay, front view, fine texture of the fleece, soft light and shadow, high resolution. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

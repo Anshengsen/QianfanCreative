@@ -1,0 +1,3 @@
+CN：平面插图风格，简约，极简主义，卡通主义，树木、高山、蓝天，开阔的视野，广角，
+EN：Flat illustration style, simplicity, minimalism, cartoonism, trees, mountains, blue sky, open view, wide angle, --q 1 --s 100 --ar 16:9 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

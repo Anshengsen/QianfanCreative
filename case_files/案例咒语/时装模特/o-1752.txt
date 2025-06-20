@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，连衣裙，复古方领，短袖，泡泡袖设计，高腰线，A字裙摆，中长款，薰衣草紫色，纯色，棉麻质感，褶皱细节，自然光，柔和阴影，焦点集中于服装整体，突出服装的廓形和细节。
+EN：Professional fashion photography, 8K, front view, white background, dress, retro square neckline, short sleeves, puff sleeve design, high waistline, A-line skirt, medium length, lavender purple, solid color, cotton and linen texture, pleated details, natural light, soft shadows, focus on the overall clothing, highlighting the silhouette and details of the clothing. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

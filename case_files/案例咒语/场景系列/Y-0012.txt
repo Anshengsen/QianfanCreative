@@ -1,0 +1,4 @@
+﻿CN：IP盲盒，泡泡玛特，帅气的白发男孩，五官精致，全身，纯色背景，CG渲染，3D渲染，丰富的细节，3D，C4D，景深，8K，最佳品质，
+EN：IP blind box, POP MART, handsome white-haired boy, exquisite facial features, full body, solid color background, CG rendering, 3D rendering, rich details, 3D, C4D, depth of field, 8K, best quality, --q 1 --s 100 --ar 3:4 --v 5.2 
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

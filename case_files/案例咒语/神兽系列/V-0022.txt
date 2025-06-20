@@ -1,0 +1,4 @@
+
+CN：一个中国古代女孩的水墨画，穿着中国古代服装，旁边是青龙，独奏，由邱英、张大千创作，绿色和蓝色，明亮，
+EN：Ink painting of an ancient Chinese girl, wearing an ancient Chinese costume, next to a blue dragon, solo, created by Qiu Ying and Zhang Daqian, green and blue, bright, --q 1 --s 100 --ar 3:4 --niji 5 --style expressive 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

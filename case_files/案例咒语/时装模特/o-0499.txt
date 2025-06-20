@@ -1,0 +1,4 @@
+CN：专业摄影，8K，女性，无面部，下半身像，略微侧身，宽松长袖条纹针织衫，深灰色高腰阔腿牛仔裤，浅棕色平底鞋，站立姿势，自然光，室外场景，背景为浅蓝色墙面和木质家具，地面有落叶，整体风格简约休闲。
+EN：Professional photography, 8K, female, no face, lower body portrait, slightly sideways, loose long-sleeved striped sweater, dark gray high-waisted wide-leg jeans, light brown flat shoes, standing pose, natural light, outdoor scene, the background is light blue wall and wooden furniture, there are fallen leaves on the ground, the overall style is simple and casual. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

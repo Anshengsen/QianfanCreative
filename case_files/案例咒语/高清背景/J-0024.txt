@@ -1,0 +1,5 @@
+CN：一张电子芯片图像，亮着蓝光，CPU芯片，虚幻引擎，最高质量，最佳细节，
+EN：An electronic chip image, bright blue light, CPU chip, Unreal Engine, highest quality, best detail, --q 5 --s 250 --ar 3:4 --v 5.2
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

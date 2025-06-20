@@ -1,0 +1,3 @@
+CN：黑白摄影，纪实风格，一个年轻的黑人男子，戴着帽子，留着胡须，穿着运动衫，面带微笑，看向镜头，简约的背景，自然光，半身像，最佳质量，8k，超细节，颗粒感
+EN：Black and white photography, documentary style, a young black man with a hat, beard and sweatshirt, smiling and looking towards the camera, minimalist background, natural light, half-length portrait, best quality, 8k, ultra detailed, grainy --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

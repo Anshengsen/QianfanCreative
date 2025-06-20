@@ -1,0 +1,3 @@
+CN：专业摄影，8K，下半身像特写，女性，苗条修长的身材，休闲风格，黑色修身长裤，浅色平底鞋，站立姿势，双腿并拢，双手自然下垂，室内场景，白色背景，柔和光线，简约风格，真实感，无过多装饰，清晰度高。
+EN：Professional photography, 8K, close-up of lower body, female, slim and slender figure, casual style, black slim trousers, light-colored flat shoes, standing posture, legs together, hands hanging naturally, indoor scene, white background, soft light, simple style, realism, no excessive decoration, high definition. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：专业摄影，8K，全身像，亚洲女性，微侧身，双手轻扶衣领，黑色长发，中分，自然垂落，棕色贝雷帽，淡妆，眼神平静，表情自然，灰色半拉链套头衫，胸前红蓝条纹，红色格子短裙，宽松休闲风格，自然光，柔和阴影，纯色背景。
+EN：Professional photography, 8K, full-length portrait, Asian woman, slightly sideways, hands lightly holding the collar, long black hair, middle part, hanging naturally, brown beret, light makeup, calm eyes, natural expression, gray half-zip pullover, red and blue stripes on the chest, red plaid skirt, loose casual style, natural light, soft shadows, solid color background. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

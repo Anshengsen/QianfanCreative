@@ -1,0 +1,3 @@
+CN：油画质感，油画，有光泽，有高光，两位美丽的女孩与艺术博物馆的展品合影，精致的妆容，精致的五官，白色吊带裙，祖母绿色礼服裙，艺术展品，美丽的光效，柔和的阴影，
+EN：Oil painting texture, oil painting, glossy, with highlights, two beautiful girls posing with exhibits in an art museum, delicate makeup, delicate facial features, white suspender dress, emerald green dress skirt, art exhibits, beautiful light effects, soft shadows, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

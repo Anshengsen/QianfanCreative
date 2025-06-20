@@ -1,0 +1,4 @@
+CN：产品摄影，一个棕色的音箱，放置在反光表面上，背景是抽象的米色雕塑，柔和的灯光，焦点集中在音箱上，细节丰富，高分辨率，工作室质量，真实摄影。
+EN：Product photography of a brown speaker placed on a reflective surface with an abstract beige sculpture in the background, soft lighting, focus on the speaker, rich details, high resolution, studio quality, real photography. --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：室内卧室，现代简约风格，暖色调，主卧，一张大床，床头背景墙采用白色和金色线条装饰，床头柜，球形吊灯，落地窗，浅色木地板，地毯，自然光，高品质，8K，细节丰富，室内设计，C4D渲染，OC渲染，最佳光照效果，电影感，
+EN：Interior bedroom, modern minimalist style, warm colors, master bedroom, a large bed, the headboard background wall is decorated with white and gold lines, bedside tables, spherical chandeliers, floor-to-ceiling windows, light wooden floors, carpets, natural light, high quality, 8K, rich details, interior design, C4D rendering, OC rendering, best lighting effects, movie feel, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

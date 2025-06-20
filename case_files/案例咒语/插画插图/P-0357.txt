@@ -1,0 +1,3 @@
+CN：手绘，LOGO，油画风格，厚重的笔触，金色和棕色，适用于高端餐饮或艺术画廊，水果静物图案，光影效果，画布纹理背景，古典，高贵，艺术感，
+EN：Hand-painted, LOGO, oil painting style, heavy brushstrokes, gold and brown, suitable for high-end restaurants or art galleries, fruit still life pattern, light and shadow effects, canvas texture background, classical, noble, artistic, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

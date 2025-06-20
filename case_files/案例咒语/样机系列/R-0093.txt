@@ -1,0 +1,3 @@
+CN：一个极简风格的白色相框，边框带有细微的纹理，内部留白，相框斜靠在浅灰色墙面上，投下淡淡的阴影，空白效果图，3D渲染，Keyshot 渲染，高质量模型，用于展示图片或艺术作品，营造艺术展览的氛围。
+EN：A minimalist white picture frame with a subtle texture on the border and a blank interior, leaning against a light grey wall, casting a faint shadow, blank rendering, 3D rendering, Keyshot rendering, high-quality model for displaying pictures or artworks, creating the atmosphere of an art exhibition. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

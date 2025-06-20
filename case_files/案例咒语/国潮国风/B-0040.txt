@@ -1,0 +1,4 @@
+
+CN：敦煌壁画，一个女性，特写，工笔画插图，敦煌，佛教，正面视图，高质量，国色，浅白和浅紫色，精致的细节，
+EN：Dunhuang murals, a woman, close-up, meticulous illustrations, Dunhuang, Buddhism, front view, high quality, national colors, light white and light purple, exquisite details, --q 1 --s 150 --ar 3:4 --v 6 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

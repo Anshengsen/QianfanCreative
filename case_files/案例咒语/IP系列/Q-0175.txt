@@ -1,0 +1,3 @@
+CN：一个可爱的3D造型人物，中国京剧人物，chibi，莫德·刘易斯风格，穿着中国京剧服装，戴着金色头盔，手持红缨枪，3D风格，白色背景，明暗对比，全身，在Cinema 4D中呈现，OC渲染，盲盒设计，工作室灯光，复杂的细节，中国京剧传统配色方案，
+EN：A cute 3D modeling character, Chinese Peking Opera character, chibi, Maud Lewis style, wearing Chinese Peking Opera costume, wearing a golden helmet, holding a red tassel gun, 3D style, white background, chiaroscuro contrast, full body, presented in Cinema 4D, OC rendering, blind box design, studio lighting, intricate details, traditional Chinese Peking Opera color scheme, --q 1 --s 100 --ar 1:1 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

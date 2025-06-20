@@ -1,0 +1,4 @@
+
+CN：一个漂亮的韩国模特，长波浪发，腮红，白皙的皮肤，照片，正面看着相机，表现出自信的情绪，清晰透明的光线，全景，全彩画面，灰白色的纯色背景，
+EN：A beautiful Korean model with long wavy hair, blush, fair skin, photo, looking straight at the camera, showing a confident mood, clear and transparent light, panorama, full color picture, off-white solid background, --q 1 --s 150 --ar 3:4 --v 6 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：美食摄影，照片，西兰花炒蛋饼，两个煎蛋，西兰花点缀，牛油果，俯视视角，暖色调，自然光，浅景深，突出食物的纹理和颜色，构图饱满，食物占据大部分画面，木质背景。
+EN：Food photography, photo, broccoli scrambled eggs, two fried eggs, broccoli garnish, avocado, overhead perspective, warm tones, natural light, shallow depth of field, highlighting the texture and color of the food, full composition, food occupies most of the picture, wooden background. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

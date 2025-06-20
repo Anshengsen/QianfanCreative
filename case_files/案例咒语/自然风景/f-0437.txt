@@ -1,0 +1,3 @@
+CN：傍晚时分，层峦叠嶂的山脉，远山，剪影，宝蓝色调，渐变的天空，橙色到紫色的过渡，自然风光，摄影作品，广角镜头，高动态范围(HDR)，色彩鲜明，光影对比强烈，超高清晰度，8K。
+EN：Mountain ranges at dusk, distant mountains, silhouettes, royal blue tones, gradient sky, transition from orange to purple, nature, photography, wide-angle lens, high dynamic range (HDR), vivid colors, strong contrast of light and shadow, ultra-high definition, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

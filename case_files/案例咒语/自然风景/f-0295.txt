@@ -1,0 +1,3 @@
+CN：秋季山景，湖泊倒影，远景，雪山，红叶，山脉，冷暖对比，自然风光，高饱和度，广角镜头，对称构图，电影级光照，超高清，8K，细节丰富，真实感渲染，艺术摄影
+EN：Autumn mountain scenery, lake reflection, distant view, snow-capped mountains, red leaves, mountain range, cold and warm contrast, natural scenery, high saturation, wide-angle lens, symmetrical composition, movie-level lighting, ultra-high definition, 8K, rich details, realistic rendering, artistic photography --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

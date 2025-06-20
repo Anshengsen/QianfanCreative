@@ -1,0 +1,3 @@
+CN：万圣节主题的3D场景，幽灵，鬼魂，南瓜灯，蜘蛛网，蝙蝠，古堡，月光，浓雾，阴森恐怖，写实风格，高精度建模，光线追踪，全局光照，4K分辨率，超写实渲染，最佳质量，恐怖，悬念，氛围感。
+EN：Halloween-themed 3D scenes, ghosts, spirits, pumpkin lanterns, spider webs, bats, castles, moonlight, thick fog, eerie, realistic style, high-precision modeling, ray tracing, global illumination, 4K resolution, ultra-realistic rendering, best quality, horror, suspense, and atmosphere. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

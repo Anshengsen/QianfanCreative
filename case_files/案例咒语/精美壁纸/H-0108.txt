@@ -1,0 +1,3 @@
+CN：矢量，一只熊猫趴在地上打滚摆烂，黑色线条和白色填充色，白色背景，极简主义，居中构图，卡通，可爱，简笔画，流畅锐利的线条和填充色，
+EN：Vector, a panda rolling on the ground, black lines and white fill color, white background, minimalism, centered composition, cartoon, cute, stick figure, smooth and sharp lines and fill color, --q 1 --s 100 --ar 16:9 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

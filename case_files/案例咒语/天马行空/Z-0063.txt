@@ -1,0 +1,3 @@
+CN：一幅以群山与瀑布和祥云为主题的中秋节黑金插画，山脉、瀑布、河流、落叶松，乌黑色的山脉和金线描边，金粉，落叶松，禅宗，写意，插图，艺术，有机，工笔，
+EN：A black and gold illustration of the Mid-Autumn Festival with mountains, waterfalls and auspicious clouds as the theme, mountains, waterfalls, rivers, larch, black mountains and gold line strokes, gold powder, larch, Zen, freehand, illustration, art, organic, fine brushwork, --q 1 --s 250 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

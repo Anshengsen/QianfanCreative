@@ -1,0 +1,3 @@
+CN：虚幻引擎5，高清辛烷值渲染，高清，在宏伟的中式金色宫殿中，一位威武的年轻皇帝坐在龙椅上，五官清晰，丁达尔光效，暖色调，冷静，身着黑色纹着龙纹的华丽服装，全景，
+EN：Unreal Engine 5, HD Octane Rendering, HD, In a magnificent Chinese golden palace, a mighty young emperor sits on a dragon throne, with clear features, Tyndall lighting effects, warm tones, calm, wearing a gorgeous black costume with dragon patterns, panoramic view, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

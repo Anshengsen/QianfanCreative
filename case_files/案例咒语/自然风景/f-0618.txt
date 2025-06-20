@@ -1,0 +1,3 @@
+CN：火山爆发艺术画作，熔岩，火山灰，浓烟，山脉，夜晚，地热活动，自然灾害，力量感，强烈，炽热，风景，自然，艺术，绘画，高清，4k，8k，超高清，细节丰富，色彩鲜艳，光线追踪，全局照明，大气透视，史诗感
+EN：volcano eruption art painting, lava, ash, smoke, mountains, night, geothermal activity, natural disaster, power, intense, hot, landscape, nature, art, painting, hd, 4k, 8k, ultra hd, detailed, colorful, ray tracing, global illumination, atmospheric perspective, epic --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

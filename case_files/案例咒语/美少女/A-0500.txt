@@ -1,0 +1,4 @@
+CN：动漫风格，肖像，女性角色，可爱，黑色短发，双髻，红唇，身穿白色T恤和黑色短裙，配以白色过膝长筒袜和凉鞋，纯白色背景，最佳品质，超细节，4K画质，
+EN：Anime style, portrait, female character, cute, short black hair, buns, red lips, wearing white T-shirt and black skirt, with white knee-high socks and sandals, pure white background, best quality, super detail, 4K quality, --q 1 --s 100 --ar 3:4 --v 6.0
+（PS：能出全身，因为有鞋子的词影响，但是出全身的质量不高，建议选择半身的再使用Pan工具向下拓展） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

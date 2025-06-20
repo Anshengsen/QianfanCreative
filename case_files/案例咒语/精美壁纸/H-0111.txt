@@ -1,0 +1,3 @@
+CN：矢量，厚涂，彩漫，有光泽，中国漫画，一个动漫帅哥，20岁，现代，霸道总裁范儿，正面，戴墨镜，一只手做出把墨镜向下拉的动作，棱角分明的脸，白皙的皮肤，柳叶眉，穿着蓝色小西装，里面是白色的衬衫，纯欲风，锐利的线条，白皙的皮肤，国潮配色，深蓝色背景，复杂的细节，最佳品质，优雅，
+EN：Vector, thick coating, colorful, glossy, Chinese manga, an anime handsome guy, 20 years old, modern, domineering president Fan'er, front, wearing sunglasses, one hand makes the action of pulling the sunglasses down, angular face, fair skin, willow eyebrows, wearing a small blue suit, inside is a white shirt, pure desire wind, sharp lines, fair skin, Guochao color scheme, dark blue background, complex details, best quality, elegant, --q 5 --s 150 --ar 1080:2400 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

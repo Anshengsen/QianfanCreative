@@ -1,0 +1,3 @@
+CN：音乐节主题的图案设计，涂鸦风格，色彩缤纷，纯黑背景，
+EN：Music festival themed graphic design, graffiti style, colorful, pure black background, --q 1 --s 150 --ar 1:1 --v 6.0 --tile 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

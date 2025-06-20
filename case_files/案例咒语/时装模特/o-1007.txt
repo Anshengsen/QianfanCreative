@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。特写。一个女性，坐姿，双腿交叠，穿着黑白格纹外套，圆领，白色滚边，长袖，宽松版型，黑色内搭，黑色长靴，室内，浅色沙发，自然光，简洁风格。
+EN：Professional photography, 8K, clothing advertising shoot, no face. Close-up. A woman, sitting, legs crossed, wearing a black and white checkered jacket, round collar, white piping, long sleeves, loose fit, black inner wear, black boots, indoors, light-colored sofa, natural light, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

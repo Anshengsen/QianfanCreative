@@ -1,0 +1,3 @@
+CN：3D渲染，半写实，一个身穿粉色的唐代服装的五岁女孩，全身，chibi，中国唐代风格，唐代发型，脸红，坐在地上，正在快乐的吃馒头，中国传统文化，婴儿肥的脸，略显胖嘟嘟的身材，白色背景，
+EN：3D rendering, semi-realistic, a five-year-old girl in pink Tang Dynasty clothing, full body, chibi, Chinese Tang Dynasty style, Tang Dynasty hairstyle, blushing, sitting on the ground, happily eating steamed buns, traditional Chinese culture, baby fat face, slightly chubby body, white background, --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：一群白色的机器人坐在办公桌前打字，现代风格，明亮的，逼真的，
+EN：A group of white robots sat at their desks typing, modern in style, bright and realistic. --q 1 --s 100 --ar 3:2 --v 6.0 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

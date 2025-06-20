@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。一个穿着红色羽绒服的女性，站立姿势，双手自然下垂，宽松版型，连帽设计，大口袋，纯色，背景为室内场景，有百叶窗和木质家具，光线柔和，整体风格休闲，舒适。特写。
+EN：Professional photography, 8K, clothing advertising shooting, no face. A woman in a red down jacket, standing, with her hands hanging naturally, loose version, hooded design, large pockets, solid color, indoor background, with blinds and wooden furniture, soft light, overall casual and comfortable style. Close-up. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

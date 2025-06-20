@@ -1,0 +1,3 @@
+CN：机甲蜘蛛，生物机械风格，金属质感，黑色和红色，夜晚，废弃建筑背景，灯光昏暗，暗角，高清，细节刻画，
+EN：Mecha spider, biomechanical style, metal texture, black and red, night, abandoned building background, dim lights, dark corners, high definition, detailed depiction, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

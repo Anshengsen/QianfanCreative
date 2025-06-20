@@ -1,0 +1,10 @@
+
+CN：一个亚洲美少女，20岁，胶片滤镜照片，照片，专业摄影师拍摄，肖像特写，极其详细的分辨率，最高质量，极致降噪，
+
+EN：A beautiful Asian girl, 20 years old, film filter photos, photos, taken by professional photographers, portrait close-ups, extremely detailed resolution, highest quality, extreme noise reduction, --q 2 --s 180 --ar 3:4 --v 5.2 --style raw --c 0 
+
+PS：风格化强度值（即--s 180）不要改，低了或者高了都会改变风格
+
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,7 @@
+
+CN：一张充满故事的图片，一个特别帅的中国古代男人在瀑布中舞剑，水墨画，武术动作，霜魔法，冰魔法，瀑布，写实，超现实主义，丰富的细节，虚幻引擎渲染，丰富的细节，最高质量，黑色和白色，
+EN：A picture full of stories, a particularly handsome ancient Chinese man dancing swords in a waterfall, ink painting, martial arts movements, frost magic, ice magic, waterfalls, realism, surrealism, rich details, Unreal Engine rendering, rich details, the highest quality, black and white, --q 1 --s 100 --ar 3:4 --niji 5
+
+CN：一张充满故事的图片，一个特别帅的中国古代男人在瀑布中舞剑，水墨画，武术动作，霜魔法，冰魔法，瀑布，写实，超现实主义，丰富的细节，虚幻引擎渲染，丰富的细节，最高质量，
+EN：A picture full of stories, a particularly handsome ancient Chinese man dancing swords in a waterfall, ink painting, martial arts movements, frost magic, ice magic, waterfalls, realism, surrealism, rich details, Unreal Engine rendering, rich details, the highest quality, --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

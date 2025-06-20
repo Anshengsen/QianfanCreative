@@ -1,0 +1,4 @@
+CN：3D渲染模型，卡通风格，一个闹钟，主体颜色为橙色，表盘为白色，指针为棕色，整体造型圆润可爱，黏土材质，表面光滑有光泽，梦幻色彩，OC渲染，工作室照明，光线明亮，白色背景，无阴影，超细节，超品质，3D效果，适合用于时间管理或学习相关的视觉呈现
+EN：3D rendering model, cartoon style, an alarm clock, the main color is orange, the dial is white, the hands are brown, the overall shape is round and cute, clay material, the surface is smooth and shiny, dreamy colors, OC rendering, studio lighting, bright light, white background, no shadows, super details, super quality, 3D effect, suitable for time management or learning related visual presentation --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

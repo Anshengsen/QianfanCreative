@@ -1,0 +1,3 @@
+CN：一位明代年轻学者戴着书生帽，短胡子，英俊，优雅，3D，迪斯尼风格，，明亮的色调，在cinema 4d中呈现，迷人的3D角色插图，白色背景，动画灯光，
+EN：A young Ming Dynasty scholar wearing a scholar hat, short beard, handsome, elegant, 3D, Disney style, bright tones, presented in cinema 4d, charming 3D character illustrations, white background, animated lights, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个中年女性，侧身，微微侧头，面带微笑，自然放松，深棕色卷发，蓬松，披肩，瓜子脸，皮肤白皙，五官精致，长袖上衣，深紫色，灯芯绒材质，宽松版型，翻领设计，纯色，简洁，自然光，柔和，室内环境，背景模糊，温暖氛围。
+EN：Professional photography, 8K, a middle-aged woman, sideways, slightly tilted head, smiling, naturally relaxed, dark brown curly hair, fluffy, shawl, oval face, fair skin, delicate features, long-sleeved top, dark purple, corduroy material, loose version, lapel design, solid color, simple, natural light, soft, indoor environment, blurred background, warm atmosphere. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

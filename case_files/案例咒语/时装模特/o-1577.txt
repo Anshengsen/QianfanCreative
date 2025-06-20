@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，一个人，站立姿势，双腿稍微分开，穿着浅蓝色牛仔裤，裤脚卷起，搭配灰色运动鞋，鞋面有黄色点缀，鞋带为白色，鞋底为白色且有纹理，站在橙色不规则形状的物体上，背景为浅色墙面，室内环境，光线明亮且均匀，焦点在鞋子上，突出鞋子的细节和设计。
+EN：Professional photography, 8K, shoe and boot advertising shoot, no face, one person, standing pose, legs slightly apart, wearing light blue jeans with rolled-up trouser legs, paired with gray sneakers with yellow uppers, white laces, white and textured soles, standing on an orange irregular shaped object, with a light-colored wall in the background, indoor environment, bright and even light, focus on the shoes, highlighting the details and design of the shoes. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

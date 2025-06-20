@@ -1,0 +1,4 @@
+
+CN：一个中国古代的小男孩，独奏，穿着中国明朝时期的服装，旁边有一只巨大的老虎，一幅中国水墨画，邱英、张大千风格，黄白相间，色彩鲜艳、明亮、有光泽，最佳质量，写实，厚涂，
+EN：An ancient Chinese boy, solo, dressed in Chinese Ming Dynasty clothing, next to a huge tiger, a Chinese ink painting, Qiu Ying, Zhang Daqian style, yellow and white, colorful, bright, shiny, the best quality, realistic, thick coating, --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

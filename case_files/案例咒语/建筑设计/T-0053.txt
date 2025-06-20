@@ -1,0 +1,3 @@
+CN：超现实主义，20世纪50年代，建筑像融化的时钟，扭曲的线条和不规则形状，黄昏，暖色调灯光，营造出神秘氛围，达利风格，3D渲染，中景，电影级质感。
+EN：Surrealism, 1950s, buildings like melting clocks, twisted lines and irregular shapes, dusk, warm lighting, creating a mysterious atmosphere, Dali style, 3D rendering, mid-ground, movie-level texture. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

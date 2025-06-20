@@ -1,0 +1,3 @@
+CN：美食摄影，照片，一碗热气腾腾的鲜虾拉面，特写镜头，鲜艳的色彩，丰富的配料，包括大虾、蔬菜和面条，汤汁浓郁，蒸汽缭绕，暖色调，柔和的光线，突出了食物的质感和新鲜度，精美的瓷碗，带有花卉图案，增加了视觉上的吸引力，景深效果，使焦点集中在食物上，营造出温馨诱人的氛围，高分辨率，细节丰富，色彩鲜明。
+EN：Food photography, photo, a steaming bowl of shrimp ramen, close-up, bright colors, rich ingredients including prawns, vegetables and noodles, rich broth with curling steam, warm tones, soft light highlighting the texture and freshness of the food, beautiful porcelain bowl with floral pattern adding visual appeal, depth of field effect keeping the focus on the food, creating a warm and inviting atmosphere, high resolution, rich details and vivid colors. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

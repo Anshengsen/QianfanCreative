@@ -1,0 +1,3 @@
+CN：使用低清晰度、原始游戏风格、模糊的像素网格、深棕色和暗紫色的风格写的单词“Midjourney”，在白色背景上孤立，
+EN：The word "Midjourney" written in a low-def, primitive game style, with a blurred pixel grid, dark brown and dark purple colors, isolated on a white background, --q 1 --s 100 --ar 3:2 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

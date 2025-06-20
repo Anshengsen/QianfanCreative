@@ -1,0 +1,3 @@
+CN：卡通风格，一块四周边缘有着不规则撕痕的浅米色纸张，放置在复古的牛皮纸张背景上，平面构图，柔和光照，棕色线条，日系配色，手绘质感，细节丰富，
+EN：Cartoon style, a piece of light beige paper with irregular tears on the edges, placed on a vintage kraft paper background, flat composition, soft lighting, brown lines, Japanese color matching, hand-painted texture, rich details, --q 1 --s 250 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

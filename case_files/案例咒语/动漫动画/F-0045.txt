@@ -1,0 +1,4 @@
+﻿CN：卡通风格，桌上一台电脑的视觉上惊人的3D可视化，桌上有一个热气腾腾的咖啡杯，一种诱人的生产力和创造力氛围，动画gif风格，干净简单的设计，3D，
+EN：Cartoon style, visually stunning 3D visualization of a computer on a table with a steaming coffee cup on the table, an inviting atmosphere of productivity and creativity, animated gif style, clean and simple design, 3D, --q 1 --s 180 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,5 @@
+﻿CN：这张照片以星空为背景，风格为彩色动画剧照，星际星云组成爱心的形状，深青色和浅洋红色，神秘空间的风格，实验纪录片，uhd图像，深天蓝色和浅灰色，
+EN：This photo is set against the background of the starry sky, in the style of color animated stills, interstellar nebulae composed of the shape of a heart, dark cyan and light magenta, in the style of mysterious space, experimental documentary, uhd image, dark sky blue and light gray, --q 1 --s 100 --ar 16:9 --v 5.2
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

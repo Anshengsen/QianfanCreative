@@ -1,0 +1,2 @@
+CN：科幻电影风格的太空机车，金属质感，复杂的机械结构，外太空星球表面，蓝色和紫色灯光，Octane渲染，高度细节，8K分辨率，电影级质感，强调科技感和未来感。
+EN：A space locomotive in the style of science fiction movies, with metal texture, complex mechanical structure, outer space planet surface, blue and purple lights, Octane rendering, high details, 8K resolution, movie-level texture, emphasizing the sense of technology and the future. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

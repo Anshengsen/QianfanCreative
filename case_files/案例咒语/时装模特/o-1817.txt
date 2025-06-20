@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，短款外套，一体式翻领，落肩袖，长袖，袖口翻边，两侧斜插袋，宽松版型，灰绿色，羊毛混纺材质，纹理细腻，柔和光线，焦点集中于服装，突出材质与细节。
+EN：Professional fashion photography, 8K, front view, white background, short jacket, integrated lapel, dropped shoulder sleeves, long sleeves, cuffs, slanted pockets on both sides, loose fit, gray-green, wool blend material, fine texture, soft light, focus on the clothing, highlighting the material and details. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

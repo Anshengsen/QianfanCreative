@@ -1,0 +1,4 @@
+﻿CN：一个穿着黑色连帽衫的顶级黑客正在敲打笔记本电脑，正面视图，赛博朋克光照明，真实摄影，逼真又丰富的细节，超高质量，UHD，
+EN：A top hacker in a black hoodie is banging on a laptop, front view, cyberpunk light lighting, realistic photography, realistic and rich detail, super high quality, UHD,  --q 1 --s 100 --ar 16:9 --v 6.0 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

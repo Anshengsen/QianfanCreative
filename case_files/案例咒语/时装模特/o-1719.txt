@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，炭灰色，修身连衣裙，细肩带，方领，无袖，短款，合身剪裁，背部拉链，极简风格，纯色背景，柔和影棚光，中心构图，焦点清晰，服装质地细腻，缝线细节可见，整体风格简约时尚。
+EN：Professional fashion photography, 8K, front view, white background, charcoal grey, fitted dress, spaghetti straps, square neckline, sleeveless, short, fitted cut, back zipper, minimalist style, solid background, soft studio light, center composition, sharp focus, fine texture of the garment, visible stitching details, overall simple and stylish style. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

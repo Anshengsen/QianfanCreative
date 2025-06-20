@@ -1,0 +1,3 @@
+CN：真实，逼真，照片，底片，用iPhone 16拍摄的一位日本美女的特写照片，仰头，淡淡的雀斑，逼真的皮肤，硬阴影，专业摄影，
+EN：Real, realistic, photo, negative, close-up photo of a beautiful Japanese woman taken with an iPhone 16, looking up, light freckles, realistic skin, hard shadows, professional photography, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 --style raw  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

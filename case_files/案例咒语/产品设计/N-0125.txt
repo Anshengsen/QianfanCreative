@@ -1,0 +1,3 @@
+CN：产品摄影，黑色手机，放置在岩石上，背景是日落时的山脉，深色调，电影级光照，细节丰富，高分辨率，
+EN：Product photography, black phone on a rock with mountains at sunset in the background, dark tones, cinematic lighting, rich details, high resolution, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

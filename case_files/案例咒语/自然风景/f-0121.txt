@@ -1,0 +1,3 @@
+CN：微距摄影，海浪，水花飞溅，日落，金色阳光，水面反光，动态模糊，高对比度，自然光，暖色调，细节丰富，高清晰度，8K
+EN：Macro photography, ocean waves, water splash, sunset, golden sunlight, water reflections, motion blur, high contrast, natural light, warm tones, rich details, high definition, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

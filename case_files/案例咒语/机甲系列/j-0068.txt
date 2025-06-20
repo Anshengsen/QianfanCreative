@@ -1,0 +1,3 @@
+CN：机甲格斗游戏宣传图，赛博朋克风格，霓虹灯照射下的破败城市背景，雨夜，光线运用高光和阴影突出机甲的金属质感，写实渲染，细节丰富，8K分辨率，机甲外观：棱角分明，充满伤痕，带有发光纹路，蓝色和红色为主色调。
+EN：Promotional poster for a mecha fighting game, cyberpunk style, with a dilapidated city background illuminated by neon lights, a rainy night, and the light uses highlights and shadows to highlight the metal texture of the mecha. Realistic rendering, rich details, 8K resolution, and the appearance of the mecha: angular, full of scars, with luminous lines, and blue and red as the main colors. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：照片，写实，2.5D，一位亚洲女性，黑色长发披肩，精致的脸庞，微笑，身穿黑色V短袖T恤和黑色牛仔短裙，双手插在裙子口袋里，站在河边的石桥上，背景是模糊的山水和建筑。
+EN：Photo, realistic, 2.5D, of an Asian woman, with long black hair draped over her shoulders, delicate face, smiling, wearing a black V-neck short-sleeved T-shirt and a black denim skirt, with her hands in her skirt pockets, standing on a stone bridge by the river, with blurred mountains and buildings in the background. --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

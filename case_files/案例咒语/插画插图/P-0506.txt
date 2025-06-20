@@ -1,0 +1,3 @@
+CN：波普艺术风格插画，蓝色背景，一个人，用煎锅遮住脸，鲜艳色彩，扁平化设计，矢量图形，最佳品质，插画设计，海报风格，创意插画，细节简洁，视觉冲击力，创意插画，时尚元素，超现实，幽默，波普艺术，简约风格，对比强烈，
+EN：Pop art style illustration, blue background, a man covering his face with a frying pan, bright colors, flat design, vector graphics, best quality, illustration design, poster style, creative illustration, simple details, visual impact, creative illustration, fashion elements, surreal, humor, pop art, simple style, strong contrast, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

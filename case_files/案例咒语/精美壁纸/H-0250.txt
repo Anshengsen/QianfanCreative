@@ -1,0 +1,3 @@
+CN：水景，特写，白色睡莲，深绿色荷叶，平静水面，柔和光线，冷色调，垂直构图，自然，宁静，细节丰富。
+EN：Waterscape, close-up, white water lilies, dark green lotus leaves, calm water surface, soft light, cold colors, vertical composition, natural, tranquil, rich details. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：孟菲斯风格的客厅，渲染图，1980s，几何形状家具，撞色设计，波普艺术装饰，明亮灯光，粉色、黄色和蓝色配色，活泼构图，卡通质感，4K，高清，大胆的色彩。
+EN：Memphis style living room, rendering, 1980s, geometric furniture, contrasting colors, pop art decor, bright lighting, pink, yellow and blue color scheme, lively composition, cartoon texture, 4K, HD, bold colors. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

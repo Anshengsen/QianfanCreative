@@ -1,0 +1,4 @@
+﻿CN：抽象光效果，圆形相机镜头，透明PVC材料，纯色背景，中等角度，广角变焦，3D，C4D，octance渲染，blender，自然光，边缘光，复杂的细节，32kuhd，
+EN：Abstract light effects, round camera lens, transparent PVC material, solid background, medium angle, wide-angle zoom, 3D, C4D, octance rendering, blender, natural light, edge light, complex details, 32kuhd, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

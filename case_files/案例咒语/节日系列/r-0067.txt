@@ -1,0 +1,3 @@
+CN：卡通手绘插图，充满活力，老师站在讲台上讲课，前景是三名小学生的背影，书本堆放在讲台上面，周围环绕着绿色植物，柔和的色彩，可爱的风格，扁平，手绘肌理，老师背后的黑板上写着文字“教师节快乐！”，最佳品质，
+EN：Cartoon hand drawn illustration, full of energy, a teacher is standing at the podium giving a lecture, in the foreground are the backs of three primary school students, books are piled on the podium, surrounded by green plants, soft colors, cute style, flat, hand drawn texture, the blackboard behind the teacher has the words "Happy Teacher's Day!", best quality, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：现代简约室内设计，开放式布局，客厅、餐厅一体化，白色和灰色主色调，强调线条感，大理石地面，落地窗，自然光充足，少量绿植点缀，极简家具，金属质感灯具，高级灰地毯，艺术装饰画，干净，整洁，明亮，高品质，8K。
+EN：Modern minimalist interior design, open layout, integrated living room and dining room, white and gray as the main colors, emphasizing the sense of lines, marble floors, floor-to-ceiling windows, plenty of natural light, a small amount of green plants, minimalist furniture, metal lamps, high-grade gray carpet, artistic decorative paintings, clean, tidy, bright, high quality, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

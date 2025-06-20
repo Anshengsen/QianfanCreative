@@ -1,0 +1,3 @@
+CN：使用cinema 4d渲染的可爱中国龙陶瓷摆件，白色身体和金色的鳞片，潮流，时尚，泡泡玛特盲盒玩具风格，全身，白色背景，3D渲染，光滑，最佳品质，
+EN：Cute Chinese dragon ceramic figurine rendered using cinema 4d, white body and golden scales, trendy, fashionable, Pop Mart blind box toy style, full body, white background, 3D rendering, smooth, best quality, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

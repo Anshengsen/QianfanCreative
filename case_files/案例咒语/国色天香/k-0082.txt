@@ -1,0 +1,3 @@
+CN：一个优雅且美丽的中国古代美女，穿着橙色旗袍，戴着华丽的翡翠耳坠，微笑，温文尔雅，正面，服装的图案受敦煌壁画启发，插图风格，2.2D风格，光滑的面部，清晰的发丝，
+EN：An elegant and beautiful ancient Chinese beauty, wearing an orange cheongsam, wearing gorgeous jade earrings, smiling, gentle, front view, the pattern of the clothing is inspired by the Dunhuang murals, illustration style, 2.2D style, smooth face, clear hair, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

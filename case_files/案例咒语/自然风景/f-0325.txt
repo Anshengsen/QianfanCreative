@@ -1,0 +1,3 @@
+CN：翠绿山丘，连绵起伏，柔和曲线，清晨薄雾，弥漫山谷，阳光穿透，光线柔和，明暗对比，层次分明，单个树木，山顶，剪影，自然风光，宁静氛围，广角镜头，低饱和度，电影感，高动态范围，超高清，8K，细节丰富，真实感
+EN：Green hills, rolling hills, soft curves, morning mist, filling the valley, sunlight penetrating, soft light, light and dark contrast, distinct layers, single tree, mountain top, silhouette, natural scenery, tranquil atmosphere, wide-angle lens, low saturation, cinematic feel, high dynamic range, ultra high definition, 8K, rich details, realism --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：动漫风格的美少女，半写实风格，色彩鲜艳，明亮柔和的光线，绿色头发高高扎起，穿着浅色系外套和黑色高领衫，佩戴橙色耳环，面带微笑，眼神清澈，构图简洁，人物居中，背景为白色，风格偏向现代时尚插画，
+EN：Anime-style beautiful girl, semi-realistic style, bright colors, bright and soft light, green hair tied up high, wearing a light-colored coat and a black turtleneck sweater, wearing orange earrings, smiling, clear eyes, simple composition, the character is in the center, the background is white, the style tends to be modern fashion illustration, --q 5 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：有着多个裂缝的岩壁详细的特写照片背景，真实摄影，超高清，湿润的岩壁，UHD，32K，
+EN：Detailed close-up photo background of rock wall with multiple cracks, real photography, ultra high definition, wet rock wall, UHD, 32K,  --q 1 --s 100 --ar 16:9 --v 6.0 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：中国京剧手办，3D，盲盒风格，黏土材质，全身，简单的背景，在cinema 4d中呈现，OC渲染，虚幻引擎渲染，最佳品质，最高质量，丰富的细节，超高分辨率，杰作，
+EN：Chinese Peking Opera figure, 3D, blind box style, clay material, full body, simple background, presented in cinema 4d, OC rendering, Unreal engine rendering, best quality, highest quality, rich detail, super high resolution, masterpiece, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D产品渲染，一款高端的抗老面霜，温暖明亮，自然简约，写实风格，在电商展台上展示，半透明玻璃包装，展示面霜质地，淡蓝色风格，配合树叶阴影显示面霜质感，产品镜头，
+EN：3D product rendering, a high-end anti-aging cream, warm and bright, natural simplicity, realistic style, displayed on the e-commerce booth, translucent glass packaging, showing the texture of the cream, light blue style, with leaf shadows to show the texture of the cream, product lens, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

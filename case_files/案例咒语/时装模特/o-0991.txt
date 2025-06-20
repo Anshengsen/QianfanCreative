@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲女性，站立姿势，身体略微侧向镜头，长发，深棕色，中分，自然垂落，佩戴黑色墨镜，面部表情平静，身穿深蓝色长款羽绒服，衣领竖起，斜挎一个浅色包，下身搭配浅色长裤，背景为雪山，冰湖，天空晴朗，自然光，户外场景，整体风格休闲，保暖。
+EN：Professional photography, 8K, an Asian woman, standing posture, body slightly sideways to the camera, long hair, dark brown, middle part, naturally hanging, wearing black sunglasses, calm facial expression, wearing a dark blue long down jacket with the collar turned up, a light-colored bag slung across her body, and light-colored trousers on the lower body, the background is snow-capped mountains, ice lakes, clear sky, natural light, outdoor scene, the overall style is casual and warm. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

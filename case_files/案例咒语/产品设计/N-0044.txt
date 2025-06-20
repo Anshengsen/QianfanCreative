@@ -1,0 +1,4 @@
+﻿CN：卡通机器人角色形象，3D，虚幻引擎，浅粉色和深蓝色，迷人的角色，正视图，赛博朋克，金属材质，
+EN：Cartoon robot character, 3D, Unreal Engine, light pink and dark blue, charming character, front view, cyberpunk, metal material, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

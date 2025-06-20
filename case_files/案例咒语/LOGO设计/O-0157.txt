@@ -1,0 +1,3 @@
+CN：LOGO，抽象标志，圆形，放射状，六边形，火焰色，渐变色，简约，现代，居中，深色背景，矢量风格，干净利落，高分辨率。
+EN：LOGO, abstract logo, circle, radial, hexagon, flame color, gradient color, simple, modern, centered, dark background, vector style, clean and neat, high resolution. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

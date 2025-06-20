@@ -1,0 +1,3 @@
+CN：动漫风格的女孩头像，半写实风格，侧脸，回头看，短发，齐刘海，黑发，棕色眼睛，淡妆，穿着白色高领上衣，佩戴金色不对称耳环，柔和光线，浅色背景，特写，高清，细腻，柔和的色彩，侧光，侧影，精致的五官，自然发型，时尚感。
+EN：Anime style girl's portrait, semi-realistic style, side face, looking back, short hair, bangs, black hair, brown eyes, light makeup, wearing a white turtleneck top, wearing gold asymmetrical earrings, soft light, light background, close-up, high definition, delicate, soft colors, side light, silhouette, delicate facial features, natural hairstyle, sense of fashion. --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

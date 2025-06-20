@@ -1,0 +1,3 @@
+CN：涂鸦风格插画，各种人物和动物，以及食物和汽车，色彩鲜艳，线条随意，整体风格充满活力和趣味性，具有街头文化和艺术气息，细节包括人物的表情，物品的造型，以及背景中的各种涂鸦元素，最佳品质，8K，手绘感强，适合用于街头艺术或潮流文化，
+EN：Graffiti style illustrations, various characters and animals, as well as food and cars, with bright colors and casual lines. The overall style is full of vitality and fun, with street culture and artistic atmosphere. Details include the expressions of the characters, the shapes of the objects, and various graffiti elements in the background. Best quality, 8K, strong hand-painted feeling, suitable for street art or trendy culture. --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：最小的产品舞台设计，网游场景原画，背景是带有极光的星团，前景是沙粒状的土壤，低角度，高品质，超高细节，超高清，8K，
+EN：Minimal product stage design, original painting of online game scene, background is star cluster with aurora, foreground is sandy soil, low angle, high quality, ultra high detail, ultra high definition, 8K, --q 1 --s 100 --ar 1:1 --v 6.0 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

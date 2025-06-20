@@ -1,0 +1,3 @@
+CN：紫色六边形数字抽象3D背景，有许多六边形，金色边缘，浅紫色和深海军风格，虚幻引擎渲染，3D渲染，霓虹光，赛博朋克渐变色，电影级光照，超品质，超细节，
+EN：Purple hexagon digital abstract 3D background with many hexagons, golden edges, light purple and dark navy style, Unreal Engine rendering, 3D rendering, neon light, cyberpunk gradient color, cinematic lighting, super quality, ultra detail, --q 5 --s 150 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

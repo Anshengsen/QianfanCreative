@@ -1,0 +1,3 @@
+CN：3D，LOGO，液体金属，银色和蓝色，适用于科技或未来主题，抽象形状流动变形，光滑表面反射周围环境，黑色背景，科技感，未来感，动态，
+EN：3D, LOGO, liquid metal, silver and blue, suitable for technology or future themes, abstract shapes flowing and deforming, smooth surface reflecting the surrounding environment, black background, sense of technology, futuristic, dynamic, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D标志设计，水滴形状，白色，立体感，内部镂空，整体风格简约，具有现代感和设计感，细节包括水滴的形状，立体效果，以及镂空的细节，最佳品质，8K，3D渲染，适合用于科技公司或环保组织的品牌标志，红色渐变背景
+EN：3D logo design, water drop shape, white, three-dimensional, hollow inside, simple overall style, modern and design sense, details include the shape of the water drop, three-dimensional effect, and hollow details, best quality, 8K, 3D rendering, suitable for brand logos for technology companies or environmental organizations, red gradient background --s 100 --ar 1:1 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

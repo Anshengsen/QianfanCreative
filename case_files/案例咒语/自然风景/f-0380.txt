@@ -1,0 +1,3 @@
+CN：傍晚时分，城市夜景，莫斯科河，河岸，桥梁，建筑物，灯光倒影，烟囱，深紫色天空，广角镜头，摄影，真实感，光线追踪，高细节，8K
+EN：Evening, city night, Moscow River, riverbank, bridge, buildings, light reflections, chimneys, dark purple sky, wide angle lens, photography, photorealism, ray tracing, high details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

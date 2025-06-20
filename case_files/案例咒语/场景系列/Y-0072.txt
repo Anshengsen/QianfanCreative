@@ -1,0 +1,3 @@
+CN：3D渲染，装配了4090显卡的机箱内部渲染图，装配了360L水箱和霓虹灯排风扇，建模渲染图，英伟达广告宣传海报，黑色高反射背景，3D，最佳品质，
+EN：3D rendering, internal rendering graph of chassis equipped with 4090 graphics card, equipped with 360L water tank and neon exhaust fan, modeling rendering graph, NVIDIA advertising poster, black high reflection background, 3D, best quality, --q 5 --s 180 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

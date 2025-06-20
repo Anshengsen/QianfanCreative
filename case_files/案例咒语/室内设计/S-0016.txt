@@ -1,0 +1,4 @@
+CN：酒店房间设计渲染图，双床，电视，窗帘，室内暖光照明，北欧酒店风格，现代，优雅，最佳品质，效果图，3D渲染，逼真，
+EN：Hotel room design rendering, double bed, TV, curtains, warm interior lighting, Nordic hotel style, modern, elegant, best quality, rendering, 3D rendering, realistic, --q 1 --s 100 --ar 3:2 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

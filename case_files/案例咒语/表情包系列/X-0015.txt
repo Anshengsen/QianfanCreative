@@ -1,0 +1,4 @@
+﻿CN：一组可爱熊猫的表情包，3x3排列布局，3d，粘土材料，穿着连衣裙，红色和黄色，拟人化风格，不同的情绪和表情，白色背景，最佳品质，
+EN：A set of cute panda emojis, 3x3 arrangement, 3d, clay material, wearing a dress, red and yellow, anthropomorphic style, different moods and expressions, white background, best quality, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：手绘水彩风格，一家做婚礼策划的公司LOGO，采用花朵和心形元素，粉色和白色搭配，浪漫唯美，高分辨率，白色背景，
+EN：Hand-painted watercolor style, a wedding planning company logo, using flowers and heart-shaped elements, pink and white combination, romantic and beautiful, high resolution, white background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

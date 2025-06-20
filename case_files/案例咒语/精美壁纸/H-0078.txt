@@ -1,0 +1,4 @@
+﻿CN：动漫美少女，独奏，肖像特写，写实，厚涂，20岁，身着古装，绿色长裙，头发松散，披肩，手里拿着一把绿色长笛，光线追踪，超高分辨率，丰富的细节，最佳品质，绿色风格，
+EN：Anime beautiful girl, solo, portrait close-up, realistic, thickly painted, 20 years old, dressed in period clothes, green dress, loose hair, shawl, holding a green flute in hand, ray tracing, super high resolution, rich details, best quality, green style, --q 1 --s 100 --ar 3:2 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：意大利海滨风光，晴朗天空，蔚蓝海水，远处山脉，近处草地，中景为突出海面的巨大礁石，礁石上建有灰色城堡和教堂，建筑风格古朴，城墙环绕，教堂有尖顶，阳光明媚，色彩鲜艳，自然光，广角镜头，高饱和度，风光摄影，旅行摄影，高质量，8K。
+EN：Italian coastal scenery, clear sky, blue water, mountains in the distance, grass in the near distance, huge reef protruding from the sea in the middle ground, with a gray castle and church built on the reef, simple architectural style, surrounded by city walls, and the church has a spire, sunny, bright colors, natural light, wide-angle lens, high saturation, landscape photography, travel photography, high quality, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

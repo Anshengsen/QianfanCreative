@@ -1,0 +1,3 @@
+CN：皮克斯风格，动画gif风格，橙白色的中国龙宝宝，有趣的表情，正面，采用cinema 4d渲染，红色背景，中国新年元素，毛茸茸的艺术，基思·卡特，迪诺·瓦尔斯，3D，
+EN：Pixar style, animated gif style, orange and white Chinese dragon baby, funny expression, front view, rendered in cinema 4d, red background, Chinese New Year elements, furry art, Keith Carter, Dino Valles, 3D, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

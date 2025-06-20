@@ -1,0 +1,4 @@
+﻿CN：深灰色的3D房子非常详细的图像，等距，哑光照片，多层尺寸，深灰色和白色，3D，
+EN：Dark grey 3D house with very detailed images, isometric, matte photos, multi-layer dimensions, dark grey and white, 3D, --q 1 --s 100 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：一个动漫美少女，独奏，黑色绘画风格，动画片风格，动画剧照，32K，UHD，漫画风格，丰富的细节，最佳质量，明暗对比，风格富有表现力，光泽，
+EN：An anime girl, solo, black painting style, cartoon style, animated stills, 32K, UHD, manga style, rich details, best quality, chiaroscuro, expressive style, glossy, --q 5 --s 250 --ar 3:4 --niji 5
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

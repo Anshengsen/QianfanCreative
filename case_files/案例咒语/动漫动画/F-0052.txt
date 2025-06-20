@@ -1,0 +1,4 @@
+﻿CN：天空中的粉红色太阳，云和水面，浪漫的海景，梦幻般的梦境，uhd图像，浅紫色和洋红色，神秘，浪漫，
+EN：Pink sun, clouds and water in the sky, romantic seascapes, dreamy dreams, UHD images, light purple and magenta, mysterious, romantic, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

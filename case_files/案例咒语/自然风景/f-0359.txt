@@ -1,0 +1,3 @@
+CN：秋日林荫大道，阳光穿透树叶，光线柔和，暖色调，金色光芒，道路延伸，树木成荫，对称构图，电影级光照，自然光，高细节，8K，超高画质，真实感渲染
+EN：Autumn boulevard, sun shining through leaves, soft light, warm tones, golden light, road stretching, tree-lined, symmetrical composition, cinematic lighting, natural light, high detail, 8K, ultra-high quality, photorealistic rendering --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

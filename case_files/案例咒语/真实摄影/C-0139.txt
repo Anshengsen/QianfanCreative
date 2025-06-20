@@ -1,0 +1,4 @@
+﻿CN：来自中国的珍珠奶茶，居中，简单的背景，产品拍摄，高品质，正视图，
+EN：Bubble tea from China, centered, simple background, product shot, high quality, front view, --q 1 --s 100 --v 5.2 --ar 3:4
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

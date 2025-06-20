@@ -1,0 +1,3 @@
+CN：雪山，山峰，冰雪覆盖，暗色调，阴影，云雾缭绕，广角镜头，自然风光，冷峻，高耸，壮丽，航拍视角，电影级光照，超清细节，8K。
+EN：Snow-capped mountains, peaks, ice and snow, dark tones, shadows, mist, wide-angle lens, natural scenery, cold, towering, magnificent, aerial perspective, cinematic lighting, ultra-clear details, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

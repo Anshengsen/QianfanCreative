@@ -1,0 +1,4 @@
+CN：夜景，星空，银河，山脉，薄雾，废弃小屋，木栅栏，冷色调，蓝色，黄色，对比，广角，远景，自然风光，电影感，高细节，8K
+EN：Night scene, starry sky, Milky Way, mountains, mist, abandoned hut, wooden fence, cold tones, blue, yellow, contrast, wide angle, vista, natural scenery, cinematic feel, high detail, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一条牛仔裤，深蓝色，修身直筒，休闲百搭风，白色背景，平铺，正视图，牛仔布料质感清晰，线迹细节清晰，高分辨率，高清渲染，
+EN：A pair of jeans, dark blue, slim straight, casual and versatile style, white background, flat lay, front view, clear texture of denim fabric, clear seam details, high resolution, HD rendering, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个圆形，包含三个标志：比特币、以太坊和索拉纳图像以及一些加密符号，深紫色和浅蓝色的风格，强对角线，科技感，web页面，最佳品质，
+EN：A circle, containing three logos: Bitcoin, Ethereum, and Solana images and some cryptographic symbols, dark purple and light blue styles, strong diagonal, technical sense, web page, best quality, --q 1 --s 180 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

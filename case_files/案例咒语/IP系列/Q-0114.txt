@@ -1,0 +1,31 @@
+CN：穿着黑灰色外套和运动鞋的卡通猫，内衬穿的是蓝色的卫衣，3d，盲盒风格，可爱，三视图，C4D渲染，工作室质量，简单的背景，全身，
+EN：Cartoon cat in black and gray coat and sneakers, lined with blue sweater, 3d, blind box style, cute, three views, C4D rendering, studio quality, simple background, full body, --q 1 --s 100 --ar 3:2 --v 5.2
+（PS：三视图无法精准匹配，该套咒语使用了2次局部重绘生成修改视图，最终得出三视图）
+
+第一次使用：
+CN：穿着黑灰色外套和运动鞋的卡通猫，内衬穿的是蓝色的卫衣，3d，盲盒风格，可爱，三视图，C4D渲染，工作室质量，简单的背景，全身，
+EN：Cartoon cat in black and gray coat and sneakers, lined with blue sweater, 3d, blind box style, cute, three views, C4D rendering, studio quality, simple background, full body, --q 1 --s 100 --ar 3:2 --v 5.2
+
+第二次使用：
+出图后选择一张进行放大，然后使用局部重绘功能的框选工具选择其中一个视图，然后修改关键词如下：
+CN：穿着黑灰色外套和运动鞋的卡通猫，内衬穿的是蓝色的卫衣，3d，盲盒风格，可爱，背面，后视图，C4D渲染，工作室质量，简单的背景，全身，
+EN：Cartoon cat in black and gray coat and sneakers, lined with blue sweater, 3d, blind box style, cute, back, rear view, C4D rendering, studio quality, simple background, full body, --q 1 --s 100 --ar 3:2 --v 5.2 
+
+第三次使用：
+第一次重绘出图后选择一张进行放大，然后再次使用局部重绘功能的框选工具选择其中一个视图，然后修改关键词如下：
+CN：穿着黑灰色外套和运动鞋的卡通猫，内衬穿的是蓝色的卫衣，3d，盲盒风格，可爱，侧身照，侧视图，C4D渲染，工作室质量，简单的背景，全身，
+EN：Cartoon cat in black and gray coat and sneakers, lined with blue sweater, 3d, blind box style, cute, side photo, side view, C4D rendering, studio quality, simple background, full body, --q 1 --s 100 --ar 3:2 --v 5.2 
+
+
+特别提示：
+有几个重要的点主要注意：
+0）首次出图务必使用三视图/three views；
+1）三视图需要多次使用局部重绘转换视图，MJ会识别姿态和外观进行重绘，会直接锁定我们选择的IP外观；
+2）默认视图（正面，正视图/front, Front view）；
+3）重绘视图（背面，后视图/Back, rear view）；
+4）再次重绘（侧身照，侧视图/Side photo, side view）；
+5）在重绘时，必须要框选其中一个视图，除了视图以外的词和参数保持不变；
+6）在生图三视图时，图片纵横比务必要选择横版，推荐使用3:2；
+7）出图模型请使用v 5.2，其他模型无法识别匹配；
+8）关于IP形象的其他控图问题可联系我们技术支持：403438119@qq.com； 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

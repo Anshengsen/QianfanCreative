@@ -1,0 +1,3 @@
+CN：3D渲染，小雪节气，夜晚，中国古代的书房场景，温暖的灯光，书桌上堆满书籍，窗外飘雪，一位古代的学者在读书，安静的氛围，暖色调，细节丰富，逼真，8K，超高清，电影级光照，写实，
+EN：3D rendering, Xiaoxue solar term, night, ancient Chinese study scene, warm lights, books piled on the desk, snow outside the window, an ancient scholar reading, quiet atmosphere, warm colors, rich details, realistic, 8K, ultra high definition, movie-level lighting, realism, --q 5 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

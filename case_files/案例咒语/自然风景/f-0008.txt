@@ -1,0 +1,3 @@
+CN：用于奥迪A8的宣传，一辆黑色的奥迪A8轿车停在雪山下的公路上，临近傍晚，史诗般的地平线，景色壮观，电影级照片，逼真，滤镜，超清品质，最高质量，
+EN：For Audi A8 promotion, a black Audi A8 sedan parked on the road under the snowy mountains, near dusk, epic horizon, spectacular scenery, movie-level photo, realistic, filter, ultra-clear quality, highest quality, --q 1 --s 200 --ar 3:2 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

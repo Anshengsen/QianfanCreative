@@ -1,0 +1,3 @@
+CN：空白效果图，iPhone 8，黑色，倾斜视角，正面展示，屏幕全黑，实体Home键，简约风格，灰色背景，产品渲染，高光，阴影，细节清晰，8K
+EN：Blank rendering, iPhone 8, black, tilted view, front view, all black screen, physical Home button, minimalist style, gray background, product rendering, highlights, shadows, clear details, 8K --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

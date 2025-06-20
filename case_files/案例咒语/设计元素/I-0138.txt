@@ -1,0 +1,3 @@
+CN：一组海洋动物的贴纸，九宫格排版，儿童书籍插图风格，卡通风格，矢量风格，白色背景，
+EN：A set of marine animal stickers, Jiugongge typography, children's book illustration style, cartoon style, vector style, white background, --q 1 --s 100 --ar 1:1 --v 6.0 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

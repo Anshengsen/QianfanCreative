@@ -1,0 +1,3 @@
+CN：产品摄影，蓝色透明精华瓶，黑色滴管，放置在水面上，周围有黑色岩石，背景是蓝天白云，清新风格，细节丰富，高分辨率，水面波纹清晰，瓶身质感通透，岩石纹理粗糙
+EN：Product photography, blue transparent essence bottle, black dropper, placed on the water, surrounded by black rocks, blue sky and white clouds in the background, fresh style, rich details, high resolution, clear ripples on the water, transparent bottle texture, rough rock texture --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

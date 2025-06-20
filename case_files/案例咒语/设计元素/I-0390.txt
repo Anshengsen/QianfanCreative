@@ -1,0 +1,4 @@
+CN：3D渲染数字，卡通风格，数字“51”，主体为蓝色霓虹灯效果，周围环绕着绿色植物，一朵黄色向日葵点缀其中，整体造型活泼有趣，黏土材质，表面光滑有光泽，梦幻色彩，OC渲染，工作室照明，光线明亮，白色背景，无阴影，超细节，超品质，3D效果，适合用于节日促销或活动宣传相关的视觉呈现
+EN：3D rendering of numbers, cartoon style, number "51", the main body is blue neon effect, surrounded by green plants, a yellow sunflower embellished in it, the overall shape is lively and interesting, clay material, smooth and shiny surface, dreamy colors, OC rendering, studio lighting, bright light, white background, no shadows, super details, super quality, 3D effect, suitable for visual presentation related to holiday promotions or event publicity --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

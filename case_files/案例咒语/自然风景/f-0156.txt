@@ -1,0 +1,3 @@
+CN：雪地峡谷夜景，极光，星空，一人站立于峡谷中央，手持光源向上照射，照亮两侧岩壁，岩壁呈现蓝绿色调，积雪覆盖，冷色调，广角镜头，对称构图，电影级光照，史诗感，超广角，8K，超高细节，最佳质量
+EN：Snowy canyon at night, aurora, starry sky, a person standing in the middle of the canyon, holding a light source and shining upwards, illuminating the rock walls on both sides, the rock walls appear blue-green, covered with snow, cold colors, wide-angle lens, symmetrical composition, movie-level lighting, epic feeling, ultra-wide angle, 8K, ultra-high details, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

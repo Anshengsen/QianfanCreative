@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，一件海军蓝色的POLO领连衣裙，短袖，A字裙摆，长度及膝，三粒扣门襟，面料具有轻微纹理感，整体风格休闲、优雅，光线均匀柔和，焦点清晰集中于服装。
+EN：Professional fashion photography, 8K, front view, white background, a navy blue polo neck dress, short sleeves, A-line skirt, knee-length, three-button placket, the fabric has a slight texture, the overall style is casual and elegant, the light is even and soft, and the focus is clear on the clothing. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

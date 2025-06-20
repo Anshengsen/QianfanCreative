@@ -1,0 +1,3 @@
+CN：模特摄影，亚洲人，女性，中年，短马尾，自然垂落，面无表情，白色渐变背景，身穿蓝色针织衫，圆领，宽松，长袖，白色直筒休闲裤，站立姿势，正面，棚拍，柔光，高清，
+EN：Model photography, Asian, female, middle-aged, short ponytail, naturally hanging, expressionless, white gradient background, wearing blue sweater, round neck, loose, long sleeves, white straight casual pants, standing pose, front view, studio shot, soft light, HD, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

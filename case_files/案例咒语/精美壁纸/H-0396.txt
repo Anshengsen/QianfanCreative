@@ -1,0 +1,3 @@
+CN：2.5D，虚幻引擎5，女孩，精致五官，水蓝色挑染短发，蓬松，发丝飞扬，蓝色眼眸，精致耳饰，黑色上衣，夜空背景，星光点缀，城市夜景模糊背景，光影效果，电影感，最佳画质，超细节。
+EN：2.5D, Unreal Engine 5, girl, delicate features, short hair with aqua highlights, fluffy, flying hair, blue eyes, delicate earrings, black top, night sky background, starry sky, blurred city night scene background, light and shadow effects, movie feel, best picture quality, ultra-details. --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

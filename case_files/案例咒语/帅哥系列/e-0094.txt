@@ -1,0 +1,3 @@
+CN：动漫插图，角色设计，背对着镜头，戴着兜帽的未来派人物角色，霓虹边缘光，纯白背景，最佳品质，
+EN：Anime illustration, character design, futuristic man character with hood and back to camera, neon edge light, pure white background, best quality, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

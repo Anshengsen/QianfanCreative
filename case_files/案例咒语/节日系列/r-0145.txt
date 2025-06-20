@@ -1,0 +1,3 @@
+CN：3D渲染，中国新年主题封面图设计，红色背景，两个卡通形象，左侧为白色猫咪，头戴金色龙角头饰，手持红色卷轴，右侧为红色龙头卡通形象，金色身体，动态姿势，背景有金色烟花图案，整体风格可爱，喜庆，色彩鲜明，细节丰富，光影效果自然，最佳品质，8K。
+EN：3D rendering, Chinese New Year themed cover design, red background, two cartoon characters, a white cat on the left, wearing a golden dragon horn headdress, holding a red scroll, and a red dragon head cartoon character on the right, with a golden body and dynamic poses, and a golden fireworks pattern in the background. The overall style is cute and festive, with bright colors, rich details, and natural light and shadow effects. Best quality, 8K. --q 5 --s 100 --ar 3:5 --niji 6 --profile v21i75s 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

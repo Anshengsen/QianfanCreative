@@ -1,0 +1,3 @@
+CN：一个美丽的中国女孩，双手拿着小红旗，穿着红色的汉服，站在天安门广场前，微笑，景深，特写，手绘，锐利流畅的线条，超品质，超细节，8K，
+EN：A beautiful Chinese girl, holding small red flags in both hands, wearing red Hanfu, standing in front of Tiananmen Square, smiling, depth of field, close-up, hand-painted, sharp and smooth lines, super quality, super details, 8K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize hc2nqbd 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

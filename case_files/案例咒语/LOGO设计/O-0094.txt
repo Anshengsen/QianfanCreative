@@ -1,0 +1,3 @@
+CN：水墨风格，中国风茶馆LOGO，水墨画元素，茶叶和茶杯元素，淡雅色彩，中国风韵味，高分辨率，米黄色背景，
+EN：Ink style, Chinese teahouse LOGO, ink painting elements, tea and teacup elements, elegant colors, Chinese style, high resolution, beige background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

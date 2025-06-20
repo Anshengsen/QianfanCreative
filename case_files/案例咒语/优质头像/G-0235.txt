@@ -1,0 +1,3 @@
+CN：动漫风格，一个古灵精怪的动漫风格的4岁小女孩，可爱，搞怪，4岁，简单的细节，动漫风格，灰黑色配色，戴着墨镜贴近镜头的左上角形成对角线构图，一只手把眼镜向下拉做出耍酷的动作，超特写，锐利的线条，简单的细节，最佳品质，白色背景，
+EN：Anime style, a quirky anime-style 4-year-old girl, cute, funny, 4 years old, simple details, anime style, gray-black color scheme, wearing sunglasses close to the upper left corner of the lens to form a diagonal composition, one hand pulls the glasses down to make cool movements, super close-ups, sharp lines, simple details, best quality, white background, --q 1 --s 100 --ar 1:1 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

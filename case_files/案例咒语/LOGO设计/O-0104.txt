@@ -1,0 +1,3 @@
+CN：3D，LOGO，玻璃材质，透明质感，蓝色和绿色渐变，适用于环保或清洁能源公司，水滴形状，光线穿透产生折射效果，白色背景，晶莹剔透，科技感，未来感，
+EN：3D, LOGO, glass material, transparent texture, blue and green gradient, suitable for environmental protection or clean energy companies, water drop shape, light penetration produces refraction effect, white background, crystal clear, sense of technology, futuristic, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

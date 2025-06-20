@@ -1,0 +1,3 @@
+CN：一个新闻联播主持人，韩国明星，美丽的女人，淡妆，耳饰，豆沙色口红色号，盘发，干练，正面，面对镜头，身穿白色西装，电影光线效果，纯黑色背景，写实，照片，
+EN：A news anchor, a Korean star, a beautiful woman, light makeup, earrings, bean paste lipstick color, hair in a bun, capable, front, facing the camera, wearing a white suit, movie light effect, pure black background, realistic, photo, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

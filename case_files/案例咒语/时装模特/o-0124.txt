@@ -1,0 +1,3 @@
+CN：全身人像，女性，白种人，浅棕色直发，及肩，中分，自然垂落，平静表情，微笑，直视镜头，白色短袖T恤，浅绿色高腰阔腿裤，斜向交叉腰部设计，黑色平底皮鞋，笔直站姿，双臂自然下垂，纯白色背景，柔和光线，均匀照明，简约风格，时尚，日常穿搭，摄影棚，最佳品质，8K，超细节。
+EN：Full body portrait, female, Caucasian, light brown straight hair, shoulder length, middle part, naturally falling, calm expression, smiling, looking directly at the camera, white short-sleeved T-shirt, light green high-waisted wide-leg pants, diagonal cross waist design, black flat leather shoes, standing straight, arms hanging naturally, pure white background, soft light, even lighting, simple style, fashion, daily wear, studio, best quality, 8K, ultra-detailed. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

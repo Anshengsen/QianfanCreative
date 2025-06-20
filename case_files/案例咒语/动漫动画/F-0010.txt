@@ -1,0 +1,5 @@
+
+CN：卡通狗头特写，卡通，可爱，迪士尼风格，极简主义，极致降噪，16K，淡紫色渐变背景，最高质量，
+
+EN：Cartoon dog head close-up, cartoon, cute, Disney style, minimalism, extreme noise reduction, 16K, lavender gradual change background, highest quality, --q 2 --s 250 --ar 3:4 --v 5.2 --style raw --fast 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

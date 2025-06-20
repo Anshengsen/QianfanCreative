@@ -1,0 +1,3 @@
+CN：抽象的火焰背景图，画布下方是暗红色的纯色，画布上方是燃烧的火焰，抽象的表现主义，抽象，表现主义，高品质，高细节，4K画质，炸开的火星点点，
+EN：Abstract flame background, the bottom of the canvas is a dark red solid color, the top of the canvas is a burning flame, abstract expressionism, abstract, expressionism, high quality, high detail, 4K quality, exploding sparks, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

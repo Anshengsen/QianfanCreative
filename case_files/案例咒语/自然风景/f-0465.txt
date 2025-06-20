@@ -1,0 +1,3 @@
+CN：广阔山谷全景，清晨薄雾，翠绿山坡，茂密树林，远处雪山，晴朗蓝天，阳光明媚，自然光照，高饱和度，电影级画质，超广角，航拍视角，8K，超高清细节，真实感渲染，自然风光摄影
+EN：Wide valley panorama, morning mist, green hillside, dense forest, snow-capped mountains in the distance, clear blue sky, bright sunshine, natural lighting, high saturation, movie-level image quality, ultra-wide angle, aerial perspective, 8K, ultra-high-definition details, realistic rendering, natural scenery photography --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

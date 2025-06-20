@@ -1,0 +1,3 @@
+CN：简单的手绘风格，可爱的中国龙，居中构图，搞笑的动作，流畅的深棕色线条和淡橙色，白色背景，
+EN：Simple hand-drawn style, cute Chinese dragon, centered composition, funny action, smooth dark brown lines and light orange, white background, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

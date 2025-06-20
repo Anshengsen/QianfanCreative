@@ -1,0 +1,3 @@
+CN：美食摄影，照片，圆形巧克力蛋糕，奶油淋面，巧克力酱淋面，草莓，蓝莓，猕猴桃切片，橙子切片，黑色背景，柔和光线，暖色调，高饱和度，景深，美食摄影棚灯光，8K，超高分辨率，细节丰富
+EN：Food photography, photo, round chocolate cake, cream glaze, chocolate sauce glaze, strawberries, blueberries, kiwi slices, orange slices, black background, soft light, warm tones, high saturation, depth of field, food photography studio lighting, 8K, ultra-high resolution, rich details --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

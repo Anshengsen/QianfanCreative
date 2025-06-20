@@ -1,0 +1,3 @@
+CN：3D产品展台渲染，特写，超级超级特写，明暗对比，3D渲染，最佳品质，8K，超级降噪，
+EN：3D product booth rendering, close-up, super super close-up, light and dark contrast, 3D rendering, best quality, 8K, super noise reduction, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

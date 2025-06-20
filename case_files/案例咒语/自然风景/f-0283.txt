@@ -1,0 +1,3 @@
+CN：秋日森林小径，长长的林荫道，两旁是高大的树木，树叶呈橙红色，阳光透过树叶，形成光束效果，地面铺有少量落叶，道路尽头有光亮，色彩浓郁，暖色调，对称构图，自然风光，摄影，高质量，8K
+EN：Autumn forest trail, long tree-lined path, tall trees with orange-red leaves, sunlight shining through leaves, light beam effect, a few fallen leaves on the ground, light at the end of the path, rich colors, warm tones, symmetrical composition, natural scenery, photography, high quality, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

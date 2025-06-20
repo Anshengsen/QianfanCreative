@@ -1,0 +1,4 @@
+﻿CN：3D，一个黑色短发的男孩，穿着白色连帽衫，他的背后有一双天使翅膀，白色背景，全身，正视图，盲盒风格，
+EN：3D, a boy with short black hair, wearing a white hoodie with a pair of angel wings on his back, white background, full body, front view, blind box style, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

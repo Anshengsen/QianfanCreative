@@ -1,0 +1,3 @@
+CN：古典风格机甲，骑士盔甲，金属质感，金色和黑色，阳光照射，古堡庭院，绿树成荫，写实风格，高清，8K，细节刻画，
+EN：Classical style mecha, knight armor, metal texture, gold and black, sunlight, castle courtyard, green trees, realistic style, HD, 8K, detailed depiction, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

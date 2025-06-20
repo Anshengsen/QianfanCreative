@@ -1,0 +1,3 @@
+CN：苏格兰高地风光，日落时分，紫色石楠花，山峰，湖泊，远山，云彩，暖色调，橙红色天空，自然光，广角镜头，高角度俯拍，风景摄影，高饱和度，高清晰度，8K
+EN：Scottish Highlands scenery, sunset, purple heather, peaks, lakes, distant mountains, clouds, warm tones, orange-red sky, natural light, wide-angle lens, high-angle overhead shot, landscape photography, high saturation, high definition, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

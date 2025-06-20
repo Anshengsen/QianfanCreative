@@ -1,0 +1,3 @@
+CN：清晨，宁静的湖面，薄雾，阳光穿透树林，光束，倒影，对称构图，自然风光，电影级光照，超广角，8K，超高清，最佳画质，细节丰富，掠影，
+EN：Early morning, tranquil lake, mist, sunlight penetrating the woods, light beams, reflections, symmetrical composition, natural scenery, cinematic lighting, ultra-wide angle, 8K, ultra-high definition, best picture quality, rich details, glimpse, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

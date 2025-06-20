@@ -1,0 +1,3 @@
+CN：万圣节派对场景插画，一群穿着奇装异服的孩子，糖果，南瓜，蜘蛛网，蝙蝠，鬼魂，城堡背景，月光，梦幻，童趣，水彩风格，明亮色彩，柔和光线，细节丰富，笔触细腻，8K分辨率，最佳画质，
+EN：Halloween party scene illustration, a group of children in strange costumes, candy, pumpkins, spider webs, bats, ghosts, castle background, moonlight, fantasy, childlike, watercolor style, bright colors, soft light, rich details, delicate brushstrokes, 8K resolution, best picture quality, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

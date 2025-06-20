@@ -1,0 +1,3 @@
+CN：矢量插图，大鼓，红色的鼓面，淡黄色的鼓身，矢量，中国风配色方案，最佳品质，白色背景，
+EN：Vector illustration, big drum, red drum surface, light yellow drum body, vector, Chinese style color scheme, best quality, white background, --q 1 --s 50 --ar 1:1 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

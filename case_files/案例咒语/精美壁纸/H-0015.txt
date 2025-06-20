@@ -1,0 +1,4 @@
+﻿CN：游戏角色，一个十分美丽的少女，独奏，紫色眼睛，发光的眼睛，黑色长发，犀利的眼神，锁骨，暗色系，游戏光效，
+EN：Game character, a very beautiful girl, solo, purple eyes, glowing eyes, long black hair, sharp eyes, collarbone, dark color, game light effect, --q 1 --s 100 --ar 3:2 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：中国风，工笔画，华丽，精致，红色和蓝色，一个穿着中国传统服饰的女子，黑色长发，精致的妆容，环境光，半身，最佳品质，超细腻。
+EN：Chinese style, meticulous painting, gorgeous, exquisite, red and blue, a woman in traditional Chinese clothing, long black hair, exquisite makeup, ambient light, half body, best quality, super delicate. --q 5 --s 50 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

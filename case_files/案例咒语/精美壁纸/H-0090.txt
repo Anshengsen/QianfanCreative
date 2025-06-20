@@ -1,0 +1,4 @@
+﻿CN：古风，中国风，民间艺术，戏曲，少女，红妆艳抹，深蓝色花纹的戏服，乌黑秀丽的长发，头戴精美的蓝色发箍，眼影微红，红唇，超高分辨率，8k，光影细节丰富，精美的CG，梦幻，复古，民族风，彩漆，油画，
+EN：Ancient style, Chinese style, folk art, opera, girl, bright red makeup, dark blue costume, long black and beautiful hair, exquisite blue headband, reddish eyeshadow, red lips, super high resolution, 8k, rich light and shadow details, exquisite CG, dream, retro, ethnic style, paint, oil painting, --q 1 --s 100 --ar 3:2 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

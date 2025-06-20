@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲男性，站立姿势，身体略微侧向镜头，双腿分开，黑色短发，发型利落，佩戴黑色墨镜，面部表情平静，穿着一件橙色羽绒服，拉链闭合，内搭黑色高领毛衣，下身搭配深色牛仔裤，整体风格休闲，背景为模糊的室外场景，光线自然，整体氛围时尚，精致。
+EN：Professional photography, 8K, an Asian male, standing pose, body slightly sideways to the camera, legs apart, short black hair, neat hairstyle, wearing black sunglasses, calm facial expression, wearing an orange down jacket with zipper closed, a black turtleneck sweater inside, and dark jeans on the bottom, the overall style is casual, the background is a blurred outdoor scene, the light is natural, and the overall atmosphere is fashionable and exquisite. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：儿童着色书封面设计，内容是三个好奇的孩子，2个女孩和1个男孩，着色书设计，鲜艳明亮的颜色，背景是沙滩森林，流畅的线条，超丰富的细节，矢量，
+EN：Children's coloring book cover design featuring three curious kids, 2 girls and 1 boy, coloring book design, bright and vivid colors, beach forest in the background, smooth lines, super rich details, vector, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

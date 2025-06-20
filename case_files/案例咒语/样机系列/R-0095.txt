@@ -1,0 +1,3 @@
+CN：一部全新的智能手机，屏幕为空白，金属边框反射着周围环境的光线，平放在干净的白色桌面上，旁边放着一根数据线，空白效果图，3D渲染，Keyshot，科技感，
+EN：A brand new smartphone with a blank screen and a metal frame reflecting the ambient light, lying flat on a clean white desk with a data cable next to it, blank rendering, 3D rendering, Keyshot, sense of technology, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

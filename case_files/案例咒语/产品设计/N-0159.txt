@@ -1,0 +1,3 @@
+CN：产品摄影，金色香水瓶，黑色瓶盖，金色背景，镜面反射，金色闪光，自然光，8K，超高质量，细节丰富，玻璃质感，光线折射，奢华，生日主题，
+EN：Product photography, gold perfume bottle, black cap, gold background, mirror reflection, gold glitter, natural light, 8K, ultra high quality, rich details, glass texture, light refraction, luxury, birthday theme, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

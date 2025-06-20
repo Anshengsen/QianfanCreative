@@ -1,0 +1,3 @@
+CN：美食摄影，照片，烤鲑鱼排，葱花点缀，芝麻，酱汁，配菜有绿色蔬菜和橙子切片，深色酱汁勾边，浅色餐盘，黑色酱油碟，白色背景，暖色调，自然光，俯视角度，特写镜头，高清晰度，色彩鲜明，食物纹理清晰，日式料理风格
+EN：Food photography, photo, grilled salmon steak, garnished with chopped green onions, sesame seeds, sauce, garnished with green vegetables and orange slices, dark sauce rim, light plate, black soy sauce dish, white background, warm colors, natural light, top view, close-up, high definition, vivid colors, clear food textures, Japanese cuisine style --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D渲染，特写，一个用巧克力釉面和粉色和米色糖霜装饰的甜甜圈形状的字母“Q”，白色背景，工作室灯光，逼真，高品质。
+EN：3d rendering, close-up, letter "Q" in the shape of a donut decorated with chocolate glaze and pink and beige icing, white background, studio lighting, realistic, high quality. --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

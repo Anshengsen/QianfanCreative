@@ -1,0 +1,3 @@
+CN：动漫风格情侣，中景，长焦镜头，商业街背景，男士西装革履，灰色短发，眼神深邃，女士长发披肩，淡妆，蓝色眼睛，穿着时尚，两人并肩而立，看向镜头，背景为现代都市建筑，光线明亮，2D渲染，厚涂风格，柔和光线，最佳质量，超精细，8K，电影感，景深效果。
+EN：Anime style couple, medium shot, telephoto lens, commercial street background, man in a suit, short grey hair, deep eyes, woman with long hair, light makeup, blue eyes, fashionable clothes, standing side by side, looking towards the camera, modern urban buildings in the background, bright light, 2D rendering, thick coating style, soft light, best quality, ultra-fine, 8K, cinematic, depth of field effect. --q 1 --s 100 --ar 3:2 --niji 6 --profile v21i75s 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

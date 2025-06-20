@@ -1,0 +1,3 @@
+CN：粉色玫瑰，冰霜覆盖，花朵特写，柔和光线，梦幻氛围，精致细节，唯美风格，浅景深，朦胧背景，高分辨率，8k，摄影作品，艺术感，自然光，柔和色调。
+EN：Pink rose, frost covered, flower close-up, soft light, dreamy atmosphere, exquisite details, aesthetic style, shallow depth of field, hazy background, high resolution, 8k, photography, artistic sense, natural light, soft tones. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

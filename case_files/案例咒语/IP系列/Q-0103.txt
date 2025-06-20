@@ -1,0 +1,4 @@
+﻿CN：西游记中的男性角色，哪吒，2个包子发型，身穿中国古代盔甲，手持长枪，3D渲染，中国风，卡通角色设计，卡通，简单背景，3d，虚幻引擎，正面，特写，最佳品质，
+EN：Male characters in Journey to the West, Nezha, 2 bun hairstyles, wearing ancient Chinese armor, holding a long gun, 3D rendering, Chinese style, cartoon character design, cartoon, simple background, 3d, Unreal Engine, front, close-up, best quality, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

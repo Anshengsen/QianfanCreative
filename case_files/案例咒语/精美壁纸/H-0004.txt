@@ -1,0 +1,4 @@
+﻿CN：雨后的路面，傍晚，霓虹灯照明，赛博朋克，中国朋克，地面特写，低角度，
+EN：Pavement after rain, evening, neon lighting, cyberpunk, Chinese punk, ground close-up, low angle, --q 1 --s 100 --v 5.2 --ar 16:9
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

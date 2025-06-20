@@ -1,0 +1,3 @@
+CN：巴洛克风格的客厅，渲染图，17世纪，繁复雕花家具，金色装饰，天鹅绒窗帘，水晶吊灯，暖黄色灯光，金色、白色和红色配色，华丽构图，油画质感，8K，超高清，金碧辉煌。
+EN：Baroque-style living room, rendering, 17th century, intricately carved furniture, gold decorations, velvet curtains, crystal chandeliers, warm yellow lights, gold, white and red color scheme, gorgeous composition, oil painting texture, 8K, ultra-high definition, magnificent. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

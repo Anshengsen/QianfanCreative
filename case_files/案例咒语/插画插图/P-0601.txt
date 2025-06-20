@@ -1,0 +1,3 @@
+CN：复古肌理插画风格，噪点纹理，做旧感，灰调配色，灰色背景，米白色连衣裙，棕色帽子，黑色猫咪，蓝色茶杯，橙色橘子，极简抽象，细节包括猫咪的领结，桌布的褶皱，人物的姿态，整体画面安静温馨，色彩复古，最佳品质，8K，模拟纸张质感，颗粒感，柔和光线
+EN：Retro texture illustration style, noise texture, distressed feeling, gray color scheme, gray background, off-white dress, brown hat, black cat, blue teacup, orange tangerine, minimalist abstraction, details include the cat's bow tie, the folds of the tablecloth, the posture of the characters, the overall picture is quiet and warm, the colors are retro, the best quality, 8K, simulated paper texture, grainy, soft light --s 100 --ar 9:16 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

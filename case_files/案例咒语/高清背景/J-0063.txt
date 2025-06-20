@@ -1,0 +1,5 @@
+
+CN：由相同大小的几何体平铺成的背景图，2.5D，等距，浅蓝色和淡紫色，渐变颜色，现代，简单，图案设计，最佳质量，高品质，16K，
+
+EN：Tiled by the same size geometry background cover, 2.5D, isometric, light blue and lavender, gradual change of color, modern, simple, pattern design, best quality, high quality, 16K, --q 5 --s 180 --ar 3:4 --v 5.2 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

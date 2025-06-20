@@ -1,0 +1,3 @@
+CN：美式卡通风格头像，一个女孩，黑色长发，蓝色大眼睛，脸颊泛红，耳朵里戴着无线耳机，穿着蓝色条纹上衣，背景是白色，整体风格简约，色彩明快，线条粗犷，具有现代感，最佳品质，8K，适合作为社交媒体头像
+EN：American cartoon style avatar, a girl with long black hair, big blue eyes, rosy cheeks, wireless headphones in her ears, wearing a blue striped top, the background is white, the overall style is simple, bright colors, bold lines, modern, best quality, 8K, suitable as a social media avatar --q 1 --s 30 --ar 1:1 --niji 6 --profile hrqrh1e 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：克莱因蓝色纯色背景，一只毛茸茸的白猫坐在桌前使用笔记本电脑，生气的表情，电脑旁边放着一杯茶，绘画风格为写意风格，扁平，笔触松散且潦草，色彩柔和，
+EN：Klein blue solid background with a fluffy white cat sitting at a desk using a laptop with an angry expression, a cup of tea next to the computer, painted in a freehand style, flat, loose and sloppy brushstrokes, soft colors, --q 1 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq --no indoor environment 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

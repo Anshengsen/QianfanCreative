@@ -1,0 +1,3 @@
+CN：国漫，中国漫画，美少女，乌黑亮丽的长发盘成精致的发髻，穿着华丽的白色金边丝绸汉服，右手轻扶着古筝，左手拿着古风的玉佩，眼神温柔，背景是水墨风格的山水画，细节刻画精细，色彩淡雅，富有中国传统文化的韵味。
+EN：Guoman, Chinese comics, a beautiful girl, with long black and shiny hair tied into an exquisite bun, wearing a gorgeous white silk Hanfu with gold edges, gently holding a guzheng in her right hand, and an ancient jade pendant in her left hand, with gentle eyes, and the background is an ink-style landscape painting, with fine details and elegant colors, full of the charm of traditional Chinese culture. --q 1 --s 100 --ar 1:1 --niji 6--personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：室内设计，现代简约风格，客厅，木质墙面，白色储物柜，黑色电视，绿植，拱形门，餐厅，木质餐桌椅，灰色地毯，暖色灯光，简洁，干净，舒适，高品质，8K。
+EN：Interior design, modern minimalist style, living room, wooden walls, white storage cabinets, black TV, green plants, arched doors, dining room, wooden dining table and chairs, gray carpet, warm lighting, simple, clean, comfortable, high quality, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

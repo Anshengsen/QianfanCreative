@@ -1,0 +1,3 @@
+CN：采用黄金雕刻成“Midjourney”的艺术品，隔离在白色背景上，独奏，
+EN：Artwork with the word "Midjourney" engraved in gold, isolated on white background, solo, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

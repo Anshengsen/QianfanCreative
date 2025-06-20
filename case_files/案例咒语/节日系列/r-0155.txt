@@ -1,0 +1,4 @@
+CN：国风，中国风，工笔画风格，细腻笔触，淡雅色彩，一碗精致的腊八粥，周围是祥云、梅花等传统元素，背景是水墨晕染效果，古韵，典雅，唯美，最佳质量。
+EN：National style, Chinese style, meticulous painting style, delicate brushstrokes, elegant colors, a bowl of exquisite Laba porridge, surrounded by auspicious clouds, plum blossoms and other traditional elements, the background is ink and wash effect, ancient charm, elegance, beauty, best quality. --q 1 --s 100 --ar 3:4 --v 6.1 --profile cooy3mg
+【PS：建议使用的时候再加上--no text排除一下文本】 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

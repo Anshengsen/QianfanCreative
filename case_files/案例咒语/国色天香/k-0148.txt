@@ -1,0 +1,3 @@
+CN：3D，一个美丽的16岁女孩，穿着中国苗族少数民族服饰，色彩丰富的刺绣衣裙，配以银饰头饰，穿着绣花布鞋，全身，背景是山水、房屋、田园、湖泊，逼真，详细，最佳品质，高清，4K，
+EN：3D, a beautiful 16-year-old girl, wearing a Chinese Miao ethnic minority costume, a colorful embroidered dress, a silver headdress, and embroidered cloth shoes, full body, with a background of mountains, houses, fields, and lakes, realistic, detailed, best quality, HD, 4K, --q 5 --s 50 --ar 9:16 --niji 6 --style raw --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

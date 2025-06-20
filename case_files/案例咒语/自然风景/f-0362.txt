@@ -1,0 +1,3 @@
+CN：高山草甸，盛开的粉红色花朵，日出或日落，山脉，阳光照射，云层，紫色和粉红色天空，广角镜头，自然风光，鲜艳的色彩，高饱和度，戏剧性光线，史诗感，超高清，8K，最佳画质，细节丰富
+EN：Alpine meadow, pink flowers in bloom, sunrise or sunset, mountains, sun rays, clouds, purple and pink sky, wide angle shot, natural scenery, vivid colors, high saturation, dramatic light, epic feel, Ultra HD, 8K, best quality, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

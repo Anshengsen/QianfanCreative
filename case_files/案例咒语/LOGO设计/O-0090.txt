@@ -1,0 +1,3 @@
+CN：3D渲染风格，游戏公司LOGO，游戏角色元素，炫酷特效，科幻风格，高清渲染，黑色背景，
+EN：3D rendering style, game company LOGO, game character elements, cool special effects, science fiction style, high-definition rendering, black background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

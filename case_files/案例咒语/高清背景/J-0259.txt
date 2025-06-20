@@ -1,0 +1,3 @@
+CN：全息3D流体背景，流体，霓虹光，赛博朋克，3d，高分辨率，8k，高反射，超品质，电影级照明，
+EN：Holographic 3D fluid background, fluid, neon light, cyberpunk, 3d, high resolution, 8k, high reflection, super quality, cinematic lighting, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

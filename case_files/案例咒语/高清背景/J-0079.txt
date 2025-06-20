@@ -1,0 +1,4 @@
+﻿CN：抽象的背景，浅粉色和浅琥珀色、浅天蓝色和浅紫色，天蓝色和琥珀色，天蓝色和金色，微妙的大气视角，逼真的配色方案，柔和，
+EN：Abstract background, light pink and light amber, light sky blue and light purple, sky blue and amber, sky blue and gold, subtle atmospheric perspective, realistic color scheme, soft, --q 1 --s 100 --v 5.2 --ar 16:9
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

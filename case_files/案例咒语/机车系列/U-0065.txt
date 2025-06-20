@@ -1,0 +1,2 @@
+CN：复古汽车，银色，正面视角，特写，经典汽车修复，定制汽车，垂直格栅，圆形大灯，独立雾灯，工作室灯光，纯色背景，高光泽车身，细节丰富，超现实主义，8K，高清晰度，产品摄影
+EN：Vintage car, silver color, front view, close-up, classic car restoration, custom car, vertical grille, round headlights, separate fog lights, studio lighting, solid color background, high gloss body, rich details, hyperrealism, 8K, high definition, product photography --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

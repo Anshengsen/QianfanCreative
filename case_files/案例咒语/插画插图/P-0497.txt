@@ -1,0 +1,3 @@
+CN：简约风格插画，黑色背景，一个男人，蓝色西装，红色领带，蓝色帽子，无面孔，几何形状，扁平化设计，矢量图形，最佳品质，插画设计，海报风格，现代插画，神秘感，细节简洁，视觉冲击力，创意插画，时尚元素，对比强烈，风格独特，
+EN：Minimalist style illustration, black background, a man, blue suit, red tie, blue hat, no face, geometric shapes, flat design, vector graphics, best quality, illustration design, poster style, modern illustration, mystery, simple details, visual impact, creative illustration, fashion elements, strong contrast, unique style, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

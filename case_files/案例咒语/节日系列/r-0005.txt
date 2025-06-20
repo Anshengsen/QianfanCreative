@@ -1,0 +1,3 @@
+CN：3D卡通插图，3D建筑在小桥的两旁，小桥连接着两个3D建筑，远处是满月和山脉，杰作，使用cinema 4d进行渲染，夜晚，阁楼中发出暖色光，还有几只小兔子欢快的在水上漂浮的月饼上跳跃，3D插图，3D，暖色调，
+EN：3D cartoon illustration, 3D buildings on both sides of the bridge, the bridge connects two 3D buildings, in the distance is the full moon and mountains, masterpiece, rendered using cinema 4d, at night, warm light in the attic, and a few bunnies happily jumping on the moon cakes floating on the water, 3D illustration, 3D, warm colors, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

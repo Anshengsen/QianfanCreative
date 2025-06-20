@@ -1,0 +1,3 @@
+CN：游戏场景，暗黑风格，夜晚，诡异的照明，游戏截图，野外的草丛，远处隐约可见一座城堡，pov视图，第三人称视角，恐怖的氛围，悬疑，惊悚，
+EN：Game scene, dark style, night, eerie lighting, game screenshots, wild grass, a castle looming in the distance, pov view, third-person perspective, terrifying atmosphere, suspense, thriller,  --q 1 --s 100 --ar 3:4 --v 6.0 --no text people 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D渲染图，特写，一个白色和淡紫色的螺旋笔记本，叠放在一起，背景为白色，柔和的灯光，3D建模，高质量，漂浮在半空中，独奏，
+EN：3D rendering, close up, a white and lilac spiral notebooks stacked on top of each other, on a white background, soft lighting, 3D modeling, high quality, floating in mid-air, solo,  --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

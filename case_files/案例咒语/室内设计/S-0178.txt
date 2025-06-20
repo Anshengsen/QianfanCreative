@@ -1,0 +1,3 @@
+CN：室内厨房，巴洛克风格，拱形门，白色和金色配色，吊灯，双层，圆形，花卉图案，大理石地板，海景，自然光，精致细节，高分辨率，艺术感，奢华，温馨，8k。
+EN：Kitchen interior, baroque style, arched door, white and gold color scheme, chandelier, double tier, round shape, floral pattern, marble floor, sea view, natural light, exquisite details, high resolution, artistic, luxurious, warm, 8k. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

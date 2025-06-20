@@ -1,0 +1,3 @@
+CN：远山，薄雾，绿色山脉，梯田，水稻田，倒影，东南亚风格，草屋，茅草屋顶，木屋，小村庄，清晨，柔和光线，自然光，广角，高角度，宁静，和谐，超广角，逼真，超高清，8K，最佳质量，细节丰富
+EN：distant mountains, mist, green mountains, terraces, rice fields, reflections, southeast Asian style, grass huts, thatched roofs, wooden houses, small villages, early morning, soft light, natural light, wide angle, high angle, tranquility, harmony, ultra wide angle, realistic, ultra high definition, 8K, best quality, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

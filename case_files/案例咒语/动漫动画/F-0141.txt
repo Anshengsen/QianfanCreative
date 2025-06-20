@@ -1,0 +1,5 @@
+CN：16位像素艺术风格，一个美丽的女孩，双马尾，站着，正面，在房间中，16位像素艺术，怀旧插图，电影光，柔和照明，HDR，最佳品质，4K，
+EN：16-bit pixel art style, a beautiful girl with twin ponytails, standing, front view, in the room, 16-bit pixel art, nostalgic illustration, film light, soft lighting, HDR, best quality, 4K, --q 1 --s 100 --ar 3:4 --niji 6
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

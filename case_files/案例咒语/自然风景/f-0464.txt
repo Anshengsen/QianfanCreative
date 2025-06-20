@@ -1,0 +1,3 @@
+CN：富士山风光摄影，远景，对称构图，黄昏时分，天空呈现深蓝色与橙红色的渐变，富士山顶覆盖白雪，山体呈现深蓝色，湖面平静如镜，倒映出天空与富士山的景象，湖岸有少量植被与房屋，整体色调静谧、深邃，具有电影般的质感，超高清，8K，最佳画质。
+EN：Landscape photography of Mount Fuji, distant view, symmetrical composition, at dusk, the sky presents a gradient of dark blue and orange-red, the top of Mount Fuji is covered with snow, the mountain body is dark blue, the lake is as calm as a mirror, reflecting the sky and Mount Fuji, there are a few vegetation and houses on the lakeshore, the overall tone is quiet and deep, with a cinematic texture, ultra-high definition, 8K, best picture quality. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

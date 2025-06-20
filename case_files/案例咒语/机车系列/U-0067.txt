@@ -1,0 +1,2 @@
+CN：未来主义概念车，银色流线型车身，轿跑造型，低底盘，隐藏式门把手，细长锐利的前大灯，黑色多辐条轮毂，动感姿态，公路场景，远景，柔和光线，冷色调，高光反射，电影级质感，超广角，超高清，8K
+EN：Futuristic concept car, silver streamlined body, coupe shape, low chassis, hidden door handles, slender and sharp headlights, black multi-spoke wheels, dynamic posture, highway scene, distant view, soft light, cold colors, high light reflection, movie-level texture, ultra-wide angle, ultra-high definition, 8K --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

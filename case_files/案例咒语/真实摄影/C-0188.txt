@@ -1,0 +1,3 @@
+CN：动漫风格，一位美丽的中国女孩，18岁，扎着黑色马尾辫，穿着白色T恤和牛仔裤，站在纹身店里，室内背景，正视图，中景，恐怖，怪异，昏暗，悬疑风，暗色调，霓虹灯照明，8K，阴暗，恐怖惊悚片，2D，丰富的细节，最佳品质，
+EN：Anime style, a beautiful Chinese girl, 18 years old, wearing a black ponytail, wearing a white T-shirt and jeans, standing in a tattoo shop, indoor background, front view, medium shot, horror, weird, dim, suspenseful wind, dark tones, neon lighting, 8K, dark, horror thriller, 2D, rich details, best quality, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

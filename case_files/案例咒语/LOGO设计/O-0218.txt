@@ -1,0 +1,3 @@
+CN：矢量风格的标志设计，复古，帆船，米色帆船，红色背景，帆船的帆上有一个十字架，海浪，居中构图，简洁大气，最佳品质，高分辨率
+EN：Vector style logo design, retro, sailing, beige sailboat, red background, a cross on the sail of the sailboat, sea waves, centered composition, simple and atmospheric, best quality, high resolution --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

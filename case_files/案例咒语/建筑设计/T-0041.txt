@@ -1,0 +1,3 @@
+CN：鲁班锁造型的博物馆，中式风格，明朝，建筑主体由巨大的木质榫卯结构交错而成，内部空间复杂而神秘，自然光线，水墨渲染，鸟瞰构图，8K，超写实，极其复杂且精细的构造，鲁班榫卯结构。
+EN：The museum is shaped like a Luban lock, in Chinese style, from the Ming Dynasty. The main body of the building is made up of huge wooden mortise and tenon structures. The interior space is complex and mysterious, with natural light, ink rendering, bird's-eye view, 8K, hyper-realism, extremely complex and delicate structure, and Luban mortise and tenon structure. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

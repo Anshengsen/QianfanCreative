@@ -1,0 +1,3 @@
+CN：3D渲染风格产品插画，一个粉色的滑板，带有各种贴纸和细节，背景是蓝色的运动场地，色彩鲜艳，光影细腻，整体风格现代简约，具有设计感和潮流感，细节包括滑板的材质，贴纸的图案，以及背景中的线条和光影效果，最佳品质，8K，3D渲染，适合用于产品宣传或设计展示，
+EN：3D rendering style product illustration, a pink skateboard with various stickers and details, with a blue sports field in the background, bright colors, delicate light and shadow, the overall style is modern and simple, with a sense of design and fashion, details include the material of the skateboard, the pattern of the stickers, and the lines and light and shadow effects in the background, best quality, 8K, 3D rendering, suitable for product promotion or design display, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

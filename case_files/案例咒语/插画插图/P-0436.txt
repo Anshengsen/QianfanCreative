@@ -1,0 +1,3 @@
+CN：卡通插画风格，潦草的写意风格，一个正在冲浪的男人，巨浪，卷曲的海浪，飞溅的浪花，明亮的蓝色调，动感，阳光明媚，卡通渲染，高对比度，鲜艳的色彩，最佳品质，8K，超精细细节
+EN：Cartoon illustration style, freehand scribble style, a man surfing, huge waves, curly waves, splashing water, bright blue tones, dynamic, sunny, cartoon rendering, high contrast, bright colors, best quality, 8K, ultra fine details --q 1 --s 100 --ar 1:2 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

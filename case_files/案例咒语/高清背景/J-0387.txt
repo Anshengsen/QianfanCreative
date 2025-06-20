@@ -1,0 +1,3 @@
+CN：现代，简约，淡蓝色背景，简单，优雅，在浅色渐变天蓝色上采用柔和的粉色和紫色渐变，包括一个平滑的弯曲形状，类似于抽象的波浪或山脉，
+EN：Modern, minimalist, pale blue background, simple, elegant, with soft pink and purple gradient on a light gradient sky blue, including a smooth curved shape, resembling abstract waves or mountains, --q 1 --s 100 --ar 3:4 --niji 6  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

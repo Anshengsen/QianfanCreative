@@ -1,0 +1,3 @@
+CN：3D渲染，一个金元宝，中国金元宝，船型金锭子，特写，金色，光滑表面，柔和光线，白色背景，高质量，8K，独奏，居中构图，
+EN：3D rendering, one gold ingot, Chinese gold ingot, gold ingot shaped like a boat, close-up, gold color, smooth surface, soft light, white background, high quality, 8K, solo, centered composition,  --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

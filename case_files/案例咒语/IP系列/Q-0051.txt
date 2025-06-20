@@ -1,0 +1,6 @@
+MJ-SC-0061                    卡通手办系列一
+CN：卡通手办，小男孩，短发，绿色外套，白皙的皮肤，蓝色的眼睛，彩色运动鞋，全息，全息色彩，未来感，3D，3Dmax，OC渲染，全身照，全身，全景，最佳质量，最佳画质，黑色高反射背景布，电影级照明效果，
+EN：Cartoon hand, little boy, short hair, green coat, fair skin, blue eyes, colored sports shoes, hologram, holographic color, futuristic feeling, 3D, 3Dmax, OC rendering, full-body photo, full-body, panoramic view, best quality, best picture quality, black highly reflective background cloth, movie-level lighting effect, --q 5 --ar 3:4 --s 250 --v 5.2 --seed 1585261931
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

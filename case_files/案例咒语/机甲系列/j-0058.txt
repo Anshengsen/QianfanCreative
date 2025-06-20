@@ -1,0 +1,3 @@
+CN：超现实主义风格的机甲，抽象形状，奇异纹理，梦幻场景，柔和光线，超现实渲染，奇幻色彩，4K，光晕效果，粒子特效，
+EN：Surreal mecha, abstract shapes, bizarre textures, dreamy scenes, soft light, surreal rendering, fantasy colors, 4K, halo effects, particle effects, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

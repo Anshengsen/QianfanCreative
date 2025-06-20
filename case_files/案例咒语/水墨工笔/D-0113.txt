@@ -1,0 +1,3 @@
+CN：小雪节气，水墨画，梅花、飞雪、房屋，中国水墨画风格，淡雅，空灵，柔和的散射光，没有明显的明暗对比，水墨画风格的房屋，梅花枝头点缀着雪花，朦胧的背景，中景镜头，突出梅花和飞雪的意境，高清，中国风，意境，
+EN：Light Snow solar term, ink painting, plum blossoms, snow, houses, Chinese ink painting style, elegant, ethereal, soft scattered light, no obvious contrast between light and dark, houses in the style of ink painting, plum branches dotted with snowflakes, hazy background, medium shot, highlighting the artistic conception of plum blossoms and snow, high definition, Chinese style, artistic conception, --q 5 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

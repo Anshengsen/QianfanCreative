@@ -1,0 +1,3 @@
+CN：游戏风格的宝箱，图标，等距，2D游戏，等距，最佳品质，居中，白色背景，
+EN：Game style treasure chest, icon, isometric, 2D game, isometric, best quality, centered, white background, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

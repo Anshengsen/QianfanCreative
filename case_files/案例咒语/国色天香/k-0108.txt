@@ -1,0 +1,3 @@
+CN：油画风格，精美的油画，一个穿着中国古装汉服的美少女，打伞，金光，黄金时分自然光，光滑细腻逼真的面部皮肤，脸红，丹凤眼，柳叶眉，红唇，有高光，盘发，额头上有个半月形状的装饰品，高品质，高分辨率，
+EN：Oil painting style, exquisite oil painting, a beautiful girl wearing ancient Chinese Hanfu, holding an umbrella, golden light, natural light at golden hour, smooth and delicate realistic facial skin, blushing, phoenix eyes, willow-leaf eyebrows, red lips, highlights, bun hair, and a half-moon-shaped ornament on the forehead, high quality, high resolution, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

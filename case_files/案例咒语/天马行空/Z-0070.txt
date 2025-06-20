@@ -1,0 +1,3 @@
+CN：微景观，微雕艺术，最小的中式园林，3D，高清辛烷值渲染，纸雕工艺，暖色灯光，透光材质，细节精细，中式风格，圆柱形构图，光影效果突出，高品质，精细的细节，最佳品质。
+EN：Micro landscape, micro sculpture art, the smallest Chinese garden, 3D, high-definition octane rendering, paper sculpture craftsmanship, warm lighting, translucent materials, fine details, Chinese style, cylindrical composition, outstanding light and shadow effects, high quality, fine details, best quality. --q 1 --s 100 --ar 3:2 --v 6.0 --p 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

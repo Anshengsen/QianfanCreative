@@ -1,0 +1,3 @@
+CN：时尚人像，户外风格，一个年轻的白人男性，金发，戴着飞行员太阳镜，穿着灰色Polo衫，看向侧面，户外背景，树叶和阳光，半身像，最佳质量，8k，超细节，皮肤质感真实
+EN：Fashion portrait, outdoor style, of a young Caucasian male with blond hair, wearing aviator sunglasses and grey polo shirt, looking to the side, outdoor background, leaves and sunlight, half-length, best quality, 8k, ultra detailed, realistic skin texture --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

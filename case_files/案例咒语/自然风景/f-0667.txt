@@ -1,0 +1,3 @@
+CN：海滩，山脉，蓝色天空，条纹云，电影感，超高分辨率，8K，超细节，自然光，大气透视，广角镜头，摄影作品，海浪，海岸线，鲜艳的色彩，热带风光
+EN：beach, mountains, blue sky, streaked clouds, cinematic feel, ultra high resolution, 8K, ultra detail, natural light, atmospheric perspective, wide angle lens, photography, ocean waves, coastline, vibrant colors, tropical scenery --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

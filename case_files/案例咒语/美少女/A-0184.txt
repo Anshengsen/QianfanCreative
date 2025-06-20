@@ -1,0 +1,4 @@
+﻿CN：平面动漫插图，一个穿着偶像服装的漂亮女孩，黑色的头发，灰色的眼睛，手里拿着麦克风，微笑，超级丰富的细节，电影光影，超高品质，
+EN：Flat anime illustration, a beautiful girl in an idol costume, black hair, gray eyes, microphone in hand, smile, super rich details, movie light and shadow, super high quality, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

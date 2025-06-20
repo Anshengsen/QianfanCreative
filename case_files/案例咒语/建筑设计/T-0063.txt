@@ -1,0 +1,3 @@
+CN：折纸状艺术馆，东方风格，21世纪，白色纸质感的金属板折叠而成，白天，自然光，柔和的光线，极简渲染，平视视角，展现建筑的优雅和简洁，4K，
+EN：Origami art gallery, oriental style, 21st century, folded white paper texture metal plates, daytime, natural light, soft light, minimalist rendering, horizontal perspective, showing the elegance and simplicity of the building, 4K, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

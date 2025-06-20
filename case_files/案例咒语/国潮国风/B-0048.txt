@@ -1,0 +1,5 @@
+﻿CN：中国三国时期，武将，吕布，头戴三叉束发紫金冠，身穿西川红锦百花袍，手持方天画戟，写实，厚涂，剑眉星目，极高品质，最佳质量，
+EN：During the Three Kingdoms period of China, military generals, Lu Bu, wearing a purple and gold crown with three-pronged hair, wearing a Xichuan red brocade flower robe, holding a square sky painting halberd, realistic, thick coating, sword eyebrows and star eyes, extremely high quality, the best quality, --q 1 --s 100 --ar 3:4 --niji 6
+（PS：关于吕布的描述我写的还是不够准确，导致出的图都不匹配，大家自己再多试下描述，后面的风格和修饰词不用改）
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

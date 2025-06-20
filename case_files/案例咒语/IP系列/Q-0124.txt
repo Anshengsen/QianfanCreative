@@ -1,0 +1,3 @@
+CN：可爱的中国武术男孩，男士发髻，身穿黑色武术服装和老北京布鞋，闭着眼打太极，3D，全身，干净的背景，
+EN：Cute Chinese martial arts boy, man bun, wearing black martial arts costume and old Beijing cloth shoes, doing tai chi with eyes closed, 3D, full body, clean background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

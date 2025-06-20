@@ -1,0 +1,3 @@
+CN：游戏徽标设计，只有文字“Midjourney”，孤立在白色背景上，矢量，金色幻想风格，部落冲突风格徽标，独奏，居中，
+EN：Game logo design, only text "Midjourney", isolated on white background, vector, golden fantasy style, Clash of Clans style logo, solo, centered, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

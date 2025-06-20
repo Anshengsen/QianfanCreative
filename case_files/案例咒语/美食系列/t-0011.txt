@@ -1,0 +1,3 @@
+CN：插画风格，扁平化设计，平面风格，一碗羊肉汤的矢量图，简洁明了，突出羊肉、汤和配料的形状和颜色，白色背景，适合菜单或宣传海报，
+EN：Illustration style, flat design, flat style, vector illustration of a bowl of mutton soup, simple and clear, highlighting the shape and color of mutton, soup and ingredients, white background, suitable for menus or promotional posters, --q 5 --s 100 --ar 3:2 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D卡通机器人，白色机身，蓝色细节，屏幕上显示笑脸，手拿蓝色写字板和铅笔，黏土材质，光泽感，卡通风格，白色背景，3D渲染，OC渲染，超细节，超品质，8K
+EN：3D cartoon robot, white body, blue details, smiling face on screen, holding blue writing board and pencil, clay material, glossy, cartoon style, white background, 3D rendering, OC rendering, super details, super quality, 8K --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：一个软件工程师在家里的沙发上玩手机，卡通，动画Gif风格，
+EN：A software engineer is on the couch at home playing with his phone, cartoon, animated Gif style, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：虚幻引擎5，全景，动漫风格，一个亚洲少女，长发，马尾辫，兔耳朵头饰，精致的五官，淡妆，红色运动背心套装，白色运动鞋，红色条纹细节，坐在床上，双腿伸直，一只手撑在身体旁边，旁边有一个篮球，梦幻般的灯光，粉紫色调，闪亮的粒子效果，卧室环境，柔和的光线，高品质，8K，超精细。
+EN：Unreal Engine 5, panorama, anime style, an Asian girl, long hair, ponytail, bunny ears, delicate facial features, light makeup, red sports vest suit, white sneakers, red stripe details, sitting on the bed, legs stretched out, one hand supported by the body, a basketball next to her, dreamy lighting, pink and purple tones, shiny particle effects, bedroom environment, soft light, high quality, 8K, ultra-fine. --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：夜晚，公园里，路灯，背景虚化，正面，面对镜头，特写，一个3D女孩坐在凳子上，穿着碎花裙，法式辫，卡通现实主义风格，迪士尼动画风格，微笑，大眼睛，脸红，圆脸，可爱，照片，逼真的肖像，8K，3d，光滑，居中构图，简单，优雅，柔和的灯光，照片，逼真，细腻，光滑，
+EN：Night, in the park, street lights, bokeh, front view, facing the camera, close-up, a 3D girl sitting on a stool, wearing a floral dress, French braids, cartoon realism style, Disney animation style, smile, big eyes, blushing, round face, cute, photo, realistic portrait, 8K, 3d, smooth, centered composition, simple, elegant, soft lighting, photo, realistic, delicate, smooth, --q 1 --s 100 --ar 3:4 --niji 5
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

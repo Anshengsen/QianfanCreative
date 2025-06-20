@@ -1,0 +1,3 @@
+CN：特写，一朵蓝白相间的莲花，花瓣细节丰富，花蕊呈橙红色，背景为深邃的黑色与明亮的橙色光晕，形成强烈对比，光影效果，动态模糊，艺术摄影，高品质，8K。
+EN：Close-up of a blue and white lotus with detailed petals and orange-red stamens, against a deep black background with a bright orange halo, creating a strong contrast, light and shadow effects, motion blur, artistic photography, high quality, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

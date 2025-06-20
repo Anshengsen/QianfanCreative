@@ -1,0 +1,3 @@
+CN：专业摄影，正面全身照，亚洲女性，自然黑色盘发，发际线清晰，面部表情平静，眼神直视前方，嘴唇微闭，肤色白皙，身穿宽松米白色短袖上衣，圆领，衣料轻薄垂坠，下身搭配米白色高腰阔腿长裤，裤腰处有褶皱设计，整体风格简约，背景为浅色模糊背景，光线柔和。
+EN：Professional photography, frontal full-body photo, Asian woman, natural black bun, clear hairline, calm facial expression, eyes looking straight ahead, lips slightly closed, fair skin, wearing a loose beige short-sleeved top with a round neck, thin and draped material, and beige high-waisted wide-leg trousers with pleated design at the waist. The overall style is simple, with a light blurred background and soft light. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

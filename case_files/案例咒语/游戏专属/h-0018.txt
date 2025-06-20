@@ -1,0 +1,3 @@
+CN：一个可爱的游戏小兵，穿着盔甲，手持剑和盾牌，3d，粘土材料，全身，chibi，站立姿态，白色背景，可爱渲染，benlender，白色头发，简单，可爱，
+EN：A cute game of minions, wearing armor, holding swords and shields, 3d, clay material, full body, chibi, standing pose, white background, cute rendering, benlender, white hair, simple, cute, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

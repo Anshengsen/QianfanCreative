@@ -1,0 +1,7 @@
+CN：白色背景上的插图，以巨大的飞船为主题设计，UFO，周围有几只拟人化的小黄鸡，穿着航天服，卡通，可爱，矢量，插图，锐利流畅的线条，超级丰富的细节，复杂的构造，最佳品质，白色背景，超品质超细节，
+EN：Illustration on white background, huge spaceship themed design, UFO, surrounded by several anthropomorphic yellow chickens in space suits, cartoon, cute, vector, illustration, sharp and smooth lines, super rich details, complex construction, best quality, white background, super quality and super details, --q 5 --s 180 --ar 3:2 --v 6.0 --personalize
+ df2apxr 
+
+
+（PS：本案例先生成横版再通过Reframe重构修改纵横比生成） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

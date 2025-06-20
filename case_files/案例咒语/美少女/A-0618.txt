@@ -1,0 +1,3 @@
+CN：中国风现代插画，湿墨晕染，动态曲线，一个美丽的古风年轻女子，负空间强调形式，彩绘服装，极简主义，照片写实主义，超高清，大师作品，干净的纯色背景，虚幻引擎，光滑细腻的皮肤，白皙的面部，淡妆，古典发型，
+EN：Chinese style modern illustration, wet ink smudges, dynamic curves, a beautiful young woman in ancient style, negative space emphasizes form, painted clothing, minimalism, photorealism, ultra-high definition, master work, clean solid color background, Unreal Engine, smooth and delicate skin, fair face, light makeup, classical hairstyle, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize ak9ezqk 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

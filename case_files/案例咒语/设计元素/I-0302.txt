@@ -1,0 +1,3 @@
+CN：3D渲染图，一个浅蓝色的药盒，里面装着各种形状和颜色的药片和胶囊，一些药片和胶囊漂浮在药盒周围，背景为浅黄色。风格卡通可爱，灯光柔和，构图简洁，
+EN：3D rendering of a light blue medicine box filled with pills and capsules of various shapes and colors, some of which are floating around the box, with a light yellow background. The style is cartoony and cute, with soft lighting and simple composition. --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

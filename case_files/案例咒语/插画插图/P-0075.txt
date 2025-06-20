@@ -1,0 +1,4 @@
+
+CN：可爱的中国龙插图，moche艺术，精致的服装，简化的线条，克莱因蓝，玩具般的比例，正视图，居中，白色背景，
+EN：Lovely Chinese dragon illustrations, moche art, exquisite costumes, simplified lines, Klein blue, toy-like proportions, front view, centered, white background, --q 1 --q 100 --ar 3:4 --niji 5 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

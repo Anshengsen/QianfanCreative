@@ -1,0 +1,3 @@
+CN：照片，海滩场景，海浪，晴朗的蔚蓝天空，蓬松的积云，蓬松的白色云朵，金色米色沙滩，波光粼粼的阳光在水面上的反射，碧绿的海水，数字绘画插画，动漫风格，宽幅垂直视角，明亮的阳光明媚的白天，泡沫状海浪，柔和的海浪，湿沙，细致的纹理，鲜艳的色彩，清晰的大气，宁静的。
+EN：Photo, beach scene, ocean waves, clear blue sky, puffy cumulus clouds, fluffy white clouds, golden beige sand, sparkling sunlight reflection on water, turquoise blue sea, digital painting illustration, anime style, wide vertical angle of view, bright sunny day, foamy ocean waves, gentle waves, wet sand, detailed textures, vivid colors, clear atmosphere, tranquil. --q 5 --s 100 --ar 9:20 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

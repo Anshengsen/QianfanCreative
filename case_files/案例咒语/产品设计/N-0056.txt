@@ -1,0 +1,35 @@
+
+关于产品设计三视图控制的模型延伸：
+PS：三视图无法精准匹配，该套咒语使用了2次局部重绘生成修改视图，最终得出三视图
+
+
+第一次使用：
+CN：三视图，黑色的背包，一致，干净简约的设计，产品设计，详细的产品设计，behance上流行的背包样式，有机雕塑，C4D风格，3D风格的产品设计效果，简单的背景，极高的品质，
+EN：Three views, black backpack, consistent, clean and minimalist design, product design, detailed product design, behance on popular backpack style, organic sculpture, C4D style, 3D style product design effect, simple background, extremely high quality, --q 1 --s 100 --ar 3:2 --v 5.2
+
+
+第二次使用：
+选择一张进行放大，然后使用局部重绘功能的框选工具选择其中一个视图，然后修改关键词如下：
+CN：侧身照，侧视图，黑色的背包，一致性，干净简约的设计，产品设计，高档的自然配色，明亮和谐，可爱多彩，详细的产品设计，behance上流行的风格，有机雕塑，C4D风格，3D风格的产品设计效果，简单的背景，极高的品质，
+EN：Back shot, back, rear view, black backpack, consistent, clean and minimalist design, product design, detailed product design, popular backpack style on behance, organic sculpture, C4D style, 3D style product design effect, simple background, extremely high quality, --q 1 --s 100 --ar 3:2 --v 5.2
+
+第三次使用：
+重绘出图后选择一张进行放大，然后使用局部重绘功能的框选工具选择其中一个视图，然后修改关键词如下：
+CN：顶视图，顶面，倒着的黑色的背包，干净简约的设计，产品设计，高档的自然配色，明亮和谐，可爱多彩，详细的产品设计，behance上流行的风格，有机雕塑，C4D风格，3D风格的产品设计效果，简单的背景，极高的品质，
+EN：Top view, top surface, upside down black backpack, clean and simple design, product design, high-end natural color scheme, bright and harmonious, cute and colorful, detailed product design, behance on popular style, organic sculpture, C4D style, 3D style product design effect, simple background, extremely high quality, --q 1 --s 100 --ar 3:2 --v 5.2
+
+
+
+
+特别提示：
+有几个重要的点主要注意：
+0）首次出图务必使用三视图/three views，为保证首次的一致性也可以加上正面，正视图/front, Front view；
+1）三视图需要多次使用局部重绘转换视图，MJ会识别姿态和外观进行重绘，会直接锁定我们选择的外观；
+2）默认视图（正面，正视图/front, Front view）；
+3）重绘视图（背面，后视图/Back, rear view）；
+4）再次重绘（侧身照，侧视图/Side photo, side view）；
+5）在重绘时，必须要框选其中一个视图，除了视图以外的词和参数保持不变；
+6）在生图三视图时，图片纵横比务必要选择横版，推荐使用3:2；
+7）出图模型建议使用v5.2，其他模型不推荐，无法准确控制；
+8）关于其他控图问题可联系我们技术支持：403438119@qq.com； 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,2 @@
+CN：赛车风格机车，流线型车身，鲜艳的涂装，赛道背景，高速运动模糊，光线追踪渲染，速度感，4K分辨率，强调速度和激情，车轮冒出烟雾，颗粒砂砾灰尘漂浮，
+EN：Racing style motorcycle, streamlined body, bright paint, racetrack background, high-speed motion blur, ray tracing rendering, sense of speed, 4K resolution, emphasis on speed and passion, smoke coming out of the wheels, particles of gravel and dust floating, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

@@ -1,0 +1,5 @@
+CN：漫画风格，以黑白线条绘制的现代房间，简单的线条，锐利的线条，高细节，高角度，黑白漫画风格，最佳品质，
+EN：Comic style, modern room drawn in black and white, simple lines, sharp lines, high detail, high angle, black and white comic style, best quality, --q 1 --s 100 --ar 3:2 --v 6.0
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：纽约街头，夜晚，繁华，人潮涌动，街灯，霓虹灯，长焦镜头，广角构图，动态模糊，电影风格，最佳品质，8K，超细节，超品质，电影级照明，真实摄影，UHD，
+EN：New York streets, night, bustling, crowds of people, street lights, neon lights, telephoto lens, wide-angle composition, motion blur, movie style, best quality, 8K, ultra details, ultra quality, movie-level lighting, real photography, UHD, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：卡通风格，明亮柔和的色彩，一个chibi机甲，手持巨型武器，摆出滑稽的姿势，滑稽俏皮，3D渲染，可爱有趣，
+EN：Cartoon style, bright pastel colors, a chibi mecha, holding a giant weapon, posing in a funny pose, funny and playful, 3D rendering, cute and funny, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

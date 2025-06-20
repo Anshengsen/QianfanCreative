@@ -1,0 +1,3 @@
+CN：3D渲染，一位亚洲女性角色，身着银色全身铠甲，长发披肩，精致面容，略带微笑，坐在粉色布料上，腿部铠甲部分褪下，室内场景，书架背景，细节丰富，光泽感强，C4D渲染，OC渲染，高光，8K，超高细节。
+EN：3D rendering, an Asian female character, wearing silver full body armor, long hair draped over her shoulders, delicate face, slightly smiling, sitting on pink cloth, leg armor partially removed, indoor scene, bookshelf background, rich details, strong gloss, C4D rendering, OC rendering, highlights, 8K, ultra-high details. --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

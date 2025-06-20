@@ -1,0 +1,4 @@
+CN：专业摄影，8K，服装特写，无脸，女性，上身穿着白色宽松的短袖，V，棉麻质地，衣领处有扭结设计，下身穿着浅蓝色的修身牛仔裤，整体造型休闲，日常，背景为室内，有木质家具，光线柔和，自然光，整体氛围温馨，舒适。
+EN：Professional photography, 8K, clothing close-up, no face, female, wearing a white loose short-sleeved top, V, cotton and linen texture, with a knot design at the collar, and light blue slim jeans on the bottom. The overall look is casual and everyday. The background is indoors, with wooden furniture, soft light, natural light, and the overall atmosphere is warm and comfortable. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

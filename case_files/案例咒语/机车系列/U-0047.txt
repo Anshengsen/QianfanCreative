@@ -1,0 +1,2 @@
+CN：未来主义概念摩托车，透明车身，内部复杂的机械结构清晰可见，未来城市背景，霓虹灯闪烁，光线追踪，超现实主义风格，8K分辨率，强调科技感和未来感。
+EN：Futuristic concept motorcycle, transparent body, the complex internal mechanical structure is clearly visible, future city background, neon lights flashing, ray tracing, surreal style, 8K resolution, emphasizing the sense of technology and future. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

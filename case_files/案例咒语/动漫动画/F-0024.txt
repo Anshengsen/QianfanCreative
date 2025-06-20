@@ -1,0 +1,5 @@
+
+CN：一个小女孩在农院中哭泣，特写镜头，美式漫画配色，中国古典主义，旧漫画风格，暗色调，牛皮纸色调，高质量，
+EN：A little girl crying in a farmyard, close-up, American comic color scheme, Chinese classicism, old comic style, dark tones, kraft paper tones, high quality, --q 1 --s 100 --ar 3:4 --niji 5
+PS：如果出现的全是拼凑图就在第二个位置加上独奏“Solo” 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

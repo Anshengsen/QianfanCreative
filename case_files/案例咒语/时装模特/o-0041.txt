@@ -1,0 +1,3 @@
+CN：一个混合种族女性，粉色波波头，绿色眼睛，精致五官，穿着未来感银色连体衣，跳跃姿势，空中抓拍，干净清爽的工作室背景，霓虹灯光，赛博朋克风格，8K，照片，
+EN：A mixed race woman with pink bob, green eyes, delicate features, wearing futuristic silver bodysuit, jumping pose, aerial shot, clean and fresh studio background, neon lights, cyberpunk style, 8K, photo, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

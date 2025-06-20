@@ -1,0 +1,4 @@
+CN：乡村教堂，斯洛文尼亚风光，红色罂粟花田，绿色草地，远山，雪山，晴朗天空，明媚阳光，广角镜头，自然风光摄影，色彩鲜艳，高饱和度，高对比度，细节丰富，8K，超高清，真实感渲染
+EN：Rural church, Slovenia scenery, red poppy field, green grass, distant mountains, snow-capped mountains, clear sky, bright sunshine, wide-angle lens, natural scenery photography, bright colors, high saturation, high contrast, rich details, 8K, ultra-high definition, realistic rendering --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

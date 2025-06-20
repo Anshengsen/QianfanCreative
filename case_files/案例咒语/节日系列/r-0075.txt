@@ -1,0 +1,3 @@
+CN：中国漫画风格，12个动漫角色围绕一个长长的桌子，坐着，中秋节团圆聚会，长桌子上有8个盘子，每个盘子上都有一个巨大的月饼，顶视图，广角，全景，第三人称视角，高品质，高细节，超清，8K，中国朋克，
+EN：Chinese comic style, 12 anime characters around a long table, sitting, Mid-Autumn Festival reunion party, there are 8 plates on the long table, each with a huge moon cake, top view, wide angle, panoramic, third person perspective, high quality, high detail, ultra clear, 8K, China Punk, --q 1 --s 50 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

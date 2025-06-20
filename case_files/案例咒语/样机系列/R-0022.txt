@@ -1,0 +1,3 @@
+CN：空白效果图，一个白色的纸质咖啡杯，白色空白背景，C4D，3D，居中构图，干净的柔和的阴影，
+EN：Blank rendering, a white paper coffee cup, white blank background, C4D, 3D, centered composition, clean soft shadows, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

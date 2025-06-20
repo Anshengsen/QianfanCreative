@@ -1,0 +1,3 @@
+CN：极简线条插画风格，撞色配色，黑色线条，彩色渐变，白色背景，人物，油漆刷，电脑界面，细节包括人物的表情，电脑界面的元素，整体画面简洁有趣，风格现代，最佳品质，8K，矢量图形，干净利落，设计插画风格
+EN：Minimalist line illustration style, contrasting colors, black lines, colorful gradients, white background, characters, paint brushes, computer interface, details including the characters' expressions, computer interface elements, the overall picture is simple and interesting, the style is modern, the best quality, 8K, vector graphics, clean and neat, design illustration style --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

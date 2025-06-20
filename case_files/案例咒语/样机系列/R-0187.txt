@@ -1,0 +1,3 @@
+CN：空白效果图，三个白色iPhone手机壳模型，俯视角度，轻微倾斜，简约风格，纯色背景，产品展示，3D渲染，高光，阴影，干净，整洁，高质量，8K。
+EN：Blank rendering, three white iPhone case mockups, top view, slight tilt, minimalist style, solid color background, product display, 3D rendering, highlights, shadows, clean, neat, high quality, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

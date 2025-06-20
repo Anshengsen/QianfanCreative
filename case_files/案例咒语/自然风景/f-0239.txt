@@ -1,0 +1,3 @@
+CN：冬季森林雪景，远景，树木，白雪覆盖，阳光透过树林，暖色调与冷色调对比，高对比度，自然光，对称构图，纵深感，电影级摄影，超广角，8K，超高清，细节丰富。
+EN：Winter forest snow scene, distant view, trees, snow-covered, sunlight filtering through the trees, contrast between warm and cold tones, high contrast, natural light, symmetrical composition, sense of depth, cinematic photography, ultra wide angle, 8K, ultra high definition, rich details. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

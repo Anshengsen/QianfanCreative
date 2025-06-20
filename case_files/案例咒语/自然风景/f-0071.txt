@@ -1,0 +1,3 @@
+CN：杭州西湖，荷花，江南水乡，小桥流水，古色古香，广角镜头，全景构图，柔和的光线，最佳品质，8K，超细节，超品质，电影级照明，真实摄影，UHD，
+EN：Hangzhou West Lake, lotus, Jiangnan water town, small bridges and flowing water, antique style, wide-angle lens, panoramic composition, soft light, best quality, 8K, ultra-details, ultra-quality, movie-level lighting, real photography, UHD, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

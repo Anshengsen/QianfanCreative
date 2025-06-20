@@ -1,0 +1,3 @@
+CN：人物摄影，正面，暖光滤镜，日光，丁达尔光影，微笑，酒窝，长发，肖像，美，光滑的肌肤，细腻的脸，现代，手托下巴，穿着白色连衣裙，瓜子脸，模特身材，室内，
+EN：Portrait photography, front view, warm light filter, daylight, Tyndall light and shadow, smile, dimples, long hair, portrait, beauty, smooth skin, delicate face, modern, chin on hand, wearing white dress, oval face, model figure, indoors, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

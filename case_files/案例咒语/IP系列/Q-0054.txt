@@ -1,0 +1,6 @@
+MJ-SC-0063                    卡通手办系列三
+CN：卡通手办，十二星座主题，白羊座，全息外套，白色超短裤，白皙的皮肤，蓝色的眼睛，白色运动鞋，全息，全息色彩，3D，3DMAX，OC渲染，全身照，全身，全景，最佳质量，最佳画质，黑色高反射背景布，电影级照明效果，
+EN：Cartoon hand, 12 constellations theme, Aries, holographic coat, white shorts, fair skin, blue eyes, white sneakers, hologram, holographic color, 3D, 3DMAX, OC rendering, full-body photo, full-body, panorama, best quality, best picture quality, black highly reflective background cloth, movie-level lighting effect, --q 5 --ar 3:4 --s 250 --v 5.2
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

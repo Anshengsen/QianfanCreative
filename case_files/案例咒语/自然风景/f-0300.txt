@@ -1,0 +1,3 @@
+CN：海浪，翻滚，蓝色，深蓝色，青色，橙色，日落，黄昏，长时间曝光，模糊，动感，流畅，丝滑，高对比度，鲜艳色彩，自然，海洋，水，力量，能量，戏剧性，宽画幅，电影感，超高质量，8K，细节丰富
+EN：ocean waves, rolling, blue, dark blue, cyan, orange, sunset, dusk, long exposure, blur, motion, smooth, silky, high contrast, vivid colors, nature, ocean, water, power, energy, dramatic, wide frame, cinematic, ultra high quality, 8K, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

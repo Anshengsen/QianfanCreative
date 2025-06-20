@@ -1,0 +1,3 @@
+CN：电影院里的热恋中的情侣，情人节，电影院，卡通，特写，甜蜜，
+EN：Couple in love in the cinema, Valentine's Day, cinema, cartoon, close-up, sweet, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：红色背景，画面上方是带有窗户光影的朱砂红色背景墙，画面的下方是带有金光的类似书页的3D物品，高级，朱砂红，详细，最佳品质，32k uhd，
+EN：Red background, the top of the picture is a cinnabar red background wall with window light and shadow, and the bottom of the picture is a 3D object similar to a book page with golden light, high-grade, cinnabar red, detailed, best quality, 32k uhd, --q 1 --s 180 --ar 3:4 --v 6.0 --personalize df2apxr 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

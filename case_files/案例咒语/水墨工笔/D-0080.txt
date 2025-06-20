@@ -1,0 +1,3 @@
+CN：东方美学，高清单线画，装饰性水彩素描，一个美丽的古风少女，简单的细节，薄荷绿和牡丹红，流畅的水墨线条，白色背景，
+EN：Oriental aesthetics, high-definition line drawing, decorative watercolor sketch of a beautiful girl in ancient style, simple details, mint green and peony red, smooth ink lines, white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

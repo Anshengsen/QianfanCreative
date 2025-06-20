@@ -1,0 +1,3 @@
+CN：哥特式风格，13世纪，尖塔状外观如同巨大的水晶，内部空间以彩色玻璃窗为主，营造梦幻氛围，光线透过彩色玻璃洒落在建筑内部，渲染方式为超写实，构图采用对称式，8K分辨率，全局光照，景深效果。
+EN：Gothic style, 13th century, the spire-shaped exterior is like a huge crystal, the interior space is dominated by stained glass windows, creating a dreamy atmosphere, light shines through the stained glass into the interior of the building, the rendering method is hyper-realistic, the composition is symmetrical, 8K resolution, global illumination, and depth of field effect. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 --no close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：以简单的卡通艺术风格创建9个徽章，3x3平等排列，由银色、金色等不同材料制成，需要为徽章注入价值感显得高档，游戏风格，迪士尼卡通风格，纯白背景，
+EN：Create 9 badges in a simple cartoon art style, arranged 3x3 equally, made of silver, gold and other different materials, need to inject a sense of value into the badge to appear high-end, game style, Disney cartoon style, pure white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

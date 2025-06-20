@@ -1,0 +1,4 @@
+
+CN：一个帅哥，蓬巴杜蓝色头发，戴着眼镜，村上隆的风格，在pixiv上有特色，在behance上流行，吉卜力工作室，3D，红色和蓝色配色方案，OCtance渲染，Blender渲染，正视图，高质量，
+EN：A handsome guy, Pompadour blue hair, wearing glasses, Takashi Murakami style, featured on pixiv, popular on behance, Studio Ghibli, 3D, red and blue color scheme, OCtance rendering, Blender rendering, front view, high quality, --q 1 --s 100 --ar 3:4 --niji 5 --style expressive 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

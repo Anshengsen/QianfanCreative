@@ -1,0 +1,3 @@
+CN：一组3Dui图标，书籍，可爱，纯白背景，UI，3D，
+EN：A set of 3 ui icons, books, cute, pure white background, UI, 3D, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

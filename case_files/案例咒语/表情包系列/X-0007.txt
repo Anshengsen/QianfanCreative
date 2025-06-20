@@ -1,0 +1,4 @@
+
+CN：一个穿着白衬衫的小女孩，坐在电脑前或拿着手机，各种形状和表情，线描风格，深白色和浅米色，简单的线条，可爱风格，带有插图的表情符号，大胆的漫画线条风格，深白色的动态形状，九宫格布局，白色背景，高清，32K，
+EN：A little girl in a white shirt, sitting in front of a computer or holding a mobile phone, various shapes and expressions, line drawing style, dark white and light beige, simple lines, cute style, emoji with illustrations, bold comic line style, dark white dynamic shapes, Jiugongge layout, white background, high definition, 32K, --q 1 --s 150 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

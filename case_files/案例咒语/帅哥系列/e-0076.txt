@@ -1,0 +1,3 @@
+CN：一个新闻联播主持人，韩国明星，帅气的男人，富家公子哥发型，淡妆，正面，面对镜头，身穿白色西装，电影光线效果，纯黑色背景，写实，照片，
+EN：A news anchor, a Korean star, a handsome man, a rich boy's hairstyle, light makeup, front view, facing the camera, wearing a white suit, movie light effect, pure black background, realistic, photo, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

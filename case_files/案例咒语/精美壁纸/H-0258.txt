@@ -1,0 +1,3 @@
+CN：海边，夜晚，动漫风格，一个女孩，背影，长发，穿着学生制服，短裙，赤脚，走在沙滩上，海浪，荧光蓝，生物发光，沙滩，湿润，反光，远处的城市灯光，山脉，剪影，日落，余晖，暖色调，冷色调，对比，高饱和度，梦幻，超现实，唯美，高质量，高细节，8K 
+EN：Seaside, night, anime style, a girl, back view, long hair, wearing a school uniform, short skirt, barefoot, walking on the beach, waves, fluorescent blue, bioluminescence, beach, wet, reflection, city lights in the distance, mountains, silhouette, sunset, afterglow, warm tones, cold tones, contrast, high saturation, dreamy, surreal, beautiful, high quality, high details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

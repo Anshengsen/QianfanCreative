@@ -1,0 +1,3 @@
+CN：一个可爱的迪士尼3D女孩，大眼睛，正面，细腻光滑的皮肤，穿着红色棉袄、披着深青色披风，雪中​​，动画gif，传统服饰风格，卡通写实，体积照明，闪亮的眼睛，
+EN：A cute Disney 3D girl, big eyes, front view, delicate and smooth skin, wearing a red cotton jacket and a dark blue cape, in the snow, animated gif, traditional clothing style, cartoon realism, volumetric lighting, shining eyes, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

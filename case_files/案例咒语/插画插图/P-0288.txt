@@ -1,0 +1,3 @@
+CN：不规则形状蒙版，采用卡通风格，内容是在阳光明媚的海滩上，配有现代帐篷、榈树、篝火，2D，矢量插图，白色背景，
+EN：Irregular shape mask in cartoon style with content on sunny beach with modern tent, palm trees, bonfire, 2D, vector illustration, white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

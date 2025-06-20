@@ -1,0 +1,3 @@
+CN：3D卡通图标，两张错开叠放的金色优惠券，围有两枚金币，黏土材质，光泽感，卡通风格，白色背景，3D渲染，OC渲染，超细节，超品质，8K
+EN：3D cartoon icon, two staggered and stacked golden coupons, surrounded by two gold coins, clay material, glossy, cartoon style, white background, 3D rendering, OC rendering, super details, super quality, 8K --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

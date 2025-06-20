@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，中灰色，男士西装长裤，基础款，直筒版型，腰部有褶皱细节，斜插口袋，拉链及纽扣门襟，裤脚有翻边，面料挺括，光线均匀柔和，焦点集中于服装，细节清晰。
+EN：Professional clothing photography, 8K, front view, white background, medium grey, men's suit trousers, basic style, straight fit, pleated details at waist, slanted pockets, zipper and button placket, cuffs at hems, crisp fabric, even and soft lighting, focus on the garment, clear details. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

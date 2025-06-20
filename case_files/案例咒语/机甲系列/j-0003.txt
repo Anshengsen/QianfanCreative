@@ -1,0 +1,3 @@
+CN：日本动漫风格，新川洋司风格，一个红眼睛黑长发的亚洲美女，机器人身体部位，详细的角色插图，科幻的赛博朋克主题，非常具有未来感的机器人，白色背景，侧面，居中构图，
+EN：Japanese anime style, Yoji Shinkawa style, an Asian beauty with red eyes and long black hair, robot body parts, detailed character illustration, sci-fi cyberpunk theme, very futuristic robot, white background, side view, centered composition, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

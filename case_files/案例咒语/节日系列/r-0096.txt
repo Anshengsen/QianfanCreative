@@ -1,0 +1,3 @@
+CN：南瓜灯笼里的鬼魂，3D渲染，逼真，幽灵般半透明，飘渺的光效，昏暗的背景，老旧的木屋，哥特式风格，细节刻画，光影交错，体积光，全局光照，高精度建模，4K分辨率，超写实渲染，最佳质量，恐怖氛围，阴森，神秘。
+EN：Ghost in the pumpkin lantern, 3D rendering, realistic, ghostly translucency, ethereal light effects, dim background, old wooden house, Gothic style, detailed depiction, interlaced light and shadow, volumetric light, global illumination, high-precision modeling, 4K resolution, hyper-realistic rendering, best quality, horror atmosphere, gloomy, mysterious. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：专业摄影，服装特写，女性，正面，站姿，略微侧身，立领，斜襟，盘扣，浅米色，棉麻质地，短款外套，宽松版型，衣长至腰部，袖口略微收紧，肩部线条自然，两侧有方形贴袋，整体风格简约，复古，文艺，日常，自然光，柔和光线。
+EN：Professional photography, clothing close-up, female, front, standing, slightly sideways, stand-up collar, slanted lapel, buttons, light beige, cotton and linen, short jacket, loose fit, waist-length, slightly tightened cuffs, natural shoulder lines, square patch pockets on both sides, the overall style is simple, retro, literary, everyday, natural light, soft light. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

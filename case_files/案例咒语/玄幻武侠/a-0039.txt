@@ -1,0 +1,5 @@
+﻿CN：一把剑，3D，悬浮在炉顶上方，居中构图，红色与黑色，剑身上刻画有商州时期的纹路，火光照明，寒铁材质，极高品质，高分辨力，GC数字渲染，中国神话故事，
+EN：A sword, 3D, suspended above the stove top, centered composition, red and black, the sword body is engraved with the lines of the Shangzhou period, firelight lighting, cold iron material, extremely high quality, high resolution, GC digital rendering, Chinese mythology, --q 1 --s 100 --ar 3:4 --niji 6
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

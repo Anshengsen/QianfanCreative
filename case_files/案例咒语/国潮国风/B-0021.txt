@@ -1,0 +1,3 @@
+CN：一个中国唐代的美少女，唐代风格，3D，2.5D真实人像，动感模糊，精致的五官，精致的妆容，精致的发饰，盘发，3D渲染，表情符号装置，虚幻引擎，景深，30mm镜头，丰富的细节，高质量，
+EN：A beautiful girl of the Chinese Tang Dynasty, Tang Dynasty style, 3D, 2.5D real portrait, dynamic blur, exquisite facial features, exquisite makeup, exquisite hair accessories, disc hair, 3D rendering, emoji device, Unreal engine, depth of field, 30mm lens, rich details, high quality, --q 5 --s 150 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：史诗级风景摄影，广角镜头，长时间曝光，海面平静，远方地平线，日落，天空云层汇聚，星空点缀，深蓝色和橙色色调，电影级光照，超高分辨率，8k，超细节，真实感，电影质感，色彩鲜艳，动态范围，光线追踪，全局照明，大气透视
+EN：Epic landscape photography, wide angle lens, long exposure, calm sea, distant horizon, sunset, clouds gathering in the sky, starry sky, deep blue and orange tones, cinematic lighting, ultra high resolution, 8k, ultra detail, photorealism, film texture, vivid colors, dynamic range, ray tracing, global illumination, atmospheric perspective --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：专业摄影，8K，背影，亚洲女性，长发，黑色，微卷，红色针织帽，米奇耳朵装饰，黑色短款上衣，黑色长裤，坐姿，山景，远景，自然光，户外，休闲，放松，山路，绿色植被，岩石，略微倾斜的头部，手扶岩石，柔和光线，
+EN：Professional photography, 8K, back view, Asian woman, long hair, black, slightly curly, red knitted hat, Mickey ears, black cropped top, black trousers, sitting, mountain view, distant view, natural light, outdoors, leisure, relaxing, mountain trail, green vegetation, rocks, slightly tilted head, holding rocks, soft light, --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

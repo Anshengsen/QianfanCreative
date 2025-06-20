@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，一枚圆形的地雷炸弹，黑色炸弹球体，灰色的导火索，黄色闪光特效，纯白背景，简单的构图，柔和的灯光，
+EN：3D rendering, cartoon style, a round mine bomb, black bomb sphere, gray fuse, yellow flash special effect, pure white background, simple composition, soft lighting,  --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

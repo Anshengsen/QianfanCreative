@@ -1,0 +1,4 @@
+﻿CN：一个3D男生坐在木桌子上在敲打笔记本电脑，戴着眼镜，3d风格插图，黏土材质，3D，暖色调，全身，
+EN：A 3D guy sitting at a wooden table is banging on his laptop, wearing glasses, 3D style illustrations, clay materials, 3D, warm colors, full body, --q 1 --s 120 --ar 3:2 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

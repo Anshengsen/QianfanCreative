@@ -1,0 +1,3 @@
+CN：动漫风格，中国风美女，全身像，白色连衣裙，金色配饰，皇冠，长发，精致五官，淡妆，飘逸，动态姿势，柔和光线，梦幻，唯美，细节丰富，8K，超高分辨率。
+EN：Anime style, Chinese-style beauty, full-body portrait, white dress, gold accessories, crown, long hair, delicate facial features, light makeup, flowing, dynamic pose, soft light, dreamy, beautiful, rich details, 8K, ultra-high resolution. --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

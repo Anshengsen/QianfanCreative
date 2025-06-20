@@ -1,0 +1,3 @@
+CN：3D渲染，特写，黑色字母“H”，立体感强，平滑的表面，哑光，白色背景，对称构图，正面，极简风格。
+EN：3D rendering, close-up, black letter "H", three-dimensional, smooth surface, matte, white background, symmetrical composition, front view, minimalist style. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

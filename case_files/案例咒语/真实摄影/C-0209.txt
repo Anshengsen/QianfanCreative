@@ -1,0 +1,3 @@
+CN：一个美丽的中国女孩的证件照，微笑，淡妆，黑色长发，白皙的皮肤，蓝色背景，高清，
+EN：ID photo of a beautiful Chinese girl, smile, light makeup, long black hair, fair skin, blue background, high definition, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

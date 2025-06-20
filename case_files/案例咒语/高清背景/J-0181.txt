@@ -1,0 +1,3 @@
+CN：蓝色、紫色、粉色的光迹、水平光迹、黑色背景，光效，
+EN：Blue, purple, pink light trace, horizontal light trace, black background, light effect, --q 1 --s 100 --ar 16:9 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

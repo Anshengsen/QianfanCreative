@@ -1,0 +1,3 @@
+CN：蜡笔风，手绘插画，procreate绘制，极简主义，特写，一只带着眼镜的短发女老师，在教室里，黑板上写着 "教师节快乐" ，前景是一些手绘鲜花，清新自然的配色，治愈，颗粒感，细腻的笔触，高细节，高分辨率，
+EN：Crayon style, hand-painted illustration, procreate drawing, minimalism, close-up, a short-haired female teacher with glasses in the classroom, "Happy Teacher's Day" written on the blackboard, some hand-painted flowers in the foreground, fresh and natural color matching, healing, grainy, delicate brushstrokes, high details, high resolution, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

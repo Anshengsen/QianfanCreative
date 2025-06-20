@@ -1,0 +1,3 @@
+CN：水墨画风格，山水风景，红色太阳，山脉，暗黑系水墨画，黑色树木，河流，整体风格古朴，具有中国传统文化韵味，细节包括山脉的轮廓，树木的细节，以及河流的走向，最佳品质，8K，水墨画质感，适合用于艺术海报或壁纸，
+EN：Ink painting style, landscape, red sun, mountains, dark ink painting, black trees, rivers, the overall style is simple, with the charm of traditional Chinese culture, details include the outline of the mountains, the details of the trees, and the direction of the river, the best quality, 8K, ink painting texture, suitable for art posters or wallpapers, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

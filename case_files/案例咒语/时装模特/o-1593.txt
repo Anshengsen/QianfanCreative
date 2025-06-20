@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，女性，站立姿势，腿部特写，穿着米色连衣裙，搭配米色和浅粉色拼接的休闲运动鞋，鞋面材质为帆布和皮革，鞋头为浅粉色，鞋身侧面有圆形图案，鞋带为米色，背景为城市河岸景观，水面平静，远处有建筑和树木，光线柔和，自然光。
+EN：Professional photography, 8K, shoe and boot advertising shooting, no face, female, standing pose, close-up of legs, wearing a beige dress, paired with casual sneakers with beige and light pink stitching, the upper material is canvas and leather, the toe is light pink, there is a circular pattern on the side of the shoe, the laces are beige, the background is a city riverside landscape, the water is calm, there are buildings and trees in the distance, the light is soft, and natural light. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

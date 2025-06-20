@@ -1,0 +1,4 @@
+﻿CN :游戏角色，女性，反派，绝美，媚笑，戴着黑色斗篷，光线追踪，明暗对比，暗色调，游戏光效，
+EN：Game character, female, villain, beautiful, smiling, wearing a black cape, ray tracing, chiaroscuro, dark tones, game light effects, --q 1 --s 100 --ar 3:2 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

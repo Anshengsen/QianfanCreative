@@ -1,0 +1,3 @@
+CN：一个超现代的躺椅渲染图，白色皮革与灰黑色金属焊接接缝，先进的工业设计，极简，白色背景，3D渲染，OC渲染，光滑，最佳品质，
+EN：Rendering of an ultra modern lounge chair, white leather with gray and black metal welded seams, advanced industrial design, minimalist, white background, 3D rendering, OC rendering, smooth, best quality, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个可爱的3D女孩，迪士尼动画风格，霓虹光，漆黑的黑色背景空间，C4D，光影对比，高光，特写，正面，面对镜头，眯眼，微笑，圆脸，可爱，穿着黑色紧身训练衫，
+EN：A cute 3D girl, Disney animation style, neon light, dark black background space, C4D, light and shadow contrast, highlights, close-up, front view, facing the camera, squinting, smiling, round face, cute, wearing a black tight training shirt, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

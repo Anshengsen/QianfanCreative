@@ -1,0 +1,3 @@
+CN：夜晚，星空，沙漠，山脉，剪影，远景，广角，深蓝色调，自然光，高对比度，宁静，神秘，8K，超高清细节
+EN：night, starry sky, desert, mountains, silhouette, vista, wide angle, dark blue tones, natural light, high contrast, tranquility, mystery, 8K, UHD details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D微缩场景，万圣节之夜，南瓜，恶作剧的鬼魂，蝙蝠，糖果，黑夜，柔和的配色方案，3D风格，3D渲染，丰富的细节，高分辨率，边缘光，暖色光，最佳品质，微缩模型，
+EN：3D miniatures scene, Halloween night, pumpkins, mischievous ghosts, bats, candy, dark night, soft color scheme, 3D style, 3D rendering, rich details, high resolution, rim light, warm light, best quality, miniatures, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：黎明前的景象，雪覆盖的山丘，蜿蜒的道路，微弱的车灯轨迹，远处的地平线，薄雾笼罩，深蓝色天空，渐变橙色天边，月亮，明亮的星星，广角镜头，高角度俯视，冷色调，宁静氛围，自然风光，摄影风格，高动态范围(HDR)，超细节，8K分辨率，最佳画质
+EN：Pre-dawn scene, snow-covered hills, winding road, faint car light trails, distant horizon, mist, deep blue sky, gradient orange horizon, moon, bright stars, wide-angle lens, high angle view, cold colors, tranquil atmosphere, natural scenery, photography style, high dynamic range (HDR), ultra-detailed, 8K resolution, best picture quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

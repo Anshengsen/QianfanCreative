@@ -1,0 +1,4 @@
+CN：冬日黎明，雪原，薄雾，枯树，剪影，暖阳，冷色调，广角，远景，自然光，高对比度，宁静，空旷，超高清，8K，摄影
+EN：winter dawn, snowfield, mist, dead tree, silhouette, warm sun, cold colors, wide angle, distant view, natural light, high contrast, tranquility, empty, ultra high definition, 8K, photography --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

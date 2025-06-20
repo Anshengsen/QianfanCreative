@@ -1,0 +1,3 @@
+CN：卡通矢量插画风格，粗线条勾勒，鲜艳配色，高饱和度，海滩场景，独眼海盗，蓝色鹦鹉，绿色酒瓶，红色沙滩车，棕榈树，细节包括海盗的表情，鹦鹉的羽毛，酒瓶的标签，整体画面活泼有趣，色彩明亮，最佳品质，8K，扁平化设计，几何图形，干净利落
+EN：Cartoon vector illustration style, bold outlines, bright colors, high saturation, beach scene, one-eyed pirate, blue parrot, green wine bottle, red beach car, palm trees, details include the pirate's expression, parrot feathers, bottle label, the overall picture is lively and interesting, bright colors, best quality, 8K, flat design, geometric graphics, clean and neat --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

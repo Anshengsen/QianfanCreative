@@ -1,0 +1,4 @@
+﻿CN：3D图标，一个红色的心，粘土材料，等距视图，3D，光滑，柔和的渐变，任天堂，时尚，潮流，丰富的细节，最高品质，最高分辨率，白色背景，柔光，
+EN：3D icon, a red heart, clay material, isometric view, 3D, smooth, soft gradual change, Nintendo, fashion, trend, rich details, highest quality, highest resolution, white background, soft light, --q 1 --s 100 --ar 3:4 --niji 5 
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：蓝色清冷风格，国风插画，东方美学，梦幻，冷艳美人，绝世美女，乌黑柔顺的发丝，精致的发型，精致的发簪，红润的樱桃小嘴，小巧玲珑的鼻梁，白里透红的脸蛋，光滑细腻的肌肤，精致完美的五官，超清人脸特写，油画质感，人物肖像，超高分辨率，最高品质，超清画质，
+EN：Blue cold style, national style illustration, oriental aesthetics, dream, cold beauty, peerless beautiful woman, black soft hair, exquisite hairstyle, exquisite hairpin, ruddy cherry mouth, small and exquisite nose bridge, white red face, smooth and delicate skin, exquisite and perfect facial features, ultra-clear face close-up, oil painting texture, portrait, ultra-high resolution, highest quality, ultra-clear image quality, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

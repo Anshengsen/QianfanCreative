@@ -1,0 +1,3 @@
+CN：GC渲染，韩国女性模特，简洁的栗色直耳短发，白皙的皮肤，金色领口，丝绸裙子，双手环抱，现代化妆品拍摄广告，顶级打光，精致的五官，精致的妆容，迷人的眼睛，清晰的眼部细节，纯色背景，32K分辨率，柔和细腻的面部，
+EN：GC rendering, Korean female model, simple chestnut straight ear short hair, fair skin, gold neckline, silk skirt, arms around, modern cosmetics shooting advertisement, top lighting, delicate facial features, exquisite makeup, charming eyes, clear eye details, solid color background, 32K resolution, soft and delicate face, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

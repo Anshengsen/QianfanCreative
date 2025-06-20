@@ -1,0 +1,3 @@
+CN：手绘，中式，极简，卡通美少女，上身肖像，平面插画，中式人物插画，白色背景，8k分辨率，
+EN：Hand-drawn, Chinese, minimalist, cartoon beautiful girl, upper body portrait, graphic illustration, Chinese character illustration, white background, 8k resolution, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

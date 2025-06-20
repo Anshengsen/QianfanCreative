@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部，一个亚洲女性，站立姿势，身体略微侧向镜头，双腿并拢，穿着一件白色无袖背心，圆领，宽松版型，搭配浅蓝色牛仔裤，裤子膝盖处有破洞设计，背景为室外场景，白色栅栏，自然光，简洁风格，整体氛围休闲，舒适。
+EN：Professional photography, 8K, clothing advertising shooting, no face, an Asian woman, standing posture, body slightly sideways to the camera, legs together, wearing a white sleeveless vest, round neck, loose fit, paired with light blue jeans, with holes at the knees, the background is an outdoor scene, white fence, natural light, simple style, the overall atmosphere is casual and comfortable. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：沙漠风光，白色沙丘，黑色枯枝，蓝天白云，明暗对比，极简主义，广角镜头，自然光，高对比度，沙丘纹理，细节丰富，8K，超高分辨率，摄影作品
+EN：Desert scenery, white sand dunes, black dead branches, blue sky and white clouds, chiaroscuro, minimalism, wide-angle lens, natural light, high contrast, dune texture, rich details, 8K, ultra-high resolution, photography --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

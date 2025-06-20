@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个亚洲女性，站立姿势，自然放松，特写，无面部，穿着宽松的圆领长袖上衣，颜色为卡其色，材质柔软，服装风格简约休闲，背景虚化，光线柔和，整体氛围温暖舒适。
+EN：Professional photography, 8K, an Asian woman, standing pose, naturally relaxed, close-up, no face, wearing a loose round-neck long-sleeved top, the color is khaki, the material is soft, the clothing style is simple and casual, the background is blurred, the light is soft, and the overall atmosphere is warm and comfortable. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

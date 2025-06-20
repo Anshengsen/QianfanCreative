@@ -1,0 +1,3 @@
+CN：泰坦陨落风格的机甲，厚重的装甲和强大的火力，战场探照灯和爆炸火光照亮，被摧毁的城市背景，浓烟滚滚，光线追踪渲染，强调体积感和重量感，遍布弹孔和划痕，8K，超高分辨率，写实风格。
+EN：Titanfall-style mecha, heavy armor and powerful firepower, battlefield illuminated by searchlights and explosion flames, destroyed city background, thick smoke, ray tracing rendering, emphasizing the sense of volume and weight, full of bullet holes and scratches, 8K, ultra-high resolution, realistic style. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

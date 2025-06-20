@@ -1,0 +1,3 @@
+CN：可爱的斗牛犬，白色背景，超高分辨率，3D渲染，粘土材料，柔和的阴影，光滑，
+EN：Cute bulldog, white background, ultra high resolution, 3D rendering, clay material, soft shadow, smooth, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

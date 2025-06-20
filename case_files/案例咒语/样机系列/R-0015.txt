@@ -1,0 +1,3 @@
+CN：空白效果图，空白的手机放在灰色桌面上，顶视图，极简主义，3D样机渲染，降噪，
+EN：Blank renderings, blank phone on gray desktop, top view, minimalism, 3D mockup rendering, noise reduction, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

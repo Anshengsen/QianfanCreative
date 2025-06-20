@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，男士衬衫，休闲款式，深灰色衣身，浅蓝色撞色翻领，短袖，合身剪裁，棉质面料，柔和光线，均匀照明，焦点清晰，衣物纹理细节可见，无阴影，
+EN：Professional clothing photography, 8K, front view, white background, men's shirt, casual style, dark grey body, light blue contrast lapels, short sleeves, fitted cut, cotton fabric, soft light, even lighting, sharp focus, visible texture details, no shadows, --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

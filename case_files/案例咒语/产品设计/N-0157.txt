@@ -1,0 +1,3 @@
+CN：产品摄影，黑色香水瓶，黑色和金色背景，自然光，8K，超高质量，细节丰富，玻璃质感，光线折射，奢华，优雅，
+EN：Product photography, black perfume bottle, black and gold background, natural light, 8K, ultra high quality, rich details, glass texture, light refraction, luxury, elegance, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+
+CN：一个美少女，2D，日本漫画风格，时尚潮流，暗黑系，灰色背景，光泽，红唇，黑发，正视图，
+EN：A beautiful girl, 2D, Japanese manga style, fashion trend, dark, gray background, gloss, red lips, black hair, front view, --q 1 --s 100 --ar 3:4 --v 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

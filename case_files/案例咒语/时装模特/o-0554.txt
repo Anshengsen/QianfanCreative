@@ -1,0 +1,4 @@
+CN：专业摄影，8K，女性，服装广告，无面部，休闲风，宽松高腰阔腿裤，深蓝色，抽绳设计，白色短款上衣，米白色针织开衫，白色运动鞋，站姿，正面视角，室内场景，浅色木地板，白色墙面，柔和光线，简约背景，自然光，
+EN：Professional photography, 8K, female, clothing advertisement, no face, casual style, loose high-waist wide-leg pants, dark blue, drawstring design, white cropped top, off-white knitted cardigan, white sneakers, standing pose, front view, indoor scene, light wooden floor, white wall, soft light, simple background, natural light, --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

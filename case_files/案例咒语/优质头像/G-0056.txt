@@ -1,0 +1,6 @@
+
+CN：一个美少女，精致的五官，腮红，口红，分层发型，穿着职业装，面对镜头，正视图，上半身，蓝色背景，微写实，光泽，真实与3D的碰撞，高质量，
+EN：A beautiful girl, exquisite facial features, blush, lipstick, layered hairstyle, wearing professional attire, facing the camera, front view, upper body, blue background, micro-realism, gloss, collision of reality and 3D, high quality, --q 1 --s 100 --ar 3:4 --niji 5 --c 0
+辅：A beautiful girl, exquisite facial features, blush, lipstick, layered hairstyle, wearing professional attire, facing the camera, close-up of the upper body, blue background, micro-realism, gloss, collision of reality and 3D, high quality, --q 1 --s 150 --ar 3:4 --niji 5
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：LOGO，图标，保龄球，白色，黑色圆点，几何抽象图形，圆角斜线形状，粉色，蓝色，青色，鲜艳的色彩，矢量，扁平设计，简洁的线条，现代，俏皮，极简主义，动态构图，白色背景，最佳质量，高分辨率，细节丰富。
+EN：LOGO, icon, bowling, white, black dots, geometric abstract graphics, rounded diagonal shapes, pink, blue, cyan, bright colors, vector, flat design, clean lines, modern, playful, minimalism, dynamic composition, white background, best quality, high resolution, rich details. --q 1 --s 100 --ar 1:1 --v 6.0 --profile 37be2bq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

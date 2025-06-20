@@ -1,0 +1,3 @@
+CN：卡通风格包装设计，一组小零食包装，颜色为粉色、蓝色、黄色和绿色，包装上印有卡通动物图案和中文英文文字，色彩鲜艳，线条活泼，整体风格可爱有趣，具有童趣和食欲感，细节包括包装的颜色，动物图案的表情，以及文字的排版，最佳品质，8K，产品摄影，适合用于儿童零食或糖果，波点背景，
+EN：Cartoon style packaging design, a set of small snack packaging, the colors are pink, blue, yellow and green, with cartoon animal patterns and Chinese and English text printed on the packaging, bright colors, lively lines, the overall style is cute and interesting, with childlike fun and appetite, details include the color of the packaging, the expression of the animal pattern, and the layout of the text, best quality, 8K, product photography, suitable for children's snacks or candies, polka dot background, --s 100 --ar 3:2 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

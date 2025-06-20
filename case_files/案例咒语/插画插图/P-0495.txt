@@ -1,0 +1,3 @@
+CN：涂鸦插画风格，三个卡通人物，红蓝背景，手绘感，粗线条，鲜艳色彩，街头风格，涂鸦字体，动态姿势，矢量图形，最佳品质，插画设计，海报风格，潮流插画，个性化，细节丰富，视觉冲击力，创意插画，年轻活力，时尚元素，
+EN：Graffiti illustration style, three cartoon characters, red and blue background, hand-painted feel, bold lines, bright colors, street style, graffiti fonts, dynamic poses, vector graphics, best quality, illustration design, poster style, trendy illustration, personalized, rich details, visual impact, creative illustration, youthful vitality, fashion elements, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：一个来自现代酒店的房间，自然主义渲染风格，浅金和黑色，详细的建筑元素，以玛雅风格渲染，正面透视，高清，
+EN：A room from a modern hotel, naturalistic rendering style, light gold and black, detailed architectural elements, rendered in Mayan style, front perspective, high definition, --q 1 --s 100 --ar 16:9 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

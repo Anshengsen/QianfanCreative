@@ -1,0 +1,3 @@
+CN：3D小场景，等距透视，干净的背景，沙滩椅和黄色躺椅，后方有遮阳伞，旁边有一颗椰子树，地上有石头和游泳圈和球，动画gif，巧妙的阴影，陶土，可爱，OC渲染，
+EN：3D small scene, isometric perspective, clean background, beach chair and yellow deck chair, parasol at the rear, a coconut tree next to it, stones and swimming rings and balls on the ground, animated gif, clever shadows, terracotta, cute, OC rendering, --q 5 --s 250 --ar 1:1 --v 6.0 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

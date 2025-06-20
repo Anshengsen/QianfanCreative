@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，炭灰色夹克，衬衫领，胸袋，翻盖口袋，长袖，宽松版型，极简主义风格，柔和影棚光线，焦点集中于服装
+EN：Professional clothing photography, 8K, front view, white background, charcoal grey jacket, shirt collar, chest pocket, flap pockets, long sleeves, loose fit, minimalist style, soft studio lighting, focus on clothing --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

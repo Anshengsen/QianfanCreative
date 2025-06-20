@@ -1,0 +1,3 @@
+CN：空白效果图，杂志模型，打开的书本，空白内页，白色，灰色背景，俯视视角，平铺，简约，杂志，报纸，印刷品，PSD，最佳品质，8K，超高清细节
+EN：Blank rendering, magazine mockup, open book, blank pages, white, gray background, top view, flat lay, minimalist, magazine, newspaper, print, PSD, best quality, 8K, UHD details --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

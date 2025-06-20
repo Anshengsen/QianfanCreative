@@ -1,0 +1,3 @@
+CN：京剧花旦，京剧，京剧，红唇，眼角勾线，长睫毛，眼角胭脂，华丽的服装和头饰，京剧美人，3D，柔光，洛可可风格，高清，高亮，闪亮的珍珠，深黑色背景，柔和的焦点，最佳质量，超细节，8K，逼真，写实，详细刻画，
+EN：Peking opera Hua Dan, Peking opera, Peking opera, red lips, eye liner, long eyelashes, eye rouge, gorgeous costumes and headdresses, Peking opera beauties, 3D, soft light, Rococo style, HD, high brightness, shiny pearls, deep black background, soft focus, best quality, ultra detail, 8K, realistic, realistic, detailed portrayal, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：手绘风格，一个非常可爱的女孩，戴着贝壳形状的墨镜，双包子发型，墨镜上有🐚符号象征海洋的气息，旁边有一只戴帽子的猫咪，女孩对着镜头眨眼，充满海滩氛围，轻松，俏皮，
+EN：Hand-painted style, a very cute girl wearing shell-shaped sunglasses, double bun hairstyle, with a 🐚 symbol on the sunglasses to symbolize the breath of the ocean, and a cat in a hat next to her. The girl winks at the camera, full of beach atmosphere, relaxed and playful --q 5 --s 100 --ar 1:1 --niji 6 --personalize bav2ism --sref https://s.mj.run/jIsI1qpVljk 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

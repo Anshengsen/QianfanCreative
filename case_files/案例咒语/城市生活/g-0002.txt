@@ -1,0 +1,3 @@
+CN：游戏风格，巨大的客厅，两侧是收敛起来的落地帘，棕色和深红色，复古感，70年代的美式装修风格，
+EN：Game style, huge living room, flanked by converging floor curtains, brown and crimson, retro feeling, American decoration style in the 1970s, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：虚幻引擎5风格，一个年轻的女性，人像特写，放松的姿态，微微闭眼，幸福的微笑，蓝色的编织长发，黑色颈圈，浅色皮肤，精致的五官，周围环绕着蓝色花朵，阳光洒在脸上，营造出温暖的光晕，梦幻般的背景，柔和的光线，细节丰富，色彩鲜明，高分辨率，艺术感强。
+EN：Unreal Engine 5 style, a young woman, portrait close-up, relaxed posture, slightly closed eyes, happy smile, blue braided long hair, black collar, light skin, delicate facial features, surrounded by blue flowers, sunlight shining on the face, creating a warm halo, dreamy background, soft light, rich details, bright colors, high resolution, strong sense of art. --q 5 --s 100 --ar 16:9 --niji 6 --personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

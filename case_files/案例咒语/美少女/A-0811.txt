@@ -1,0 +1,3 @@
+CN：2.2D动漫风格，2.2D动漫女孩，海滩主题，海滩背景，红发，头戴星星发饰，吃冰棍，粉色眼睛，微笑，项圈，卡通风格，厚涂，光泽感，明亮色彩，全身像，最佳品质，超细腻。
+EN：2.2D anime style, 2.2D anime girl, beach theme, beach background, red hair, wearing star hair accessories, eating popsicle, pink eyes, smiling, collar, cartoon style, thick coating, glossy, bright colors, full body portrait, best quality, super delicate. --q 5 --s 50 --ar 3:5 --niji 6 --profile v21i75s 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

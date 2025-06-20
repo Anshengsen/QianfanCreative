@@ -1,0 +1,3 @@
+CN：3D渲染，未来科幻风格，一位亚洲女性，银色长发，精致的五官，冷艳表情，头戴银色透明头盔，身穿银白色紧身机甲，机械手臂，细节丰富，全身像，中心构图，浅色背景，环境光，超高质量，8K，超精细
+EN：3D rendering, futuristic sci-fi style, an Asian woman, long silver hair, delicate facial features, cold expression, wearing a silver transparent helmet, wearing a silver-white tight-fitting mecha, mechanical arms, rich details, full-body portrait, center composition, light background, ambient light, ultra-high quality, 8K, ultra-fine --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

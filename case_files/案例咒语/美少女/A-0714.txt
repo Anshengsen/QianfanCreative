@@ -1,0 +1,3 @@
+CN：一个双马尾的女性角色，轻柔的线稿风格，淡雅的色彩，双手合十，面带微笑，经典的服装款式，灯光柔和，没有明显的阴影，构图简洁，以人物为主体，背景留白，整体氛围轻松愉快，背景为纯白色，营造出干净清爽的感觉，画风偏向于日系动漫风格，类似于一些pixiv画师的风格，
+EN：A female character with twin ponytails, soft line drawing style, elegant colors, hands clasped together, smiling, classic clothing style, soft lighting, no obvious shadows, simple composition, with the character as the main body, and the background left blank. The overall atmosphere is relaxed and pleasant, and the background is pure white, creating a clean and refreshing feeling. The style of painting tends to be Japanese anime style, similar to the style of some pixiv artists. --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

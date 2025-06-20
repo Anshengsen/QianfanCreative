@@ -1,0 +1,3 @@
+CN：矢量，LOGO，卡通风格，鲜艳的色彩，适用于儿童用品或娱乐行业，以动物形象设计，夸张的表情和动作，俏皮可爱，白色背景，活泼，可爱，趣味，
+EN：Vector, LOGO, cartoon style, bright colors, suitable for children's products or entertainment industry, designed with animal image, exaggerated expressions and movements, playful and cute, white background, lively, cute, fun, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

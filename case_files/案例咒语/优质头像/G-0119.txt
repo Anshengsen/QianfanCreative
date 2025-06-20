@@ -1,0 +1,4 @@
+﻿CN：油画，写实风，一个美丽的东方少女穿着厚厚的棉衣，粉色风格，下雪天，正面，肖像特写，最佳分辨率，
+EN：Oil painting, realistic style, a beautiful oriental girl wearing a thick cotton-padded coat, pink style, snowy day, front, portrait close-up, best resolution, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

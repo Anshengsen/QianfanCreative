@@ -1,0 +1,3 @@
+CN：沙漠景观，沙丘，特写，金色沙子，流畅曲线，明暗对比，极简构图，日落时分，柔和光线，暖色调，高分辨率，细节丰富，自然风光，摄影 
+EN：Desert landscape, sand dunes, close-up, golden sand, smooth curves, chiaroscuro, minimalist composition, sunset, soft light, warm tones, high resolution, rich details, natural scenery, photography --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

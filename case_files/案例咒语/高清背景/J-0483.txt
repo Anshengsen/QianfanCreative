@@ -1,0 +1,3 @@
+CN：抽象艺术，丙烯颜料画，流体艺术，漩涡状纹理，深红色，青蓝色，黑色，动态效果，微观细节，高对比度，8K，超高细节
+EN：abstract art, acrylic painting, fluid art, swirling textures, crimson, cyan, black, dynamic effects, microscopic details, high contrast, 8K, ultra high detail --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

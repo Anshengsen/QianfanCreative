@@ -1,0 +1,3 @@
+CN：微距摄影，植物，黄色小花簇，绿叶，特写，自然光，柔和的背景虚化，高饱和度，高清晰度，8K
+EN：Macro photography, plants, yellow small flower clusters, green leaves, close-up, natural light, soft bokeh, high saturation, high definition, 8K --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

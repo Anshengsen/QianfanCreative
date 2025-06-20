@@ -1,0 +1,3 @@
+CN：美食摄影，照片，各色寿司和生鱼片，摆放在绿叶上，周围点缀着粉色樱花，木质筷子，酱油碟，芥末碟，俯视视角，暖色调，柔和光线，色彩鲜明，细节丰富，高对比度，日式美学。
+EN：Food photography, photo, various sushi and sashimi, placed on green leaves, surrounded by pink cherry blossoms, wooden chopsticks, soy sauce dish, wasabi dish, top view, warm tones, soft light, bright colors, rich details, high contrast, Japanese aesthetics. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

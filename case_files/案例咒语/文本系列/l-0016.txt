@@ -1,0 +1,3 @@
+CN：在白色背景上写着“Midjourney”，独奏，以马里奥风格绘制，最佳品质，
+EN：The word "Midjourney" on a white background, solo, drawn in Mario style, best quality, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

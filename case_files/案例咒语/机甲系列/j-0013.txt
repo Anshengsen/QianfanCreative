@@ -1,0 +1,3 @@
+CN：特写，壁纸，一个白色和淡粉色的女性高达，白色金属和红色半透明玻璃材质，部分区域像是红色水晶一样，3D渲染，电影级打光效果，超级光滑的表面，超清品质，超级详细的细节，辛烷值高清渲染，3D，纯白色背景，
+EN：Close-up, wallpaper, a white and light pink female Gundam, white metal and red translucent glass, some areas look like red crystal, 3D rendering, movie-level lighting effects, super smooth surface, ultra-clear quality, super detailed details, octane high-definition rendering, 3D, pure white background, --q 5 --s 200 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

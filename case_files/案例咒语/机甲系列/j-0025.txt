@@ -1,0 +1,3 @@
+CN：蒸汽朋克风格机甲，齿轮，铜制，黄铜色，明暗对比强烈，煤气灯昏黄的光线，废弃工厂背景，锈迹斑斑的墙壁，细节丰富，8K，超高清，电影质感，
+EN：Steampunk style mecha, gears, copper, brass, strong contrast between light and dark, dim light from gas lamps, abandoned factory background, rusty walls, rich details, 8K, ultra high definition, film texture, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 --no close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：抽象的几何背景，极简，现代，3D，OC，莫奈，抽象表现主义，负空间，特写，获奖作品，最佳品质，
+EN：Abstract geometric background, minimalism, modern, 3D, OC, Monet, abstract expressionism, negative space, close-up, award-winning, best quality, --q 1 --s 180 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

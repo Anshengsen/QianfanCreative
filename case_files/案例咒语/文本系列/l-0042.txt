@@ -1,0 +1,3 @@
+CN：在白色背景上使用油漆写单词“Hello, Welcome To Midjourney”，在白色背景上孤立，干净柔和的阴影，最佳品质，
+EN：The words "Hello, Welcome To Midjourney" written using paint on a white background, isolated on a white background, clean and soft shadow, best quality, --q 1 --s 100 --ar 3:2 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

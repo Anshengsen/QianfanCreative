@@ -1,0 +1,5 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。特写，一个女性，站立姿势，身体略微侧向镜头，长袖白色紧身打底衫，圆领，搭配深蓝色低腰裤子，裤腰处有红色字母装饰，肩背红色单肩包，背景为海滩，沙滩，海水，自然光，细节丰富，质感真实。
+EN：Professional photography, 8K, clothing advertising shooting, no face. Close-up, a woman, standing, body slightly sideways to the camera, long-sleeved white tight bottoming shirt, round neck, paired with dark blue low-waist pants, red letter decoration on the waist, red shoulder bag on the shoulder, background is beach, sand, sea water, natural light, rich details, real texture. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,2 @@
+CN：街道上的超跑-梅赛德斯，发光，霓虹灯，多色，高质量，8k分辨率，居中，高反射，最佳品质，
+EN：Supercar on the street - Mercedes, luminous, neon, multi-color, high quality, 8k resolution, centered, high reflection, best quality, --q 1 --s 150 --ar 3:2 --v 6.0

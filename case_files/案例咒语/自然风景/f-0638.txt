@@ -1,0 +1,3 @@
+CN：风景摄影，秋季森林，阳光，树木，落叶，橙色的树叶，雾气，广角镜头，电影感，8k，超细节，超现实主义，宁静的氛围，柔和的光线
+EN：Landscape photography, autumn forest, sunlight, trees, fallen leaves, orange foliage, mist, wide angle lens, cinematic feel, 8k, ultra detail, surrealism, tranquil atmosphere, soft light --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

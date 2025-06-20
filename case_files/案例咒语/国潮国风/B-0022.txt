@@ -1,0 +1,4 @@
+
+CN：中国紫禁城，工笔画，平面插图，中国古典主义建筑插画风格，唐代风格，中国传统主义，几何，朱砂红背景，简单，简约，正视图，俯视图，红色和金色
+EN：Chinese Forbidden City, Meticulous Painting, Graphic Illustration, Chinese Classical Architectural Illustration Style, Tang Dynasty Style, Chinese Traditionalism, Geometry, Vermilion Background, Simple, Minimalist, Front View, Top View, Red and Gold --q 1 --s 100 --ar 3:4 --niji 5 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

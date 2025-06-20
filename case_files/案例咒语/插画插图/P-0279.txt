@@ -1,0 +1,3 @@
+CN：一个人坐在帐篷旁边的椅子上，微笑着挥手，身边有一只小狗，现代简约插画，矢量，平面插图，简单的设计，简约的插画，白色背景，
+EN：A man is sitting on a chair next to a tent, smiling and waving, with a puppy next to him, modern minimalist illustration, vector, flat illustration, simple design, minimalist illustration, white background, --q 1 --s 100 --ar 3:4 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

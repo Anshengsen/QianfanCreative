@@ -1,0 +1,3 @@
+CN：一个美丽的动漫女孩，肖像，2D，深紫色背景，黑色长发，瓜子脸，黑色毛衣，暗黑色系，有高光，赛博朋克风格，厚涂，戴着墨镜，冷漠的表情，紫色的眼睛，微微低头，紫色背景，正面，最佳品质。
+EN：A beautiful anime girl, portrait, 2D, dark purple background, long black hair, oval face, black sweater, dark color scheme, highlights, cyberpunk style, thick paint, wearing sunglasses, indifferent expression, purple eyes, slightly lowering her head, purple background, front view, best quality. --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

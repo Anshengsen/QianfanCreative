@@ -1,0 +1,3 @@
+CN：风景摄影，蓝色的花田，天空，白色的云朵，蓝色天空，低角度拍摄，广角镜头，电影感，8k，超细节，超现实主义
+EN：Landscape photography, blue flower field, sky, white clouds, blue sky, low angle shot, wide angle lens, cinematic feel, 8k, ultra detail, surrealism --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

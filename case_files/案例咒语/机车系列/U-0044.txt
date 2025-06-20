@@ -1,0 +1,2 @@
+CN：赛博朋克风格的摩托车，霓虹灯装饰，未来感十足的造型，夜之城街道背景，雨后积水反射灯光，光线追踪，科技感十足，8K分辨率，强调速度感和未来感。
+EN：Cyberpunk-style motorcycle, neon decoration, futuristic shape, Night City street background, puddles after rain reflecting lights, ray tracing, full of technology, 8K resolution, emphasizing the sense of speed and the future. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

@@ -1,0 +1,3 @@
+CN：韩式写真，柔美风格，一个年轻的亚洲女性，长发，部分头发挽起，穿着黑色L肩毛衣，手放在脖子附近，看向镜头，柔和的自然光，浅色背景，半身像，最佳质量，8k，超细节，皮肤光滑
+EN：Korean portrait, soft style, a young Asian woman with long hair, part of her hair tied up, wearing a black L-shoulder sweater, with her hands near her neck, looking towards the camera, soft natural light, light background, half-length portrait, best quality, 8k, ultra-detailed, smooth skin --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

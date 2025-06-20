@@ -1,0 +1,3 @@
+CN：一位帅气的中国男子，身着古代服饰，拿着书生扇子，逼真，全身，广角，书生，穿着中国古代服装，华丽，
+EN：A handsome Chinese man in ancient costume holding a scholar fan, realistic, full body, wide angle, scholar, in ancient Chinese costume, gorgeous, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,5 @@
+CN：打火机的3D渲染图，3D，粉色，辛烷渲染，工业设计，极简主义，8k，高细节，工作室品质，工作室灯光，白色背景，
+EN：3D rendering of a lighter, 3D, pink, Octane rendering, industrial design, minimalism, 8k, high detail, studio quality, studio lighting, white background, --q 1 --s 100 --ar 3:4 --v 6.0
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

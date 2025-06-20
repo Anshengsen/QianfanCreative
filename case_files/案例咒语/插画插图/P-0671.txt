@@ -1,0 +1,3 @@
+CN：抽象油画，绿色，橙色，黑色，山脉，河流，田野，整体风格抽象，具有艺术感和视觉冲击力，细节包括颜色的运用，笔触的细节，以及整体的构图，最佳品质，8K，油画质感，适合用于艺术海报或壁纸，黑色背景
+EN：Abstract oil painting, green, orange, black, mountains, rivers, fields, the overall style is abstract, artistic and visually striking, details include the use of color, details of the brushstrokes, and the overall composition, best quality, 8K, oil painting texture, suitable for art posters or wallpapers, black background --s 250 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：国画风格，水墨写意，描绘羊蝎子火锅的食材和器皿，突出中国传统文化的韵味，留白处理，营造意境，2D插画，中国传统主义，
+EN：Chinese painting style, freehand ink painting, depicting the ingredients and utensils of mutton spine hot pot, highlighting the charm of traditional Chinese culture, leaving blank space to create artistic conception, 2D illustration, Chinese traditionalism, --q 2 --s 100 --ar 3:2 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

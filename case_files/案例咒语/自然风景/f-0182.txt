@@ -1,0 +1,3 @@
+CN：宁静的湖面，远山，倒影，木质码头，人物背影，黑色服装，坐姿，冥想，自然风光，广角镜头，对称构图，冷色调，清晨，柔和光线，高对比度，细节丰富，8K，超高分辨率，真实感
+EN：Tranquil lake, distant mountains, reflections, wooden pier, back view, black clothing, sitting, meditation, natural scenery, wide-angle lens, symmetrical composition, cold colors, early morning, soft light, high contrast, rich details, 8K, ultra-high resolution, realism --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

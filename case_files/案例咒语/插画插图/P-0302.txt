@@ -1,0 +1,3 @@
+CN：平面插图，中国现代插画师风格，黑色的粗线条，锐利流畅的黑色粗线条，撞色，矢量，一只胖嘟嘟的、拟人化的卡通猪，夸张的身体比例，大脑袋和小短手，有趣的面部表情，特写，印花设计，穿着绿色围裙，高分辨率，高品质，白色背景，
+EN：Flat illustration, Chinese modern illustrator style, black thick lines, sharp and smooth black thick lines, contrasting colors, vector, a chubby, anthropomorphic cartoon pig, exaggerated body proportions, big head and short hands, funny facial expression, close-up, print design, wearing a green apron, high resolution, high quality, white background, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：专业摄影，8K，服装特写，女性，身形匀称，姿势自然站立，双手自然下垂，服装为长袖针织衫，圆领，类似半高领，条纹图案，横向排列，颜色为绿色、棕色、蓝色相间，条纹宽度适中，材质柔软，下身搭配深蓝色牛仔裤，腰部有皮带，背景为室内，棕色沙发，光线柔和，整体风格简约日常。
+EN：Professional photography, 8K, clothing close-up, female, well-proportioned body, standing naturally, hands hanging naturally, clothing is a long-sleeved sweater, round neck, similar to a half-high collar, striped pattern, arranged horizontally, the colors are green, brown and blue, the stripes are of moderate width, the material is soft, the lower body is matched with dark blue jeans, there is a belt at the waist, the background is indoors, brown sofa, soft light, the overall style is simple and everyday. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

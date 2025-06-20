@@ -1,0 +1,3 @@
+CN：摄影，真实，逼真，雪山下的溪流，下雪天气，冬天，雪山，溪流，UHD，8K，最佳品质，低视角拍摄，
+EN：Photography, real, realistic, stream under the snowy mountains, snowy weather, winter, snowy mountains, stream, UHD, 8K, best quality, low angle shot, --q 1 --s 100 --ar 9:16 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

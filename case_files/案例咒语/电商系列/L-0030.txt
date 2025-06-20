@@ -1,0 +1,3 @@
+CN：真实摄影，由摄影师水面上拍摄，低角度，深蓝色的海面，晴朗的白天，最佳品质，8K摄影，
+EN：Real photography, shot by the photographer on the water, low angle, dark blue sea, clear day, best quality, 8K photography, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

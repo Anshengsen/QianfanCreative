@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个女性，服装广告，无面部，短袖，V，黑色针织连衣裙，金色纽扣，细腰带，黑色，短袖，自然光，室内，皮肤白皙，手臂自然下垂，简洁背景，略微侧身，全身，最佳品质，超细节。
+EN：Professional photography, 8K, one woman, clothing advertisement, no face, short sleeves, V, black knitted dress, gold buttons, thin belt, black, short sleeves, natural light, indoors, fair skin, arms hanging naturally, simple background, slightly sideways, full body, best quality, ultra details. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

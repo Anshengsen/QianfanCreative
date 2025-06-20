@@ -1,0 +1,3 @@
+CN：海滩，海岸线，海，水，岛屿，山丘，天空，阳光，沙子，岩石，植被，旅游，风景，自然，户外，平静，宁静，放松，美丽，天堂，热带，度假，旅行，冒险，探索，摄影，高清，4k，8k，超高清，细节，色彩鲜艳，光线追踪，全局照明，大气透视
+EN：beach, coastline, sea, water, island, hills, sky, sunlight, sand, rocks, vegetation, travel, landscape, nature, outdoors, calm, tranquil, relaxation, beautiful, paradise, tropical, vacation, travel, adventure, exploration, photography, hd, 4k, 8k, ultra hd, details, colorful, ray tracing, global illumination, atmospheric perspective --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：未来科幻风格，机甲少女，精致五官，蓝色长发，银色与金色相间机甲，复杂头饰，蓝色光效，细节丰富，赛博朋克，8K，超高画质，电影级光照。
+EN：Futuristic sci-fi style, mecha girl, delicate features, long blue hair, silver and gold mecha, complex headdress, blue light effects, rich details, cyberpunk, 8K, ultra-high image quality, movie-level lighting. --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

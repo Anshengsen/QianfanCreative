@@ -1,0 +1,3 @@
+CN：日本漫画风格，流畅而锐利的线条，一个年轻的白领，男性，青年，戴眼镜，穿着白色衬衫打领带，开心的在电脑前工作，第三人称视角，日光，
+EN：Japanese comics style, smooth and sharp lines, a young white-collar worker, male, youth, wearing glasses, a white shirt and tie, happily working at a computer, third-person perspective, daylight, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

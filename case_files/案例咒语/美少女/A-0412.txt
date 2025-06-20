@@ -1,0 +1,3 @@
+CN：蒸汽波女孩，漫画风格，有光泽/有质感，全身，动态姿势，长波浪发，亚洲，白色背景，
+EN：Vaporwave girl, comic style, glossy/textured, full body, dynamic pose, long wavy hair, Asian, white background, --q 1 --s 200 --ar 9:16 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

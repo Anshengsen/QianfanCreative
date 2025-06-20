@@ -1,0 +1,3 @@
+CN：一只美丽的蝴蝶，贴纸设计，卡通风格，漂亮的七彩颜色，霓虹色，居中，独奏，纯白背景，
+EN：A beautiful butterfly, sticker design, cartoon style, beautiful colorful colors, neon colors, centered, solo, pure white background, --q 1 --s 100 --ar 1:1 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

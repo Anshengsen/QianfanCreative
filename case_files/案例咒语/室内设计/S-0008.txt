@@ -1,0 +1,4 @@
+﻿CN：现代厨房照片，使用cinema 4D制作，明亮，自然光照明，
+EN：Modern kitchen photo, made using Cinema 4D, bright, natural light lighting, --q 1 --s 100 --v 5.2 --ar 16:9
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

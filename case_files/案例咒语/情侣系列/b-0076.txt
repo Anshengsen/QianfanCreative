@@ -1,0 +1,3 @@
+CN：一个充​​满活力的皮克斯风格卡通形象，一位年轻的帅哥和他的女同事一起喝啤酒，3d，皮克斯，黄色的霓虹光，体积照明，详细，超细节，
+EN：A vibrant Pixar style cartoon character of a young handsome man drinking beer with his female colleague, 3d, Pixar, yellow neon light, volumetric lighting, detailed, ultra detailed, --q 1 --s 100 --ar 1:1 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

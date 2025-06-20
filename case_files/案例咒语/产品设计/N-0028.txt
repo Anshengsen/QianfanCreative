@@ -1,0 +1,4 @@
+﻿CN：3d卡通机器人，vray追踪风格，超现实主义，简单背景，全身，高质量，正面，
+EN：3D cartoon robot, vray tracking style, surrealism, simple background, full body, high quality, front, --q 1 --s 100 --v 5.2 --ar 3:4 
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：手绘风格，儿童教育机构LOGO，彩色蜡笔画，卡通人物和字母组合，明亮色彩，童趣十足，高分辨率，白色背景，
+EN：Hand-painted style, children's education institution LOGO, colorful crayon drawing, cartoon characters and letter combination, bright colors, full of childlike fun, high resolution, white background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲女性，站立姿势，身体略微侧向镜头，双腿并拢，穿着一件宽松的卡其色羽绒服，高领设计，衣身有多个方形口袋，袖口收紧，整体风格休闲，背景为城市街道，有砖墙建筑和停靠的车辆，自然光，柔和光线，整体氛围温暖，舒适。
+EN：Professional photography, 8K, an Asian woman, standing posture, body slightly sideways to the camera, legs together, wearing a loose khaki down jacket with a high collar design, multiple square pockets on the body, and tightened cuffs. The overall style is casual. The background is a city street with brick wall buildings and parked vehicles. Natural light, soft light, the overall atmosphere is warm and comfortable. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

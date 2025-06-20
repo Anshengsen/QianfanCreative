@@ -1,0 +1,3 @@
+CN：专业摄影，8K，下半身像特写，女性，站立姿势，双腿并拢，浅色皮肤，浅色上衣，浅蓝色扎染牛仔短裤，裤腿宽松，白色中筒袜，白色运动鞋，背景纯白色，整体风格清新，简约，休闲。
+EN：Professional photography, 8K, close-up of lower body, female, standing pose, legs together, light skin, light-colored top, light blue tie-dyed denim shorts, loose trouser legs, white mid-calf socks, white sneakers, pure white background, the overall style is fresh, simple and casual. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

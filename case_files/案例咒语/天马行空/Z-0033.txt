@@ -1,0 +1,4 @@
+﻿CN：中国画家的剪纸艺术，在海洋上航行，采用详细背景元素的风格，具有柔和色调的现实风景，迷幻插图，热带象征主义，3D渲染，柔和的灯光，
+EN：The paper-cutting art of Chinese painters, sailing on the ocean, in the style of detailed background elements, realistic landscapes with pastel tones, psychedelic illustrations, tropical symbolism, 3D rendering, soft lighting, --q 1 --s 100 --ar 3:2 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

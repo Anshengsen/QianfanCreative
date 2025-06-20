@@ -1,0 +1,3 @@
+CN：一幅可爱的卡哇伊插画，一个5岁的小女孩，她和她的猫在河边玩耍，河边有一颗大柳树，阳光明媚，以色彩鲜艳的卡通风格描绘，线条粗犷，扁平插画，色彩明亮，细节丰富，高分辨率，
+EN：A cute kawaii illustration of a little girl, 5 years old, playing with her cat by a river with a big willow tree and a bright sunny day, drawn in a colorful cartoon style with bold lines, flat illustration with bright colors and rich details, high resolution, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

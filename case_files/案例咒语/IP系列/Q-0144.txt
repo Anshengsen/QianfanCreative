@@ -1,0 +1,18 @@
+CN：盲盒风格，皮克斯风格，全身，一个10岁的东方女孩，娃娃脸，双丸子头，可爱，呆萌，三视图完整周转，3D，OC渲染，纯白背景，最佳品质，
+EN：Blind box style, Pixar style, full body, a 10-year-old oriental girl, baby face, double ball head, cute, cute, three views full turnover, 3D, OC rendering, pure white background, best quality, --q 1 --s 200 --ar 3:2 --v 6.0
+
+
+CN：侧面，侧视图，盲盒风格，皮克斯风格，全身，一个10岁的东方女孩，娃娃脸，双丸子头，可爱，呆萌，三视图完整周转，3D，OC渲染，纯白背景，最佳品质，
+EN：Side view, side view, blind box style, Pixar style, full body, a 10-year-old oriental girl, baby face, double ball head, cute, cute, three views full turnover, 3D, OC rendering, pure white background, best quality, --q 1 --s 200 --ar 3:2 --v 6.0
+
+
+CN：后面，背视图，盲盒风格，皮克斯风格，全身，一个10岁的东方女孩，娃娃脸，双丸子头，可爱，呆萌，三视图完整周转，3D，OC渲染，纯白背景，最佳品质，
+EN：Back, back view, blind box style, Pixar style, full body, a 10-year-old oriental girl, baby face, double ball head, cute, cute, three views full turnover, 3D, OC rendering, pure white background, best quality, --q 1 --s 200 --ar 3:2 --v 6.0
+
+
+CN：右面，右视图，盲盒风格，皮克斯风格，全身，一个10岁的东方女孩，娃娃脸，双丸子头，可爱，呆萌，三视图完整周转，3D，OC渲染，纯白背景，最佳品质，
+EN：Right::3, right view, blind box style, Pixar style, full body, a 10-year-old oriental girl, baby face, double ball head, cute, cute, three views full turnover, 3D, OC rendering, pure white background, best quality, --q 1 --s 200 --ar 3:2 --v 5.2
+
+
+本篇是双版本混合控制IP三视图测试，该图片需要使用两次局部重绘最终得出三视图，如果v 6无法识别某一个视图，可以重绘时使用v 5.2版本，最终三视图已成功呈现。 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

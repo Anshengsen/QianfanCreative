@@ -1,0 +1,3 @@
+CN：产品摄影，一包意大利面酱，红色背景，色彩鲜艳，光线明亮，整体风格简洁干净，具有商业感和食欲感，细节包括包装的文字和图案，以及意大利面的细节，字体为英文，最佳品质，8K，真实摄影，
+EN：Product photography, a package of pasta sauce, red background, colorful, bright light, the overall style is simple and clean, with a sense of business and appetite, details include the text and pattern of the package, and the details of the pasta, the font is in English, best quality, 8K, real photography, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

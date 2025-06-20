@@ -1,0 +1,3 @@
+CN：印象派油画风格，暖色调，秋季风景，木屋，树木，水面倒影，细节包括树叶的颜色，木屋的结构，水面的波纹，整体画面宁静优美，风格自然，最佳品质，8K，油画笔触，厚涂，风景插画
+EN：Impressionist oil painting style, warm colors, autumn landscape, wooden house, trees, water reflections, details include the color of the leaves, the structure of the wooden house, ripples on the water, the overall picture is peaceful and beautiful, natural style, best quality, 8K, oil painting brushstrokes, thick painting, landscape illustration --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

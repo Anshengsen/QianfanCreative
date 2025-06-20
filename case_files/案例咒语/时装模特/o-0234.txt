@@ -1,0 +1,3 @@
+CN：专业摄影，8K，下半身像特写，女性，黑色短袖上衣，高腰，A字中长裙，黑白印花，裙摆飘逸，黑色凉鞋，自然站姿，手臂自然下垂，微侧身，浅色背景，柔和光线，日常穿搭，简约风格，休闲，无明显面部表情，黑色短发，发尾微卷，自然发色，无配饰。
+EN：Professional photography, 8K, close-up of lower body, female, black short-sleeved top, high waist, A-line mid-length skirt, black and white prints, flowing skirt, black sandals, natural standing posture, arms hanging naturally, slightly sideways, light background, soft light, daily wear, simple style, casual, no obvious facial expression, short black hair, slightly curled hair ends, natural hair color, no accessories. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

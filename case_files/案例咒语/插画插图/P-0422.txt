@@ -1,0 +1,3 @@
+CN：手绘素描风格，运动鞋特写，匡威帆布鞋，黑色鞋面，白色鞋带，鞋带未系，鞋头微翘，脚踝部分可见，简笔画风格，线条流畅，黑白对比，阴影细节，涂鸦感，街头风格，休闲，不羁，8K，超高分辨率，细节丰富。
+EN：Hand-drawn sketch style, close-up of sneakers, Converse canvas shoes, black upper, white laces, laces untied, toe slightly tilted, ankle part visible, stick figure style, smooth lines, black and white contrast, shadow details, graffiti feeling, street style, casual, uninhibited, 8K, ultra-high resolution, rich details. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：添加手绘纹理，中式，简约，卡通女孩，大耳环，黄色外套，上半身，正面，扁平插画，中国人物插画，干净的纯色背景，
+EN：Add hand-painted texture, Chinese style, simple, cartoon girl, big earrings, yellow coat, upper body, front, flat illustration, Chinese character illustration, clean solid color background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

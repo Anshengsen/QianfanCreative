@@ -1,0 +1,3 @@
+CN：卡通插画风格，一个戴着生日帽的男孩，正在吹生日喇叭，面带微笑，闭着眼睛，身穿黄色短袖，周围有星星和圆点装饰，白色背景，极简线条，扁平化设计，柔和的色彩，庆祝氛围
+EN：Cartoon illustration style, a boy wearing a birthday hat, blowing a birthday horn, smiling, eyes closed, wearing a yellow short-sleeved shirt, surrounded by stars and dots, white background, minimalist lines, flat design, soft colors, celebration atmosphere --q 1 --s 50 --ar 1:1 --v 6.1 --personalize srak4m6 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

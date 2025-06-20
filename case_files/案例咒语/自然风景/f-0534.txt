@@ -1,0 +1,3 @@
+CN：雪山背景，雪地，中心构图，白色莲花，盛开，特写，花瓣纹理细节，柔和光线，冷色调，高对比度，超现实主义，自然之美，纯净，宁静，8K，超高清细节，最佳品质
+EN：Snowy mountains background, snowy ground, center composition, white lotus, blooming, close-up, petal texture details, soft light, cold tones, high contrast, surrealism, natural beauty, purity, tranquility, 8K, UHD details, best quality --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

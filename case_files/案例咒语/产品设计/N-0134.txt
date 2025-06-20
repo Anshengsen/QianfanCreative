@@ -1,0 +1,3 @@
+CN：珠宝摄影，月球陨石戒指，木质戒托，金色镶边，放置在粗糙的岩石上，背景是荒凉的山脉，自然风格，细节丰富，高分辨率，陨石表面纹理粗糙，木质戒托纹理清晰，山脉轮廓分明
+EN：Jewelry photography, lunar meteorite ring, wooden setting, gold trim, placed on rough rock, with desolate mountains in the background, natural style, rich details, high resolution, rough surface texture of meteorite, clear texture of wooden setting, clear outline of mountains --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

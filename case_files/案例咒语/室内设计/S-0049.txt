@@ -1,0 +1,3 @@
+CN：新中式风格书房，2021年现代家装，深色木质书桌，水墨画装饰，落地灯，暖黄色灯光，不对称构图，沉稳内敛，木质纹理，高清晰度渲染，8K，
+EN：New Chinese style study room, modern home decoration in 2021, dark wooden desk, ink painting decoration, floor lamp, warm yellow light, asymmetrical composition, calm and restrained, wooden texture, high-definition rendering, 8K, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

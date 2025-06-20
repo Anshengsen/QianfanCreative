@@ -1,0 +1,3 @@
+CN：电影摄影，峡谷日落，山峰，天空，垂直构图，红色和橙色天空，水面，倒影，细节丰富，8K，超高清，最佳品质，自然光，大气透视，宁静氛围，太阳在地平线上，柔和色彩，岩石，地貌，自然景观，峡谷风光，日落美景，山峰倒影，水面如镜，
+EN：Cinematography, canyon sunset, mountain peaks, sky, vertical composition, red and orange sky, water surface, reflections, rich details, 8K, ultra high definition, best quality, natural light, atmospheric perspective, tranquil atmosphere, sun on the horizon, soft colors, rocks, landforms, natural landscape, canyon scenery, sunset beauty, mountain peaks reflections, mirror-like water surface, --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

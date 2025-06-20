@@ -1,0 +1,3 @@
+CN：一个身穿红色汉服的美少女，站在庭院中央，冬天，飘雪，面向镜头，白皙的皮肤，盘发，束腰，手持长剑，修长的身材，曲线优美，精致的五官，淡妆，最佳品质，
+EN：A beautiful girl in red Hanfu, standing in the middle of the courtyard, in winter, with snow falling, facing the camera, with fair skin, hair in a bun, waist tied, holding a long sword, slender figure, beautiful curves, delicate facial features, light makeup, best quality, --q 1 --s 150 --ar 9:16 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

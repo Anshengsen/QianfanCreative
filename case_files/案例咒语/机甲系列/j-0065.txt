@@ -1,0 +1,3 @@
+CN：高达风格的武士机甲，日式庭院环境，樱花飘落，金属和布料材质，武士刀和盾牌，V-Ray渲染，精致的细节，金属光泽，背景是竹林和石灯笼，8K分辨率，东方韵味，
+EN：Gundam-style samurai mecha, Japanese courtyard environment, cherry blossoms falling, metal and cloth materials, samurai sword and shield, V-Ray rendering, exquisite details, metallic luster, bamboo forest and stone lanterns in the background, 8K resolution, oriental charm, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

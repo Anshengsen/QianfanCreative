@@ -1,0 +1,3 @@
+CN：3D渲染图，身穿亮银色机甲衣服和飘逸斗篷高达机甲，以中国龙特质设计，含有中国龙的象征性元素，机甲，战斗姿势，动态动作，科幻，机甲风格，详细的细节，超级光滑的表面，超品质，32kuhd，高清，纯黑背景，
+EN：3D rendering, Gundam mech wearing bright silver mech clothes and flowing cape, designed with Chinese dragon characteristics, containing symbolic elements of Chinese dragon, mech, fighting pose, dynamic action, sci-fi, mech style, detailed details, super smooth surface, super quality, 32kuhd, high definition, pure black background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

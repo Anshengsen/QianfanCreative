@@ -1,0 +1,3 @@
+CN：卡通风格的矢量插画，以飞船探索宇宙为主题设计，巨大的UFO飞船，星球，星际探险，矢量，渐变，符合中国设计师的审美，卡通，
+EN：Cartoon style vector illustration, designed with the theme of spaceship exploring the universe, huge UFO spaceship, planet, interstellar exploration, vector, gradient, in line with the aesthetics of Chinese designers, cartoon,--q 1 --s 100 --ar 3:4 --v 6.0 --personalize df2apxr 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

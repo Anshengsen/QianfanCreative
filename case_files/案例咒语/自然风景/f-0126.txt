@@ -1,0 +1,3 @@
+CN：自然风光，羚羊峡谷内部，狭窄通道，岩石纹理，光影效果，橙色与蓝色渐变，曲线形状，明暗对比，自然光线，向上视角，深度感，神秘氛围，高饱和度，宽画幅。
+EN：Natural scenery, interior of Antelope Canyon, narrow passage, rock textures, light and shadow effects, orange and blue gradients, curved shapes, light and dark contrast, natural light, upward perspective, sense of depth, mysterious atmosphere, high saturation, wide frame. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

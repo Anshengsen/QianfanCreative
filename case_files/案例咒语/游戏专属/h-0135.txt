@@ -1,0 +1,3 @@
+CN：一块窄窄的长长的3D卡通木板，正面，简约，矩形，网络游戏风格，左右两侧有不规则的断痕，明亮且柔和的木色，白色背景，独奏，居中，卡通，
+EN：A narrow long 3D cartoon wooden board, front view, simple, rectangular, online game style, with irregular breaks on the left and right sides, bright and soft wood color, white background, solo, centered, cartoon, --q 1 --s 100 --ar 3:2 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

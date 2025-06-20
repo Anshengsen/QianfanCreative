@@ -1,0 +1,3 @@
+CN：写实风格的头像，美少女，棕色长发，白色连衣裙，单手托腮，调皮地眨眼，灿烂的笑容，阳光洒落在脸上的光影，草地背景，皮肤质感细腻，眼神清澈，发丝根根分明，高清照片质感。
+EN：A realistic style avatar of a beautiful girl with long brown hair, a white dress, one hand on her chin, a mischievous wink, a bright smile, the light and shadow of the sun falling on her face, a grass background, delicate skin texture, clear eyes, distinct hair roots, and the texture of a high-definition photo. --q 5 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq --sref https://s.mj.run/vCad1tANbyg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

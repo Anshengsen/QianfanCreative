@@ -1,0 +1,3 @@
+CN：航拍视角，海浪，沙滩，深蓝色海水，白色浪花，米黄色沙滩，自然光，俯视角度，高对比度，细节丰富，高分辨率
+EN：Aerial perspective, waves, beach, deep blue water, white waves, beige beach, natural light, top-down angle, high contrast, rich details, high resolution --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

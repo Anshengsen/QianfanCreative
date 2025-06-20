@@ -1,0 +1,4 @@
+CN：海岛风光，碧海蓝天，三座郁郁葱葱的小岛，航拍视角，广角镜头，明媚阳光，高饱和度，自然风光摄影，逼真细节，8K分辨率，超高质量。
+EN：Island scenery, blue sea and blue sky, three lush islands, aerial perspective, wide-angle lens, bright sunshine, high saturation, natural scenery photography, realistic details, 8K resolution, ultra-high quality. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

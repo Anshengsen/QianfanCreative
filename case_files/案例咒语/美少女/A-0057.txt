@@ -1,0 +1,3 @@
+CN：一个动漫女孩，戴着红色围巾，暗色系，水手服，红色油漆背景，侧脸，上身，32K，UHD，漫画风格，丰富的细节，最佳质量，明暗对比，风格富有表现力，光泽，
+EN：An anime girl, wearing a red scarf, dark color, sailor suit, red paint background, side face, upper body, 32K, UHD, manga style, rich details, best quality, chiaroscuro, expressive style, glossy, --q 5 --s 250 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

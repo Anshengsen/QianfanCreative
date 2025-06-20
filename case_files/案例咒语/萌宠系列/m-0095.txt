@@ -1,0 +1,3 @@
+CN：一只穿着西装的可爱橘猫坐在电脑前，开心的玩电脑，pov视角，柔和的暖灯照亮，营造出温馨的氛围，风格类似迪士尼皮克斯动画风格，
+EN：A cute orange cat in a suit is sitting in front of a computer, happily playing on it. From a pov perspective, the soft warm light creates a cozy atmosphere, similar to the Disney Pixar animation style. --q 1 --s 100 --ar 3:4 --v 6.1  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

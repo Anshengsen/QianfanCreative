@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，浅灰褐色，针织开衫，短款，圆领，长袖，单排隐形纽扣，合身版型，柔软针织面料，纹理细腻，边缘平整，光线均匀，焦点清晰，整体风格简约。
+EN：Professional fashion photography, 8K, front view, white background, light taupe, knitted cardigan, short length, round neck, long sleeves, single row of invisible buttons, fitted fit, soft knit fabric, fine texture, smooth edges, even lighting, sharp focus, overall simple style. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

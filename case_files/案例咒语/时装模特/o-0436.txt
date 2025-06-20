@@ -1,0 +1,4 @@
+CN：专业摄影，8K，特写，女性，无面部，V，针织衫，深蓝色，长袖，修身，下身搭配格纹半身裙，手持黑色手提包，自然光，柔和，优雅，室内场景，背景模糊，
+EN：Professional photography, 8K, close-up, woman, no face, V, sweater, dark blue, long sleeves, slim fit, with plaid skirt, holding black handbag, natural light, soft, elegant, indoor scene, blurred background, --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face, scantily clad
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D工作室卡通人物，卡通风格，男性特征，24岁，正面，现代，紫色背景，简单的细节，粘土材料，behance头像，简单的细节，3D，
+EN：3D studio cartoon characters, cartoon style, male features, 24 years old, front, modern, purple background, simple details, clay material, behance avatar, simple details, 3d, --q 1 --s 50 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

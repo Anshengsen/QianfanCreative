@@ -1,0 +1,3 @@
+CN：动漫风格，一个穿着黑色西装和黑色皮鞋的动漫帅哥，白色衬衫和黑色领带，双手插兜，有些许凌乱的银色短发，光滑逼真的面部，肩膀上趴着一只小白猫，一字步，长腿，模特，白色背景，居中，长焦镜头，低角度，远景，全身，
+EN：Anime style, a handsome anime guy wearing a black suit and black leather shoes, white shirt and black tie, hands in pockets, slightly messy short silver hair, smooth and realistic face, a little white cat lying on his shoulders, step by step, long legs, model, white background, centered, telephoto lens, low angle, long view, full body, --q 1 --s 0 --ar 9:16 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：卡通插画风格，一位深色皮肤的男士，身穿白色衬衫，手持米色文件夹，站在一位浅色皮肤的男士身后，左手搭在其肩膀上，面带关切，浅色皮肤的男士身穿粉色衬衫，坐在桌前，面对笔记本电脑，右手捂住鼻子，闭着眼睛，面露难色，头顶有三条白色线条，蓝色背景，扁平化设计，色彩鲜明，线条流畅。
+EN：Cartoon illustration style, a dark-skinned man in a white shirt, holding a beige folder, standing behind a light-skinned man, with his left hand on his shoulder, looking concerned, the light-skinned man in a pink shirt, sitting at a table, facing a laptop, covering his nose with his right hand, closing his eyes, looking troubled, with three white lines on his head, blue background, flat design, bright colors, and smooth lines. --q 0.5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

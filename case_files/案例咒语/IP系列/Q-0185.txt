@@ -1,0 +1,3 @@
+CN：皮克斯3D动漫风格的汉服熊猫，全身，对角线拍摄，正视图，纯色背景，3D，身穿汉服，功夫熊猫，武术动作，
+EN：Pixar 3D animation style Hanfu panda, full body, diagonal shot, front view, solid color background, 3D, wearing Hanfu, Kung Fu panda, martial arts action, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

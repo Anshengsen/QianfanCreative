@@ -1,0 +1,5 @@
+
+CN：可爱的中国龙剪纸，剪纸艺术，3D，纸插艺术，精致的外表、玩具般的比例、简单的线条，玛雅艺术，透明背景，
+EN：Cute Chinese dragon paper-cut, paper-cut art, 3D, paper-cut art, delicate appearance, toy-like proportions, simple lines, Mayan art, transparent background, --q 1 --s 100 --ar 3:4 --v 6.0
+(PS：如果需要透明背景需要在提示中包含“透明背景”，使用模型需要是v6.0版本，其他版本不支持） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

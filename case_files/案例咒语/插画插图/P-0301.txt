@@ -1,0 +1,3 @@
+CN：平面插图，中国现代插画师风格，粗线条，锐利流畅的粗线条，撞色，矢量，一只胖嘟嘟的、拟人化的卡通猪，夸张的身体比例，有趣的面部表情，站立姿态，特写，穿着绿色围裙、围裙上面有文字“pig”，高分辨率，高品质，白色背景，
+EN：Flat illustration, Chinese modern illustrator style, bold lines, sharp and smooth bold lines, contrasting colors, vector, a chubby, anthropomorphic cartoon pig, exaggerated body proportions, funny facial expressions, standing pose, close-up, wearing a green apron with the word "pig" on it, high resolution, high quality, white background, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

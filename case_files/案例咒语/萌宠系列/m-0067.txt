@@ -1,0 +1,3 @@
+CN：极简主义，3D，拟人化的、可爱的、快乐的小狗，蓬松的毛发，柔光，白色背景，
+EN：Minimalism, 3D, anthropomorphic, cute, happy puppy, fluffy hair, soft light, white background, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

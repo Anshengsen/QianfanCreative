@@ -1,0 +1,3 @@
+CN：落日余晖，剪影，风车，广角镜头，深蓝色与橙黄色渐变天空，云彩，地平线，暗色调，自然光，高对比度，电影级质感，8K，超高分辨率
+EN：Sunset, silhouette, windmill, wide angle lens, dark blue and orange gradient sky, clouds, horizon, dark tones, natural light, high contrast, cinematic texture, 8K, ultra high resolution --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

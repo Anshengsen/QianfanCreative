@@ -1,0 +1,3 @@
+CN：一个优雅且美丽的中国古代美女，20岁，穿着橙色旗袍，戴着华丽的翡翠耳坠，微笑，温文尔雅，正面，肖像，服装的图案受敦煌壁画启发，风格是几何图形、鲜艳的色彩和对称构图、虚幻引擎5、平面插图，白色背景，
+EN：An elegant and beautiful ancient Chinese beautiful woman, 20 years old, wearing an orange cheongsam, wearing ornate jade earrings, smiling, suave, front, portrait, clothing pattern inspired by Dunhuang murals, style is geometric shape, bright colors and symmetrical composition, Unreal Engine 5, flat illustrations, white background, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

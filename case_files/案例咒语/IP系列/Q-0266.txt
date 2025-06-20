@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，一个穿着毕业袍的男孩，拿着毕业证书，戴着学士帽，穿着博士服装，一只手举起，庆祝毕业。正面视角，浅紫色背景，柔和灯光，中等特写，清晰的细节，高质量渲染，全身，俏皮的人物角色设计，3D，OC，
+EN：3D rendering, cartoon style, of a boy in a graduation gown, holding a diploma, a bachelor's hat, and a doctoral outfit, with one hand raised, celebrating graduation. Front view, light purple background, soft lighting, medium close-up, clear details, high-quality rendering, full body, playful character design, 3D, OC, --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

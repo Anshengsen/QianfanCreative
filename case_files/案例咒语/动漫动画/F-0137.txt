@@ -1,0 +1,4 @@
+CN：动漫插画，一只可爱的柯基，明亮的客厅，地板是光洁的白色瓷砖，简约风格的家具，动漫风格，下午，自然光，
+EN：Anime illustration, a cute corgi, a bright living room, a floor made of smooth white tiles, simple furniture, anime style, afternoon, natural light, --q 1 --s 100 --ar 3:4 --niji 5
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

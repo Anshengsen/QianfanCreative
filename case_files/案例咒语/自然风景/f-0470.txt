@@ -1,0 +1,3 @@
+CN：秋叶，水滴，涟漪，特写，微距摄影，自然，静物，落叶，水面，倒影，圆形波纹，焦外虚化，景深，柔和光线，暖色调，季节变化，宁静，禅意，细节丰富，高分辨率，8K。
+EN：Autumn leaves, water drops, ripples, close-up, macro photography, nature, still life, fallen leaves, water surface, reflection, circular ripples, bokeh, depth of field, soft light, warm tones, seasonal change, tranquility, zen, rich details, high resolution, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

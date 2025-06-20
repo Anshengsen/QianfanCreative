@@ -1,0 +1,5 @@
+
+CN：3D盾牌图标设计，蓝色，透明玻璃，有厚度，发光，科技感，等距镜头，工作室照明，工作室质量，3D渲染，C4D渲染，OC渲染，虚幻引擎，丰富的细节，16K，极致降噪，
+
+EN：3D shield icon design, blue, transparent glass, with thickness, glow, tech sense, isometric lens, studio lighting, studio quality, 3D rendering, C4D rendering, OC rendering, Unreal Engine, rich detail, 16K, extreme noise reduction, --q 5 --s 180 --ar 3:4 --v 5.2 --style raw --fast 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

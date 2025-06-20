@@ -1,0 +1,5 @@
+CN：一组3D风格的UI科技感十足的按钮，2x3，正面，用于网站页面设计的3D按钮元素，未来派，科技派，高科技感，纯白背景，霓虹灯描边，3D渲染，最佳品质，
+EN：A set of 3D-style UI tech buttons, 2x3, front, 3D button elements for website page design, futuristic, tech, high-tech, pure white background, neon strokes, 3D rendering, best quality, --q 1 --s 150 --ar 3:4 --v 6.0
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：冬季雪景，冰封河流，河岸积雪，霜冻树木，枯草，晴朗天空，蓝色调，自然光，广角，远景，宁静氛围，寒冷，高对比度，高清，真实感，自然摄影，芬兰风光
+EN：Winter snow scene, frozen river, snow on riverbank, frost-covered trees, dry grass, clear sky, blue tones, natural light, wide angle, distant view, tranquil atmosphere, cold, high contrast, HD, photorealistic, nature photography, Finnish scenery --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

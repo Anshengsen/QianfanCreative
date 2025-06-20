@@ -1,0 +1,4 @@
+﻿CN：破碎的画面，一个动漫美少女，哭泣，精致的五官和妆容，可怜，情绪化，光影，高度细节，逼真，高品质，特写，最佳品质，照片，情感冲击，
+EN：Broken picture, an anime beautiful girl, crying, exquisite facial features and makeup, pitiful, emotional, light and shadow, highly detailed, realistic, high quality, close-up, best quality, photos, emotional impact, --q 1 --s 100 --ar 3:2 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

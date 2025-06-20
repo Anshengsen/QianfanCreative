@@ -1,0 +1,3 @@
+CN：线描风格，时尚品牌LOGO，矢量，抽象线条和几何图案，锐利流畅的线条，黑色和金色搭配，高级感，高分辨率，白色背景，
+EN：Line drawing style, fashion brand LOGO, vector, abstract lines and geometric patterns, sharp and smooth lines, black and gold matching, high-end feel, high resolution, white background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

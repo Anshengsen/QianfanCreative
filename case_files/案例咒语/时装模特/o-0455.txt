@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个年轻女性，服装特写，无面部，身穿米白色长袖衬衫，宽松版型，带有褶皱细节，下身搭配深棕色长裙，材质柔软，整体风格简约，文艺，背景为浅色墙面，光线柔和，自然，整体氛围温馨，宁静。
+EN：Professional photography, 8K, a young woman, clothing close-up, no face, wearing an off-white long-sleeved shirt, loose fit, with pleated details, and a dark brown long skirt, soft material, the overall style is simple and literary, the background is a light-colored wall, the light is soft and natural, the overall atmosphere is warm and peaceful. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

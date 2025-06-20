@@ -1,0 +1,4 @@
+﻿CN：3d渲染，抽象的彩色背景，明亮的霓虹灯光线和发光的线条，粉黄蓝，壁纸，最佳品质，
+EN：3D rendering, abstract colorful background, bright neon light and glowing lines, pink yellow blue, wallpaper, best quality, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

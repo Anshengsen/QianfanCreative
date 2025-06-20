@@ -1,0 +1,3 @@
+CN：科幻机甲，艺术摄影风格，白色背景，聚光灯照射，突出机甲的质感和细节，照片级渲染，超高清，古希腊风格，金属质感超强，带有雕刻纹路，青铜色为主色调，充满艺术感。
+EN：Sci-fi mecha, artistic photography style, white background, spotlight, highlighting the texture and details of the mecha, photo-level rendering, ultra-high definition, ancient Greek style, super strong metal texture, with carved patterns, bronze as the main color, full of artistic sense. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

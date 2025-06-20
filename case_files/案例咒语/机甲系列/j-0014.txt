@@ -1,0 +1,3 @@
+CN：高达设计，头盔基于中国龙的头部特点进行设计，采用金色和银白色的风格，亮金和亮银，纯黑色背景中呈现，3D渲染图，多角度特写，分区，详细的细节，高清，全局光照明，
+EN：Gundam design, the helmet is designed based on the characteristics of the Chinese dragon's head, using a gold and silver style, bright gold and bright silver, presented on a pure black background, 3D rendering, multi-angle close-up, partition, detailed details, high definition, global illumination, --q 1 --s 100 --ar 9:20 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

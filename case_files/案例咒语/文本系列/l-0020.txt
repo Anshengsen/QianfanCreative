@@ -1,0 +1,3 @@
+CN：印刷“Midjourney”，霓虹粉色和蓝色主题，孤立在白色背景上，独奏，
+EN：Typography "Midjourney", neon pink and blue theme, isolated on white background, solo, --q 1 --s 100 --ar 3:2 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

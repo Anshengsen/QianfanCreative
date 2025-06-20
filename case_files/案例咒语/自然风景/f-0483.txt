@@ -1,0 +1,3 @@
+CN：秋叶，红橙渐变色，枫叶，漂浮，水面，涟漪，深色背景，倒影，微距摄影，自然，静谧，禅意，高对比度，细节丰富，8K，超高分辨率，最佳画质
+EN：autumn leaves, red and orange gradient, maple leaves, floating, water surface, ripples, dark background, reflection, macro photography, nature, tranquility, zen, high contrast, rich details, 8K, ultra high resolution, best quality --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：室内设计，客厅，现代中式风格，白色墙面，木质线条装饰，圆形装饰画，盆栽，米色沙发，木质茶几，暖色灯光，地毯，对称构图，简洁，精致，细节丰富，8K，超高分辨率，最佳品质，OC渲染。
+EN：Interior design, living room, modern Chinese style, white walls, wooden line decorations, round decorative paintings, potted plants, beige sofas, wooden coffee tables, warm lights, carpets, symmetrical composition, simplicity, refinement, rich details, 8K, ultra-high resolution, best quality, OC rendering. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

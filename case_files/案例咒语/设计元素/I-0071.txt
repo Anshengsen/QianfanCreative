@@ -1,0 +1,4 @@
+﻿CN：中国的3d红灯笼，红色和金色，3D，白色背景，正视图，居中，3d风格，超清，
+EN：Chinese 3d red lanterns, red and gold, 3D, white background, front view, centered, 3d style, ultra-clear, --q 1 --s 100 --ar 1:1 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

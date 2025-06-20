@@ -1,0 +1,4 @@
+CN：一个城市场景动画三维场景，鲜艳的色彩渐变，五彩缤纷的城市与未来派建筑，超详细的渲染，充满活力的风格，2.5D，平面设计，天蓝色与淡橙色，最佳质量，
+EN：A city scene animated 3D scene, bright colors gradual change, colorful city with futuristic architecture, super detailed rendering, vibrant style, 2.5D, graphic design, sky blue with light orange, best quality, --q 5 --s 250 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

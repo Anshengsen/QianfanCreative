@@ -1,0 +1,3 @@
+CN：3D渲染，数字“6”，加粗，金属质感，字体表面有雷电裂纹效果和蓝色电光，黑色背景，特写，高分辨率，逼真的金属材质。
+EN：3D rendering, number "6", bold, metal texture, lightning crack effect and blue electric light on the font surface, black background, close-up, high resolution, realistic metal material. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

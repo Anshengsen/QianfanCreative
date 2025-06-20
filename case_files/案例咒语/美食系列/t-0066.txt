@@ -1,0 +1,3 @@
+CN：美食摄影，照片，烤鸡，鸡腿，金棕色，油亮光泽，撒有葱花、红辣椒碎和芝麻，精致摆盘，青色带金边纹饰的盘子，俯视视角，暖色调，柔和光线，浅景深，突出食物主体，细节丰富，质感逼真，高端餐饮风格
+EN：Food photography, photo, roasted chicken, chicken legs, golden brown, shiny, sprinkled with chopped green onions, crushed red pepper and sesame seeds, exquisite presentation, cyan plate with gold-rimmed patterns, top-down perspective, warm tones, soft light, shallow depth of field, highlighting the main body of the food, rich details, realistic texture, high-end dining style --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：大师杰作，最高品质，超高分辨率，8k画质，光线细节丰富，精美的CG，光线追踪，壁纸，中国风，新年主题，小女孩，褐色的头发，丸子头，穿着红色连衣裙，拿着春联，开心，背景是古镇，一条巨龙，特写，
+EN：Master masterpiece, highest quality, super high resolution, 8k image quality, rich light details, exquisite CG, ray tracing, wallpaper, Chinese style, New Year theme, little girl, brown hair, ball head, wearing a red dress, holding Spring Festival couplets, happy, the background is the ancient town, a giant dragon, close-up, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

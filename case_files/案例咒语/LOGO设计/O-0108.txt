@@ -1,0 +1,3 @@
+CN：草稿，LOGO，炭笔素描效果，深灰色，适用于咖啡馆或酒吧，咖啡豆图案，粗犷的线条和阴影，牛皮纸背景，复古，粗犷，神秘，
+EN：Draft, LOGO, charcoal sketch effect, dark gray, suitable for cafes or bars, coffee beans pattern, rough lines and shadows, kraft paper background, retro, rough, mysterious, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

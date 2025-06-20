@@ -1,0 +1,3 @@
+CN：3D小卧室，等距，在blender上建模渲染，可爱柔和的设计，干净的背景，135mm镜头，oc渲染，路径追踪，假设是夜晚，室内的台灯进行照明，最佳品质，
+EN：3D small bedroom, isometric, modeling and rendering on blender, cute soft design, clean background, 135mm lens, oc rendering, path tracing, assuming it is night, indoor desk lamp for lighting, best quality, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：日本动漫风格，SPYxFAMILY，Yor，厚涂，暗色调，特写，一位有着长而直的黑色头发和鲜艳红色眼睛的女性角色，她穿着深色服装，手持一支类似于笔或小刀的物体，背景是红色的，带有网格图案，并印有“SPY×FAMILY”字样。灯光集中在角色的脸上，营造出戏剧性的效果，构图集中在角色的头部和肩膀，突出她的表情和手中的物体。
+EN：Japanese anime style, SPYxFAMILY, Yor, impasto, dark tones, close-up, a female character with long straight black hair and bright red eyes, she is wearing dark clothing and holding an object similar to a pen or knife, the background is red with a grid pattern and the words "SPY×FAMILY" printed on it. The lighting is focused on the character's face to create a dramatic effect, and the composition is focused on the character's head and shoulders, highlighting her expression and the object in her hand. --q 1 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

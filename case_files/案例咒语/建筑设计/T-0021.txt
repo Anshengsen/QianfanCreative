@@ -1,0 +1,3 @@
+CN：两层别墅渲染图，美式风格，外观渲染，外部拍摄，两层，建筑设计，最佳品质，
+EN：Two-story villa rendering, American style, exterior rendering, exterior shooting, two floors, architectural design, best quality, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

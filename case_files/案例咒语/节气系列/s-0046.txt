@@ -1,0 +1,5 @@
+CN：冬至（2024 年 12 月 21 日）插画描绘了一位身着厚重冬装的少年，站在白雪皑皑的森林中，手捧暖暖的灯笼，照亮周围的雪景。他的眼中满是期待，仿佛在等待冬至的到来，带来新的希望和温暖。他周围的树木上挂满了冰柱，晶莹剔透，与少年手中的灯笼相得益彰。远处，烟囱里袅袅升起的炊烟，暗示着家的温暖和家人团聚的喜悦。整个场景以冷色调为主，每一处纹理都以超高清的细节展现出来，从少年专注的表情到环境中的植物，无不传达着冬至季节的宁静与和谐。
+EN：Winter Solstice (December 21, 2024) illustration features a youth dressed in heavy winter attire, standing in a snowy forest, holding a warm lantern that illuminates the surrounding snowy landscape. His eyes are filled with anticipation, as if waiting for the arrival of the Winter Solstice, bringing new hope and warmth. The trees around him are adorned with icicles, glistening and translucent, complementing the lantern in the youth's hand. In the distance, smoke rises from chimneys, suggesting the warmth of home and the joy of family gatherings. The entire scene is dominated by cool tones, showcasing every texture in ultra-high-definition detail, from the youth's focused expression to the flora of the environment, all conveying the tranquility and harmony of the Winter Solstice season. --q 1 --s 100 --ar 3:4 --niji 6
+
+（PS：本篇提示词采用©Ai数字绘画馆自行训练的AI对话模型生成） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

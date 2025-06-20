@@ -1,0 +1,3 @@
+CN：产品摄影，黑色无线耳机及充电盒，悬浮在两块岩石中间，背景是日落天空，暖色调，电影级光照，细节丰富，高分辨率，
+EN：Product photography, black wireless earphones and charging case suspended between two rocks, sunset sky in the background, warm tones, cinematic lighting, rich details, high resolution, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

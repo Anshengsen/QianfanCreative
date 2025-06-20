@@ -1,0 +1,5 @@
+
+CN：在黑色背景布下站着一名穿着白衬衫和黑色西裤的女性，20岁，亚洲面容，长发，精致的五官，精致的妆容，照片，影棚照明，最高质量，32K，
+
+EN：Under the black background cloth stood a woman wearing a white shirt and black trousers, 20 years old, Asian face, long hair, exquisite facial features, exquisite makeup, photos, studio lighting, highest quality, 32K, --q 5 --s 150 --ar 3:4 --v 5.2 --style raw --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

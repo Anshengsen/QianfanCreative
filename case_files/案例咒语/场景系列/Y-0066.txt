@@ -1,0 +1,4 @@
+CN：3D微观风格，打开的手提箱中是一个微观世界，里面包含各种卡通可爱的小房子以及斑马线汽车等，微观世界，夜晚，路灯照明，黑色背景，等距，暖光，
+EN：3D micro style, the opened suitcase is a micro world, which contains various cartoon cute little houses and zebra crossing cars, etc., micro world, night, street lighting, black background, isometric, warm light, --q 5 --s 180 --ar 1:1 --v 6.0
+（风格化切记不要低于180，建议200以上） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

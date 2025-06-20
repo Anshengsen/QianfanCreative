@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，浅灰蓝色，卫衣，插肩袖，圆领，宽松版型，长袖，袖口收紧，纯色，无图案，极简风格，服装面料质感细腻，光线均匀柔和，无明显阴影，焦点集中于服装整体。
+EN：Professional clothing photography, 8K, front view, white background, light gray-blue, sweatshirt, raglan sleeves, round neck, loose fit, long sleeves, tightened cuffs, solid color, no pattern, minimalist style, clothing fabric has fine texture, light is even and soft, no obvious shadows, focus is on the clothing as a whole. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

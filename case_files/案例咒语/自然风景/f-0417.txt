@@ -1,0 +1,3 @@
+CN：雪乡夜景，传统中式建筑，厚厚的积雪覆盖，屋顶和地面呈现出圆润的形状，红色灯笼点缀，室内透出暖黄色灯光，夜晚天空呈现深蓝色，整体色调偏红，营造出温馨喜庆的氛围，摄影风格，真实感，广角镜头，低角度拍摄，突出积雪的厚重感，光线柔和，强调明暗对比，高质量，8K，超细节。
+EN：Night view of Snow Town, traditional Chinese buildings, covered with thick snow, the roofs and the ground are rounded, dotted with red lanterns, warm yellow lights are shining indoors, the night sky is dark blue, and the overall tone is reddish, creating a warm and festive atmosphere. The photography style is realistic, with a wide-angle lens and low-angle shooting, highlighting the heavy feeling of the snow, soft light, emphasizing the contrast between light and dark, high quality, 8K, and ultra-details. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

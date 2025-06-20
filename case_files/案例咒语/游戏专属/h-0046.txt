@@ -1,0 +1,3 @@
+CN：游戏图标，卡通，锦标赛优胜者奖杯，丰富而奢华，阿拉伯风格，简约，3D，黑色背景，居中，发光，边缘霓虹光照明，粘土材料，
+EN：Game icon, cartoon, tournament winner trophy, rich and luxurious, arabic style, minimalist, 3D, black background, centered, glowing, edge neon light lighting, clay material, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

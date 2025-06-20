@@ -1,0 +1,2 @@
+﻿CN：超逼真的SUV汽车，红色和银色，全玻璃车顶，未来主义，具有空气动力学效率，侧面视图，全景，居中，白色背景，
+EN：Ultra-realistic SUV car, red and silver, full glass roof, futuristic, with aerodynamic efficiency, side view, panoramic, centered, white background, --q 1 --s 100 --ar 16:9 --v 6.0

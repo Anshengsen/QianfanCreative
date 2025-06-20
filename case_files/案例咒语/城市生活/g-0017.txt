@@ -1,0 +1,3 @@
+CN：阿姆斯特丹夜景，运河，桥梁，拱形桥洞，灯光倒影，长曝光，船只轨迹，两侧建筑，欧式风格，砖石结构，暖色灯光，深蓝色天空，多云，湿润路面，反光，广角，低角度，对称构图，高细节，8K，超高清。
+EN：Amsterdam night scene, canal, bridge, arched bridge, light reflection, long exposure, ship tracks, buildings on both sides, European style, masonry structure, warm lights, dark blue sky, cloudy, wet road surface, reflection, wide angle, low angle, symmetrical composition, high details, 8K, ultra high definition. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

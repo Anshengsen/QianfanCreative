@@ -1,0 +1,4 @@
+﻿CN：空白的白色衬衫，平铺在桌面上，上面印有一个卡通可爱的笑脸表情，
+EN：A blank white shirt, tiled on the tabletop, with a cartoon cute smiley face emblazoned on it, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

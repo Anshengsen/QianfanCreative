@@ -1,0 +1,3 @@
+CN：冬日风景，雪景，结霜的树木，湛蓝的天空，蓬松的云朵，阳光穿透云层，广角镜头，自然光，冷色调，高对比度，宁静的氛围，超高清，8K，细节丰富，逼真渲染，风光摄影
+EN：Winter landscape, snow, frosted trees, blue sky, fluffy clouds, sun shining through the clouds, wide angle lens, natural light, cold tones, high contrast, peaceful atmosphere, ultra high definition, 8K, rich details, realistic rendering, landscape photography --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

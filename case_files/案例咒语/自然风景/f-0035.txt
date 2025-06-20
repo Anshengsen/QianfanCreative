@@ -1,0 +1,3 @@
+CN：日落景观摄影，远景，自然主义风格，柔和的色彩，温暖的色调，天空占据大部分画面，展现了日落时分的渐变色，从深蓝色到粉红色和橙色，云层稀疏，轮廓分明，山峦剪影在远处，左侧前景有一棵树的剪影，构图简洁，宁静祥和的氛围，自然光，高品质。
+EN：Sunset landscape photography, distant view, naturalistic style, soft colors, warm tones, the sky occupies most of the picture, showing the gradient colors of the sunset, from dark blue to pink and orange, the clouds are sparse and the outlines are clear, the silhouette of the mountains is in the distance, there is a silhouette of a tree in the left foreground, the composition is simple, the atmosphere is quiet and peaceful, natural light, high quality. --q 1 --s 100 --ar 16:9 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

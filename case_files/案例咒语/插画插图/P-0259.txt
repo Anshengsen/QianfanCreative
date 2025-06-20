@@ -1,0 +1,3 @@
+CN：蓝色背景上的矢量插图，以卡通风格的飞船为主题设计，巨大的UFO，飞船周围有几只穿着宇航服的小黄鸡，穿着宇航服，矢量，卡通，可爱，锐利的线条，可爱的配色，最佳品质，超级丰富的细节，居中构图，
+EN：Vector illustration on a blue background, designed with a cartoon-style spaceship theme, a huge UFO, with a few little yellow chickens in spacesuits around the spaceship, wearing spacesuits, vector, cartoon, cute, sharp lines, cute colors, best quality, super rich details, centered composition, --q 5 --s 250 --ar 3:2 --v 6.0 --personalize df2apxr 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

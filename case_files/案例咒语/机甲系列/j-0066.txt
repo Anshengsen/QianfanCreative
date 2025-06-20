@@ -1,0 +1,3 @@
+CN：乐高风格的积木机甲，纯色背景，积木颗粒清晰可见，Cycles渲染，塑料质感，鲜艳的色彩，简单的几何形状，背景是乐高积木搭建的场景，8K分辨率，童趣风格，
+EN：Lego-style building block mecha, solid color background, clear building block particles, Cycles rendering, plastic texture, bright colors, simple geometric shapes, the background is a scene built with Lego building blocks, 8K resolution, childlike style, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

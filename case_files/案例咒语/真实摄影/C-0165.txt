@@ -1,0 +1,4 @@
+﻿CN：照片，富士胶片风格，一个非常美丽的青年女性，中国人，孤独，外景，强调故事感、真实胶片摄影、柯达Portra 800、灰蓝色大衣、超逼真、超细节、真实感、肖像摄影，
+EN：Photo, Fujifilm style, a very beautiful young woman, Chinese, lonely, location, emphasizing the sense of story, real film photography, Kodak Portra 800, gray-blue coat, ultra-realistic, ultra-detailed, realistic, portrait photography, --q 1 --s 150 --ar 3:4 --v 5.2 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

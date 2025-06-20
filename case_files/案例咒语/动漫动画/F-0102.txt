@@ -1,0 +1,4 @@
+﻿CN：皮克斯电影风格，迪斯尼电影风格，白色背景，可爱的微笑紫色人工智能竖起大拇指，卡通，超清，8k，全身，正视图，HDR，
+EN：Pixar movie style, Disney movie style, white background, cute smile purple artificial intelligence thumbs up, cartoon, ultra clear, 8k, full body, front view, HDR, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

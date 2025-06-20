@@ -1,0 +1,3 @@
+CN：应用程序图标，数字概念，营造出未来主义氛围，蓝色渐变背景上有一个类似盛开的花瓣一样的底座，上方是一个蓝白色的半透明玻璃的倾斜正方体，半透明玻璃材质，3D渲染，干净的渲染，蓝色和白色风格，全局光，最佳品质，
+EN：Application icon, digital concept, creating a futuristic atmosphere, a base like blooming petals on a blue gradient background, above is a tilted cube of blue and white translucent glass, translucent glass material, 3D rendering, clean rendering, blue and white style, global light, best quality, --q 1 --s 1000 --ar 3:2 --niji 6 --personalize 122cw9i 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

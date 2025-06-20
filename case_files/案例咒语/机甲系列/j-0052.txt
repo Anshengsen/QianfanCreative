@@ -1,0 +1,3 @@
+CN：古典风格机甲，骑士盔甲，城堡，中世纪场景，阳光，暖色调，写实渲染，金属质感，8K，全局光照，阴影细节，
+EN：Classical style mecha, knight armor, castle, medieval scene, sunlight, warm colors, realistic rendering, metal texture, 8K, global illumination, shadow details, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

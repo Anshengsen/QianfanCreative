@@ -1,0 +1,3 @@
+CN：孤立的小色度渐变形状相互融合，焦点非常柔和，具有未来派迷幻风格，色彩缤纷，孤立在白色背景上，
+EN：Isolated small chromatic gradient shapes merging into each other with very soft focus in futuristic psychedelic style with colorful background isolated on white background, --q 1 --s 250 --ar 16:9 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

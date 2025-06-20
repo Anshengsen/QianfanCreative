@@ -1,0 +1,3 @@
+CN：沙丘，峡湾，山脉，湖泊，暖色调，电影感，超高分辨率，8K，超细节，自然光，大气透视，广角镜头，摄影作品，波浪状沙丘，平静的水面，岩石山壁，宁静的氛围
+EN：dunes, fjords, mountains, lakes, warm tones, cinematic feel, ultra high resolution, 8K, ultra detail, natural light, atmospheric perspective, wide angle lens, photography, wavy dunes, calm water, rocky mountain walls, tranquil atmosphere --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

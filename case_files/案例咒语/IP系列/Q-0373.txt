@@ -1,0 +1,3 @@
+CN：卡通粉色小怪兽，浅灰色背景，小怪兽身体呈椭圆形，颜色为粉色，肚子上有一个白色椭圆形图案，头顶长着两个绿色毛茸茸的耳朵，眼睛大大的，眼珠为白色，鼻子为绿色，嘴巴紧闭，露出几颗牙齿，表情呆萌可爱，整体风格简洁有趣。
+EN：A cartoon pink monster with a light grey background. The monster has an oval body in pink with a white oval pattern on its belly, two green furry ears on its head, big eyes with white pupils, a green nose, a tightly closed mouth showing a few teeth, and a silly and cute expression. The overall style is simple and interesting. --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

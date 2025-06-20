@@ -1,0 +1,3 @@
+CN：热带海滩，日落，粉色和橙色的天空，棕榈树，平静的海浪，沙滩，暖色调，柔和的光线，电影感，超高分辨率，8K，超细节，自然光，宁静的氛围，广角镜头，摄影作品，黄金时段
+EN：Tropical beach, sunset, pink and orange sky, palm trees, calm waves, sand, warm tones, soft light, cinematic feel, ultra high resolution, 8K, ultra detail, natural light, peaceful atmosphere, wide angle lens, photography, golden hour --s 100 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

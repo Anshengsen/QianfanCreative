@@ -1,0 +1,3 @@
+CN：空白笔记本电脑模型，3D渲染，商务办公风格，银灰色金属机身，简洁设计，放置在木质办公桌上，周围摆放着文具和咖啡杯，光线自然，细节清晰，高品质渲染，8K分辨率，空白屏幕可用于展示软件界面或文档内容。
+EN：Blank laptop mockup, 3D rendering, business office style, silver-gray metal body, simple design, placed on a wooden desk, surrounded by stationery and coffee cups, natural light, clear details, high-quality rendering, 8K resolution, blank screen can be used to display software interfaces or document content. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+
+CN：一个中国古风美少女，穿着蓝色的服装，精致的五官，独特的眼妆，细眉，鹅蛋脸，照片写实风格，写实，细腻的皮肤，中国传统极简主义，线条松散流畅，居中，正视图，最佳质量，
+EN：A beautiful girl in ancient Chinese style, wearing blue clothing, exquisite facial features, unique eye makeup, thin eyebrows, oval face, photo realistic style, realistic, delicate skin, traditional Chinese minimalism, loose and smooth lines, centered, front view, best quality, --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

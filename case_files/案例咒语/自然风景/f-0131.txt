@@ -1,0 +1,3 @@
+CN：挪威峡湾风光，航拍视角，碧蓝色的水面，两侧是陡峭的山脉，山体呈现棕红色，山顶覆盖着少量植被，天空晴朗，有少量云彩，整体色调偏冷，光线柔和，构图对称，超广角镜头，风光摄影，高分辨率，细节丰富，色彩鲜明。
+EN：Norwegian fjord scenery, aerial perspective, turquoise water, steep mountains on both sides, brown-red mountains, small amount of vegetation on the tops, clear sky with a few clouds, overall cool tone, soft light, symmetrical composition, ultra wide-angle lens, landscape photography, high resolution, rich details, bright colors. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

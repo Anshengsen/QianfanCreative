@@ -1,0 +1,3 @@
+CN：埃菲尔铁塔，巴黎地标建筑，日落时分，暖色调，金黄色阳光，深蓝色天空，天空中飘着几缕白云，对称构图，远景镜头，高清摄影，旅游照片，8K
+EN：Eiffel Tower, Paris landmark, sunset, warm tones, golden sunlight, deep blue sky, a few white clouds floating in the sky, symmetrical composition, long-range lens, HD photography, travel photo, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

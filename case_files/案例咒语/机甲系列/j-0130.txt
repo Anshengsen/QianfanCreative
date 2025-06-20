@@ -1,0 +1,3 @@
+CN：未来风格，机器人女孩，银色金属盔甲，短发，精致五官，坚定表情，全身像，城市背景，战斗场景，橙色光效点缀，动漫风格，高细节，8K。
+EN：Futuristic style, robot girl, silver metal armor, short hair, delicate features, firm expression, full body portrait, city background, battle scene, orange light effects, anime style, high details, 8K. --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

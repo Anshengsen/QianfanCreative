@@ -1,0 +1,3 @@
+CN：街头艺术图案，白色背景上的涂鸦，单色混乱风格，书法，矢量，
+EN：Street art pattern, graffiti on white background, monochrome chaotic style, calligraphy, vector, --q 1 --s 100 --ar 1:1 --v 6.0 --tile 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

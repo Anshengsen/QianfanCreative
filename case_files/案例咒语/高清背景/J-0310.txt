@@ -1,0 +1,3 @@
+CN：水彩背景，简约，极简主义，淡粉色和淡紫色和淡蓝色的风格，4K，在白色背景上呈现效果，
+EN：Watercolor background, simple, minimalist, light pink and lilac and light blue style, 4K, rendering effect on white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

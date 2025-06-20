@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲女性，站立姿势，身体略微侧向镜头，黑色长发，自然垂落，佩戴耳环，面部表情平静，穿着黑色无袖背心，圆领，下摆略微宽松，搭配深色牛仔裤，背景为室内场景，有深色门框和浅色墙面，光线柔和，整体风格简约，休闲。
+EN：Professional photography, 8K, an Asian woman, standing pose, body slightly sideways to the camera, long black hair, naturally hanging, wearing earrings, calm facial expression, wearing a black sleeveless vest with a round neck and slightly loose hem, paired with dark jeans, the background is an indoor scene with a dark door frame and light-colored walls, soft light, and the overall style is simple and casual. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

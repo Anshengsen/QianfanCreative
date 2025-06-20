@@ -1,0 +1,3 @@
+CN：手绘插画，手绘风格，夏至节气主题，在一个摊开的扇子上有一个中国风的扇子、扇子前面是切开的西瓜，背景是淡绿色的平面背景，有窗户光的投影，柔和的阴影，超品质，淡绿色的风格，超细节，8K，
+EN：Hand-painted illustration, hand-painted style, summer solstice theme, a Chinese-style fan on an open fan, a cut watermelon in front of the fan, a light green flat background, window light projection, soft shadows, ultra-high quality, light green style, ultra-details, 8K, --q 1 --s 100 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

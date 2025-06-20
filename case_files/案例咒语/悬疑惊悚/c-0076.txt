@@ -1,0 +1,3 @@
+CN：一个漂亮的20岁的动漫女孩，东方面容，背景是火车站的站台上，采用中国乡村风格，昏暗，赛博朋克配色方案，8K，图文漫画风格，2D恐怖漫画，粗线条，靛蓝和深红色色调，正视图，朋克，8K分辨率，
+EN：A beautiful 20-year-old anime girl with an oriental face, the background is on the platform of a train station, in Chinese country style, dim, cyberpunk color scheme, 8K, graphic comic style, 2D horror comic, thick lines, indigo and crimson tones, front view, punk, 8K resolution, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

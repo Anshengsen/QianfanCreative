@@ -1,0 +1,3 @@
+CN：3D渲染，一个充满糖果和南瓜的万圣节派对场景，孩子们穿着各种奇特的服装，快乐地玩耍，背景是装饰华丽的城堡，灯光温暖明亮，营造热闹的氛围，4K分辨率，超写实渲染，最佳质量，童趣，梦幻，细节丰富的糖果和南瓜装饰。
+EN：3D rendering, a Halloween party scene full of candy and pumpkins, children wearing various fancy costumes, playing happily, the background is a gorgeously decorated castle, the lights are warm and bright, creating a lively atmosphere, 4K resolution, hyper-realistic rendering, best quality, childlike, dreamy, detailed candy and pumpkin decorations. --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

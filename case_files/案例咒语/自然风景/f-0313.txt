@@ -1,0 +1,3 @@
+CN：溪流，石头，青苔，水车，石屋，秋叶，树木，自然景观，长曝光，流水雾化，暖色调，柔和光线，广角镜头，高清晰度，细节丰富，色彩鲜艳，自然光，电影质感，8K
+EN：Stream, stones, moss, waterwheel, stone house, autumn leaves, trees, nature landscape, long exposure, flowing water mist, warm tones, soft light, wide-angle lens, high definition, rich details, bright colors, natural light, film texture, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

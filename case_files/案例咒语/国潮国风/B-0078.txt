@@ -1,0 +1,5 @@
+CN：一个优雅的中国古代男人，脸上画着京剧角色脸谱，灵感来自敦煌壁画，以几何形态、鲜艳的色彩和对称的构图为特色，平面插图，特写，
+EN：An elegant ancient Chinese man with Peking Opera character mask on his face, inspired by Dunhuang murals, featuring geometric shapes, bright colors and symmetrical composition, flat illustration, close-up, --q 1 --s 100 --ar 3:4 --v 6.1 --p
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

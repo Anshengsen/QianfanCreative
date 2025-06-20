@@ -1,0 +1,2 @@
+﻿CN：黑色跑车，赛博朋克风格，霓虹灯照明，黑色背景，未来主义，
+EN：Black sports car, cyberpunk style, neon lighting, black background, futurism, --q 1 --s 100 --ar 3:2 --v 5.2

@@ -1,0 +1,3 @@
+CN：平面漫画风格，平面动画风格，一个十九岁的中国青年男人跪在地上自责，阴郁的天气，古代庭院背景，漫画风格，浅蓝色和青铜色，锐利的线条，最佳品质，
+EN：Graphic comic style, graphic animation style, a nineteen-year-old Chinese young man kneeling on the ground to blame himself, gloomy weather, ancient courtyard background, comic style, light blue and bronze, sharp lines, best quality, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

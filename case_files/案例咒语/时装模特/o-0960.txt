@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。服装特写。一个女性，站立姿势，身体略微侧向镜头，穿着一件白色长袖针织衫，圆领，下摆系结，搭配深蓝色长裤，肩背红色单肩包，背景为海滩，沙滩，海水，模糊的远景，自然光，柔和光线，整体风格休闲，舒适。
+EN：Professional photography, 8K, clothing advertising shooting, no face. Clothing close-up. A woman, standing, body slightly sideways to the camera, wearing a white long-sleeved sweater with a round neck and a knotted hem, paired with dark blue trousers, a red shoulder bag on her shoulder, the background is the beach, sand, sea water, blurred distant view, natural light, soft light, the overall style is casual and comfortable. --q 1 --s 100 --ar 3:4 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

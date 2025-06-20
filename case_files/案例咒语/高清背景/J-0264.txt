@@ -1,0 +1,3 @@
+CN：3D朋克背景，黑色背景上的一些霓虹色波浪，几何波浪形状，深蓝色、紫色、黑色，霓虹光，最佳品质，3D渲染，
+EN：3D punk background, some neon colored waves on a black background, geometric wave shapes, dark blue, purple, black, neon light, best quality, 3D rendering, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

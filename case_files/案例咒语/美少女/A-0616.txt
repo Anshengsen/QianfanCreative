@@ -1,0 +1,3 @@
+CN：一个小男孩，8岁左右，大眼睛，手里拿着毛笔写字，滑稽的小动作，偷懒，可爱，俏皮，穿着中国古代的衣服，长袍大袖，室内是中国古代的家具，外面的光线照进房间，柔和的灯光，8K，高清，3D，C4D，中景，全身，
+EN：A little boy, about 8 years old, with big eyes, holding a brush in his hand to write, funny little movements, lazy, cute, playful, wearing ancient Chinese clothes, long robe with big sleeves, the room is filled with ancient Chinese furniture, the light from outside shines into the room, soft lighting, 8K, HD, 3D, C4D, medium shot, full body, --q 1 --s 100 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

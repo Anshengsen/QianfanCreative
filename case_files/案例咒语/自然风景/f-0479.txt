@@ -1,0 +1,3 @@
+CN：雪原，广角，傍晚时分，深蓝色天空，地平线处有微弱的橙色光芒，远处有山脉和树木的剪影，天空中可见星星和月亮，冷色调，宁静氛围，自然风光摄影，高清晰度，8K。
+EN：Snowfield, wide angle, evening time, dark blue sky, faint orange glow on the horizon, silhouettes of mountains and trees in the distance, stars and moon visible in the sky, cold tones, tranquil atmosphere, nature photography, high definition, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

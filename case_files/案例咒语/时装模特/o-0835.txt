@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个年轻女性，站立姿势，身体略微侧向镜头，长发，浅棕色，自然散落，佩戴白色头戴式耳机，身穿浅紫色长款衬衫，宽松版型，袖子长度适中，背景为沙滩，日落时分，光线柔和，整体氛围休闲，自然。
+EN：Professional photography, 8K, a young woman, standing pose, body slightly sideways to the camera, long hair, light brown, naturally scattered, wearing white headphones, wearing a light purple long shirt, loose fit, sleeves of moderate length, the background is the beach, sunset, the light is soft, the overall atmosphere is casual and natural. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

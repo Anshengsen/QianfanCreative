@@ -1,0 +1,3 @@
+CN：蒸汽朋克风格，字母“B”，加粗，特写，金属材质，锈迹斑斑，由复杂的机械零件构成，工业风格，暗色调，细节丰富，逼真，3D渲染，高清，最佳品质，纯白背景，
+EN：Steampunk style, letter "B", bold, close-up, metal texture, rusty, made of complex mechanical parts, industrial style, dark tones, rich details, realistic, 3D rendering, HD, best quality, pure white background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

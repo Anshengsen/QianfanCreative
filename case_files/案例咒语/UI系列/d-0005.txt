@@ -1,0 +1,3 @@
+CN：移动应用程序设计，一组应用程序设计，behance风格，包含：用户页面、用户体验、品牌介绍、展示页面等，平面设计，干净的背景，高质量，高细节，figma屏幕截图，
+EN：Mobile application design, a set of application design, behance style, including: user page, user experience, brand introduction, presentation page, etc., graphic design, clean background, high quality, high detail, figma screenshots, --q 5 --s 250 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

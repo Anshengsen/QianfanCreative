@@ -1,0 +1,3 @@
+CN：中国风插画的背景图，淡青蓝色调，水墨画风格，动态模糊，整体构图大气磅礴，营造出一种飘渺、梦幻的意境，光线柔和，没有明显的强光源，整体色调清新淡雅，低饱和，中国风，国潮，金粉，8K，
+EN：The background image of the Chinese style illustration, light blue tones, ink painting style, dynamic blur, the overall composition is majestic, creating an ethereal and dreamy artistic conception, the light is soft, there is no obvious strong light source, the overall tone is fresh and elegant, low saturation, Chinese style, national tide, gold powder, 8k，--q 5 --s 50 --ar 3:4 --niji 6  --no main body --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

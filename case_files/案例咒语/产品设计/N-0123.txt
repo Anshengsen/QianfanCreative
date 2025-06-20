@@ -1,0 +1,3 @@
+CN：产品摄影，薇姿精华，浅蓝色透明瓶身，银色喷头，放置在雪地里，周围有雪覆盖的树枝，冷色调，细节丰富，高分辨率，
+EN：Product photography of Vichy serum, light blue transparent bottle with silver spray nozzle, placed in the snow, surrounded by snow-covered branches, cold tones, rich details, high resolution, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：微笑的Q版女孩，身穿白衬衫和粉色裙子和黑色鞋子，动漫插图风格，全身，矢量，线条和色块，明亮，卡通，白色背景，最佳品质，
+EN：Smiling chibi version girl, wearing white shirt and pink skirt and black shoes, anime illustration style, full body, vector, lines and color blocks, bright, cartoon, white background, best quality, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

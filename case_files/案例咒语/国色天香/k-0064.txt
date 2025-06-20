@@ -1,0 +1,3 @@
+CN：在中国古代的书房内，几幅垂直坠下的长卷，可见长卷上有精致的毛笔字，一个穿着汉服的美女站在中央，全景，广角，儒雅，逼真，详细，最佳品质，4K，
+EN：In the ancient Chinese study, several vertically falling scrolls, with exquisite calligraphy on them, a beautiful woman in Hanfu standing in the center, panoramic, wide angle, elegant, realistic, detailed, best quality, 4K, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

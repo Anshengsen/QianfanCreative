@@ -1,0 +1,3 @@
+CN：专业摄影，8K，下半身像特写，女性，站立姿势，放松自然，双手插兜，身穿浅蓝色阔腿牛仔裤，裤子宽松，裤脚收紧，搭配白色休闲鞋，整体风格休闲舒适，背景为模糊的室内环境，光线柔和。
+EN：Professional photography, 8K, close-up of lower body, female, standing posture, relaxed and natural, hands in pockets, wearing light blue wide-leg jeans, loose pants, tightened trouser legs, paired with white casual shoes, the overall style is casual and comfortable, the background is a blurred indoor environment, and the light is soft. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

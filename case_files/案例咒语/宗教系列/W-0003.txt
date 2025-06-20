@@ -1,0 +1,5 @@
+
+CN：一个美少女坐在巨大的佛像前面，正视图，赛博朋克风格，深红色和绿松石的风格，寺庙里的神佛和一个美少女，低角度拍摄，居中构图，她冥想的姿势、极其详细的唐代服装、精致的五官，最佳质量，32K，UHD，写实，丰富的细节，
+EN：A beautiful girl sits in front of a huge Buddha statue, front view, cyberpunk style, crimson and turquoise style, Buddha in the temple and a beautiful girl, shot from a low angle, centered composition, her meditative pose, extremely detailed Tang Dynasty clothing, exquisite facial features, best quality, 32K, UHD, realistic, rich details, --q 1 --s 100 --ar 3:4 --niji 5
+PS：建议可以再加一个词-特写（Close-up），我做的这个细节上没有那么清楚，如果想要更近点的话就加上特写，不加也行。 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

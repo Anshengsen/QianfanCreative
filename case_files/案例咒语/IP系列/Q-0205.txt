@@ -1,0 +1,3 @@
+CN：3D卡通角色设计，IP，一个胖胖的角色，戴着头盔，头盔上有个墨镜，骑着绿色复古摩托车，chibi，鸟山明风格，圆润，可爱，年代感，细节刻画，绿色背景，迪士尼动画风格，3D风格，
+EN：3D cartoon character design, IP, a fat character, wearing a helmet with sunglasses on it, riding a green retro motorcycle, chibi, Akira Toriyama style, round, cute, sense of age, detailed depiction, green background, Disney animation style, 3D style, --q 1 --s 100 --ar 1:1 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,5 @@
+CN：一个3D小火箭模型，3D，卡通，可爱，光泽，明亮，渐变颜色，最高质量，简单的背景，
+EN：A 3D small rocket model, 3D, cartoon, cute, glossy, bright, gradual change of color, highest quality, simple background, --q 5 --s 250 --ar 3:4 --niji 5
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

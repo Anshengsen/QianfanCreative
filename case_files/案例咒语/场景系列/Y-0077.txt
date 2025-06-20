@@ -1,0 +1,3 @@
+CN：3D渲染，居中，独奏，高科技水冷回路，黑色高反射背景，独奏，展示散热器、泵和水块等组件，3D插图，透视，3D，OC渲染，极其详细的细节，超品质，超级降噪，4K，内发光，霓虹光，
+EN：3D rendering, centering, solo, high-tech water-cooled loop, black high-reflection background, solo, showing components such as radiators, pumps and water blocks, 3D illustrations, perspective, 3D, OC rendering, extremely detailed details, super quality, super noise reduction, 4K, inner glow, neon light, --q 5 --s 50 --ar 1:1 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

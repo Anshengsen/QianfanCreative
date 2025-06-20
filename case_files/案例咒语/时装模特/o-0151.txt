@@ -1,0 +1,3 @@
+CN：专业摄影，年轻女性，正面全身像，深色毛绒外套，长袖，宽松版型，圆领，深蓝色，自然光，微笑，浅棕色头发，中分，发尾微卷，头顶扎小发髻，淡妆，肤色白皙，眼神柔和，背景为纯白。
+EN：Professional photography, young woman, front full-length portrait, dark plush coat, long sleeves, loose fit, round neck, dark blue, natural light, smiling, light brown hair, middle parting, slightly curled ends, small bun on top of head, light makeup, fair skin, soft eyes, pure white background. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

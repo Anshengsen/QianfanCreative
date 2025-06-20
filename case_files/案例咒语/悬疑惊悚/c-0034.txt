@@ -1,0 +1,4 @@
+﻿CN：东京的地铁车厢内，照片，赛博朋克，昏暗，一个女孩站在车厢尽头，恐怖的氛围，冷光，详细而现实，高分辨率，高细节，电影照明，电影剧照，照片抨击，超高分辨率，最佳品质，32kuhd，
+EN：Inside a subway car in Tokyo, photo, cyberpunk, dim, a girl standing at the end of the car, scary atmosphere, cold light, detailed and realistic, high resolution, high detail, movie lighting, movie stills, photo bashing, super high resolution, best quality, 32kuhd, --q 1 --s 100 --ar 3:2 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

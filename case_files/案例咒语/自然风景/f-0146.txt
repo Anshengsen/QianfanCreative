@@ -1,0 +1,3 @@
+CN：马特洪峰，雪山，日出，金色光芒，山顶特写，广角镜头，自然风光摄影，冷暖色调对比，高山景观，冬季场景，清晰锐利，高动态范围，专业摄影作品
+EN：Matterhorn, snowy mountains, sunrise, golden light, mountain top close-up, wide angle lens, nature photography, contrast of warm and cold tones, alpine landscape, winter scene, clear and sharp, high dynamic range, professional photography --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

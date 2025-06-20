@@ -1,0 +1,3 @@
+CN：儿童插画，温暖的色调，柔和的光线，雪景，女孩，北极熊，快乐，幸福，冬天，手绘，温馨，可爱，童趣，构图饱满，对角线构图，近景，细节丰富，高品质，高清，克莱因蓝色背景，白雪颗粒肌理，
+EN：Children's illustration, warm tones, soft light, snow scene, girl, polar bear, happy, happiness, winter, hand-painted, warm, cute, childlike, full composition, diagonal composition, close-up, rich details, high quality, high definition, Klein blue background, white snow grain texture, --q 2 --s 100 --ar 3:4 --niji 6 --personalize z84keqm 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

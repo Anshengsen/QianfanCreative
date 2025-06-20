@@ -1,0 +1,3 @@
+CN：现代扁平插画风格，一个男人，白色背景，黑白配色，黄色点缀，手持一堆文件，奔跑，时钟，简约线条，矢量图形，无阴影，卡通风格，插画设计，商业插画，人物全身像，动态姿势，最佳品质，干净利落的边缘，现代设计，扁平化设计，压力，时间管理，工作场景，简约插画，
+EN：Modern flat illustration style, a man, white background, black and white, yellow embellishment, holding a pile of documents, running, clock, simple lines, vector graphics, no shadows, cartoon style, illustration design, business illustration, full-body portrait, dynamic pose, best quality, clean edges, modern design, flat design, stress, time management, work scene, simple illustration, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

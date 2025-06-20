@@ -1,0 +1,2 @@
+CN：街头赛车特写，正在高速行驶的赛车的抓拍瞬间，赛博朋克风格，虚幻引擎渲染，夜晚，景深聚焦，超品质，超细节，8k，
+EN：Street racing close-ups, snapshots of high-speed racing cars, cyberpunk style, Unreal Engine rendering, night, depth of field focus, super quality, super detail, 8k, --q 1 --s 150 --ar 3:2 --v 6.0

@@ -1,0 +1,3 @@
+CN：产品摄影，香水瓶，渐变色瓶身，放置在木桩上，旁边有树枝，棕色背景，光线柔和，细节丰富，高分辨率，8K。木桩有清晰的年轮纹理，树枝呈现出自然的弯曲形态，背景颜色从浅棕色到深棕色渐变。
+EN：Product photography of a perfume bottle with gradient colors placed on a wooden stake with branches next to it, brown background, soft light, rich details, high resolution, 8K. The wooden stake has clear growth ring texture, the branches show a natural curved shape, and the background color gradients from light brown to dark brown. --s 100 --ar 3:2 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

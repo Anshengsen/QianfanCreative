@@ -1,0 +1,4 @@
+﻿CN：一位16岁的用户体验设计师，3D，东方面容，男性，穿着时尚潮流的服装，左手拿着笔记本电脑，右手拿着一本书，干净的背景，微笑，柔和的色彩，柔和的灯光，皮克斯风格，卡通，盲盒，最佳质量，丰富的细节，3D渲染，32kuhd，
+EN：A 16-year-old user experience designer, 3D, oriental face, male, wearing fashionable clothes, laptop in left hand, a book in right hand, clean background, smile, soft colors, soft lighting, Pixar style, cartoon, blind box, best quality, rich details, 3D rendering, 32kuhd, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

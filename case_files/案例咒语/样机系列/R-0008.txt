@@ -1,0 +1,4 @@
+﻿CN：空白效果图，空白的相框在桌面上，正面，居中，独奏，高质量，简单的背景，
+EN：Blank renderings, blank photo frame on desktop, front, center, solo, high quality, simple background, --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

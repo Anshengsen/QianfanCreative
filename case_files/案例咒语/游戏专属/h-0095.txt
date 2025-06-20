@@ -1,0 +1,3 @@
+CN：一副2D沙漠场景插图，游戏背景插图，2D，以迪士尼、皮克斯风格的西部沙漠为背景的游戏场景，有风车、仙人掌、水塔、谷仓等，明亮的色彩，高分辨率，超细节，广角，柔和的灯光，简洁，可爱，
+EN：A 2D desert scene illustration, game background illustration, 2D, a game scene with a Disney, Pixar style western desert as the background, with windmills, cacti, water towers, barns, etc., bright colors, high resolution, ultra-details, wide angle, soft lighting, simple, cute, --q 1 --s 100 --ar 3:2 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

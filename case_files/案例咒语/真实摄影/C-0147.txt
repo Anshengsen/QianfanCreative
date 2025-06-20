@@ -1,0 +1,4 @@
+﻿CN：复杂的细节，汽车生产线上的焊接臂正在焊接，火花四溅，赛博朋克，冷色调，逼真，UHD，超高分辨率，8K，
+EN：Intricate details, welding arms on a car production line are being welded, sparks are flying, cyberpunk, cool tones, realistic, UHD, super high resolution, 8K, --q 1 --s 100 --ar 16:9 --v 6.0 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

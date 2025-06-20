@@ -1,0 +1,4 @@
+CN：铁路轨道，延伸至远方，火车站站台，湿润的地面，反光，日落时分，金色的阳光，蓬松的云朵，蓝天，电线杆，远处的房屋，草地，动漫风格，光线追踪，体积光，高动态范围，超广角，低角度，细节丰富，色彩鲜艳，8K，超高分辨率，最佳质量
+EN：Railway tracks, stretching into the distance, train station platform, wet ground, reflections, sunset, golden sunlight, fluffy clouds, blue sky, telephone poles, houses in the distance, grass, anime style, ray tracing, volumetric lighting, high dynamic range, ultra wide angle, low angle, rich details, vivid colors, 8K, ultra high resolution, best quality --q 1 --s 50 --ar 16:9 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

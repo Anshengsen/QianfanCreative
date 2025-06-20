@@ -1,0 +1,3 @@
+CN：空白效果图，杂志，样机，打开的书本，空白内页，白色，平装，俯视视角，灰色背景，简约风格，高分辨率，产品展示，商业用途，细节清晰，阴影柔和，无文字，无图案。
+EN：Blank rendering, magazine, mockup, open book, blank pages, white, paperback, top view, gray background, minimalist style, high resolution, product presentation, commercial use, sharp details, soft shadows, no text, no graphics. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

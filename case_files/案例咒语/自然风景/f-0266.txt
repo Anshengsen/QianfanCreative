@@ -1,0 +1,3 @@
+CN：高尔夫球场，广角镜头，傍晚时分，晴朗天空，碧绿草坪，起伏地形，球道，湖泊，棕榈树，高尔夫球车，远山，自然光，暖色调，宁静氛围，高饱和度，专业摄影，风景摄影，8K，超高清。
+EN：Golf course, wide-angle lens, evening, clear sky, green lawn, undulating terrain, fairway, lake, palm trees, golf cart, distant mountains, natural light, warm colors, tranquil atmosphere, high saturation, professional photography, landscape photography, 8K, ultra high definition. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

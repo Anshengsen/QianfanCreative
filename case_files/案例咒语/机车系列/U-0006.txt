@@ -1,0 +1,2 @@
+﻿CN：超逼真、超帅气的跑车，红色和黑色，玻璃车顶，未来主义，超现实主义，具有空气动力学效率，侧面视图，低视角拍摄，居中，白色背景，
+EN：Super realistic, super handsome sports car, red and black, glass roof, futurism, surrealism, aerodynamic efficiency, side view, low angle shooting, centered, white background, --q 1 --s 100 --ar 16:9 --v 5.2

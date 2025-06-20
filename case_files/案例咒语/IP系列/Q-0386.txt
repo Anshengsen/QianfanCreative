@@ -1,0 +1,3 @@
+CN：卡通chibi角色，2D，矢量，白色背景，人物穿着山羊造型的连体衣，连体衣材质柔软，头戴山羊帽子，帽子上有弯曲的羊角，羊角表面有纹理，脸上有淡淡的红晕，眼睛大大的，水汪汪的，嘴巴小小的，呈3字形，表情呆萌可爱，双手自然下垂，整体风格简洁有趣，
+EN：Cartoon chibi character, 2D, vector, white background, the character is wearing a goat-shaped jumpsuit, the jumpsuit is made of soft material, and the goat hat has curved horns on the hat. The horns have texture on the surface, and there is a faint blush on the face. The eyes are big and watery, and the mouth is small in the shape of a 3. The expression is cute and silly, and the hands are naturally drooping. The overall style is simple and interesting. --q 5 --s 50 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。特写，一个女性，坐姿，双手交叠，穿着黑白格子长袖上衣，图案为雪花和字母，圆领，长袖，袖口有字母印花，搭配黑色短裙，室内，沙发背景，柔和光线，简洁风格。
+EN：Professional photography, 8K, clothing advertising shoot, no face. Close-up, a woman, sitting, hands folded, wearing a black and white plaid long-sleeved top with snowflakes and letters, round neck, long sleeves, letters printed on the cuffs, with a black short skirt, indoors, sofa background, soft light, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个穿着紫色连帽卫衣的年轻女性，站立姿势，双手插在卫衣口袋里，宽松版型，浅蓝色牛仔裤，头戴浅色渔夫帽，室内场景，背景为木质家具和百叶窗，柔和光线，整体风格休闲，舒适。
+EN：Professional photography, 8K, a young woman in a purple hoodie, standing pose, hands in her hoodie pockets, loose fit, light blue jeans, a light-colored bucket hat, indoor scene, wooden furniture and blinds in the background, soft light, the overall style is casual and comfortable. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

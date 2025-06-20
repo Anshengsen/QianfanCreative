@@ -1,0 +1,3 @@
+CN：白色背景上漂浮的红蓝色的3D产品，如收音机、网球拍、羽毛球拍、麦克风、篮球、足球、手机模型等等，3D渲染，漂浮，白色背景，简单的细节，粘土材料，
+EN：Red and blue 3D products floating on a white background, such as radios, tennis rackets, badminton rackets, microphones, basketballs, football, mobile phone models, etc., 3D rendering, floating, white background, simple details, clay materials, --q 1 --s 150 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

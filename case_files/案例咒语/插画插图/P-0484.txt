@@ -1,0 +1,3 @@
+CN：90年代动漫风格，一个哭泣的女孩，紫色头发，复古，泪水，闪光，星星背景，化妆，粉色和蓝色色调，粗线条，颗粒感，像素风格，怀旧，动漫截图，特写，悲伤的表情，大眼睛，闪亮的耳环，戒指，手持化妆刷，最佳品质，超细节，8K，
+EN：90s anime style, a crying girl, purple hair, retro, tears, glitter, stars background, makeup, pink and blue tones, thick lines, grainy, pixel style, nostalgia, anime screenshot, close-up, sad expression, big eyes, shiny earrings, ring, holding a makeup brush, best quality, ultra details, 8K, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

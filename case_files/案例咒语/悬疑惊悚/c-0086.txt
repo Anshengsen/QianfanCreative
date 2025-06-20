@@ -1,0 +1,3 @@
+CN：平面动画风格，平面漫画风格，夜晚，一名十五岁的中国男子瘫倒在一座破旧的寺庙里，高视角，眼睛睁得大大的，血管暴起，汗流浃背，害怕，惊慌失措，惊恐，营造出一种恐怖的气氛，漫画，浅蓝色和青铜的风格，粗线条，最佳品质，
+EN：Graphic animation style, graphic comic style, at night, a fifteen-year-old Chinese man collapsed in a dilapidated temple, high perspective, eyes wide open, blood vessels bursting, sweating, scared, panicked, terrified, creating an atmosphere of terror, comic, light blue and bronze style, thick lines, best quality, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

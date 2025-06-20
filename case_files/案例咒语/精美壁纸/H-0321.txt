@@ -1,0 +1,3 @@
+CN：虚幻引擎5，动漫风格，一位年轻的中国女性，瓜子脸，精致五官，长长的黑发，头戴银色发饰，眼神专注，红唇，佩戴耳环，身穿黑色劲装，手持弓箭，拉弓瞄准，上半身特写，电影级光照，3D渲染，CG感，高细节，8K，最佳画质，超高分辨率
+EN：Unreal Engine 5, anime style, a young Chinese woman, oval face, delicate features, long black hair, silver hair accessories, focused eyes, red lips, earrings, black outfit, holding a bow and arrow, aiming, upper body close-up, movie-level lighting, 3D rendering, CG feel, high details, 8K, best quality, ultra-high resolution --q 2 --s 100 --ar 16:9 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

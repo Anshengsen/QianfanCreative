@@ -1,0 +1,3 @@
+CN：专业摄影，8K，中景，长焦镜头，中国女性，瓜子脸，盘发，浅棕色发色，自然眉形，淡妆，眼神柔和，微抿嘴唇，白色立领旗袍，长袖，泡泡袖，宽松版型，在中国紫禁城皇宫内，朱砂红色的墙壁，中国古代皇家建筑，光线柔和，自然光，全身像，正面视角，站姿，姿态放松，略微侧身，
+EN：Professional photography, 8K, medium shot, telephoto lens, Chinese woman, oval face, bun, light brown hair color, natural eyebrow shape, light makeup, soft eyes, slightly pursed lips, white stand-up collar cheongsam, long sleeves, puff sleeves, loose fit, in the Forbidden City Palace in China, cinnabar red walls, ancient Chinese royal architecture, soft light, natural light, full-length portrait, front view, standing, relaxed posture, slightly sideways, --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

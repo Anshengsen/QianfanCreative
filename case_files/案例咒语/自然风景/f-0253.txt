@@ -1,0 +1,4 @@
+CN：巍峨山峰，雪山，多洛米蒂山脉，意大利阿尔卑斯山，日出/日落时分的光线，金色光芒，山体岩石纹理清晰，积雪覆盖的山坡，明暗对比强烈，深蓝色天空，少量云彩，广角镜头，风光摄影，自然景观，高耸入云，雄伟壮丽，冷峻，宁静，史诗感，超高清，8K分辨率，细节丰富
+EN：towering peaks, snow-capped mountains, Dolomites, Italian Alps, sunrise/sunset light, golden glow, clear rock textures, snow-covered slopes, strong contrast between light and dark, deep blue sky, few clouds, wide-angle lens, landscape photography, natural landscape, towering, majestic, cold, tranquil, epic, ultra high definition, 8K resolution, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

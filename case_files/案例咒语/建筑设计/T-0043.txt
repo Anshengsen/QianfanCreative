@@ -1,0 +1,3 @@
+CN：水滴形状的音乐厅，现代风格，21世纪，玻璃幕墙反射着周围的景色，内部是流线型的空间，蓝色灯光，光线追踪渲染，夜景，正面构图，8K，超高清，光滑的质感，清透感，
+EN：A concert hall in the shape of a teardrop, modern style, 21st century, glass walls reflecting the surrounding scenery, a streamlined space inside, blue lighting, ray tracing rendering, night scene, frontal composition, 8K, ultra-high definition, smooth texture, clarity, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

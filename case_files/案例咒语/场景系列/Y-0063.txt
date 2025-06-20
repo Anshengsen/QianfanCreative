@@ -1,0 +1,3 @@
+CN：等距，3D，卡通风格的一座独栋高楼，独奏，有底板，光滑，夜晚，黑色高反射背景，等距透视，居中，3D渲染，最佳品质，
+EN：Isometric, 3D, a stand-alone high-rise in cartoon style, solo, baseplate, smooth, night, black high-reflection background, isometric perspective, centered, 3D rendering, best quality, --q 5 --s 100 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

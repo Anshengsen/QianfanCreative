@@ -1,0 +1,4 @@
+CN：3D渲染图标，卡通风格，黄色闹钟，搭配淡紫色铃铛和指针，整体造型圆润可爱，黏土材质，表面光滑有光泽，梦幻色彩，整体风格轻松活泼，OC渲染，工作室照明，光线明亮，白色背景，无阴影，超细节，超品质，3D效果，适合作为时间管理类APP图标或网页元素
+EN：3D rendering icon, cartoon style, yellow alarm clock, with lavender bell and pointer, the overall shape is round and cute, clay material, smooth and shiny surface, dreamy color, the overall style is relaxed and lively, OC rendering, studio lighting, bright light, white background, no shadow, super detail, super quality, 3D effect, suitable as a time management APP icon or web element --s 100 --ar 1:1 --v 7 --profile l64u7lh --chaos 30 --no high saturation, high brightness, high brightness
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

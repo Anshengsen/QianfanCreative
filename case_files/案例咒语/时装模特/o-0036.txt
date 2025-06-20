@@ -1,0 +1,3 @@
+CN：一位北欧裔男性模特，白皙的皮肤，金色短发，蓝色眼睛，高挺的鼻梁，身穿黑色皮夹克和墨镜，姿势酷炫，眼神坚毅地望向前方，4K，干净清爽的白色背景。
+EN：A Nordic male model, with fair skin, short blond hair, blue eyes, and a high nose bridge, wearing a black leather jacket and sunglasses, with a cool pose and looking forward with a determined look, 4K, with a clean and refreshing white background. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

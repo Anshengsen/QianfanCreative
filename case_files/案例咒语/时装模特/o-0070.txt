@@ -1,0 +1,3 @@
+CN：非洲男性，光头，浓密的胡须，深邃的眼神，穿着黑色皮衣，站立姿势，双手交叉于胸前，冷酷的表情，强烈的对比光，干净的工作室背景，杂志封面风格，高清。
+EN：African male with bald head, thick beard, deep eyes, wearing black leather jacket, standing pose, hands crossed on chest, cool expression, strong contrasting light, clean studio background, magazine cover style, HD. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

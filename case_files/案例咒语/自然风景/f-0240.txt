@@ -1,0 +1,3 @@
+CN：冬季雪景，冰雪覆盖的树木，河流，薄雾，阳光透过树枝，冷色调，自然光，广角镜头，高对比度，超现实主义，风景摄影，超高清，8K
+EN：Winter snow scene, snow-covered trees, river, mist, sunlight through branches, cold tones, natural light, wide angle lens, high contrast, surrealism, landscape photography, Ultra HD, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

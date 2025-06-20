@@ -1,0 +1,2 @@
+CN：银色，Spyker C8 Spyder，跑车，敞篷，棕色内饰，左前方视角，工作室灯光，摄影棚，产品摄影，高光，反射，金属质感，精细细节，高分辨率，8K，超高清，真实感渲染，灰色背景，渐变背景
+EN：silver, Spyker C8 Spyder, sports car, convertible, brown interior, front left angle view, studio lighting, photo studio, product photography, highlights, reflections, metal texture, fine details, high resolution, 8K, ultra high definition, photorealistic rendering, gray background, gradient background --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

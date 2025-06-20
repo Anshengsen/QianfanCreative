@@ -1,0 +1,3 @@
+CN：中国古风，一个年轻英俊的男人，写实，超精细的虚幻引擎渲染，8K，极致细节，发冠，束发，背着长剑，华丽的金色黑色白色服装，
+EN：Ancient Chinese style, a young handsome man, realistic, ultra-fine Unreal Engine rendering, 8K, extreme details, hair crown, hair tied, carrying a long sword, gorgeous gold, black and white clothing, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

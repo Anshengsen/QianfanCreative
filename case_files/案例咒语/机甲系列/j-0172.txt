@@ -1,0 +1,3 @@
+CN：机械少女，半机械人，粉色长发，蓝色眼睛，白色与黑色机械装甲，科幻风格，全身像，侧身站立，锐利眼神，细节丰富的机械结构，蓝色与粉色点缀，动态姿势，光影对比强烈，高品质，超细节。
+EN：Mechanical girl, cyborg, long pink hair, blue eyes, white and black mechanical armor, sci-fi style, full-length portrait, standing sideways, sharp eyes, detailed mechanical structure, blue and pink embellishments, dynamic pose, strong contrast of light and shadow, high quality, ultra-detailed. --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq --no 2D, close up 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

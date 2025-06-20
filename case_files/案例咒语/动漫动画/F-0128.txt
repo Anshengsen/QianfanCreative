@@ -1,0 +1,3 @@
+CN：来自动画片《The Hillz》的场景，一家三口在房间里并排坐在一张桌子前玩大富翁游戏，2D动画，皮克斯动画风格，晚上，家庭氛围，开心的大笑，中间的男孩穿着蓝色T恤，在他的右边是一个紫色短卷发微笑的成年女子，在他的左边是一个穿着绿色T恤的棕色长直深色头发的男人，正视图，
+EN：A scene from the cartoon "The Hillz", a family of three sitting side by side in a room at a table playing Monopoly, 2D animation, Pixar animation style, evening, family atmosphere, happy laughter, the middle boy is wearing a blue T-shirt, on his right is a smiling adult woman with short purple curly hair, on his left is a man with long brown straight dark hair wearing a green T-shirt, front view, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

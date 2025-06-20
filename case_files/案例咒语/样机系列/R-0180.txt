@@ -1,0 +1,3 @@
+CN：空白效果图，两个不同尺寸的纸袋，棕色纸袋，白色纸袋，木质夹子，折叠袋口，简约风格，纯色背景，产品展示，3D渲染，高质量，8K，超精细细节，工作室灯光，中心构图
+EN：Blank rendering, two different sized paper bags, brown paper bag, white paper bag, wooden clip, folded bag mouth, simple style, solid color background, product display, 3D rendering, high quality, 8K, ultra fine details, studio lighting, center composition --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

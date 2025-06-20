@@ -1,0 +1,5 @@
+MJ-SC-0069                   气球艺术第三弹
+CN：充气的气球，玫瑰花，花朵，彩色，卡通，闪亮有光泽，黑色高反射背景布，黑色地面，黑色背景，最佳质量，最佳画质，
+EN：Inflatable balloons, roses, flowers, colors, cartoons, shiny, black highly reflective background cloth, black ground, black background, best quality, best picture quality, --q 5 --ar 3:4 --s 250 --v 5.2 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

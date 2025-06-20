@@ -1,0 +1,3 @@
+CN：贝壳状的音乐厅，仿生建筑风格，21世纪初，白色混凝土外壳，模仿贝壳的螺旋结构，自然光，写实渲染，近景，展现建筑的细节纹理，4K，高清晰度，
+EN：Shell-shaped concert hall, bionic architectural style, early 21st century, white concrete shell, imitating the spiral structure of the shell, natural light, realistic rendering, close-up, showing the detailed texture of the building, 4K, high definition, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

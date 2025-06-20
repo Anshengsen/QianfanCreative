@@ -1,0 +1,3 @@
+CN：3D皮克斯风格的大闸蟹，可爱，3x3排序，不同的角度，不同的表情和姿势，纯白背景，角色，最佳品质，
+EN：3D Pixar-style hairy crabs, cute, 3x3 sort, different angles, different expressions and poses, pure white background, characters, best quality, --q 1 --s 150 --ar 3:4 --v 6.0 --c 0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：水墨画风格，一匹奔跑的白马，黑色鬃毛和尾巴，动态姿势，写意，传统中国画技法，墨色浓淡变化，马身留白，背景为浅棕色山坡和草地，水墨晕染，简约背景，灵动飘逸，细节丰富，高品质。
+EN：Ink painting style, a running white horse with black mane and tail, dynamic pose, freehand, traditional Chinese painting techniques, ink color changes, white space on the horse's body, light brown hillside and grass in the background, ink smudges, simple background, smart and elegant, rich details, high quality. --q 5 --s 50 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

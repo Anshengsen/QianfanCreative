@@ -1,0 +1,3 @@
+CN：远景，航拍视角，清澈碧蓝的河流蜿蜒穿过茂密的森林，远景是层叠的山脉，晴朗的天空，明亮的光线，自然风光，高饱和度，电影质感，8K，超广角，高清晰度
+EN：Aerial view, clear blue river winding through dense forest, mountains in the distance, clear sky, bright light, natural scenery, high saturation, film texture, 8K, ultra wide angle, high definition --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

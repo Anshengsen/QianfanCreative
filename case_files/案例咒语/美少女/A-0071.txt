@@ -1,0 +1,3 @@
+CN：一个穿着汉服的美少女，中国卡通动漫风格，动画风格，动漫风格，中国文化，动漫插图，新艺术风格的人物插图，正视图，面对镜头，上身特写，深青色和浅蓝色，丰富的细节，精致的牡丹花，古典主义肖像画，最高分辨率，优雅，
+EN：A beautiful girl in Hanfu, Chinese cartoon animation style, animation style, animation style, Chinese culture, animation illustration, Art Nouveau character illustration, front view, facing the camera, upper body close-up, dark cyan and light blue, rich details, exquisite peony flowers, classicist portraiture, highest resolution, elegant, --q 5 --s 250 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

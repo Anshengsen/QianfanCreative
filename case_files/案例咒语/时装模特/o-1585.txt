@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，一双白色运动鞋，鞋面有蓝色线条装饰，黑色鞋带，搭配蓝色条纹袜子，站立姿势，背景为蓝色地面和绿色网格墙，光线明亮，焦点集中在鞋子上，细节清晰，运动风格。
+EN：Professional photography, 8K, shoe and boot advertising shoot, no face, a pair of white sneakers with blue line decoration on the upper, black laces, matched with blue striped socks, standing pose, background of blue ground and green grid wall, bright light, focus on the shoes, clear details, sport style. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

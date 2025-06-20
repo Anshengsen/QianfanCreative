@@ -1,0 +1,5 @@
+CN：香辣鸡腿堡，鸡腿堡，白芝麻，汉堡，生菜，芝士酱，黑色高反射背景，热气，超高质量，超高画质，产品镜头，电影级照明，
+EN：Fragrant garbage leg burger, chicken leg burger, white sesame seeds, burger, lettuce, cheese sauce, black high reflection background, heat, ultra high quality, ultra high image quality, product footage, film-grade lighting, --q 5 --s 550 --ar 3:4 --v 5.2 --style raw
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

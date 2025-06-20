@@ -1,0 +1,3 @@
+CN：一幅简单的水墨画，抽象的墨水写成“S”，类似水波的优美曲线，白色背景，强调了墨水的流畅性和优雅性，黑色和灰色色调传达出神秘和深度，吴冠中，
+EN：A simple ink painting, with an abstract ink writing "S" that resembles the graceful curve of a water wave, and a white background that emphasizes the fluidity and elegance of the ink, while black and gray tones convey mystery and depth, Wu Guanzhong, --q 1 --s 250 --ar 3:4 --v 6.0 --personalize ak9ezqk 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

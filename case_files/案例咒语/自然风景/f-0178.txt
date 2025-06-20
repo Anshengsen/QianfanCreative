@@ -1,0 +1,3 @@
+CN：远山，雪峰，鱼尾峰，安纳普尔纳峰，山脉，剪影，徒步者，日出/日落，暖色调，冷色调对比，云雾缭绕，广角，史诗感，高动态范围，8K，超细节，逼真摄影，自然风光
+EN：distant mountains, snow peaks, fishtail peak, annapurna, mountain range, silhouette, hikers, sunrise/sunset, warm tones, cool tones contrast, misty clouds, wide angle, epic feeling, high dynamic range, 8K, ultra-detailed, realistic photography, natural scenery --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

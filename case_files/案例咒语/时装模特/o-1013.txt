@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲女性，站立姿势，身体略微侧向镜头，双腿并拢，黑色长发，自然垂落，中分，面部表情平静，眼神直视前方，穿着一件黑色针织连衣裙，V，长袖，裙长在膝盖以上，金色纽扣装饰，背景是海景，有雪山，自然光，整体风格优雅，精致。
+EN：Professional photography, 8K, an Asian woman, standing pose, body slightly sideways to the camera, legs together, long black hair, naturally hanging down, middle part, calm facial expression, eyes looking straight ahead, wearing a black knitted dress, V, long sleeves, skirt length above the knee, gold button decoration, background is sea view, with snow-capped mountains, natural light, overall style is elegant and exquisite. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

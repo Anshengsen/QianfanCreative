@@ -1,0 +1,3 @@
+CN：空白效果图，多张白色杂志模型，俯视视角，平铺排列，对角线构图，阴影，简洁，干净，白色背景，高分辨率，8K，最佳品质
+EN：Blank rendering, multiple white magazine mockups, top view, flat lay, diagonal composition, shadows, simple, clean, white background, high resolution, 8K, best quality --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,2 @@
+﻿CN：3d摩托车，3D风格，红黑配色方案，在白色的背景上，vray追踪风格，正面透视角度，居中构图，高品质，
+EN：3D motorcycle, 3D style, red and black color scheme, on white background, vray tracing style, front perspective angle, centered composition, high quality, --q 1 --s 100 --ar 3:4 --v 5.2

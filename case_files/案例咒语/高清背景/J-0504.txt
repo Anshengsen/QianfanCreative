@@ -1,0 +1,3 @@
+CN：标题文本边框设计，心形+椭圆形+圆角矩形，卡通，矢量，米黄色+淡橙色+淡蓝色+玫红色，简约，扁平，无文字，可爱的文本标题栏边框，独奏，白色背景，居中，
+EN：Title text border design, heart shape + oval + rounded rectangle, cartoon, vector, beige + light orange + light blue + rose red, simple, flat, no text, cute text title bar border, solo, white background, centered, --s 100 --ar 3:2 --v 7 --profile l64u7lh 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

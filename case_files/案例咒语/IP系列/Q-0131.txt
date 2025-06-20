@@ -1,0 +1,3 @@
+CN：funko流行风格的骑士角色，身穿盔甲和披风，手持长剑，正面视图，3d，chibi，纯白背景，全身，深灰色，
+EN：Funko popular style knight character, wearing armor and cape, holding a longsword, front view, 3d, chibi, pure white background, full body, dark gray, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：手绘风格，上半身，酷，五颜六色（如紫色、绿色、黑色、黄色、白色、玫粉色等等），高明度，韩国美少女，双丸子头，强线描，插图，彩虹色时尚的头发，强烈的黑色眼影，酷酷的姿势和表情，戴着流苏耳环和项链，明暗对比，GC风格，现代风格，纯白背景，
+EN：Hand-drawn style, upper body, cool, colorful (such as purple, green, black, yellow, white, rose pink, etc.), high brightness, Korean beautiful girl, double ball head, strong line drawing, illustration, rainbow color fashionable hair, strong black eyeshadow, cool posture and expression, wearing fringed earrings and necklaces, chiaroscuro, GC style, modern style, pure white background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

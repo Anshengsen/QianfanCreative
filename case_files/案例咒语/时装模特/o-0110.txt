@@ -1,0 +1,3 @@
+CN：一件男士羊绒衫，深灰色，细密针织纹理，简约风格，正视图，平铺于白色背景，高清细节，柔软质感，光线柔和，8K分辨率，纯白色背景，居中构图。
+EN：A men's cashmere sweater, dark grey, fine knit texture, minimalist style, front view, flat on white background, high-definition details, soft texture, soft light, 8K resolution, pure white background, centered composition. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

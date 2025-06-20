@@ -1,0 +1,3 @@
+CN：最小的舞台设计，圆形舞台上立着一个空白相框，简约的色彩，柔和的调色板，巧妙的设计，最高品质，使用cinema 4d和OC渲染，8K，超级降噪，
+EN：Minimal stage design, a blank photo frame stands on the round stage, simple colors, soft palette, clever design, highest quality, rendered with cinema 4d and OC, 8K, super noise reduction,  --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

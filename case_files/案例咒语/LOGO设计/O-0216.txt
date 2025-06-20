@@ -1,0 +1,3 @@
+CN：矢量风格的标志设计，渐变色，字母S，圆形，蓝色和紫色渐变，抽象，深蓝色背景，居中构图，简洁现代，最佳品质，高分辨率
+EN：Vector style logo design, gradient colors, letter S, circle, blue and purple gradient, abstract, dark blue background, centered composition, simple and modern, best quality, high resolution --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

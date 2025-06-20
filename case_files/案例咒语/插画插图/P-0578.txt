@@ -1,0 +1,3 @@
+CN：卡通风格人物插画，一群人正在清理垃圾，色彩明快，线条简洁，整体风格积极向上，具有公益感和环保意识，细节包括人物的表情，垃圾袋的造型，以及背景中的环境元素，最佳品质，8K，矢量图形，干净利落，适合用于公益宣传或环保教育，
+EN：Cartoon style character illustration, a group of people are cleaning up the garbage, bright colors, simple lines, the overall style is positive, with a sense of public welfare and environmental awareness, details include the expression of the characters, the shape of the garbage bag, and the environmental elements in the background, best quality, 8K, vector graphics, clean and neat, suitable for public welfare propaganda or environmental education, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

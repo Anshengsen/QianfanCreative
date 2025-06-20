@@ -1,0 +1,3 @@
+CN：飞机路线图的线稿图，简单，无实色，虚线，轮廓图，地标、飞机航线矢量轮廓等元素，米黄色背景，淡棕色线条，流畅，无锯齿，
+EN：Line drawing of the aircraft route map, simple, no solid color, dotted lines, outline drawings, landmarks, vector outlines of the aircraft route and other elements, beige background, light brown lines, smooth, no jagged, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

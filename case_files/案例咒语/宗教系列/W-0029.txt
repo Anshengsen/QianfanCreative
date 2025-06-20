@@ -1,0 +1,3 @@
+CN：西游记_孙悟空身着盔甲、手持金箍棒、戴着紧箍，全身，鲜艳的色彩，超高分辨率，高度详细的照片，照片般逼真，超现实主义，完美构图，居中，闪亮的上眼皮，赛博朋克科幻，极其详细，华丽，令人惊叹的美学，
+EN：Journey to the West_Sun Wukong in armor, holding a golden hoop, wearing a tight hoop, full body, bright colors, ultra-high resolution, highly detailed photo, photo-realistic, surrealism, perfect composition, centered, shiny upper eyelids, cyberpunk sci-fi, extremely detailed, gorgeous, amazing aesthetics, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

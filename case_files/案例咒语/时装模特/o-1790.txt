@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，男士羽绒马甲，立领设计，可拆卸帽子，帽子带抽绳，深灰色，前襟拉链闭合，两侧拉链口袋，水平绗缝线，填充饱满，轻盈质感，哑光面料，环境光，柔和阴影，焦点清晰集中于服装。
+EN：Professional clothing photography, 8K, front view, white background, men's down vest, stand-up collar, detachable hood, hood with drawstring, dark grey, front zip closure, side zipper pockets, horizontal quilting lines, full padding, light texture, matte fabric, ambient light, soft shadows, sharp focus on the garment. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

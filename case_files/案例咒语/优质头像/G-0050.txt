@@ -1,0 +1,7 @@
+
+CN：一个美少女，二次元，短发，简笔画风格，粗线条，暗绿色风格，迷人的人物平面插图风格，卡通风格，上半身，面对镜头，居中，白色背景，
+EN：A beautiful girl, two-dimensional, short hair, stick figure style, thick lines, dark green style, charming character graphic illustration style, cartoon style, upper body, facing the camera, centered, white background, --q 1 --s 150 --ar 3:4 --niji 5
+
+
+（PS：风格化值，也就是--s <数值>可以大一点，建议150-400之间，我这里用的150） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

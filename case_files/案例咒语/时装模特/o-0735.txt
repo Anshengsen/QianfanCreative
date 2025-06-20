@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲女性，站立姿势，身体略微侧向镜头，长发，深棕色，自然垂落，发梢微卷，面部表情平静，眼神柔和，穿着一件深蓝色短款外套，圆领，长袖，宽松版型，内搭棕色高领针织衫，搭配棕色长裤，整体风格休闲，背景为浅色室内场景，光线柔和，整体氛围舒适，自然。
+EN：Professional photography, 8K, an Asian woman, standing posture, body slightly sideways to the camera, long hair, dark brown, naturally drooping, slightly curled hair ends, calm facial expression, soft eyes, wearing a dark blue short jacket, round neck, long sleeves, loose version, with a brown turtleneck sweater inside, paired with brown trousers, the overall style is casual, the background is a light-colored indoor scene, the light is soft, the overall atmosphere is comfortable and natural. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D，LOGO，冰块材质，透明质感，蓝色，适用于冷饮或冰雪主题，雪花形状，融化效果，白色背景，清凉，冰爽，纯净，
+EN：3D, LOGO, ice cube material, transparent texture, blue, suitable for cold drinks or ice and snow themes, snowflake shape, melting effect, white background, cool, icy, pure, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

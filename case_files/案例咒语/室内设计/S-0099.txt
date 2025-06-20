@@ -1,0 +1,3 @@
+CN：一张中国传统风格的室内设计图片，房间里摆放着两张蓝色的沙发，中间放着茶几，茶几上放着一些装饰品，房间里还有两盆红色的花，房间的墙壁上挂着一幅中国传统风格的画，房间的窗户是木质的，窗户外面是绿色的树木，房间的灯光很柔和，营造出一种宁静祥和的氛围，逼真的渲染图，对称，中国美学，
+EN：A picture of a traditional Chinese interior design. There are two blue sofas in the room, a coffee table in the middle, some decorations on the coffee table, and two pots of red flowers in the room. A traditional Chinese painting is hung on the wall of the room. The windows of the room are wooden, and there are green trees outside the windows. The lighting in the room is very soft, creating a peaceful and harmonious atmosphere. Realistic rendering, symmetry, Chinese aesthetics, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

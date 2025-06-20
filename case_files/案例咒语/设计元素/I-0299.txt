@@ -1,0 +1,3 @@
+CN：3D渲染图，卡通风格，展现向上增长的图表数据。画面中包含柱状图、圆形图和一个向上弯曲的红色箭头，象征着积极的增长趋势。色调以暖色调为主，黄色和橙色为主色，红色箭头为点睛之笔。光线柔和，营造出一种积极乐观的气氛。整体构图简洁明了，易于理解。适合用于商业演示、数据可视化或网站设计等场景。
+EN：3D rendering, cartoon style, showing upward growth chart data. The picture contains a bar chart, a circular chart and an upward curved red arrow, symbolizing a positive growth trend. The color tone is mainly warm, with yellow and orange as the main colors, and the red arrow is the finishing touch. The light is soft, creating a positive and optimistic atmosphere. The overall composition is concise and easy to understand. Suitable for business presentations, data visualization or website design. --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

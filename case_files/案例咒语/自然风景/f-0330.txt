@@ -1,0 +1,3 @@
+CN：冬季雪景，黎明时分，紫色和粉色天空，剪影树木，雪地上的脚印，广角镜头，自然风光，宁静氛围，冷色调，高对比度，细节丰富，8K画质，超现实主义，摄影作品，
+EN：Winter snowy landscape, dawn, purple and pink sky, silhouetted trees, footprints in the snow, wide angle shot, nature, tranquil atmosphere, cold tones, high contrast, rich details, 8K quality, surrealism, photography, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

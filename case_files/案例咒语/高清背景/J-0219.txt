@@ -1,0 +1,3 @@
+CN：用于表达数字资产生命周期经济的3D配图，紫色和蓝色，霓虹灯照明，最佳品质，3D，超细节，
+EN：3D graphics for expressing the life cycle economy of digital assets, purple and blue, neon lighting, best quality, 3D, ultra-detail, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

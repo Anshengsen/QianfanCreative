@@ -1,0 +1,3 @@
+CN：动漫风格，帅哥的短发帅哥，男性头像，柔和灯光，背景是阳台玻璃，隐约可见外面的城市，窗外正在下雨，模糊的城市夜景背景，深色调，黑色短发，蓝色眼睛，向上凝视，特写，最佳品质，高分辨率。
+EN：Anime style, handsome guy with short hair, male profile picture, soft lighting, balcony glass in the background, vaguely visible city outside, raining outside the window, blurred city night scene background, dark tones, short black hair, blue eyes, staring upwards, close-up, best quality, high resolution. --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

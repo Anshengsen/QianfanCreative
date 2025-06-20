@@ -1,0 +1,4 @@
+CN：写实，一个极其详细的人物角色，3D，逼真，透亮的皮肤，长发，华丽的头饰和耳饰，红唇，正面，全身，穿着淡绿色和米黄色相间的汉服，
+EN：Realistic, an extremely detailed character, 3D, lifelike, translucent skin, long hair, gorgeous headdress and earrings, red lips, front view, full body, wearing light green and beige Hanfu, --q 5 --s 120 --ar 9:16 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

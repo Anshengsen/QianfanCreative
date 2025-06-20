@@ -1,0 +1,3 @@
+CN：专业摄影，8K，一个亚洲男性，站立姿势，双手自然下垂，黑色短发，刘海略微遮挡额头，面部表情平静，身穿灰色针织毛衣，毛衣上有黑色锯齿状图案和白色“AIGC”字样，图案位于胸前，背景为纯色浅灰，全身照，自然光，简洁风格。
+EN：Professional photography, 8K, an Asian male, standing pose, hands hanging naturally, short black hair, bangs slightly covering the forehead, calm facial expression, wearing a gray knitted sweater with a black zigzag pattern and white "AIGC" on the sweater, the pattern is on the chest, the background is solid light gray, full body shot, natural light, simple style. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

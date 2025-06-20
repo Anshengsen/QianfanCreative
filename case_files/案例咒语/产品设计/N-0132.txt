@@ -1,0 +1,3 @@
+CN：产品摄影，深绿色洗发水瓶，米色按压泵，放置在灰色石块上，周围有紫色花朵和青色水果，米色背景，清新风格，细节丰富，高分辨率，石块纹理粗糙，花朵颜色鲜艳，瓶身标签文字清晰
+EN：Product photography of a dark green shampoo bottle with a beige pump placed on grey stones surrounded by purple flowers and cyan fruits on a beige background, fresh style, rich details, high resolution, rough stone texture, brightly coloured flowers, clear text on the bottle label --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

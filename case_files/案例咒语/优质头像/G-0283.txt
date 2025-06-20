@@ -1,0 +1,3 @@
+CN：线条艺术，极简主义，年轻女艺术家，肖像，棕色头发，微笑，可爱，简单的2d风格，柔和的色彩，
+EN：Line art, minimalism, young woman artist, portrait, brown hair, smiling, cute, simple 2d style, pastel colors, --q 1 --s 100 --ar 3:4 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

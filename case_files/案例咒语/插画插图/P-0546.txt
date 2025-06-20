@@ -1,0 +1,3 @@
+CN：扁平插画风格，热带雨林，茂密的植被，瀑布，粉色天空，黄色太阳，卡通人物，游客，背包，火烈鸟，鹦鹉，鲜艳的色彩，儿童插画风格，矢量，最佳品质
+EN：Flat illustration style, tropical rainforest, lush vegetation, waterfall, pink sky, yellow sun, cartoon characters, tourists, backpack, flamingo, parrot, bright colors, children's illustration style, vector, best quality --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

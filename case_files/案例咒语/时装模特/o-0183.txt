@@ -1,0 +1,4 @@
+CN：专业摄影，8K，年轻女性，亚洲人，直视镜头，双手举过头顶，略微外八字站姿，放松自然，齐刘海，棕色中长发，发尾微卷，清纯甜美，淡妆，眉毛自然，眼妆清淡，红润嘴唇，微笑，表情柔和，白色短款T恤，胸前有花朵图案和黑色小圆点装饰，浅蓝色高腰牛仔裤，裤腿两侧有银色装饰条，整体风格清新，背景为纯白色，光线均匀，柔和。
+EN：Professional photography, 8K, young woman, Asian, looking straight at the camera, with her hands raised above her head, standing with her feet slightly turned outward, relaxed and natural, bangs, medium-length brown hair, slightly curled ends, pure and sweet, light makeup, natural eyebrows, light eye makeup, rosy lips, smiling, soft expression, white short T-shirt with flower patterns and black polka dots on the chest, light blue high-waisted jeans with silver decorative strips on both sides of the trouser legs, the overall style is fresh, the background is pure white, and the light is even and soft. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4
+【PS：真的不建议出现手，MJ最近的模型好多怪手~~~】 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

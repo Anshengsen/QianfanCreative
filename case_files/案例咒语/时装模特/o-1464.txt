@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，银色高跟鞋，尖头设计，V型鞋口，细高跟，浅口，光滑皮革质感，木质地板，棕色沙发，白色丝绸裙摆，室内光线，柔和光，焦距集中于鞋子，细节丰富，质感真实。
+EN：Professional photography, 8K, shoe and boot advertising shooting, no face, silver high heels, pointed toe design, V-shaped shoe mouth, stiletto heels, shallow mouth, smooth leather texture, wooden floor, brown sofa, white silk skirt, indoor lighting, soft light, focus on shoes, rich details, real texture. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

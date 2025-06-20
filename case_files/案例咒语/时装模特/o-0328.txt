@@ -1,0 +1,3 @@
+CN：专业摄影，亚洲女性，站立姿势，身体略微侧向镜头，一手轻抚头发，自然放松，长波浪卷发，棕色系发色，发丝蓬松，短袖睡衣套装，粉色系，上衣宽松，下摆有抽绳，短裤，面带微笑，眼神温柔，皮肤白皙，妆容淡雅，自然光，居家背景，柔和色调。
+EN：Professional photography, Asian woman, standing pose, body slightly sideways to the camera, one hand gently stroking her hair, naturally relaxed, long wavy curly hair, brown hair color, fluffy hair, short-sleeved pajama set, pink color, loose top, drawstring hem, shorts, smiling, gentle eyes, fair skin, light makeup, natural light, home background, soft tones. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

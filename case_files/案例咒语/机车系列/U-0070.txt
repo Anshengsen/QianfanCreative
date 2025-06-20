@@ -1,0 +1,2 @@
+CN：未来主义超级跑车，银色车身，蓝色装饰条，黑色车顶，精致轮毂，流线型车身，低角度侧视图，摄影棚灯光，纯色背景，高对比度，超高清细节，8K分辨率，产品摄影，汽车广告风格，精致打光
+EN：Futuristic supercar, silver body, blue trim, black roof, exquisite wheels, streamlined body, low angle side view, studio lighting, solid color background, high contrast, ultra-high definition details, 8K resolution, product photography, car advertising style, exquisite lighting --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

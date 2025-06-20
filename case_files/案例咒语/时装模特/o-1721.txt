@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，男士POLO衫，基础款，短袖，烟灰色，合身版型，衣领及袖口有撞色条纹细节，三粒扣门襟，棉质面料，整体风格简约休闲，环境光照明，焦点清晰集中于服装。
+EN：Professional clothing photography, 8K, front view, white background, men's polo shirt, basic style, short sleeves, smoke grey, fitted fit, contrasting stripe details on collar and cuffs, three-button placket, cotton fabric, overall simple and casual style, ambient lighting, clear focus on the garment. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

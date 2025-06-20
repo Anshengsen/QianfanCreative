@@ -1,0 +1,3 @@
+CN：未来主义，22世纪，建筑外观像一颗巨大的金属苹果，表面布满三角形玻璃窗，反射着城市霓虹，夜晚，灯光从内部透出，营造出科技感，赛博朋克风格，octane渲染，超广角，4K，
+EN：Futurism, 22nd century, the building looks like a giant metal apple, with triangular glass windows on the surface, reflecting the city neon, at night, the lights shine from the inside, creating a sense of technology, cyberpunk style, octane rendering, ultra wide angle, 4K, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,5 @@
+﻿（PS：本章是借用了下刚才做的那个夕阳女孩的种子值，一不小心这俩成情头了哈哈哈哈）
+CN：一个穿着冬季白色羽绒服的帅哥，短发，侧脸，照片，户外，下午时分的暖阳照耀在他的脸上，唯美，梦幻现实主义的风格，卡通，卡通现实主义，精致的五官，白皙，写实，
+EN：A handsome guy wearing a winter white down jacket, short hair, side face, photo, outdoors, the warm sun shines on his face in the afternoon, beautiful, dreamy realism style, cartoon, cartoon realism, exquisite facial features, fair, realistic, --q 1 --s 100 --ar 3:2 --niji 6 --seed 3521103203
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

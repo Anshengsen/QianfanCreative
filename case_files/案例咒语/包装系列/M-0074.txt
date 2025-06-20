@@ -1,0 +1,3 @@
+CN：极简几何风格包装设计，圆柱形纸筒，筒身印有简单的几何图形，颜色为黑白灰，局部点缀亮色，整体风格现代简约，具有设计感和秩序感，适合咖啡豆或茶叶，最佳品质，8K，产品摄影，纯色背景。
+EN：Minimalist geometric packaging design, cylindrical paper tube with simple geometric shapes printed on the tube, black, white and gray, with bright colors in some parts, the overall style is modern and simple, with a sense of design and order, suitable for coffee beans or tea leaves, best quality, 8K, product photography, solid color background. --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

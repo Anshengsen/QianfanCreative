@@ -1,0 +1,3 @@
+CN：写实，虚幻引擎5，逼真的照片，身着校服、短裙和领带的可爱女孩在办公楼的楼梯间摆姿势，全景，全身，长波浪发，专业摄影，8K，明亮的灯光，
+EN：Realistic, Unreal Engine 5, photorealistic photo of cute girl in school uniform, short skirt and tie posing on stairwell of office building, panorama, full body, long wavy hair, professional photography, 8K, bright lighting, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize l4j9qoj 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

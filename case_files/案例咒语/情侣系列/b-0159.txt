@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，七夕，古代情侣，纯白背景，拥抱，侧身相拥，男子身穿青色汉服，女子身穿粉色汉服，长发，男子束高马尾，女子发髻高耸，粉色飘带，柔和光，浪漫，唯美，细节丰富，轻盈感，甜蜜，幸福，开心，中国古典之美，绝美人物，全身像，最佳品质，8K，黏土材质，OC渲染，3D卡通，
+EN：3D rendering, cartoon style, Chinese Valentine's Day, ancient couple, pure white background, hug, sideways hug, man wearing cyan Hanfu, woman wearing pink Hanfu, long hair, man with high ponytail, woman with high bun, pink streamer, soft light, romantic, beautiful, rich details, lightness, sweetness, happiness, joy, Chinese classical beauty, beautiful people, full-body portrait, best quality, 8K, clay material, OC rendering, 3D cartoon, --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

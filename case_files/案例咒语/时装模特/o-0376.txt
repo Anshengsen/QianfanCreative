@@ -1,0 +1,3 @@
+CN：专业摄影，8K，女性，苗条，亚洲人，站立姿势，身体略微侧向镜头，放松自然，短袖，白色，V，领口处有褶皱细节，宽松版型，浅色牛仔裤，中长发，深棕色，自然微卷，佩戴项链，背景为室内，有沙发和书架等家具，整体光线柔和，偏暖色调，新中式房间背景，服装特写，
+EN：Professional photography, 8K, female, slim, Asian, standing pose, body slightly sideways to the camera, relaxed and natural, short sleeves, white, V, pleated details at the neckline, loose fit, light-colored jeans, medium-length hair, dark brown, naturally slightly curly, wearing a necklace, the background is indoors, there are furniture such as sofas and bookshelves, the overall light is soft, warm tones, new Chinese-style room background, clothing close-up, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

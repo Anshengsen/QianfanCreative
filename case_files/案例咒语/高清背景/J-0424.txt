@@ -1,0 +1,3 @@
+CN：粒子效果，粒子，粒子抽象壁纸，动态，漩涡状，蓝色和紫色调，黑暗背景，光影效果，3D渲染，高分辨率，最佳品质，流体模拟，
+EN：Particle effect, particles, particle abstract wallpaper, dynamic, swirling, blue and purple tones, dark background, light and shadow effects, 3D rendering, high resolution, best quality, fluid simulation, --q 2 --s 250 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

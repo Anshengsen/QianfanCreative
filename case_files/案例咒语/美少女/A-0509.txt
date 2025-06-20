@@ -1,0 +1,3 @@
+CN：手绘线稿风格，一位中国古代女性，侧面，极其华丽的服装和头饰，优雅的动作，黑色线条和白色背景，无阴影，白色背景，超细节，超流畅，
+EN：Hand-drawn line drawing style, an ancient Chinese woman, side profile, extremely gorgeous clothing and headdress, elegant movements, black lines and white background, no shadows, white background, super details, super smooth, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D渲染，抽象，带反射的有机玻璃形状，紫色和杏色渐变，曲线玻璃面板，Redshift渲染，3D，工作室照明，最佳品质，4K，
+EN：3D rendering, abstract, plexiglass shapes with reflections, purple and apricot gradients, curved glass panels, Redshift rendering, 3D, studio lighting, best quality, 4K, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

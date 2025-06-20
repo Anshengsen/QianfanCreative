@@ -1,0 +1,5 @@
+
+CN：阳光明媚的室内设计，简约风格，米色，极简主义，白色墙壁与木地板以及盆栽，豪华的窗帘，自然主义渲染，阳光透过窗户照射产生的丁达尔效应，非常温馨，UHD，超清，
+EN：Sunny interior design, minimalist style, beige, minimalism, white walls with wooden floors and potted plants, luxurious curtains, naturalistic rendering, the Tyndall effect of sunlight shining through the windows, very warm, UHD, ultra-clear, --q 5 --s 250 --ar 3:4 --v 5.2 --style raw
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

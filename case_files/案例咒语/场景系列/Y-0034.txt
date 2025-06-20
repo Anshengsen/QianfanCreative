@@ -1,0 +1,4 @@
+CN：3d渲染图标，以教具为主题，纯白背景，3D，OC渲染，卡通风格，等距，最佳品质，极致降噪，
+EN：3D rendering graph mark, with teaching aids as the theme, pure white background, 3D, OC rendering, cartoon style, isometric, best quality, extreme noise reduction, --q 1 --s 100 --ar 1:1 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

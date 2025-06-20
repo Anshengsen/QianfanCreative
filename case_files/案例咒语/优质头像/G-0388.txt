@@ -1,0 +1,3 @@
+CN：现代都市漫画，一个20岁的亚洲女性，哭泣，长长的黑发，穿着时髦的衣服，纯白背景，现代韩漫风格，2D漫画，
+EN：Modern urban comics, a 20-year-old Asian woman crying, with long black hair, wearing fashionable clothes, pure white background, modern Korean comic style, 2D comics, --q 1 --s 100 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

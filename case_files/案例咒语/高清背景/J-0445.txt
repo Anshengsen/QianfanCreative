@@ -1,0 +1,3 @@
+CN：手绘背景图，无实物，无主体，对称构图，左右两侧是扎起来的窗帘，画面中心是窗户，特写，放大，扁平风格，手绘风格，简约，极简主义，淡雅的色调，淡绿色和淡蓝色，
+EN：Hand-painted background, no objects, no subject, symmetrical composition, tied curtains on the left and right sides, a window in the center, close-up, zoomed in, flat style, hand-painted style, simple, minimalist, light tones, light green and light blue, --q 5 --s 50 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。特写，一个穿着深蓝色长款外套的女性，站立姿势，双手自然下垂，外套为绗缝设计，内衬为亮橙色，袖口和领口露出内衬颜色，外套长度过膝，搭配深色内搭，背景为浅色室内场景，光线柔和，整体风格休闲，舒适。
+EN：Professional photography, 8K, clothing advertising shooting, no face. Close-up, a woman wearing a dark blue long coat, standing, with her hands hanging naturally, the coat is quilted, the lining is bright orange, the cuffs and collar reveal the lining color, the coat is over the knee, with a dark inner layer, the background is a light-colored indoor scene, the light is soft, and the overall style is casual and comfortable. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

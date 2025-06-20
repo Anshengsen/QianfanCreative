@@ -1,0 +1,4 @@
+CN：卧室场景，现代简约风格，双人床居中，浅色床品，木质地板，暖色灯光，对称构图，两侧是透明玻璃衣柜，内置灯带，背景墙面柔和，整体色调温馨，细节精致，3D渲染，超高质量，8K。
+EN：Bedroom scene, modern minimalist style, double bed in the center, light-colored bedding, wooden floor, warm lighting, symmetrical composition, transparent glass wardrobes on both sides, built-in light strips, soft background wall, warm overall tone, exquisite details, 3D rendering, ultra-high quality, 8K. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

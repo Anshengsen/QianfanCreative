@@ -1,0 +1,3 @@
+CN：手绘风格，一个非常可爱的女孩，戴着墨镜，双包子发型，墨镜上有$符号象征要多赚钱，旁边有两只小猫，白色背景，手绘板绘画风格，简单，卡哇伊，
+EN：Hand-drawn style, a very cute girl, wearing sunglasses, double bun hairstyle, with a $ symbol on the sunglasses to symbolize making more money, with two kittens next to her, white background, hand-drawn board drawing style, simple, kawaii, --q 1 --s 100 --ar 3:4 --niji 6 --personalize bav2ism 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

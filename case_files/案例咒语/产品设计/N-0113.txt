@@ -1,0 +1,4 @@
+CN：3D，手办，Q版人物，精灵少女，仙子，半透明的长发（浅蓝到粉色渐变），尖耳朵，紫色大眼睛，悲伤表情，穿着浅蓝色连衣裙，头戴粉色花朵，跪姿，双手捧着发光的青色能量球，身处紫色云层中，背景是紫色星空，下方有倒影，发光效果，梦幻，空灵，治愈系，可爱风格，最佳品质，超细腻。
+EN：3D, figure, Q version character, elf girl, fairy, translucent long hair (light blue to pink gradient), pointed ears, big purple eyes, sad expression, wearing light blue dress, pink flowers on head, kneeling, holding glowing cyan energy ball in both hands, in purple clouds, with purple starry sky in the background, with reflection below, glowing effect, dreamy, ethereal, healing, cute style, best quality, super delicate. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

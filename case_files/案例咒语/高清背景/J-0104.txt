@@ -1,0 +1,4 @@
+﻿CN：未来主义六边形背景::，3D，鲜艳的蓝色和黄色，起伏的六边形体组成的背景，霓虹灯，反射面，高对比度，高清，干净清晰的焦点，商业摄影，超细节，32k，景深，逼真，丰富的细节，在cinema 4D中呈现，
+EN：Futuristic hexagonal background::, 3D, vivid blue and yellow, background composed of undulating hexagons, neon, reflective surface, high contrast, high definition, clean and clear focus, commercial photography, hyperdetail, 32k, depth of field, realistic, rich details, presented in cinema 4D, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

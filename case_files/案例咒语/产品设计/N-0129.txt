@@ -1,0 +1,3 @@
+CN：产品摄影，黑色游戏耳机及充电盒，带有绿色和红色灯光，放置在金属表面上，背景是红色和蓝色光晕，赛博朋克风格，电影级光照，细节丰富，高分辨率，灯光效果强烈
+EN：Product photography, black gaming headset and charging case with green and red lights, placed on a metal surface, with red and blue halos in the background, cyberpunk style, cinematic lighting, rich details, high resolution, strong lighting effects --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

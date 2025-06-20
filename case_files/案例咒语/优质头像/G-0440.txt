@@ -1,0 +1,3 @@
+CN：油画风格的头像，美少女，浓密的红棕色长发，穿着华丽的丝绒长袍，眼神坚定，嘴角带着一丝神秘的微笑，手持一把精致的羽毛扇。背景是深沉的油画肌理，展现出古老的城堡和阴郁的天空，笔触厚重，色彩浓厚，光影强烈，营造出古典而神秘的氛围。
+EN：A portrait in oil painting style, a beautiful girl with thick reddish-brown hair, wearing a gorgeous velvet robe, with a firm gaze, a mysterious smile on the corner of her mouth, and holding an exquisite feather fan. The background is a deep oil painting texture, showing an ancient castle and a gloomy sky, with heavy brushstrokes, rich colors, and strong light and shadow, creating a classical and mysterious atmosphere. --q 1 --s 100 --ar 1:1 --niji 6--personalize nk61y71 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

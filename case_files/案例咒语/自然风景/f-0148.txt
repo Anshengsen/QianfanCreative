@@ -1,0 +1,3 @@
+CN：傍晚时分的约塞米蒂国家公园，山谷景观，远景，巨石，中间有茂密的森林，暖色调，天空呈现紫红色渐变，自然光，高对比度，摄影，真实感，高细节，8K。
+EN：Yosemite National Park at dusk, valley landscape, distant view, boulders, dense forest in the middle, warm tones, sky with purple-red gradient, natural light, high contrast, photography, photorealism, high detail, 8K. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

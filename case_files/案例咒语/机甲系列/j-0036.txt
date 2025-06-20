@@ -1,0 +1,3 @@
+CN：机甲变形金刚，美式动画风格，鲜艳色彩，强烈的光影对比，城市街道背景，爆炸效果，动态模糊，高清，电影质感，
+EN：Mecha Transformers, American animation style, bright colors, strong light and shadow contrast, city street background, explosion effect, motion blur, high definition, movie texture, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

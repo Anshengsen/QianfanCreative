@@ -1,0 +1,3 @@
+CN：中国现代影视剧风格，一个穿着华丽的白紫色相间服装的古风少年，黑色长发，高发髻，回头看，戴着精美饰品，摄影，剧照，特写，中国古风，对角线构图，在纯黑色背景中逆光拍摄，逆光，飘雪，8k，超清，精致细腻光滑逼真的皮肤，
+EN：Chinese modern film and television drama style, an ancient style boy in gorgeous white and purple clothes, long black hair, high bun, looking back, wearing exquisite accessories, photography, stills, close-up, ancient Chinese style, diagonal composition, shot against the light on a pure black background, backlight, snow, 8k, ultra-clear, delicate and smooth realistic skin, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

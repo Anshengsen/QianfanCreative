@@ -1,0 +1,3 @@
+CN：简单角色插图风格，一个短发可爱的女孩正在喝珍珠奶茶，开心，平面插图，简单背景，穿着白色t恤，浅灰色和深米色的风格，浅棕色的头发，她戴着耳环，简单的线条，米色背景，
+EN：Simple character illustration style, a cute girl with short hair is drinking bubble tea, happy, flat illustration, simple background, wearing a white t-shirt, light gray and dark beige style, light brown hair, she wears earrings, simple lines, beige background, --q 5 --s 150 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

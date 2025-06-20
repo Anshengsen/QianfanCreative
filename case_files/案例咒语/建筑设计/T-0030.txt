@@ -1,0 +1,3 @@
+CN：现代简约住宅，2023年，外观像巨大的白色立方体，表面覆盖着绿植，屋顶设有露天泳池，室内空间通透，充满自然光，极简主义风格，白天，自然光渲染，室内外视角，超写实，8K，最佳品质。
+EN：Modern minimalist house, 2023, looks like a huge white cube, covered with green plants, with an open-air swimming pool on the roof, transparent interior space, full of natural light, minimalist style, daytime, natural light rendering, indoor and outdoor perspective, hyperrealism, 8K, best quality. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

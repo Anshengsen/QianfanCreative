@@ -1,0 +1,3 @@
+CN：矢量，唯美T恤设计，复古动漫，黑灰色，90年代风格，一个穿着灰黑色T恤的美丽的日本女人，灰黑色的头发，短发，头发有高光，动漫，厚嘴唇，大眼睛，戴着皮带链和金属项链和耳环，短发，黑色背景，
+EN：Vector, beautiful t-shirt design, retro anime, black gray, 90s style, a beautiful Japanese woman wearing a gray black t-shirt, gray black hair, short hair, hair with highlights, anime, thick lips, big eyes, wearing belt chain and metal necklace and earrings, short hair, black background, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

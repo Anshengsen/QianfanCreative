@@ -1,0 +1,3 @@
+CN：漫画风格，粗体轮廓和填充色，悬疑小说配图，简单的细节，一个美丽的16岁的动漫女孩，精致的五官，长发，上身，正面，中景，在房间里，暗色调，幽光，最佳品质，
+EN：Comic style, bold outline and fill color, suspense novel with pictures, simple details, a beautiful 16-year-old anime girl, exquisite facial features, long hair, upper body, front, medium shot, in the room, dark tones, low light, best quality, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

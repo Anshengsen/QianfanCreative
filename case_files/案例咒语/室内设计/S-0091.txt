@@ -1,0 +1,3 @@
+CN：法式浪漫风格的书房，白色墙壁，浅色木质书架，蕾丝窗帘，水晶灯，柔和的灯光，浪漫，优雅，8K，超高质量，渲染图，
+EN：French romantic style study, white walls, light wooden bookshelves, lace curtains, crystal lamps, soft lighting, romantic, elegant, 8K, ultra high quality, rendering, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一个女孩，长长的白发，穿着校服，呆滞的眼神，哭泣，眼泪，背景是客厅，白天，正面，超高清，超高分辨率，漫画风格，插画风格，
+EN：A girl, long white hair, wearing a school uniform, dull eyes, crying, tears, the background is a living room, daytime, front view, ultra high definition, ultra high resolution, comic style, illustration style, --q 1 --s 100 --ar 3:4 --niji 6 --personalize dogb1je 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

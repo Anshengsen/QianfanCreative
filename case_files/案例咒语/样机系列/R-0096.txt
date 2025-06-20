@@ -1,0 +1,3 @@
+CN：一个木质相框，内部留白，摆放在复古的木质书桌上，旁边散落着一些老照片和干花，空白效果图，3D渲染，Blender，怀旧氛围，
+EN：A wooden photo frame with a blank interior, placed on a retro wooden desk, with some old photos and dried flowers scattered around, blank rendering, 3D rendering, Blender, nostalgic atmosphere, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

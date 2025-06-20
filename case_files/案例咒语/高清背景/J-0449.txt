@@ -1,0 +1,3 @@
+CN：明亮的色彩，充满动感的背景图设计，光线明亮，色彩鲜艳，采用放射状构图，背景为蓝色和黄色为主色调的放射状线条和点状图案，轻快活泼的日系画风，细节刻画细腻，线条流畅，整体画面干净整洁，没有明显的阴影，给人以轻盈的感觉，
+EN：Bright colors, dynamic background design, bright light, bright colors, radial composition, blue and yellow as the main colors of the background with radial lines and dot patterns, lively Japanese style, delicate details, smooth lines, the overall picture is clean and tidy, there is no obvious shadow, giving people a light feeling, --no character, role, subject, --q 1 --s 200 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

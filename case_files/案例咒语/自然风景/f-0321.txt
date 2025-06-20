@@ -1,0 +1,3 @@
+CN：极光，绿色，蓝色，夜空，星空，山脉，倒影，湖泊，宁静，自然风光，广角，高清，8K，最佳画质，超高细节
+EN：aurora, green, blue, night sky, stars, mountains, reflection, lake, tranquil, nature, wide angle, HD, 8K, best quality, ultra high detail --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

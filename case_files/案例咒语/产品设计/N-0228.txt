@@ -1,0 +1,3 @@
+CN：产品摄影，饮品广告，磨砂玻璃瓶，瓶身印有黑色文字，旁边是装有红色饮品的玻璃杯，背景是棕色布帘和木头，光线柔和，突出产品的颜色和质感，细节丰富，焦点清晰，电影级质感，8K，超高分辨率，简约而有质感，
+EN：Product photography, beverage advertising, frosted glass bottle with black text printed on the bottle, next to a glass with a red drink, with brown curtains and wood in the background, soft light, highlighting the color and texture of the product, rich details, sharp focus, film-level texture, 8K, ultra-high resolution, simple and textured, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

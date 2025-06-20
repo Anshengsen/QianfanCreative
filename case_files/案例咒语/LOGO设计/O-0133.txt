@@ -1,0 +1,3 @@
+CN：低多边形风格，一家科技公司的LOGO，几何图形组合，蓝色和紫色渐变，科技感十足，高分辨率，黑色背景，
+EN：Low polygonal style, a technology company's LOGO, a combination of geometric shapes, blue and purple gradients, a sense of technology, high resolution, black background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

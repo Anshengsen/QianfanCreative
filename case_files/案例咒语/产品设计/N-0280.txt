@@ -1,0 +1,3 @@
+CN：科技产品摄影，黑色无线耳机，带有银色装饰条纹，耳机盒打开，背景是抽象的黑色和银色几何结构，反射表面，柔和光线，焦点集中在耳机和耳机盒上，细节丰富，高分辨率，电影级照明，工作室质量，UHD，真实摄影，
+EN：Technology product photography, black wireless headphones with silver decorative stripes, headphone case open, abstract black and silver geometric background, reflective surface, soft light, focus on headphones and headphone case, rich details, high resolution, cinematic lighting, studio quality, UHD, real photography, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

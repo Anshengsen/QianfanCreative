@@ -1,0 +1,3 @@
+CN：中国现代插画师风格，手绘插图，中国古代建筑，两层，纯白背景，朱砂红色和橙色，居中构图，最佳品质，
+EN：Chinese modern illustrator style, hand drawn illustration, ancient Chinese architecture, two layers, pure white background, cinnabar red and orange, centered composition, best quality, --q 1 --s 250 --ar 3:2 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

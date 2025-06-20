@@ -1,0 +1,3 @@
+CN：一位优雅的非裔女性模特，深色皮肤，蓬松的爆炸头，高颧骨，厚嘴唇，身穿流光溢彩的金色晚礼服，摆出自信的站姿，微微侧身，眼神坚定地望向镜头，工作室灯光，时尚摄影，高清8K，景深效果，干净清爽的工作室背景，
+EN：An elegant African American female model with dark skin, fluffy Afro hair, high cheekbones, thick lips, wearing a shimmering gold evening dress, posing confidently, slightly sideways, looking firmly into the camera, studio lighting, fashion photography, HD 8K, depth of field effect, clean and fresh studio background, --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

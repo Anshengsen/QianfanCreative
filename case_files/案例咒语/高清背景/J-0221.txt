@@ -1,0 +1,3 @@
+CN：赛博朋克风格的3D隧道，六边形，紫色和蓝色，霓虹光，最佳品质，3D，
+EN：Cyberpunk-style 3D tunnels, hexagons, purple and blue, neon light, best quality, 3D, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

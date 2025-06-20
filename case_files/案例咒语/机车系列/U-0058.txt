@@ -1,0 +1,2 @@
+CN：未来主义概念车，玩具车，微型汽车，黑色主体，红色装饰线条，不对称设计，低底盘，宽轮胎，夸张的轮毂，蓝色轮毂灯，红色刹车卡钳，流线型车身，独特的尾翼设计，侧面视角，摄影棚灯光，纯色背景，超高清细节，8K，概念艺术，产品渲染
+EN：Futuristic concept car, toy car, miniature car, black body, red decorative lines, asymmetrical design, low chassis, wide tires, exaggerated wheels, blue wheel lights, red brake calipers, streamlined body, unique tail design, side view, studio lighting, solid color background, ultra high definition details, 8K, concept art, product rendering --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

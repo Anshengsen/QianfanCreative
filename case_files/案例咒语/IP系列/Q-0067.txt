@@ -1,0 +1,4 @@
+﻿CN：一只3d企鹅扮演消防员，白色背景，柔和的颜色，黏土材质，
+EN：A 3d penguin plays the role of a firefighter, with a white background, soft colors, and clay materials. --q 1 --s 100 --ar 3:4 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

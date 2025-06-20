@@ -1,0 +1,4 @@
+CN：像素风，8bit风格，复古游戏画面，一碗像素化的腊八粥，周围是像素化的食材，背景是简单的像素化场景，如厨房或餐桌，怀旧，趣味，游戏感，最佳质量。
+EN：Pixel style, 8bit style, retro game screen, a bowl of pixelated Laba porridge, surrounded by pixelated ingredients, the background is a simple pixelated scene, such as a kitchen or dining table, nostalgic, fun, game sense, best quality. --q 1 --s 100 --ar 3:4 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

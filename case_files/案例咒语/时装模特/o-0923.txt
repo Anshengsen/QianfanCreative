@@ -1,0 +1,3 @@
+CN：专业摄影，8K，服装广告拍摄，无面部。特写，一个女性，站立姿势，双手自然下垂，穿着一件米色和浅棕色相间的格子针织长袖上衣，圆领，袖口收紧，搭配浅蓝色牛仔裤，整体风格休闲，背景为室内，有浅色家具和窗户，自然光，柔和光线，简洁背景，最佳品质，超细节。
+EN：Professional photography, 8K, clothing advertising shoot, no face. Close-up, a woman, standing pose, hands hanging naturally, wearing a beige and light brown plaid knitted long-sleeved top, round neck, cuffs tightened, with light blue jeans, the overall style is casual, the background is indoors, with light-colored furniture and windows, natural light, soft light, simple background, best quality, super details. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：小雪节气，中国北方小雪，雪后初霁，远山积雪，雾凇挂满枝头，木屋炊烟袅袅，红色灯笼，暖黄色灯光，寒冷的空气感，写实风格，超写实，8k，电影级画质，逼真，
+EN：Light snow solar term, light snow in northern China, snow after snow, snow on distant mountains, rime hanging on branches, smoke from wooden houses, red lanterns, warm yellow lights, cold air, realistic style, hyper-realism, 8k, movie-level quality, lifelike, --q 1 --s 100 --ar 3:4 --v 6.1 --p 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

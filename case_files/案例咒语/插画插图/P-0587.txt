@@ -1,0 +1,3 @@
+CN：卡通风格室内插画，一群人在房间里看电视，房间里挂着晾晒的衣物，墙上贴着海报，地上放着唱片和垃圾桶，色彩明快，线条简洁，整体风格轻松随意，具有生活气息和怀旧感，细节包括人物的表情，房间里的各种物品，以及背景中的光影变化，最佳品质，8K，矢量图形，干净利落，适合用于生活类杂志或社交媒体，
+EN：Cartoon style interior illustration, a group of people watching TV in the room, clothes hanging in the room, posters on the wall, records and trash cans on the floor, bright colors, simple lines, the overall style is relaxed and casual, with a sense of life and nostalgia, details include the expressions of the characters, various objects in the room, and the changes in light and shadow in the background, best quality, 8K, vector graphics, clean and neat, suitable for lifestyle magazines or social media, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：日式，一个长长的走廊，走廊两侧是木质的推拉门和墙体，墙壁上装饰着传统的日式图案。走廊的尽头是一个小花园，花园里有一棵树，树枝上长满了绿色的叶子。走廊的地面铺着光滑的石板，石板反射着周围的光线，显得格外的明亮，对称构图，
+EN：Japanese style, a long corridor with wooden sliding doors and walls on both sides, and the walls are decorated with traditional Japanese patterns. At the end of the corridor is a small garden with a tree with green leaves on its branches. The floor of the corridor is paved with smooth slate, which reflects the surrounding light and looks particularly bright, with symmetrical composition. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：空白效果图，5K显示器，Pro Display XDR，银色金属支架，超宽屏幕，极简设计，正面视角，白色背景，产品展示，高分辨率，PSD模型，工作室照明，细节清晰，数码渲染
+EN：Blank rendering, 5K monitor, Pro Display XDR, silver metal stand, ultra wide screen, minimalist design, front view, white background, product display, high resolution, PSD mockup, studio lighting, sharp details, digital rendering --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

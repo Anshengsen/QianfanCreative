@@ -1,0 +1,3 @@
+CN：动漫风格女孩，写实风格，穿着白色短款上衣和蓝色牛仔裤，头发乌黑亮丽，妆容精致，眼神迷离，灯光运用突出人物轮廓和质感，构图简洁，侧身站姿，展现出青春活力，中景，长焦镜头，明亮的黄色背景，
+EN：Anime style girl, realistic style, wearing a white short top and blue jeans, with black and shiny hair, delicate makeup, blurred eyes, the use of lighting highlights the outline and texture of the character, simple composition, sideways standing posture, showing youthful vitality, medium shot, telephoto lens, bright yellow background, --q 5 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：明亮柔和的调色板，明亮的色调，明亮，极简主义，手绘风格的儿童插画，手绘板手绘风格，铅笔画，雪花肌理，颗粒感肌理，插画，明亮的蓝色背景，一个女孩戴着白色针织帽，穿着蓝色和白色针织衫，躺在地上，下雪，雪花，黄色音乐符号，柔和的光线，整体色调明亮欢快，克莱因蓝和亮黄色和米白色，留白，
+EN：Bright pastel color palette, bright tones, bright, minimalism, children's illustration in hand-drawn style, hand-drawn style, pencil drawing, snowflake texture, grainy texture, illustration, bright blue background, a girl wearing a white knitted hat and a blue and white knitted sweater, lying on the ground, snowing, snowflakes, yellow music symbols, soft light, the overall tone is bright and cheerful, Klein blue and bright yellow and off-white, white space, --q 5 --s 100 --ar 3:5 --niji 6 --sref 1567159629::1 --sw 100 --personalize z84keqm 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

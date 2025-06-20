@@ -1,0 +1,3 @@
+CN：杰作，中国园林，梅花树上的积雪，黑色和红色，大胆的粗线条，大胆的块状，极简主义空间美学，水墨工笔，使用梯度形成明暗，水墨线条，最佳品质，白色背景，毕加索，
+EN：Masterpiece, Chinese garden, snow on plum tree, black and red, bold thick lines, bold block, minimalist space aesthetic, ink and brushwork, using gradient to form light and dark, ink lines, best quality, white background, Picasso, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

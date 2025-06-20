@@ -1,0 +1,3 @@
+CN：3D，高清辛烷值渲染，3D渲染，超远景，超广角，杰作，来自中国动漫_《白蛇传》中的白素贞和许仙，丰富的细节，一个极其美丽的迪士尼动漫女孩和一个帅气英俊的发髻书生，情侣，CP，20岁，大眼睛，穿着中国戏曲服装，胜利手势，长袖，戴着华丽的耳环，站在中国动漫风格的拱形桥上，超品质刻画，4K，高清，高品质，居中构图，
+EN：3D, high-definition octane rendering, 3D rendering, ultra-long-range, ultra-wide-angle, masterpiece, from Chinese anime_Bai Suzhen and Xu Xian in "The Legend of the White Snake", rich details, an extremely beautiful Disney anime girl and a handsome bun scholar, couple, CP, 20 years old, big eyes, wearing Chinese opera costumes, victory gesture, long sleeves, wearing gorgeous earrings, standing on a Chinese anime style arch bridge, ultra-quality portrayal, 4K, high definition, high quality, centered composition, --q 5 --s 250 --ar 3:4 --niji 6 --personalize vqg1oua 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

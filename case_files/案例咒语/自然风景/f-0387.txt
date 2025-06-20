@@ -1,0 +1,3 @@
+CN：傍晚城市景观，远景，德国维尔茨堡，玛丽恩城堡，大教堂，尖顶建筑，暖黄色灯光，深蓝色与浅粉色天空，高对比度，电影感，广角镜头，航拍视角，超高清细节，8K
+EN：Evening city landscape, distant view, Wurzburg, Germany, Marienburg Castle, cathedral, spire buildings, warm yellow lights, dark blue and light pink sky, high contrast, cinematic feel, wide angle lens, aerial view, ultra high definition details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

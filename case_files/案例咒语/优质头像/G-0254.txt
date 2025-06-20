@@ -1,0 +1,3 @@
+CN：照片，写实，现代，一个20岁的美少女，穿着淡蓝色的碎花裙，淡妆，长发，电影光，丁达尔，白天，米黄色背景，超美，
+EN：Photo, realistic, modern, a 20-year-old beautiful girl, wearing a light blue floral dress, light makeup, long hair, movie light, Tyndall, daytime, beige background, super beautiful, --q 1 --s 100 --ar 3:4 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

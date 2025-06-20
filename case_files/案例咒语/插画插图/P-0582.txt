@@ -1,0 +1,3 @@
+CN：线条风格人物插画，三个人物，在网页界面中，黑白线条，彩色渐变点缀，整体风格现代简约，具有设计感和科技感，细节包括人物的姿态，网页界面的元素，以及渐变色的运用，最佳品质，8K，矢量图形，干净利落，适合用于网页设计或UI设计，白色背景，
+EN：Line style character illustration, three characters, in the web interface, black and white lines, colorful gradient embellishment, the overall style is modern and simple, with a sense of design and technology, details include the posture of the characters, elements of the web interface, and the use of gradient colors, best quality, 8K, vector graphics, clean and neat, suitable for web design or UI design, white background, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

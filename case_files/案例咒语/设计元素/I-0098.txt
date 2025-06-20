@@ -1,0 +1,4 @@
+﻿CN：3D图标，一个黑色墨镜，3D，正面视图，白色背景，光滑，任天堂，时尚，潮流，丰富的细节，最高品质，最高分辨率，柔光，居中构图，
+EN：3D icon, one black sunglasses, 3D, front view, white background, smooth, Nintendo, fashion, trend, rich details, highest quality, highest resolution, soft light, centered composition, --q 1 --s 100 --ar 3:4 --niji 6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

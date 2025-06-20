@@ -1,0 +1,4 @@
+﻿CN：男孩在玩电脑游戏，3d风格，傍晚，暖色的小台灯照亮他的面容，3d，侧面视图，
+EN：The boy is playing computer games, 3d style, in the evening, the warm-colored small table lamp illuminates his face, 3d, side view, --q 1 --s 100 --ar 3:2 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D模型渲染，一个3D淡绿色把手的网球拍，漂浮在半空中，光滑，在cinema 4d中建模，使用octane渲染器进行渲染，柔光，最佳品质，3D，纯白背景，
+EN：3D model rendering, a tennis racket with a 3D pale green handle, floating in mid-air, smooth, modeled in cinema 4d, rendered with octane renderer, soft light, best quality, 3D, pure white background, --q 1 --s 0 --ar 1:1 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

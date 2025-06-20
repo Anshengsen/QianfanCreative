@@ -1,0 +1,4 @@
+﻿CN：一个俊美男性，古风，水墨风，中国风，身穿汉服，水墨画，
+EN：A handsome male, ancient style, ink painting style, Chinese style, wearing Hanfu, ink painting, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

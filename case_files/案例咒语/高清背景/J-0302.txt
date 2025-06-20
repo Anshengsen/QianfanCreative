@@ -1,0 +1,3 @@
+CN：晶洞矿物抽象背景，柔和的色彩，明亮，柔和，
+EN：Geode mineral abstract background, soft colors, bright, pastel, --q 1 --s 100 --ar 3:4 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

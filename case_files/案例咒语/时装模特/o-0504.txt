@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个女性，服装特写，无面部，站立姿势，略微侧身，身穿朱砂红色针织开衫，圆领，长袖，纽扣闭合，衣身有菱形镂空纹理，下身搭配黑色阔腿裤，整体风格简约优雅，背景虚化，室外自然光，柔和，温暖，明亮。
+EN：Professional photography, 8K, a woman, clothing close-up, no face, standing pose, slightly sideways, wearing a cinnabar red knitted cardigan with a round neck, long sleeves, button closure, a diamond-shaped hollow texture on the body, and black wide-leg pants on the lower body. The overall style is simple and elegant, the background is blurred, and the outdoor natural light is soft, warm and bright. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

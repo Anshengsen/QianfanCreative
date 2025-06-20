@@ -1,0 +1,4 @@
+CN：专业摄影，8K，全身，一个亚洲女性，无面部，穿着绿色和棕色相间的横条纹高领长袖紧身针织衫，衣料柔软贴身，袖口和下摆有细微的波浪边，搭配深蓝色牛仔裤，背景为浅棕色墙面，光线柔和均匀，整体风格简约日常，真实感强。
+EN：Professional photography, 8K, full body, an Asian woman, no face, wearing a green and brown horizontal striped high-necked long-sleeved tight-fitting sweater, the fabric is soft and close-fitting, with subtle wavy edges on the cuffs and hem, paired with dark blue jeans, the background is a light brown wall, the light is soft and even, the overall style is simple and everyday, and it has a strong sense of reality. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

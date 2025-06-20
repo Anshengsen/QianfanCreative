@@ -1,0 +1,3 @@
+CN：一座梦幻的城堡，中世纪，一座巨大的城堡，高耸的塔楼，厚重的城墙，充满童话色彩，水彩渲染，远景，阳光明媚，梦幻，最佳品质。
+EN：A dreamy castle, medieval, a huge castle, towering towers, thick walls, full of fairy tale colors, watercolor rendering, distant view, sunny, dreamy, best quality. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

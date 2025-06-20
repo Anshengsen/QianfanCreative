@@ -1,0 +1,4 @@
+﻿CN：极简主义日本后花园的3d渲染，后花园，柔和的蓝色和鲑鱼色调，等距，小房子，可爱的3D插图，极简主义，矢量艺术，高清，
+EN：Minimalist 3d rendering of Japanese back garden, back garden, pastel shades of blue and salmon, isometric, tiny house, cute 3D illustrations, minimalism, vector art, high definition, --q 1 --s 100 --ar 3:2 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

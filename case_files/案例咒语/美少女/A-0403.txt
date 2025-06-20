@@ -1,0 +1,3 @@
+CN：现代漫画风格，流畅的线条，逼真的面部特点，全身，人物角色插图，一位短黑发有刘海的白领，穿着精致的白色办公套装，白衬衫，白条纹裤，白色高跟鞋，亚洲女性，全身，双手插兜，流畅的线条，水墨画，温柔的眼神，写实风格，柔和阴影，2D人物设计，角色设计，干净锐利的焦点，干净的背景，
+EN：Modern comic style, smooth lines, realistic facial features, full body, character illustrations, a white collar with short black hair and bangs, wearing a delicate white office suit, white shirt, white striped pants, white high heels, Asian women, full body, hands in pockets, smooth lines, ink painting, gentle eyes, realistic style, soft shadows, 2D character design, character design, clean and sharp focus, clean background, --q 1 --s 100 --ar 9:16 --niji 6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,2 @@
+CN：电动汽车，淡紫色车身，黑色车顶，掀背造型，贯穿式尾灯，封闭式轮毂，未来感设计，侧后方视角，摄影棚灯光，柔和阴影，高光泽度，精致细节，8K，超高分辨率，产品摄影，纯色背景
+EN：Electric car, lavender body, black roof, hatchback styling, through-type taillights, enclosed wheels, futuristic design, side rear view, studio lighting, soft shadows, high gloss, fine details, 8K, ultra-high resolution, product photography, solid color background --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 --no high saturation, high brightness, high brightness

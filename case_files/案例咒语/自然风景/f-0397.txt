@@ -1,0 +1,3 @@
+CN：海岛度假村，无边泳池，水上屋，茅草屋顶，棕榈树，碧海蓝天，清澈海水，白色沙滩，地平线，晴空，云朵，热带风情，度假氛围，广角镜头，明亮光线，高饱和度，鲜艳色彩，自然光，反射，倒影，宁静，放松，奢华，旅游目的地，4K，高清晰度，细节丰富
+EN：island resort, infinity pool, overwater bungalow, thatched roof, palm trees, blue sky, clear water, white sand beach, horizon, clear sky, clouds, tropical atmosphere, holiday atmosphere, wide angle lens, bright light, high saturation, vivid colors, natural light, reflection, reflections, tranquility, relaxation, luxury, travel destination, 4K, high definition, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

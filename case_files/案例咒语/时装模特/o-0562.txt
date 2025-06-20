@@ -1,0 +1,4 @@
+CN：专业摄影，8K，女性，服装广告，无面部，宽松，开襟羊毛衫，深灰色，高领毛衣，棕色，宽松长裤，黑色，双手插兜，站立姿势，室内，自然光，简约背景，优雅，舒适，休闲。
+EN：Professional photography, 8K, woman, clothing advertisement, no face, loose, cardigan, dark grey, turtleneck, brown, loose trousers, black, hands in pockets, standing pose, indoors, natural light, simple background, elegant, comfortable, casual --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

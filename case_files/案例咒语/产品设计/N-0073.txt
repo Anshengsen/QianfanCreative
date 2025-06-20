@@ -1,0 +1,3 @@
+CN：手表的3D渲染图，瑞士手表，由瑞士著名手表设计师设计，限量款，灰黑色的乌金材质，产品镜头特写，现代，超品质，超细节，3D渲染，光滑，纯黑背景，奢华，
+EN：3D rendering of a watch, Swiss watch, designed by a famous Swiss watch designer, limited edition, gray and black gold material, product shot close-up, modern, super quality, super detail, 3D rendering, smooth, pure black background, luxury, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

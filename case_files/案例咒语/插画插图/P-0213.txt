@@ -1,0 +1,3 @@
+CN：矢量云朵，白色填充色和黑色描边的矢量云朵插图，在整个画面的底部位置，画面中间及上方留空，白色背景，矢量，
+EN：Vector cloud, white fill color and black stroke vector cloud illustration, at the bottom of the entire frame, leaving blank in the middle and top of the frame, white background, vector, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

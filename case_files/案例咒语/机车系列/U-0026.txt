@@ -1,0 +1,2 @@
+CN：摩托车渲染图，黑色背景，正面视角，均匀柔和的光线，产品摄影渲染，车身颜色为红色，细节清晰，无任何杂物，高清分辨率，
+EN：Motorcycle rendering, black background, front view, even and soft light, product photography rendering, body color is red, clear details, no clutter, HD resolution, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6

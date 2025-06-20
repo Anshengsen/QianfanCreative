@@ -1,0 +1,3 @@
+CN：插画风格，秋天风景，黄色树木，蓝色天空，绿色草地，一个女孩和一只狗站在树下，整体风格清新，色彩明快，具有童话感和艺术感，细节包括树叶的细节，人物的表情，以及狗的姿态，最佳品质，8K，数字绘画，适合用于儿童绘本或艺术海报，蓝色天空
+EN：Illustration style, autumn landscape, yellow trees, blue sky, green grass, a girl and a dog standing under the tree, the overall style is fresh, the colors are bright, with a fairy tale and artistic feel, the details include the details of the leaves, the expressions of the characters, and the posture of the dog, the best quality, 8K, digital painting, suitable for children's picture books or art posters, blue sky --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

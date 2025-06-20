@@ -1,0 +1,3 @@
+CN：照片，摄影，海滩，热带，天堂，清澈的蓝绿色海水，白色沙滩，茂盛的绿色植物，明亮的阳光，蓝天，白云，宁静，度假胜地，高分辨率，细节丰富，逼真，电影感，色彩鲜艳，
+EN：photo, photography, beach, tropical, paradise, clear turquoise water, white sand, lush greenery, bright sunlight, blue sky, white clouds, tranquility, resort, high resolution, rich details, realistic, cinematic, colorful, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

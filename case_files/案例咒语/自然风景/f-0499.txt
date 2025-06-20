@@ -1,0 +1,3 @@
+CN：盛开的粉红色木兰花，特写，浅景深，柔和的自然光，早晨的光线，粉白色花瓣，细腻的纹理，树枝，蓝天背景，春天的气息，高分辨率，细节清晰，色彩鲜艳，唯美，摄影风格，电影质感
+EN：Blooming pink magnolia flower, close-up, shallow depth of field, soft natural light, morning rays, pink and white petals, delicate texture, tree branch, blue sky background, spring scent, high resolution, sharp details, vivid colors, beautiful, photography style, film texture --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：3D渲染，中国山水画卷轴展开成微缩景观，亭台楼阁从卷轴中凸出，山清水秀，桃花盛开，柔和的光线，暖色调，虚幻引擎5渲染，电影级光照，超高清，8K，中国风，工笔画风格，类似于清明上河图的展开形式，梦幻，超现实，
+EN：3D rendering, Chinese landscape scroll unfolds into a miniature landscape, pavilions and towers protrude from the scroll, beautiful scenery, peach blossoms in full bloom, soft light, warm colors, Unreal Engine 5 rendering, movie-level lighting, ultra-high definition, 8K, Chinese style, meticulous painting style, similar to the unfolding form of Along the River During the Qingming Festival, dreamy, surreal, --q 1 --s 100 --ar 3:4 --v 6.0 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：真实摄影，雪山电商背景图，近距离是有厚厚积雪的地面，远处是被积雪覆盖的松树，天气晴朗，白天，明亮的环境，极高品质，8K，
+EN：Real photography, snow-capped e-commerce background cover, the ground with thick snow at close range, the pine trees covered with snow in the distance, the weather is clear, daytime, bright environment, very high quality, 8K, --q 1 --s 100 --ar 1:1 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

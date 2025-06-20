@@ -1,0 +1,3 @@
+CN：一个中国女孩，精致的头饰，精致的五官，精致的妆容，精致的耳饰，穿着极其详细和华丽的唐代服装，超现实主义，柔和的光影，自然光，高细节，虚幻引擎5，
+EN：A Chinese girl, delicate headdress, delicate facial features, delicate makeup, delicate earrings, wearing extremely detailed and gorgeous Tang Dynasty clothing, hyperrealism, soft light and shadow, natural light, high details, Unreal Engine 5, --q 1 --s 100 --ar 9:16 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

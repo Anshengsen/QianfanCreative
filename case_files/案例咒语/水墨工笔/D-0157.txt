@@ -1,0 +1,3 @@
+CN：淡墨，明代水墨画风格，一位穿着灰色长袍的僧人，沿着蜿蜒的溪流小路行走，路边盛开着粉色的樱花树，远处是云雾缭绕的山峰和一座古色古香的亭子，整体色调淡雅，笔触细腻，具有东方韵味，水墨画，淡彩，留白，远景，全身，飘逸，宁静，高品质。
+EN：Light ink, Ming Dynasty ink painting style, a monk in a gray robe walks along a winding stream path, pink cherry trees are blooming on the roadside, in the distance are misty peaks and an antique pavilion, the overall tone is elegant, the brushstrokes are delicate, with oriental charm, ink painting, light color, white space, distant view, full body, elegant, tranquil, high quality. --q 5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

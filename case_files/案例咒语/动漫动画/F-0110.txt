@@ -1,0 +1,3 @@
+CN：正在认真工作的上班族的漫画页，最低饱和度，去色，日本漫画书风格，最佳分辨率，
+EN：Manga pages of office workers working hard, lowest saturation, decolorized, Japanese comic book style, best resolution, --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

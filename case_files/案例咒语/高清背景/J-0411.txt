@@ -1,0 +1,3 @@
+CN：丝滑的线条，，流畅的曲线线条，抽象的线条，动态，深色背景，高对比度，数字艺术，紫红色和橙色渐变色，，高分辨率，
+EN：Silky lines, , smooth curved lines, abstract lines, dynamic, dark background, high contrast, digital art, fuchsia and orange gradient colors, , high resolution, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

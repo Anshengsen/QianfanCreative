@@ -1,0 +1,4 @@
+﻿CN：2d机器人，漫画风格，三视图设计正视图、侧视图、背视图，白色背景，矢量，
+EN：2D robot, comic style, three-view design front view, side view, back view, white background, vector, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：冬季公园景观，雪景，铺满积雪的小路，砖红色路面，阳光透过树木，树影斑驳，长椅，路灯，行人，远景山脉，暖色调，自然光，高对比度，电影级光照，广角镜头，对称构图，超高质量，8K，真实感渲染
+EN：Winter park landscape, snowy landscape, snowy path, brick red pavement, sunlight through trees, dappled shadows, benches, street lights, pedestrians, distant mountains, warm tones, natural light, high contrast, cinematic lighting, wide-angle lens, symmetrical composition, ultra-high quality, 8K, photorealistic rendering --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

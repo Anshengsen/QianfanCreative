@@ -1,0 +1,3 @@
+CN：扁平风格风景插画，绿色田野，远处有山，田野里有农舍和马，色彩清新，线条简洁，整体风格宁静祥和，具有自然气息和乡村风情，细节包括树木的形态，农舍的造型，以及背景中的光影变化，最佳品质，8K，矢量图形，干净利落，适合用于旅游宣传或自然科普，
+EN：Flat style landscape illustration, green fields, mountains in the distance, farmhouses and horses in the fields, fresh colors, simple lines, the overall style is peaceful and tranquil, with a natural and rural atmosphere, details include the shape of the trees, the shape of the farmhouse, and the light and shadow changes in the background, best quality, 8K, vector graphics, clean and neat, suitable for tourism promotion or natural science popularization, --s 100 --ar 3:4 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

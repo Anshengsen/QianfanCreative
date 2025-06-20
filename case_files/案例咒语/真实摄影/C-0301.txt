@@ -1,0 +1,3 @@
+CN：户外人像摄影，一位年轻的白人男性，棕色头发，佩戴飞行员太阳镜，穿着浅绿色Polo衫，背景是模糊的绿色植物，自然光线，休闲风格，最佳品质。
+EN：Outdoor portrait photography of a young Caucasian male with brown hair, wearing aviator sunglasses and light green polo shirt, with blurred green plants in the background, natural light, casual style, best quality. --s 50 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

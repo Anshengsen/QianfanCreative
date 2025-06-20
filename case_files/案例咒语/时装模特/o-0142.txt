@@ -1,0 +1,3 @@
+CN：专业摄影，全身像，女性，美国人，中等长度棕色头发，自然垂落，发质柔顺，略带波浪，面部表情平静，眼神柔和，略带微笑，身穿米白色长袖衬衫，材质轻薄，带有褶皱细节，下身搭配深蓝色直筒裤，裤长至脚踝上方，脚穿黑色尖头高跟鞋，姿势站立，身体略微侧向镜头，双手自然下垂，背景为纯白色。
+EN：Professional photography, full-length portrait, female, American, medium-length brown hair, naturally falling, smooth and slightly wavy, calm facial expression, soft eyes, slight smile, wearing an off-white long-sleeved shirt, thin material, with pleated details, paired with dark blue straight-leg pants, which are above the ankles, wearing black pointed high-heeled shoes, standing pose, body slightly turned to the camera, hands hanging naturally, background is pure white. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

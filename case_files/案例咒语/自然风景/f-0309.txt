@@ -1,0 +1,4 @@
+CN：斯里兰卡海滩，日落时分，粉紫色天空，多云，棕榈树剪影，长曝光，海浪，湿润沙滩，倒影，广角，自然风光，摄影，电影感，柔和光线，暖色调，高饱和度，细节丰富，8K，超高清。
+EN：Sri Lanka beach, sunset, pink and purple sky, cloudy, palm tree silhouettes, long exposure, waves, wet sand, reflections, wide angle, natural scenery, photography, cinematic, soft light, warm tones, high saturation, rich details, 8K, ultra high definition. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：纸上写实线描风格，绝美的东方美少女，眯眯眼，脸红，杂乱的头发，几根金色头发和满头黑发，金色的光照亮她的下巴，铅笔画写实风格，逼真的脸，最佳品质，
+EN：Realistic line drawing style on paper, beautiful oriental girl, squinting eyes, blushing, messy hair, a few blond hairs and full black hair, golden light illuminating her chin, pencil drawing realistic style, realistic face, best quality, --q 1 --s 50 --ar 3:4 --v 6.0 --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

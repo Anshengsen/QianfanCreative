@@ -1,0 +1,3 @@
+CN：矢量风格的卡通人物，扁平化设计，绿色背景，一个戴着绿色头盔和黑色墨镜的卡通男孩，头盔上有黄色闪电标志，穿着黄色上衣和红色背带裤，蓝色帆布鞋，一只手放在墨镜前，另一只手伸出，白色描边，简单，最佳品质，
+EN：Vector style cartoon character, flat design, green background, a cartoon boy wearing a green helmet and black sunglasses, with a yellow lightning sign on the helmet, wearing a yellow top and red overalls, blue canvas shoes, one hand in front of the sunglasses, the other hand stretched out, white stroke, simple, best quality, --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+﻿CN：圆环形的光效在黑色背景上呈现，与粒子一起呈现别样的精彩，平面风格，背景，最佳品质，最佳分辨率，最高质量，
+EN：The circular light effect is presented on a black background, and together with the particles, it presents a different kind of wonderful, flat style, background, best quality, best resolution, highest quality, --q 1 --s 100 --ar 3:4 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

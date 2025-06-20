@@ -1,0 +1,3 @@
+CN：一瓶保健品，旁边散落几颗维生素E，黑色的瓶身，产品镜头，黑色几何构图背景，
+EN：A bottle of health supplements, with a few vitamin E pills scattered around, black bottle, product shot, black geometric composition background, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

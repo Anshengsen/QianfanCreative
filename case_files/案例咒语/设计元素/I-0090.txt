@@ -1,0 +1,5 @@
+﻿CN：3D图标，一个玻璃材质的壶形器皿中装着红色的液体，3D，等距，粘土材料，三维渲染，白色背景，居中构图，最佳品质，最高分辨率，
+EN：3D icon, a glass pot-shaped vessel containing red liquid, 3D, isometric, clay material, 3D rendering, white background, centered composition, best quality, highest resolution, --q 1 --s 100 --ar 3:4 --niji 6
+（PS：建议把“壶形器皿”改成“魔法瓶”可能更稳定些~）
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

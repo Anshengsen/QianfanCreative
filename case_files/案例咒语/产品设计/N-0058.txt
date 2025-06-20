@@ -1,0 +1,3 @@
+CN：3D渲染图，一款商业化智能吹风机，轮廓灯照明，干净清爽的背景，现代简约风，高级金属材质，玻璃面板，居中构图，
+EN：3D render graph, a commercial smart hair dryer, contour lamp lighting, clean and refreshing background, modern minimalist style, advanced metal material, glass panel, centered composition, --q 1 --s 100 --ar 1:1 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

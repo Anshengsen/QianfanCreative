@@ -1,0 +1,3 @@
+CN：智能家居音箱，多个角度展示，现代客厅环境，空白效果图，3D渲染，圆润造型，磨砂塑料外观，深灰色背景，产品细节，灯光效果，
+EN：Smart home speaker, multiple angles display, modern living room environment, blank rendering, 3D rendering, rounded shape, frosted plastic exterior, dark gray background, product details, lighting effects, --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

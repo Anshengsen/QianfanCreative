@@ -1,0 +1,3 @@
+CN：自然光人像摄影，一位白人女性，浅棕色直发，穿着印花衬衫，面部表情平静，眼神专注，柔和的光线，浅色背景，简约风格，最佳品质。
+EN：Natural light portrait photography of a Caucasian woman with light brown straight hair, wearing a printed shirt, with a calm facial expression and focused eyes, soft light, light background, simple style, best quality. --s 50 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

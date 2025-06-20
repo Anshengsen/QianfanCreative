@@ -1,0 +1,3 @@
+CN：风景摄影，湖面，雪山，森林，日出，橙色天空，云雾缭绕，倒影，平静的湖面，电影感，8k，超细节，超现实主义，莫兰特湖风格
+EN：Landscape photography, lake, snowy mountains, forest, sunrise, orange sky, misty clouds, reflections, calm lake, cinematic feel, 8k, ultra-detailed, hyper-realistic, Lake Morant style --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

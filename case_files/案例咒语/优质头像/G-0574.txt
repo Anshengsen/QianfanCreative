@@ -1,0 +1,3 @@
+CN：动漫风格头像，一个女孩，黑色长发，戴着蓝色帽子，脸颊泛红，张着嘴，表情兴奋，穿着红色衣服，背景是白色，整体风格可爱，色彩鲜明，线条简洁，具有活力，最佳品质，8K，适合作为社交媒体头像
+EN：Anime style portrait of a girl with long black hair, wearing a blue hat, flushed cheeks, open mouth, excited expression, wearing red clothes, white background, the overall style is cute, bright colors, clean lines, dynamic, best quality, 8K, suitable as a social media avatar --q 5 --s 50 --ar 1:1 --niji 6 --profile hrqrh1e 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

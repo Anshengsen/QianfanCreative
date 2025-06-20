@@ -1,0 +1,4 @@
+CN：电影剧照，雪夜森林，小路，月亮，冷色调，深蓝色，树木覆盖着白雪，神秘，电影照明，电影质感，景深，8k，超细节，
+EN：Movie stills, snowy night forest, path, moon, cold tones, dark blue, trees covered with white snow, mysterious, cinematic lighting, film texture, depth of field, 8k, ultra detail, --s 100 --ar 9:16 --v 7 --profile hp5mhqy --no ai-generated texture
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

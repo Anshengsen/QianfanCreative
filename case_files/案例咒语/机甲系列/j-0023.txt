@@ -1,0 +1,4 @@
+CN：一个可爱的女机器人，绿色眼睛，时尚而具有未来感的设计，透明塑料，内部控制电路，看着观众，内部有彩色LED灯，超逼真，8k，体积光，极其详细，纯黑色背景，光滑，
+EN：A cute female robot with green eyes, stylish and futuristic design, transparent plastic, control circuits inside, looking at the viewer, with colored LED lights inside, ultra-realistic, 8k, volumetric light, extremely detailed, pure black background, smooth, --q 1 --s 100 --ar 9:16 --v 4
+（PS：本次采用古老旧模型——V4，哈哈哈，使用这个模型速度很慢~） 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

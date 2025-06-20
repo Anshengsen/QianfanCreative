@@ -1,0 +1,3 @@
+CN：日常人像，甜美风格，一个年轻的亚洲女性，深色头发，穿着粉色毛衣和白色衬衫，看向镜头，室内背景，半身像，最佳质量，8k，超细节，皮肤光滑，色彩柔和
+EN：Everyday portrait, sweet style, a young Asian woman with dark hair, wearing pink sweater and white shirt, looking towards the camera, indoor background, half-length, best quality, 8k, ultra-detailed, smooth skin, soft colors --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

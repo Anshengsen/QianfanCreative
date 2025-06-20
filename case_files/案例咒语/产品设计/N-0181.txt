@@ -1,0 +1,3 @@
+CN：产品摄影，黑色瓶子，半埋在泥土中，背景是日落时的田野，暖色调，电影级光照，颗粒感，真实感，高分辨率，8K，
+EN：Product photography, black bottle, half buried in the dirt, with a field at sunset in the background, warm tones, cinematic lighting, grainy, photorealistic, high resolution, 8K, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

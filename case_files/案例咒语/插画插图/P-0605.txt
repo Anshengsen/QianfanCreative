@@ -1,0 +1,3 @@
+CN：卡通矢量插画风格，粗线条勾勒，鲜艳配色，高饱和度，拟人化器官拳击比赛场景，肝脏，拳击手，啤酒罐，细节包括人物的表情，器官的造型，地上的啤酒，整体画面幽默诙谐，色彩鲜明，最佳品质，8K，扁平化设计，几何图形，干净利落，动画风格
+EN：Cartoon vector illustration style, bold outlines, bright colors, high saturation, anthropomorphic organ boxing match scene, liver, boxer, beer cans, details include the character's expression, the shape of the organ, beer on the ground, the overall picture is humorous, bright colors, best quality, 8K, flat design, geometric graphics, clean and neat, animation style --s 100 --ar 3:5 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

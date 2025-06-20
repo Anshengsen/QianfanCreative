@@ -1,0 +1,4 @@
+
+CN：齐白石风格，来自中国宋朝的女子，非常优雅和漂亮，樱桃嘴，腮红，眼妆，极其的美丽，电影镜头，高细节，高质量，32K，柔光，上半身，
+EN：Qi Baishi style, a woman from the Song Dynasty of China, very elegant and beautiful, cherry mouth, blush, eye makeup, extremely beautiful, movie shot, high detail, high quality, 32K, soft light, upper body, --q 1 --s 150 --ar 3:4 --v 6 --style raw  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

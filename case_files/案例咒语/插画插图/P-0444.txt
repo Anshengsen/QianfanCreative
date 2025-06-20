@@ -1,0 +1,3 @@
+CN：卡通风格，极简线条画，一只金毛猎犬，坐在黄色背景前，带着白色项圈，吐着舌头，面带微笑，周围有闪光点缀，前方有一个狗碗，碗上有一个骨头图案，平面设计，2D，可爱，童趣。
+EN：Cartoon style, minimalist line drawing, a golden retriever, sitting in front of a yellow background, wearing a white collar, sticking out his tongue, smiling, surrounded by glitter embellishments, with a dog bowl in front of him with a bone pattern on the bowl, flat design, 2D, cute, childish. --q 0.5 --s 50 --ar 3:2 --niji 6 --personalize abwlbtq --style raw 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

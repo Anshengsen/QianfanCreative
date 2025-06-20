@@ -1,0 +1,3 @@
+CN：手绘涂鸦元素，毕业帽、文凭、博士帽、铅笔、书本等，白色背景，深蓝色，
+EN：Hand drawn doodle elements, graduation cap, diploma, doctoral hat, pencil, book, etc., on white background, dark blue, --q 1 --s 100 --ar 1:1 --v 6.0 --tile 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

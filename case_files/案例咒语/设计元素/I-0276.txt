@@ -1,0 +1,3 @@
+CN：3D渲染，派对礼炮，ui元素，卡通风格，明亮的色彩，黄色和红色条纹，从礼炮中飞出的彩色螺旋和线条，白色背景，欢快，节日气氛。
+EN：3D rendering, party salute, ui element, cartoon style, bright colors, yellow and red stripes, colorful spirals and lines flying out of the salute, white background, cheerful, festive atmosphere.  --q 5 --s 100 --ar 1:1 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

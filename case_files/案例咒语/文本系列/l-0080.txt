@@ -1,0 +1,3 @@
+CN：蒸汽朋克风格，特写，铜制管道字母“Ai”，工业风格，加粗字体，金属质感，纯黑背景，精细的细节，逼真，高质量，摄影作品。
+EN：Steampunk style, close-up, copper pipe letters "Ai", industrial style, bold font, metal texture, pure black background, fine details, realistic, high quality, photography artwork. --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个女性，无面部，侧身，模糊背景，深绿色圆领卫衣，长袖，宽松版型，休闲风格，柔和光线，室内环境。
+EN：Professional photography, 8K, a woman, no face, sideways, blurred background, dark green round-neck sweatshirt, long sleeves, loose fit, casual style, soft light, indoor environment. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

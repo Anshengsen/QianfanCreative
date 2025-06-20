@@ -1,0 +1,3 @@
+CN：美食摄影，照片，热气腾腾的香辣鸡肉片，鲜红的酱汁，点缀着翠绿的香菜和红辣椒圈，撒上细碎的香料，盛放在黑色纹理的盘子中，搭配红木筷子，背景是模糊的中式餐厅，暖色调灯光，烟雾缭绕，动感模糊，浅景深，电影级光效，超广角，4K，高分辨率，美食摄影 
+EN：Food photography, photo, steaming spicy chicken fillet in bright red sauce, garnished with green coriander and red chili rings, sprinkled with finely ground spices, served on a black textured plate with mahogany chopsticks, with a blurred Chinese restaurant in the background, warm toned lighting, smoke, motion blur, shallow depth of field, cinematic lighting, ultra wide angle, 4K, high resolution, food photography  --q 5 --s 50 --ar 3:4 --niji 6 --personalize abwlbtq --no high saturation, high brightness, high brightness 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

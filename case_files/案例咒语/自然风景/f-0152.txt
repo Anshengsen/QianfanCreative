@@ -1,0 +1,3 @@
+CN：深色调，植物特写，雨后湿润的叶片，暗绿色，黑色背景，自然光，微距摄影，高对比度，细节丰富，8K
+EN：Dark tones, plant close-up, wet leaves after rain, dark green, black background, natural light, macro photography, high contrast, rich details, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

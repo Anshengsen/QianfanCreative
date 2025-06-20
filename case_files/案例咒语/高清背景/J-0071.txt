@@ -1,0 +1,4 @@
+
+CN：蓝色的抽象图像，动态线和曲线灯照明，黑色和红色，摄影，虚线，细节，平滑曲线，线条艺术，32K，UHD，
+EN：Blue abstract image, dynamic line and curve lighting, black and red, photography, dotted line, detail, smooth curve, line art, 32K, UHD, --q 1 --s 150 --ar 3:4 --v 5.2 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

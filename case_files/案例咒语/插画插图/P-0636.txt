@@ -1,0 +1,3 @@
+CN：复古插画风格，暖色调，躺椅，人物，建筑，细节包括人物的表情，躺椅的结构，建筑的轮廓，整体画面宁静舒适，风格复古，最佳品质，8K，几何图形，扁平化设计，人物插画，海报风格
+EN：Retro illustration style, warm colors, recliner, people, buildings, details include the people's expressions, the structure of the recliner, the outline of the building, the overall picture is quiet and comfortable, retro style, best quality, 8K, geometric graphics, flat design, character illustration, poster style --s 100 --ar 3:2 --v 7 --profile vs8xnu3 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

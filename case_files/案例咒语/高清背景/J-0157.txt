@@ -1,0 +1,4 @@
+﻿CN：抽象液体背景，灯光，3D，粒子，全息，最佳品质，
+EN：Abstract liquid background, lighting, 3D, particles, holography, best quality, --q 1 --s 100 --ar 16:9 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

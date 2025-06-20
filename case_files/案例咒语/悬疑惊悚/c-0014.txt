@@ -1,0 +1,4 @@
+
+CN：悬疑，一个女孩在荒废的密室中，诡异的灯光照明，昏暗的环境，悬疑感，惊悚感，全景，高清，日本漫画风格，密室逃脱，
+EN：Suspense, a girl in a deserted secret room, eerie lighting, dim environment, suspense, horror, panorama, high definition, Japanese manga style, secret room escape, --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

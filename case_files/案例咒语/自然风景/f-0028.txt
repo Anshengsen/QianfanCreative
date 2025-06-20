@@ -1,0 +1,3 @@
+CN：自然摄影，远景，日间，侧光，针叶林，山脉，雪山，冰川，暗色调，自然构图，写实风格，高分辨率。
+EN：Nature photography, distant view, daytime, side light, coniferous forest, mountains, snowy mountains, glaciers, dark tones, natural composition, realistic style, high resolution. --q 1 --s 100 --ar 16:9 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：空白效果图，户外场景，中景，一位女士，背着米白色双肩包，穿着红色外套和深色裤子，手中提着一个白色帆布袋，背景是模糊的绿色草地，自然光，高清晰度，真实感渲染。
+EN：Blank rendering, outdoor scene, mid shot, a woman with an off-white backpack, a red jacket and dark pants, holding a white canvas bag in her hands, with a blurred green meadow in the background, natural light, high definition, photorealistic rendering. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

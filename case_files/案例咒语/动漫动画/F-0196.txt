@@ -1,0 +1,3 @@
+CN：虚幻引擎5，动画GIF风格，动画片截图，温暖的家中场景，窗外飘落的雪花，屋内一桌热腾腾的火锅，3个小孩围坐一起，脸上洋溢着笑容，窗棂上结了霜花，柔和的光线，温馨的氛围，超清细节，8K，
+EN：Unreal Engine 5, animated GIF style, animation screenshot, warm home scene, snowflakes falling outside the window, a hot pot on the table inside the house, three children sitting together with smiles on their faces, frost on the window frame, soft light, warm atmosphere, ultra-clear details, 8K, --q 5 --s 100 --ar 3:2 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

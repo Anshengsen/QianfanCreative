@@ -1,0 +1,3 @@
+CN：使用复古砖、细颗粒度的像素、低饱和度、红色的风格写的单词“Midjourney”，在白色背景上孤立，
+EN：The word "Midjourney" written in the style of vintage bricks, fine grained pixels, low saturation, red color, isolated on white background, --q 1 --s 100 --ar 3:2 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

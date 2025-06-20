@@ -1,0 +1,3 @@
+CN：文字标志设计，以标签式涂鸦的形式写“Midjourney”，文字为粗体且色彩鲜艳，干净清爽的背景，
+EN：A text logo design that writes "Midjourney" in a tag-style graffiti style, with bold and colorful text and a clean, fresh background. --q 1 --s 100 --ar 3:2 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

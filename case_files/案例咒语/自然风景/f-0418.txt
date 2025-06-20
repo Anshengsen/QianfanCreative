@@ -1,0 +1,3 @@
+CN：傍晚时分，宁静的河面，如镜面般倒映，白色风车，停泊的帆船，河岸边的绿地，远处的树木，湛蓝的天空，轻柔的云彩，长曝光摄影，广角镜头，对称构图，自然光，冷暖色调对比，高动态范围(HDR)，超广角，8K，超高分辨率，细节丰富
+EN：In the evening, the tranquil river surface is reflected like a mirror, white windmills, moored sailboats, green land on the river bank, trees in the distance, blue sky, soft clouds, long exposure photography, wide-angle lens, symmetrical composition, natural light, contrast between cold and warm tones, high dynamic range (HDR), ultra-wide angle, 8K, ultra-high resolution, rich details --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：未来风格，全身镜头，一对男女角色，男性角色在右侧，女性角色在左侧，都穿着未来风格的盔甲，盔甲以银色为主，红色点缀，女性角色有白色长发和类似狐狸的耳朵，男性角色头部类似狼头，红色眼睛，背景模糊，有白色光线和碎片，超高质量，8K，细节丰富
+EN：Futuristic style, full body shot, a male and female character, the male character is on the right, the female character is on the left, both wearing futuristic armor, the armor is mainly silver with red embellishments, the female character has long white hair and fox-like ears, the male character has a wolf-like head with red eyes, the background is blurred with white light and debris, ultra high quality, 8K, rich details --q 1 --s 100 --ar 3:5 --v 6.1 --profile q16dy6k 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

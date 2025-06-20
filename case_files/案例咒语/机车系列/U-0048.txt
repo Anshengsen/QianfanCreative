@@ -1,0 +1,2 @@
+CN：3D渲染，赛车，正面视角，紫色，光滑的表面，工作室灯光，高品质，8K，超高清，逼真，赛车运动，极简主义，白色背景，
+EN：3D rendering, racing car, front view, purple, glossy surface, studio lighting, high quality, 8K, UHD, realistic, motorsport, minimalism, white background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6

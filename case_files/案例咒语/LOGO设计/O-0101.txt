@@ -1,0 +1,3 @@
+CN：手绘，LOGO，水彩风格，柔和的粉色和紫色，适用于化妆品或甜品店，花卉图案环绕品牌名称“CAKE”，略带透明感，白色背景，浪漫，清新，自然，
+EN：Hand drawn, LOGO, watercolor style, soft pink and purple, suitable for cosmetics or dessert shop, floral pattern surrounds the brand name "CAKE", slightly transparent, white background, romantic, fresh, natural, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

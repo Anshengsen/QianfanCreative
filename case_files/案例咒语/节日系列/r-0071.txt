@@ -1,0 +1,3 @@
+CN：日本动漫风格，12个动漫人物围绕一个长长的桌子边上坐着聊天，桌子上有8个盘子，每个盘子上都有一个巨大的月饼，顶视图，广角，全景，第三人称视角，高品质，高细节，超清，8K，
+EN：Japanese anime style, 12 anime characters sitting and chatting around a long table, with 8 plates on the table, each with a huge moon cake, top view, wide angle, panoramic, third person perspective, high quality, high detail, ultra clear, 8K, --q 1 --s 250 --ar 3:4 --niji 6 --personalize mtd2w9f 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

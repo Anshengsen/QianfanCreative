@@ -1,0 +1,3 @@
+CN：太空歌剧风格的宇宙机甲，星空背景，行星和星云，金属和玻璃材质，激光炮和推进器，Redshift渲染，高反光，科幻感，背景是星际舰队和太空站，8K分辨率，史诗感，
+EN：Space opera style cosmic mecha, starry background, planets and nebulae, metal and glass materials, laser cannons and thrusters, Redshift rendering, high reflection, sci-fi feeling, background is interstellar fleet and space station, 8K resolution, epic feeling, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：一本打开的空白笔记本，纸张略微弯曲，书页边缘的阴影清晰可见，旁边放着一支精致的钢笔，白色木纹桌面背景，空白效果图，3D渲染，Blender 模型，逼真材质，适合添加文字或插图，营造学习或创作的氛围。
+EN：An open blank notebook, the paper is slightly bent, the shadow of the edge of the page is clearly visible, and a delicate fountain pen is placed next to it, white wood grain desktop background, blank rendering, 3D rendering, Blender model, realistic material, suitable for adding text or illustrations, creating an atmosphere for learning or creation --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

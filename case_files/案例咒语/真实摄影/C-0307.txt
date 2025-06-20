@@ -1,0 +1,3 @@
+CN：室内人像摄影，一位亚洲男性，黑色短发，穿着灰色T恤，表情平静，眼神温柔，看向左侧，灰色背景，自然光线，简约风格，最佳品质。
+EN：Indoor portrait photography of an Asian male, with short black hair, wearing a gray T-shirt, with a calm expression, gentle eyes, looking to the left, gray background, natural light, simple style, best quality. --s 50 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

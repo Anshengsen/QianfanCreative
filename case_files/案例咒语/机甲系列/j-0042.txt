@@ -1,0 +1,3 @@
+CN：蒸汽朋克风格机甲，齿轮，铆钉，铜制外观，暗色调，煤气灯下的伦敦街景，夜晚，侧光，逼真渲染，细节刻画，8K，全局光照，焦散效果，
+EN：Steampunk style mecha, gears, rivets, copper exterior, dark tones, London street scene under gaslight, night, side light, realistic rendering, detailed depiction, 8K, global illumination, caustics effect, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

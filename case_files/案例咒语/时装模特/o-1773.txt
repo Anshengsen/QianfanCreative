@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，炭灰色连帽卫衣，宽松版型，落肩袖设计，长袖，袖口及下摆罗纹收口，帽子配有深灰色抽绳，袋鼠式口袋，纯色无图案，极简风格，柔和光线，焦点清晰，服装质感细腻，纹理清晰
+EN：Professional clothing photography, 8K, front view, white background, charcoal grey hoodie, loose fit, dropped shoulder sleeves, long sleeves, ribbed cuffs and hem, hood with dark grey drawstring, kangaroo pocket, solid color with no pattern, minimalist style, soft light, sharp focus, fine texture of clothing, clear veins --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,4 @@
+CN：专业摄影，8K，一个女性，服装广告特写，无面部，站立姿势，略微侧身穿浅色内搭，外搭一件宽松的卡其色长款风衣，双手插在风衣口袋里，手持白色纸杯，背景为模糊的室外场景，自然光，细节丰富，质感真实。
+EN：Professional photography, 8K, a woman, clothing advertisement close-up, no face, standing pose, slightly sideways wearing a light-colored inner layer and a loose khaki long windbreaker, with her hands in the pockets of the windbreaker, holding a white paper cup, the background is a blurred outdoor scene, natural light, rich details, and real texture. --q 1 --s 100 --ar 3:5 --v 6.1 --profile cooy3mg --no face
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

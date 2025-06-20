@@ -1,0 +1,3 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，下半身视角，浅色蓬松外套，粉色休闲裤，裤脚收紧，浅粉色运动鞋，厚底设计，鞋带，纹理细节，室内环境，浅色木地板，柔和光线，焦点在鞋子，浅景深。
+EN：Professional photography, 8K, shoe and boot advertising shooting, no face, lower body perspective, light-colored fluffy jacket, pink casual pants, tightened trouser legs, light pink sneakers, thick sole design, shoelaces, texture details, indoor environment, light wooden floor, soft light, focus on shoes, shallow depth of field. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

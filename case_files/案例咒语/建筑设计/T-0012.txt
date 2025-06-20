@@ -1,0 +1,4 @@
+﻿CN：黑白房子的3d渲染图像，和谐配色方案的风格，黑色的屋顶和白色的墙体，两层别墅设计效果图，白色背景，等距，优雅，最高分辨率，明亮，
+EN：3D rendering image of black and white house, style of harmonious color scheme, black roof and white walls, two-story villa design renderings, white background, isometric, elegant, highest resolution, bright, --q 1 --s 100 --ar 1:1 --v 5.2
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

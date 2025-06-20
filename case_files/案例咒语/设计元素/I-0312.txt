@@ -1,0 +1,3 @@
+CN：3D渲染图，一个蓝色的国际货轮集装箱，纯白背景，风格简洁，光线柔和均匀，没有明显的阴影或高光，构图简单，集装箱占据画面中心位置，渲染图，3D，粘土材料，
+EN：3D rendering of a blue international cargo ship container, pure white background, simple style, soft and even light, no obvious shadows or highlights, simple composition, the container occupies the center of the picture, rendering, 3D, clay material,  --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

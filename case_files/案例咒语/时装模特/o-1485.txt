@@ -1,0 +1,4 @@
+CN：专业摄影，8K，鞋靴广告拍摄，无面部，一位女性，坐姿，双腿自然交叠，浅色连衣裙，宽松款式，裙摆自然散开，米白色双带扣凉鞋，方扣设计，平底款式，鞋面材质细腻，背景为户外自然环境，绿植覆盖，苔藓质感，阳光透过树叶，形成斑驳光影，焦点在鞋子上，浅景深，突出鞋子细节。
+EN：Professional photography, 8K, shoe and boot advertising shooting, no face, a woman, sitting, legs naturally crossed, light-colored dress, loose style, skirt naturally spread out, off-white double-buckle sandals, square buckle design, flat-soled style, delicate upper material, the background is an outdoor natural environment, covered with green plants, moss texture, sunlight shines through the leaves, forming mottled light and shadow, the focus is on the shoes, shallow depth of field, highlighting the details of the shoes. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no face
+【PS：这个出来的结果都是没有脚趾的，，，】 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

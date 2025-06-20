@@ -1,0 +1,3 @@
+CN：远山如黛，雪峰倒影，湖面如镜，湛蓝天空，广角镜头，自然风光，宁静氛围，对称构图，高饱和度色彩，清晰锐利，8K画质，超广角。
+EN：Distant mountains are dark blue, snow-capped peaks are reflected in the water, the lake is like a mirror, the sky is blue, the wide-angle lens, the natural scenery, the tranquil atmosphere, the symmetrical composition, the highly saturated colors, the clarity and sharpness, the 8K picture quality, and the ultra-wide angle. --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：远山风景，喜马拉雅山脉，雪山，山谷，日落时分，金色祥云，暖色调，自然光，广角镜头，高对比度，风光摄影，高清晰度，8K
+EN：Distant mountain scenery, Himalayas, snow-capped mountains, valleys, sunset, golden clouds, warm tones, natural light, wide-angle lens, high contrast, landscape photography, high definition, 8K --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

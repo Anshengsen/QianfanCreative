@@ -1,0 +1,3 @@
+CN：抽象艺术，油和水，微距摄影，色彩鲜艳，蓝色，黄色，橙色，紫色，气泡，波浪，曲线，流动，动态，特写，高分辨率，超细节，艺术感
+EN：Abstract art, oil and water, macro photography, vivid colors, blue, yellow, orange, purple, bubbles, waves, curves, flow, dynamic, close-up, high resolution, ultra detail, artistic --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

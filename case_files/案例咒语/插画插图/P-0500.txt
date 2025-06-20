@@ -1,0 +1,3 @@
+CN：现代扁平插画风格，橙色背景，一群女孩，自行车，扁平化设计，矢量图形，最佳品质，插画设计，海报风格，运动插画，快乐氛围，细节简洁，视觉冲击力，创意插画，时尚元素，户外活动，轻松愉快，健康生活，简约风格，友谊，团队，
+EN：Modern flat illustration style, orange background, group of girls, bicycle, flat design, vector graphics, best quality, illustration design, poster style, sports illustration, happy atmosphere, simple details, visual impact, creative illustration, fashion elements, outdoor activities, relaxed and happy, healthy life, simple style, friendship, team, --s 100 --ar 3:4 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

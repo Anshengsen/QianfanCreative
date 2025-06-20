@@ -1,0 +1,3 @@
+CN：山脉，蓝绿渐变的山脉，金粉描边，材质像是绿松石一样的质感，仿照中国风插画风格，白色背景，高分辨率，抽象，倒影，
+EN： Mountains, blue-green gradient mountains, gold powder outline, material like turquoise texture, imitating Chinese style illustration style, white background, high resolution, abstract, reflection, --q 1 --s 750 --ar 3:2 --v 6.1 --personalize izkkm56 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

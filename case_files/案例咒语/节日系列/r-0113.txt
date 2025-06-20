@@ -1,0 +1,3 @@
+CN：3D渲染，幽灵古堡逃脱游戏场景: 阴森的古堡，破败的墙壁，昏暗的灯光，幽灵在走廊里飘荡，玩家角色手持武器，紧张的表情，背景是阴雨连绵的天气，光线追踪，全局光照，高精度建模，4K分辨率，3D，最佳质量，恐怖，悬念，紧张刺激，逼真的光影效果，精细的场景细节。
+EN：3D rendering, ghost castle escape game scene: gloomy castle, dilapidated walls, dim lights, ghosts wandering in the corridors, player characters holding weapons, nervous expressions, the background is rainy weather, ray tracing, global illumination, high-precision modeling, 4K resolution, 3D, best quality, horror, suspense, excitement, realistic light and shadow effects, and fine scene details. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

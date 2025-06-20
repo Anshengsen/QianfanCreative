@@ -1,0 +1,3 @@
+CN：一条飘逸的红色丝绸随风吹成数字“3”的形状，渲染图，3D渲染，体积光，白色背景，最佳品质，
+EN：A flowing red silk is blown by the wind into the shape of the number "3", rendering, 3D rendering, volumetric light, white background, best quality, --q 1 --s 100 --ar 3:4 --v 6.1 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

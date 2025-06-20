@@ -1,0 +1,3 @@
+CN：帅气的动漫男性角色，雌雄同体，穿着传统服装，手握长剑，虚幻引擎5风格，现实主义，夜晚，史诗级别的镜头，低角度，光滑细腻的皮肤，华丽的中国传统服装，高马尾，发冠，背景虚化，
+EN：Handsome anime male character, androgynous, wearing traditional clothes, holding a long sword, Unreal Engine 5 style, realism, night, epic shot, low angle, smooth and delicate skin, gorgeous traditional Chinese clothes, high ponytail, hair crown, blurred background, --q 1 --s 100 --ar 9:16 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

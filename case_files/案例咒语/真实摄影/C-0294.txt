@@ -1,0 +1,3 @@
+CN：黑白纪实摄影，一位年轻男子坐在书桌前，使用笔记本电脑，背景是书架和窗户，自然光线，专注，真实，最佳品质。
+EN：Black and white documentary photography of a young man sitting at a desk, using a laptop, with bookshelves and windows in the background, natural light, focus, authenticity, best quality. --s 50 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

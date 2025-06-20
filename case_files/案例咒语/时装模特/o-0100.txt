@@ -1,0 +1,3 @@
+CN：一件格纹衬衫，红色和黑色格纹，宽松版型，英伦复古风，白色背景，平铺，正视图，格纹清晰，布料质感柔软，高分辨率。 
+EN：A checked shirt, red and black checks, loose fit, British retro style, white background, flat lay, front view, clear checks, soft fabric texture, high resolution. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

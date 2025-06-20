@@ -1,0 +1,5 @@
+CN：以线条绘制，漫画风格，黑白，现代客厅，落地窗、书架、沙发、茶几、电视柜等，简单的线条，高细节，高角度，丰富的细节，
+EN：Drawing in lines, comic style, black and white, modern living room, floor-to-ceiling windows, bookshelves, sofas, coffee tables, TV cabinets, etc., simple lines, high details, high angles, rich details, --q 1 --s 100 --ar 3:4 --v 6.0
+
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

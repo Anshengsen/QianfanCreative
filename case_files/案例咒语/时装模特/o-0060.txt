@@ -1,0 +1,3 @@
+CN：东亚人，老年男性，白色短发，秃顶，戴着眼镜，穿着中山装，坐姿，双手拄着拐杖，慈祥的面容，正面镜头，柔和的光线，干净清爽的工作室背景，4K，高清。
+EN：East Asian, elderly male, short white hair, bald, wearing glasses, wearing Mao suit, sitting, leaning on crutches with both hands, kind face, front shot, soft light, clean and fresh studio background, 4K, HD. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

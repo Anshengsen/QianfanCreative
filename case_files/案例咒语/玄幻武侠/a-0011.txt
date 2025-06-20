@@ -1,0 +1,3 @@
+CN：一个漫画风格的小女孩，戴着红色围巾，被火焰包围，全身镜头，全身，全景，16K，UHD，漫画风格，丰富的细节，最佳质量，明暗对比，闪亮有光泽，
+EN：A comic style little girl, wearing a red scarf, surrounded by flames, full body lens, full body, panorama, 16K, UHD, comic style, rich details, best quality, chiaroscuro, shiny and shiny, --q 2 --s 750 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

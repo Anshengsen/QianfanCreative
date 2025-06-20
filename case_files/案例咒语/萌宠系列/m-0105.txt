@@ -1,0 +1,3 @@
+CN：3D渲染，卡通风格，一只快乐的白色小猫坐在一堆金币上，周围有许多金币飘落，小猫戴着橙色项圈和铃铛，表情满足而可爱。背景是柔和的粉色和白色，营造出梦幻般的氛围。灯光柔和，突出小猫和金币的质感。构图中心是小猫，金币环绕其周围，形成视觉焦点。整体风格可爱、温馨，
+EN：3D rendering, cartoon style, a happy white kitten sitting on a pile of gold coins, with many gold coins falling around it. The kitten is wearing an orange collar and bell, and has a satisfied and cute expression. The background is soft pink and white, creating a dreamy atmosphere. The lighting is soft, highlighting the texture of the kitten and the gold coins. The center of the composition is the kitten, and the gold coins surround it, forming a visual focus. The overall style is cute and warm, --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：矢量，一个坐在半截枯枝上的猫头鹰，单色，纯色，黄色眼睛，极简主义，简约，白色背景，居中，独奏，
+EN：Vector, an owl sitting on a half-dead branch, monochrome, solid color, yellow eyes, minimalism, simplicity, white background, centered, solo, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

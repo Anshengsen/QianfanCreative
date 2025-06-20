@@ -1,0 +1,3 @@
+CN：3D建模风格，房地产公司LOGO，建筑模型，高楼大厦元素，金属质感，现代都市风格，高清渲染，灰色背景，
+EN：3D modeling style, real estate company LOGO, architectural model, high-rise building elements, metal texture, modern urban style, high-definition rendering, gray background, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

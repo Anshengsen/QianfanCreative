@@ -1,0 +1,4 @@
+﻿CN：全身，白色连帽衫，黏土材质，无脸，3D，火焰，黑色高反射背景，赛博朋克，模型盲盒，边缘灯，正视图，辛烷值渲染，在cinema 4d中呈现，，最佳品质，32kuhd，
+EN：Full body, white hoodie, clay material, faceless, 3D, flame, black high reflection background, cyberpunk, model blind box, edge lights, front view, octane rendering, presented in cinema 4d,, best quality, 32kuhd, --q 1 --s 100 --ar 9:16 --niji 5
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

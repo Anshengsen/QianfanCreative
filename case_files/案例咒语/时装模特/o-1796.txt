@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，一件烟灰色高领毛衣，宽松版型，落肩设计，长袖，袖口及下摆罗纹收口，整体针织纹理细腻，柔软质感，简约风格，自然光，焦点集中于服装，突出服装细节与质感，浅灰色。
+EN：Professional fashion photography, 8K, front view, white background, a smoke gray turtleneck sweater, loose fit, dropped shoulders, long sleeves, ribbed cuffs and hem, overall fine knit texture, soft texture, simple style, natural light, focus on the clothing, highlighting the details and texture of the clothing, light gray. --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

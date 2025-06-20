@@ -1,0 +1,3 @@
+CN：一幅异想天开的扁平插画，一架纸飞机翱翔在城市天际线上，身后跟着一串心形，背景是柔和的蓝色。城市用简单的白色线条描绘，赋予它一种俏皮、孩子气的品质。纸飞机是浅蓝色，为画面增添了一丝明亮。整体风格简约而迷人，侧重于传达一种快乐和自由的感觉。
+EN：A whimsical flat illustration of a paper plane soaring over a city skyline, followed by a string of hearts, against a soft blue background. The city is depicted with simple white lines, giving it a playful, childlike quality. The paper plane is a light blue, adding a touch of brightness to the image. The overall style is simple and charming, focusing on conveying a feeling of joy and freedom. --s 50 --ar 16:9 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

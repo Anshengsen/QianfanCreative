@@ -1,0 +1,3 @@
+CN：中国牌坊楼子下面的小吃店，以中国特色为主题，例如砖瓦、古代小摊等，3D模型，中国唐代风格，干净的背景，等距视图，柔和的颜色，最佳品质，丰富细节，
+EN：The snack bar under the Chinese archway building is themed with Chinese characteristics, such as bricks and tiles, ancient stalls, etc., 3D models, Chinese Tang Dynasty style, clean background, isometric view, soft colors, best quality, rich details, --q 1 --s 100 --ar 1:1 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

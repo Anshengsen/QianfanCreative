@@ -1,0 +1,3 @@
+CN：3D渲染，数字“8”，银色和绿色，黄色小花，白色底座，简约风格，米色背景，环境光，最佳品质，超细腻。
+EN：3D rendering, number "8", silver and green, small yellow flowers, white base, minimalist style, beige background, ambient light, best quality, super detailed. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

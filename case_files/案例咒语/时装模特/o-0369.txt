@@ -1,0 +1,4 @@
+CN：专业摄影，8K，年轻女性，欧美，浅棕色波浪长发，中分刘海，圆形金色耳环，自然微笑，浅色条纹长袖T恤，浅色高腰裤，正面站立，略微侧身，手部自然放置，户外自然光，柔和光线，背景模糊，浅色建筑背景，清新，日常风格，真实感。
+EN：Professional photography, 8K, young woman, European and American, long light brown wavy hair, middle-parted bangs, round gold earrings, natural smile, light-colored striped long-sleeved T-shirt, light-colored high-waisted pants, standing frontally, slightly sideways, hands placed naturally, outdoor natural light, soft light, blurred background, light-colored architectural background, fresh, daily style, realism. --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

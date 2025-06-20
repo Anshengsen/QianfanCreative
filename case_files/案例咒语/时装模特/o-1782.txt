@@ -1,0 +1,3 @@
+CN：专业服装摄影，8K，正面视图，白色背景，男士休闲西装外套，深灰色，合身剪裁，单粒纽扣，翻领设计，两侧有盖袋，胸前单口袋，长袖，袖口无纽扣，内搭未显示，面料纹理细腻，整体风格简约，光线均匀柔和，焦点集中于服装，突出服装质感与细节
+EN：Professional clothing photography, 8K, front view, white background, men's casual suit jacket, dark gray, fitted, single button, lapel design, flap pockets on both sides, single chest pocket, long sleeves, no buttons on cuffs, inner layer not shown, fine texture of fabric, simple overall style, even and soft light, focus on the clothing, highlighting the texture and details of the clothing --q 1 --s 100 --ar 1:1 --v 6.1 --profile cooy3mg --no model, human 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

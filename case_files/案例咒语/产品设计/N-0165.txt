@@ -1,0 +1,3 @@
+CN：产品摄影，金色酒瓶，金色和银色丝绸背景，光泽，8K，超高质量，细节丰富，光线反射，奢华，优雅，饮品，派对，庆祝，
+EN：Product photography, golden wine bottle, gold and silver silk background, glossy, 8K, ultra high quality, rich details, light reflections, luxury, elegance, drinks, party, celebration, --s 100 --ar 3:5 --v 7 --profile hp5mhqy --no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

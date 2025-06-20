@@ -1,0 +1,3 @@
+CN：空白相框组合，3D渲染，现代简约风格，三个不同尺寸的白色相框，组合摆放在白色墙壁上，留白空间，营造温馨舒适的氛围，光线自然，细节清晰，高品质渲染，8K分辨率，空白相框可用于展示照片或艺术作品。
+EN：Blank photo frame combination, 3D rendering, modern minimalist style, three white photo frames of different sizes, combined and placed on a white wall, leaving blank space to create a warm and comfortable atmosphere, natural light, clear details, high-quality rendering, 8K resolution, blank photo frames can be used to display photos or artworks. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

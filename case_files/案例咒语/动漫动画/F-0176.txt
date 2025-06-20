@@ -1,0 +1,3 @@
+CN：动漫，日本动漫，明亮，女高中生，黑色长发，棕色眼睛，穿着白色校服，粉色蝴蝶结，愤怒的表情，坐在教室座位上，锐利，有高光，特写，
+EN：Anime, Japanese anime, bright, female high school student, long black hair, brown eyes, wearing white school uniform, pink bow, angry expression, sitting in classroom seat, sharp, with highlights, close-up, --q 1 --s 100 --ar 3:4 --niji 5 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

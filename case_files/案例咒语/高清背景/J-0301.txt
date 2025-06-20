@@ -1,0 +1,3 @@
+CN：抽象蓝色和紫色和橙色背景，采用全息、蜿蜒线条、超高清图像、浅青铜色和洋红色、镭射、浅青色和橙色、抽象创作的风格，戏剧性的灯光，
+EN：Abstract blue and purple and orange background in the style of holography, sinuous lines, ultra high definition image, light bronze and magenta, laser, light cyan and orange, abstract creation, dramatic lighting, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

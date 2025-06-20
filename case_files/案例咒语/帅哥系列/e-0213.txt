@@ -1,0 +1,3 @@
+CN：2D插画，半写实风格，忧郁的年轻男子特写，泪流满面，头发乌黑，略微凌乱，眼神悲伤，皮肤白皙，面部表情痛苦，泪水清晰可见，光线柔和，略显昏暗，营造出悲伤压抑的氛围，构图简洁，人物占据画面大部分空间，服装为简单的白色T恤，色调偏冷，整体风格细腻，情感表达强烈，类似韩漫风格。
+EN：2D illustration, semi-realistic style, close-up of a melancholy young man, tears streaming down his face, black, slightly messy hair, sad eyes, fair skin, painful facial expression, tears clearly visible, soft light, slightly dim, creating a sad and depressing atmosphere, simple composition, the character occupies most of the space in the picture, the clothing is a simple white T-shirt, the tone is cold, the overall style is delicate, the emotional expression is strong, similar to the Korean comic style. --q 2 --s 100 --ar 3:4 --niji 6 --personalize abwlbtq 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

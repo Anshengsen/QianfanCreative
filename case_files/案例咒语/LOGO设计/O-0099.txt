@@ -1,0 +1,3 @@
+CN：矢量，LOGO，扁平化设计，几何图形构成，蓝色和绿色为主色调，适用于科技公司，抽象形状组合成一个向上箭头，象征着成长和发展，白色背景，高清，现代感，简洁，易于识别，
+EN：Vector, LOGO, flat design, geometric composition, blue and green as the main colors, suitable for technology companies, abstract shapes combined into an upward arrow, symbolizing growth and development, white background, high definition, modern, simple, easy to identify, --q 1 --s 100 --ar 1:1 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

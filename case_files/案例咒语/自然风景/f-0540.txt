@@ -1,0 +1,3 @@
+CN：莲花，粉色花瓣，绿色荷叶，含苞待放的花苞，水生植物，特写，花卉摄影，柔和的背景，蓝天白云，自然光，色彩鲜艳，细节丰富，高分辨率，艺术风格，唯美，清新，数字绘画，插画风格，Adobe Photoshop，光线追踪
+EN：lotus, pink petals, green lotus leaves, buds about to bloom, aquatic plants, close-up, flower photography, soft background, blue sky and white clouds, natural light, bright colors, rich details, high resolution, artistic style, beautiful, fresh, digital painting, illustration style, Adobe Photoshop, ray tracing --q 1 --s 100 --ar 3:5 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

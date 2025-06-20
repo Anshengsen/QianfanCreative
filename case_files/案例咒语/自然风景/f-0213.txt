@@ -1,0 +1,3 @@
+CN：绿色，树叶特写，阳光，虚化背景，自然，清新，明亮，高饱和度，近景，对焦清晰，细节丰富，色彩鲜艳，光影柔和
+EN：Green, close-up of leaves, sunlight, blurred background, natural, fresh, bright, high saturation, close-up, sharp focus, rich details, bright colors, soft light and shadow --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6--no ai-generated texture 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

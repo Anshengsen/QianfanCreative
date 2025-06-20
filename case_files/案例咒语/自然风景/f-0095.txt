@@ -1,0 +1,3 @@
+CN：逼真的专业摄影，冬季竹林，积雪，绿色竹林，低角度，广角，光影交错，金色光点，朦胧意境，写意，细腻，柔和光线，日式美学，高饱和度，景深，唯美，梦幻，高清，8K，超高分辨率。
+EN：Realistic professional photography, bamboo forest in winter, snow, green bamboo forest, low angle, wide angle, interweaving of light and shadow, golden light spots, hazy artistic conception, freehand, delicate, soft light, Japanese aesthetics, high saturation, depth of field, beauty, dream, high definition, 8K, ultra-high resolution. --q 1 --s 100 --ar 3:4 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

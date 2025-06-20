@@ -1,0 +1,3 @@
+CN：商业摄影，一位非常漂亮的中国女模特，白橘色调，明亮的空间，自然姿态，现代摄影，简约风格，优雅的风格，侧面拍摄，光影，细腻的皮肤，广告级摄影，超细节，32kuhd，特写，
+EN：Commercial photography, a very beautiful Chinese female model, white orange tones, bright space, natural posture, modern photography, minimalist style, elegant style, side shots, light and shadow, delicate skin, advertising-grade photography, hyperdetail, 32kuhd, close-up, --q 1 --s 100 --ar 3:4 --v 6.0 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

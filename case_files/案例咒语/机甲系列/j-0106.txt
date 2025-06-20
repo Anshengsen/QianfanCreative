@@ -1,0 +1,3 @@
+CN：蒸汽朋克风格，黄铜和皮革材质为主，齿轮和管道细节丰富，一个戴着飞行帽的金发美少女，驾驶着造型复古的飞行机甲，阳光穿透云层，暖色调，柔和的光线，数字绘画，4K，高细节，机甲金属质感强烈，少女表情自信。
+EN：Steampunk style, mainly made of brass and leather, with rich details of gears and pipes. A beautiful blonde girl wearing a flight cap is driving a retro flying mecha. The sun shines through the clouds, warm tones, soft light, digital painting, 4K, high details, the mecha has a strong metal texture, and the girl's expression is confident. --q 1 --s 100 --ar 3:5 --v 6.0 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

@@ -1,0 +1,3 @@
+CN：插画风格，奇幻，神鹿，白鹿，金色鹿角，月亮，祥云，山脉，花朵纹身，红色圆球，蓝色，金色，红色，橙色，白色，细节丰富，色彩鲜明，对比强烈，光影效果，正面，全身，竖幅构图，最佳品质，超高分辨率
+EN：Illustration style, fantasy, divine deer, white deer, golden antlers, moon, auspicious clouds, mountains, flower tattoos, red sphere, blue, gold, red, orange, white, rich details, bright colors, strong contrast, light and shadow effects, front view, full body, vertical composition, best quality, ultra high resolution --q 5 --s 100 --ar 3:5 --niji 6 --personalize abwlbtq  
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

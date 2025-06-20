@@ -1,0 +1,3 @@
+CN：专业摄影，8K，下半身像特写，女性，站立，正面，紫色衬衫，黑色休闲长裤，整体服装风格简约时尚，背景为室内场景，地面为浅色木地板，光线柔和。
+EN：Professional photography, 8K, close-up of lower body portrait, female, standing, front view, purple shirt, black casual trousers, the overall clothing style is simple and fashionable, the background is an indoor scene, the ground is a light-colored wooden floor, and the light is soft. --q 1 --s 100 --ar 3:5 --v 6.1 --profile ubml2l4 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

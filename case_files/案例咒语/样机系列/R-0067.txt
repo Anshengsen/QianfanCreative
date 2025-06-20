@@ -1,0 +1,3 @@
+CN：空白电商产品展示图，3D渲染，极简风格，白色背景，多个不同形状的产品展示架，产品留白，突出产品造型，展现产品外观，高清质感，适合电商平台使用。
+EN：Blank e-commerce product display picture, 3D rendering, minimalist style, white background, multiple product display racks of different shapes, product blank space, highlighting product shape, showing product appearance, high-definition texture, suitable for use on e-commerce platforms. --q 1 --s 100 --ar 3:2 --v 6.1 --personalize srak4m6 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

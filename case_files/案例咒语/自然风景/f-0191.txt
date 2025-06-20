@@ -1,0 +1,4 @@
+CN：照片，冬日雪景，孤树，积雪覆盖，天空淡蓝，云雾缭绕，远山，柔和光线，唯美，梦幻，油画质感，艺术感，高分辨率，风格参考莫奈，印象派，细节丰富，色彩柔和，
+EN：Photo, winter snow scene, lonely tree, snow-covered, light blue sky, misty clouds, distant mountains, soft light, beautiful, dreamy, oil painting texture, artistic, high resolution, style reference Monet, Impressionism, rich details, soft colors, --q 1 --s 100 --ar 16:9 --v 6.1 --personalize srak4m6
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 

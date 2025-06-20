@@ -1,0 +1,4 @@
+﻿CN：橙色背景的3d卡通男孩角色，黏土材质，可爱，卡通，平滑有光泽，全身，
+EN：3D cartoon boy character with orange background, clay material, cute, cartoon, smooth and shiny, full body, --q 1 --s 100 --ar 3:2 --v 6.0
+ 
+作者：@Ai数字绘画馆，WeChat：WoDaaaaaaaa 
