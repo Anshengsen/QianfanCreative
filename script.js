@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function renderNavigation() {
-        const groupOrder = ['案例咒语', '个性代码', '风格代码'];
+        const groupOrder = ['案例咒语', '个性代码', '风格代码', '即梦案例'];
         
         caseData.sort((a, b) => {
             const indexA = groupOrder.indexOf(a.group);
