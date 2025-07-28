@@ -89,7 +89,32 @@ body.dark .case-item .case-info { border-top: 1px solid var(--border-dark); }
 .case-item .case-name { font-weight: 600; flex-grow: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .case-item .expand-prompt-btn { padding: 8px 12px; border: 1px solid var(--accent); color: var(--accent); background: transparent; border-radius: 8px; font-weight: 600; cursor: pointer; transition: all 0.2s; white-space: nowrap; }
 .case-item .expand-prompt-btn:hover { background: var(--accent); color: white; }
-.modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: var(--modal-bg); backdrop-filter: blur(5px); display: flex; justify-content: center; align-items: center; z-index: 9999; } .hidden { display: none; } .close-modal-btn { position: absolute; top: 20px; right: 25px; font-size: 2.5rem; color: rgba(255, 255, 255, 0.8); cursor: pointer; user-select: none; transition: color 0.3s; z-index: 10; } .close-modal-btn:hover { color: white; } #image-modal { flex-direction: column; } #image-modal #modalImg { max-width: 90vw; max-height: 80vh; border-radius: 12px; } #image-modal #downloadBtn { margin-top: 20px; color: white; background: var(--accent); padding: 10px 24px; border-radius: 8px; text-decoration: none; font-weight: 700; } .prompt-modal-content { position: relative; background: var(--modal-content-bg-light); color: var(--text-light); border-radius: 12px; padding: 30px 40px; width: 90%; max-width: 600px; box-shadow: var(--shadow-light); } body.dark .prompt-modal-content { background: var(--modal-content-bg-dark); color: var(--text-dark); box-shadow: var(--shadow-dark); } #prompt-display { display: flex; flex-direction: column; align-items: center; gap: 15px; } .prompt-modal-content h3, .prompt-modal-content h4 { margin: 0 0 10px 0; } #copy-prompt-btn { width: 80%; padding: 12px; border: none; border-radius: 8px; background: var(--accent); color: white; font-weight: 600; cursor: pointer; } #prompt-display pre { width: 100%; max-height: 300px; overflow-y: auto; background: var(--bg-light); color: var(--text-light); padding: 15px; border-radius: 8px; white-space: pre-wrap; word-wrap: break-word; font-family: 'Menlo', 'Monaco', monospace; } body.dark #prompt-display pre { background: var(--bg-dark); color: var(--text-dark); }
+.modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: var(--modal-bg); backdrop-filter: blur(5px); display: flex; justify-content: center; align-items: center; z-index: 9999; }
+.hidden { display: none; }
+.close-modal-btn { position: absolute; top: 20px; right: 25px; font-size: 2.5rem; color: rgba(255, 255, 255, 0.8); cursor: pointer; user-select: none; transition: color 0.3s; z-index: 10; }
+.close-modal-btn:hover { color: white; }
+#image-modal { flex-direction: column; }
+#image-modal #modalImg { max-width: 90vw; max-height: 80vh; border-radius: 12px; }
+.ai-watermark {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 20px 0 15px 0;
+    color: rgba(255, 255, 255, 0.95);
+    font-size: 14px;
+    font-weight: normal;
+    font-style: italic;
+    text-shadow: 0px 1px 6px rgba(0, 0, 0, 0.8);
+    user-select: none;
+}
+#image-modal #downloadBtn { margin-top: 0; color: white; background: var(--accent); padding: 10px 24px; border-radius: 8px; text-decoration: none; font-weight: 700; }
+.prompt-modal-content { position: relative; background: var(--modal-content-bg-light); color: var(--text-light); border-radius: 12px; padding: 30px 40px; width: 90%; max-width: 600px; box-shadow: var(--shadow-light); }
+body.dark .prompt-modal-content { background: var(--modal-content-bg-dark); color: var(--text-dark); box-shadow: var(--shadow-dark); }
+#prompt-display { display: flex; flex-direction: column; align-items: center; gap: 15px; }
+.prompt-modal-content h3, .prompt-modal-content h4 { margin: 0 0 10px 0; }
+#copy-prompt-btn { width: 80%; padding: 12px; border: none; border-radius: 8px; background: var(--accent); color: white; font-weight: 600; cursor: pointer; }
+#prompt-display pre { width: 100%; max-height: 300px; overflow-y: auto; background: var(--bg-light); color: var(--text-light); padding: 15px; border-radius: 8px; white-space: pre-wrap; word-wrap: break-word; font-family: 'Menlo', 'Monaco', monospace; }
+body.dark #prompt-display pre { background: var(--bg-dark); color: var(--text-dark); }
 #pagination { margin: 30px 0; display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; align-items: center; } #pagination button { min-width: 40px; height: 40px; padding: 0 10px; border: 1px solid var(--border-light); background: transparent; border-radius: 8px; cursor: pointer; font-weight: 500; transition: all 0.2s ease; } body.dark #pagination button { border-color: var(--border-dark); color: var(--text-dark); } #pagination button {color: var(--text-light);} #pagination button.active, #pagination button:hover { background: var(--accent); color: white; border-color: var(--accent); } #pagination button:disabled { opacity: 0.5; cursor: not-allowed; } #pagination button:disabled:hover { background: transparent; border-color: var(--border-light); } body.dark #pagination button:disabled:hover { color: var(--text-dark); border-color: var(--border-dark); } .pagination-ellipsis { display: inline-flex; align-items: center; justify-content: center; min-width: 40px; height: 40px; color: var(--text-muted-light);} body.dark .pagination-ellipsis {color: var(--text-muted-dark);} .pagination-jump { display: flex; align-items: center; gap: 8px; margin-left: 15px; } .pagination-jump span { font-size: 0.9rem; color: var(--text-muted-light); } body.dark .pagination-jump span { color: var(--text-muted-dark); } .pagination-jump input { width: 50px; height: 38px; text-align: center; border: 1px solid var(--border-light); background: var(--card-bg-light); color: var(--text-light); border-radius: 8px; -moz-appearance: textfield; } .pagination-jump input::-webkit-outer-spin-button, .pagination-jump input::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; } body.dark .pagination-jump input { border-color: var(--border-dark); background: var(--card-bg-dark); color: var(--text-dark); } .pagination-jump button { height: 38px; padding: 0 12px; background-color: var(--accent); color: white; opacity: 0.9; } .pagination-jump button:hover { opacity: 1; }
 footer { width: 100%; margin-top: 40px; padding: 30px 24px; box-sizing: border-box; background: var(--card-bg-light); border-top: 1px solid var(--border-light); color: var(--text-muted-light); transition: background 0.3s, border-top 0.3s, color 0.3s; }
 body.dark footer { background: var(--card-bg-dark); border-top: 1px solid var(--border-dark); color: var(--text-muted-dark); }

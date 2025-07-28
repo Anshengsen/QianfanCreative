@@ -264,9 +264,60 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
     
-    function openImageModal(src) { modalImg.src = src; downloadBtn.href = src; downloadBtn.download = src.split('/').pop(); imageModal.classList.remove('hidden'); }
-    function openPromptModal(prompt) { currentPrompt = prompt; promptText.textContent = currentPrompt; promptDisplay.style.display = 'flex'; promptModal.classList.remove('hidden'); }
-    function closeModal(modalElement) { modalElement.classList.add('hidden'); }
+    function openImageModal(src) {
+        modalImg.src = src;
+        imageModal.classList.remove('hidden');
+    
+        downloadBtn.onclick = async (event) => {
+            event.preventDefault();
+            
+            const originalText = downloadBtn.textContent;
+            downloadBtn.textContent = '正在准备...';
+            downloadBtn.style.pointerEvents = 'none';
+    
+            try {
+                const response = await fetch(src);
+                if (!response.ok) {
+                    throw new Error(`网络响应错误: ${response.statusText}`);
+                }
+                const blob = await response.blob();
+    
+                const url = window.URL.createObjectURL(blob);
+    
+                const a = document.createElement('a');
+                a.style.display = 'none';
+                a.href = url;
+                a.download = src.split('/').pop() || 'download'; 
+                
+                document.body.appendChild(a);
+                a.click();
+                
+                window.URL.revokeObjectURL(url);
+                document.body.removeChild(a);
+    
+            } catch (error) {
+                console.error('下载失败:', error);
+                downloadBtn.textContent = '下载失败';
+                setTimeout(() => window.open(src, '_blank'), 1500); 
+            } finally {
+                setTimeout(() => {
+                    downloadBtn.textContent = originalText;
+                    downloadBtn.style.pointerEvents = 'auto';
+                }, 1000);
+            }
+        };
+    }
+    
+    function openPromptModal(prompt) {
+        currentPrompt = prompt;
+        promptText.textContent = currentPrompt;
+        promptDisplay.style.display = 'flex';
+        promptModal.classList.remove('hidden');
+    }
+
+    function closeModal(modalElement) {
+        modalElement.classList.add('hidden');
+    }
 
     function performSearch() {
         const query = searchInput.value.trim().toUpperCase();
@@ -296,10 +347,14 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function clearSearch() { isSearching = false; searchInput.value = ''; searchResults = []; }
-    function applyTheme(theme) { document.body.classList.toggle('dark', theme === 'dark'); }
+    
+    function applyTheme(theme) {
+        document.body.classList.toggle('dark', theme === 'dark');
+    }
     
     searchBtn.onclick = performSearch;
     searchInput.addEventListener('keydown', (e) => (e.key === 'Enter') && performSearch());
+    
     searchScopeBtn.addEventListener('click', () => {
         searchInCurrentCategory = !searchInCurrentCategory;
         searchScopeBtn.classList.toggle('active', searchInCurrentCategory);
@@ -309,11 +364,39 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    themeToggle.onclick = () => { const newTheme = document.body.classList.contains('dark') ? 'light' : 'dark'; applyTheme(newTheme); localStorage.setItem('theme', newTheme); };
-    document.querySelectorAll('.close-modal-btn').forEach(btn => btn.onclick = (e) => closeModal(e.target.closest('.modal-overlay')));
-    document.querySelectorAll('.modal-overlay').forEach(modal => modal.onclick = (e) => (e.target === modal) && closeModal(modal));
-    copyPromptBtn.onclick = () => { navigator.clipboard.writeText(currentPrompt).then(() => { const originalText = copyPromptBtn.textContent; copyPromptBtn.textContent = '复制成功!'; setTimeout(() => { copyPromptBtn.textContent = originalText; }, 1500); }); };
-    document.addEventListener('keydown', (e) => (e.key === 'Escape') && document.querySelectorAll('.modal-overlay:not(.hidden)').forEach(closeModal));
+    themeToggle.onclick = () => {
+        const newTheme = document.body.classList.contains('dark') ? 'light' : 'dark';
+        applyTheme(newTheme);
+        localStorage.setItem('theme', newTheme);
+    };
+
+    document.querySelectorAll('.close-modal-btn').forEach(btn => {
+        btn.onclick = (e) => closeModal(e.target.closest('.modal-overlay'));
+    });
+
+    document.querySelectorAll('.modal-overlay').forEach(modal => {
+        modal.onclick = (e) => {
+            if (e.target === modal) {
+                closeModal(modal);
+            }
+        };
+    });
+
+    copyPromptBtn.onclick = () => {
+        navigator.clipboard.writeText(currentPrompt).then(() => {
+            const originalText = copyPromptBtn.textContent;
+            copyPromptBtn.textContent = '复制成功!';
+            setTimeout(() => {
+                copyPromptBtn.textContent = originalText;
+            }, 1500);
+        });
+    };
+
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+            document.querySelectorAll('.modal-overlay:not(.hidden)').forEach(closeModal);
+        }
+    });
     
     columnSlider.addEventListener('input', () => {
         columns = parseInt(columnSlider.value, 10);
